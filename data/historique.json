@@ -39,6 +39,205 @@
       },
       {
         "source": "France 24 - International",
+        "titre": "France - Irak en direct : les Bleus et Mbappé visent les 16es de finale de la Coupe du monde",
+        "resume": "Après sa victoire face au Sénégal, la France peut sécuriser sa place en 16es de finale de la Coupe en battant l'Irak à Philadelphie. Qui des Bleus ou des Lions de Mésopotamie remportera la victoire ? ",
+        "lien": "https://www.france24.com/fr/sports/20260622-france-irak-direct-live-bleus-16es-finale-coupe-monde-mbappe",
+        "date": "Mon, 22 Jun 2026 20:00:05 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "\"Messi est l'ennemi d'Allah\" : des supporters algériens ont-ils scandé ce chant aux États-Unis ?",
+        "resume": "Il vient de devenir le meilleur buteur de l'histoire de la Coupe du monde, seul au sommet : Lionel Messi, double buteur ce lundi contre l'Autriche après son triplé au premier match contre l'Algérie. U",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260622-messi-est-l-ennemi-d-allah-des-supporters-alg%C3%A9riens-ont-ils-scand%C3%A9-ce-chant-aux-%C3%A9tats-unis",
+        "date": "Mon, 22 Jun 2026 19:47:52 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Mondial 2026 : Messi dans l'histoire, l'Argentine enchaîne contre l'Autriche",
+        "resume": "",
+        "lien": "https://www.france24.com/fr/sports/20260622-mondial-2026-un-messi-dans-l-histoire-l-argentine-encha%C3%AEne-contre-l-autricheamais",
+        "date": "Mon, 22 Jun 2026 19:05:42 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Obsession",
+        "date_sortie": "2026-05-13",
+        "synopsis": "Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lui… jusqu’à l’obsessi",
+        "note": 7.9,
+        "affiche": "https://image.tmdb.org/t/p/w300/mDCR1frpUvGfIKksuM440VLb7X9.jpg"
+      },
+      {
+        "titre": "Toy Story 5",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle... l'électronique !",
+        "note": 7.5,
+        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
+      },
+      {
+        "titre": "The Mandalorian and Grogu",
+        "date_sortie": "2026-05-20",
+        "synopsis": "L'Empire maléfique est tombé et les seigneurs de guerre impériaux restent dispersés dans toute la galaxie. Alors que la nouvelle République naissante travaille pour protéger tout ce que la rébellion s'est battue, ils ont",
+        "note": 6.734,
+        "affiche": "https://image.tmdb.org/t/p/w300/qkH4ntQtO5qnL17RFOvmkNHKpGt.jpg"
+      },
+      {
+        "titre": "Disclosure Day",
+        "date_sortie": "2026-06-10",
+        "synopsis": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
+        "note": 6.722,
+        "affiche": "https://image.tmdb.org/t/p/w300/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg"
+      },
+      {
+        "titre": "The Furious",
+        "date_sortie": "2026-06-10",
+        "synopsis": "Après l’enlèvement de sa fille par un réseau criminel et face à l’inaction de la police, Wang Wei se lance dans une traque implacable pour la retrouver. Son seul allié, Navin, est un journaliste tenace dont la femme a my",
+        "note": 7.7,
+        "affiche": "https://image.tmdb.org/t/p/w300/94rNmtdyclSnO3OOnVBW2Isy9r0.jpg"
+      },
+      {
+        "titre": "Backrooms",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
+        "note": 6.878,
+        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Legend of Zelda: Breath of the Wild",
+        "artiste": "Manaka Kataoka",
+        "date_sortie": "2026-06-19"
+      },
+      {
+        "titre": "The Legend of Zelda: Breath of the Wild",
+        "artiste": "Manaka Kataoka",
+        "date_sortie": "2026-06-19"
+      },
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Midnights in October",
+        "artiste": "Midnights in October",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Meridians",
+        "artiste": "Alasdair Fraser",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Événement",
+        "date_debut": "",
+        "lieu": "Angers",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Événement",
+        "date_debut": "",
+        "lieu": "Angers",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Événement",
+        "date_debut": "",
+        "lieu": "Angers",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Événement",
+        "date_debut": "",
+        "lieu": "Angers",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Événement",
+        "date_debut": "",
+        "lieu": "Angers",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Événement",
+        "date_debut": "",
+        "lieu": "Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Événement",
+        "date_debut": "",
+        "lieu": "Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Événement",
+        "date_debut": "",
+        "lieu": "Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Événement",
+        "date_debut": "",
+        "lieu": "Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Événement",
+        "date_debut": "",
+        "lieu": "Nantes",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-22",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Mutations, enquête administrative.. quelles suites disciplinaires après les premières conclusions de la mission d'inspection sur l'affaire Lyhanna ?",
+        "resume": "Dans un premier rapport rendu lundi, la mission d'inspection a mis en évidence une série de dysfonctionnements, tant de la part du parquet que de la gendarmerie. Des sanctions ont d'ores et déjà été p",
+        "lien": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/affaire-lyhanna-quelles-eventuelles-suites-disciplinaires-apres-les-conclusions-de-la-mission-d-inspection_8074127.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 22 Jun 2026 21:21:24 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Une situation de chaleur encore forte\" : pourquoi la canicule va durer en France malgré la baisse des températures prévue en fin de semaine",
+        "resume": "Les températures devraient progressivement baisser vendredi, en commençant par l'Ouest. Mais le mercure devrait rester élevé pour la saison sur une large partie du pays tout le week-end, et jusqu'aux ",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/alerte-canicule-en-france-un-rafraichissement-relatif-prevu-vendredi-mais-pas-de-certitude-sur-la-fin-de-la-vague-de-chaleur_8073590.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 22 Jun 2026 16:59:32 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Lionel Messi porte l’Argentine, qualifiée pour les seizièmes de finale de la Coupe du monde 2026, après sa victoire contre l’Autriche",
+        "resume": "Lionel Messi est devenu le meilleur buteur de l’histoire en Coupe du monde, avec son 17e but inscrit pour l’ouverture du score de l’Argentine contre l’Autriche, puis un 18e en fin de match, lundi (2-0",
+        "lien": "https://www.franceinfo.fr/coupe-du-monde/lionel-messi-porte-l-argentine-qualifiee-pour-les-seiziemes-de-finale-de-la-coupe-du-monde-2026-apres-sa-victoire-contre-l-autriche_8074523.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 22 Jun 2026 21:10:18 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"On se croirait en Arizona\" : face à la canicule à Paris, touristes et habitants à la recherche de fraîcheur, des musées aux eaux du canal Saint-Martin",
+        "resume": "Alors que le mercure a frôlé les 40°C en Ile-de-France lundi, habitants et touristes tentent tant bien que mal de fuir la chaleur en investissant les rares endroits climatisés de la capitale, ou en pr",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/reportage-on-se-croirait-en-arizona-face-a-la-canicule-a-paris-touristes-et-habitants-a-la-recherche-de-fraicheur-des-musees-aux-eaux-du-canal-saint-martin_8074328.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 22 Jun 2026 20:29:24 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"On n'a peut-être jamais eu autant besoin de nous\" : l'ARS veut supprimer 160 000 euros de subventions au Planning familial",
+        "resume": "L'ARS de Nouvelle-Aquitaine envisage de supprimer ses subventions publiques au Planning familial de Gironde, soit 160 000 euros. L'autorité sanitaire évoque un manque de probité dans ses actions et de",
+        "lien": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/on-n-a-peut-etre-jamais-eu-autant-besoin-de-nous-l-ars-veut-supprimer-160-000-euros-de-subventions-au-planning-familial-3372214.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 22 Jun 2026 08:54:09 +0200"
+      },
+      {
+        "source": "France 24 - International",
         "titre": "Mondial 2026 : Messi dans l'histoire, l'Argentine enchaîne contre l'Autriche",
         "resume": "",
         "lien": "https://www.france24.com/fr/sports/20260622-mondial-2026-un-messi-dans-l-histoire-l-argentine-encha%C3%AEne-contre-l-autricheamais",
