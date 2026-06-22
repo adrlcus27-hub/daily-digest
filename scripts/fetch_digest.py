@@ -70,8 +70,6 @@ def fetch_news(config: dict) -> list[dict]:
     flux_list = config["news"]["flux_rss"]
     max_articles = config["news"].get("nombre_articles_max", 8)
 
-    # Certains serveurs de presse bloquent les requêtes sans en-tête de
-    # navigateur identifiable - on s'identifie de façon transparente.
     headers = {
         "User-Agent": "Mozilla/5.0 (compatible; DailyDigestPerso/1.0; +usage personnel)"
     }
@@ -83,7 +81,7 @@ def fetch_news(config: dict) -> list[dict]:
                 log.warning("Flux RSS '%s' a répondu %s, ignoré.", flux["nom"], resp.status_code)
                 continue
             parsed = feedparser.parse(resp.content)
-            for entry in parsed.entries[:5]:  # quelques articles par flux
+            for entry in parsed.entries[:5]:
                 articles.append({
                     "source": flux["nom"],
                     "titre": entry.get("title", "Sans titre"),
@@ -184,15 +182,47 @@ def fetch_albums(config: dict) -> list[dict]:
 # Source 4 — Événements locaux (open data)
 # ---------------------------------------------------------------------------
 
+def _get_dataset_fields(api_base: str) -> dict:
+    """Récupère dynamiquement le schéma du dataset pour connaître les vrais
+    noms de champs, plutôt que de les supposer."""
+    try:
+        resp = requests.get(f"{api_base.rsplit('/records', 1)[0]}", timeout=REQUEST_TIMEOUT)
+        if resp.status_code != 200:
+            return {}
+        fields = resp.json().get("fields", [])
+        return {f["name"].lower(): f["name"] for f in fields}
+    except (requests.RequestException, ValueError, KeyError):
+        return {}
+
+
+def _pick_field(available: dict, *candidates: str) -> str | None:
+    """Retourne le premier nom de champ réel qui correspond à l'un des
+    candidats (recherche insensible à la casse, et par sous-chaîne en
+    dernier recours)."""
+    for c in candidates:
+        if c.lower() in available:
+            return available[c.lower()]
+    for name_lower, real_name in available.items():
+        for c in candidates:
+            if c.lower() in name_lower:
+                return real_name
+    return None
+
+
 def fetch_events_nantes(max_events: int, fenetre_jours: int) -> list[dict]:
     today = datetime.now(timezone.utc).date()
-    end_date = today + timedelta(days=fenetre_jours)
+
+    fields = _get_dataset_fields(NANTES_API_BASE)
+    titre_field = _pick_field(fields, "titre", "nom_manifestation", "nom_evenement", "nom", "name", "title")
+    date_field = _pick_field(fields, "date_debut", "date_start", "firstdate")
+    lieu_field = _pick_field(fields, "nom_lieu", "lieu", "location", "adresse")
 
     params = {
-        "where": f"date_debut <= '{end_date.isoformat()}' AND date_fin >= '{today.isoformat()}'",
+        "q": "*",
         "limit": max_events,
-        "order_by": "date_debut",
     }
+    if date_field:
+        params["order_by"] = date_field
 
     try:
         resp = requests.get(NANTES_API_BASE, params=params, timeout=REQUEST_TIMEOUT)
@@ -208,9 +238,9 @@ def fetch_events_nantes(max_events: int, fenetre_jours: int) -> list[dict]:
     for rec in data.get("records", [])[:max_events]:
         f = rec.get("record", {}).get("fields", {})
         events.append({
-            "titre": f.get("nom_manifestation") or f.get("titre") or "Événement",
-            "date_debut": f.get("date_debut", ""),
-            "lieu": f.get("nom_lieu") or f.get("commune") or "Nantes",
+            "titre": f.get(titre_field, "Événement") if titre_field else "Événement",
+            "date_debut": f.get(date_field, "") if date_field else "",
+            "lieu": f.get(lieu_field, "Nantes") if lieu_field else "Nantes",
             "ville": "Nantes",
         })
 
@@ -218,11 +248,13 @@ def fetch_events_nantes(max_events: int, fenetre_jours: int) -> list[dict]:
 
 
 def fetch_events_angers(max_events: int, fenetre_jours: int) -> list[dict]:
-    today = datetime.now(timezone.utc).date()
-    end_date = today + timedelta(days=fenetre_jours)
+    fields = _get_dataset_fields(OPENAGENDA_PUBLIC_DATASET)
+    titre_field = _pick_field(fields, "title_fr", "title", "titre")
+    date_field = _pick_field(fields, "firstdate_begin", "date_start", "date_debut")
+    lieu_field = _pick_field(fields, "location_name", "lieu", "location")
 
     params = {
-        "where": f"city:'Angers' AND firstdate_begin <= '{end_date.isoformat()}' AND lastdate_end >= '{today.isoformat()}'",
+        "q": "Angers",
         "limit": max_events,
     }
 
@@ -240,9 +272,9 @@ def fetch_events_angers(max_events: int, fenetre_jours: int) -> list[dict]:
     for rec in data.get("records", [])[:max_events]:
         f = rec.get("record", {}).get("fields", {})
         events.append({
-            "titre": f.get("title_fr") or f.get("title") or "Événement",
-            "date_debut": f.get("firstdate_begin", ""),
-            "lieu": f.get("location_name") or "Angers",
+            "titre": f.get(titre_field, "Événement") if titre_field else "Événement",
+            "date_debut": f.get(date_field, "") if date_field else "",
+            "lieu": f.get(lieu_field, "Angers") if lieu_field else "Angers",
             "ville": "Angers",
         })
 
@@ -276,7 +308,7 @@ def save_today_digest(digest: dict) -> None:
             history = json.load(f)
 
     history.insert(0, digest)
-    history = history[:14]  # garde 14 jours d'historique
+    history = history[:14]
 
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     with open(HISTORY_PATH, "w", encoding="utf-8") as f:
