@@ -1,0 +1,31 @@
+{
+  "_commentaire": "Modifie ce fichier librement pour ajuster tes préférences. Pas besoin de toucher au code.",
+
+  "news": {
+    "flux_rss": [
+      { "nom": "France Info - À la Une", "url": "https://www.franceinfo.fr/titres.rss" },
+      { "nom": "France 24 - International", "url": "https://www.france24.com/fr/rss" }
+    ],
+    "nombre_articles_max": 8
+  },
+
+  "cinema": {
+    "region": "FR",
+    "langue": "fr-FR",
+    "nombre_films_max": 6
+  },
+
+  "musique": {
+    "nombre_albums_max": 6,
+    "_note": "Recherche les albums sortis dans les 7 derniers jours sur MusicBrainz, toutes nationalités/genres confondus."
+  },
+
+  "evenements_locaux": {
+    "villes": [
+      { "nom": "Angers", "source": "openagenda_public" },
+      { "nom": "Nantes", "source": "nantes_metropole" }
+    ],
+    "nombre_evenements_max_par_ville": 5,
+    "fenetre_jours": 14
+  }
+}

@@ -1,0 +1,57 @@
+name: Digest quotidien
+
+on:
+  schedule:
+    # Tous les jours à 7h30 heure de Paris (laisse le temps aux sources
+    # de presse de publier les nouvelles du matin).
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  fetch-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupération du dépôt
+        uses: actions/checkout@v4
+
+      - name: Installation de Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installation des dépendances
+        run: pip install -r requirements.txt
+
+      - name: Génération du digest
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python scripts/fetch_digest.py
+
+      - name: Sauvegarde des données (commit automatique)
+        run: |
+          git config user.name "daily-digest-bot"
+          git config user.email "actions@github.com"
+          git add data/ docs/
+          git diff --quiet --cached || git commit -m "Digest du $(date -u +'%Y-%m-%d')"
+          git push
+
+      - name: Configuration de GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload de l'artefact Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Déploiement sur GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
