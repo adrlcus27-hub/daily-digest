@@ -23,10 +23,6 @@ from pathlib import Path
 import requests
 import feedparser
 
-# ---------------------------------------------------------------------------
-# Configuration & chemins
-# ---------------------------------------------------------------------------
-
 ROOT_DIR = Path(__file__).resolve().parent.parent
 CONFIG_PATH = ROOT_DIR / "config" / "preferences.json"
 DATA_DIR = ROOT_DIR / "data"
@@ -36,7 +32,6 @@ HTML_OUTPUT_PATH = DOCS_DIR / "index.html"
 
 TMDB_API_BASE = "https://api.themoviedb.org/3"
 MUSICBRAINZ_API_BASE = "https://musicbrainz.org/ws/2"
-# MusicBrainz exige un User-Agent identifiable (politique de l'API publique)
 MUSICBRAINZ_USER_AGENT = "DailyDigestPerso/1.0 (usage personnel non-commercial)"
 
 NANTES_API_BASE = "https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_agenda-evenements-nantes-metropole_v2/records"
@@ -52,18 +47,10 @@ logging.basicConfig(
 log = logging.getLogger("daily-digest")
 
 
-# ---------------------------------------------------------------------------
-# Chargement config / état
-# ---------------------------------------------------------------------------
-
 def load_config() -> dict:
     with open(CONFIG_PATH, encoding="utf-8") as f:
         return json.load(f)
 
-
-# ---------------------------------------------------------------------------
-# Source 1 — News (RSS)
-# ---------------------------------------------------------------------------
 
 def fetch_news(config: dict) -> list[dict]:
     articles = []
@@ -94,10 +81,6 @@ def fetch_news(config: dict) -> list[dict]:
 
     return articles[:max_articles]
 
-
-# ---------------------------------------------------------------------------
-# Source 2 — Cinéma (TMDB)
-# ---------------------------------------------------------------------------
 
 def fetch_movies(config: dict) -> list[dict]:
     api_key = os.environ.get("TMDB_API_KEY")
@@ -137,10 +120,6 @@ def fetch_movies(config: dict) -> list[dict]:
     return films
 
 
-# ---------------------------------------------------------------------------
-# Source 3 — Musique (MusicBrainz)
-# ---------------------------------------------------------------------------
-
 def fetch_albums(config: dict) -> list[dict]:
     musique_cfg = config["musique"]
     max_albums = musique_cfg.get("nombre_albums_max", 6)
@@ -178,51 +157,15 @@ def fetch_albums(config: dict) -> list[dict]:
     return albums
 
 
-# ---------------------------------------------------------------------------
-# Source 4 — Événements locaux (open data)
-# ---------------------------------------------------------------------------
-
-def _get_dataset_fields(api_base: str) -> dict:
-    """Récupère dynamiquement le schéma du dataset pour connaître les vrais
-    noms de champs, plutôt que de les supposer."""
-    try:
-        resp = requests.get(f"{api_base.rsplit('/records', 1)[0]}", timeout=REQUEST_TIMEOUT)
-        if resp.status_code != 200:
-            return {}
-        fields = resp.json().get("fields", [])
-        return {f["name"].lower(): f["name"] for f in fields}
-    except (requests.RequestException, ValueError, KeyError):
-        return {}
-
-
-def _pick_field(available: dict, *candidates: str) -> str | None:
-    """Retourne le premier nom de champ réel qui correspond à l'un des
-    candidats (recherche insensible à la casse, et par sous-chaîne en
-    dernier recours)."""
-    for c in candidates:
-        if c.lower() in available:
-            return available[c.lower()]
-    for name_lower, real_name in available.items():
-        for c in candidates:
-            if c.lower() in name_lower:
-                return real_name
-    return None
-
-
 def fetch_events_nantes(max_events: int, fenetre_jours: int) -> list[dict]:
     today = datetime.now(timezone.utc).date()
-
-    fields = _get_dataset_fields(NANTES_API_BASE)
-    titre_field = _pick_field(fields, "titre", "nom_manifestation", "nom_evenement", "nom", "name", "title")
-    date_field = _pick_field(fields, "date_debut", "date_start", "firstdate")
-    lieu_field = _pick_field(fields, "nom_lieu", "lieu", "location", "adresse")
+    end_date = today + timedelta(days=fenetre_jours)
 
     params = {
-        "q": "*",
+        "where": f"date >= '{today.isoformat()}' AND date <= '{end_date.isoformat()}'",
+        "order_by": "date",
         "limit": max_events,
     }
-    if date_field:
-        params["order_by"] = date_field
 
     try:
         resp = requests.get(NANTES_API_BASE, params=params, timeout=REQUEST_TIMEOUT)
@@ -238,9 +181,9 @@ def fetch_events_nantes(max_events: int, fenetre_jours: int) -> list[dict]:
     for rec in data.get("records", [])[:max_events]:
         f = rec.get("record", {}).get("fields", {})
         events.append({
-            "titre": f.get(titre_field, "Événement") if titre_field else "Événement",
-            "date_debut": f.get(date_field, "") if date_field else "",
-            "lieu": f.get(lieu_field, "Nantes") if lieu_field else "Nantes",
+            "titre": f.get("nom", "Événement"),
+            "date_debut": f.get("date", ""),
+            "lieu": f.get("lieu") or f.get("ville", "Nantes"),
             "ville": "Nantes",
         })
 
@@ -248,13 +191,17 @@ def fetch_events_nantes(max_events: int, fenetre_jours: int) -> list[dict]:
 
 
 def fetch_events_angers(max_events: int, fenetre_jours: int) -> list[dict]:
-    fields = _get_dataset_fields(OPENAGENDA_PUBLIC_DATASET)
-    titre_field = _pick_field(fields, "title_fr", "title", "titre")
-    date_field = _pick_field(fields, "firstdate_begin", "date_start", "date_debut")
-    lieu_field = _pick_field(fields, "location_name", "lieu", "location")
+    today = datetime.now(timezone.utc)
+    end_date = today + timedelta(days=fenetre_jours)
+    today_str = today.strftime("%Y-%m-%dT00:00:00+00:00")
+    end_str = end_date.strftime("%Y-%m-%dT23:59:59+00:00")
 
     params = {
-        "q": "Angers",
+        "where": (
+            f"location_city = 'Angers' AND "
+            f"firstdate_begin >= '{today_str}' AND firstdate_begin <= '{end_str}'"
+        ),
+        "order_by": "firstdate_begin",
         "limit": max_events,
     }
 
@@ -272,9 +219,9 @@ def fetch_events_angers(max_events: int, fenetre_jours: int) -> list[dict]:
     for rec in data.get("records", [])[:max_events]:
         f = rec.get("record", {}).get("fields", {})
         events.append({
-            "titre": f.get(titre_field, "Événement") if titre_field else "Événement",
-            "date_debut": f.get(date_field, "") if date_field else "",
-            "lieu": f.get(lieu_field, "Angers") if lieu_field else "Angers",
+            "titre": f.get("title_fr", "Événement"),
+            "date_debut": f.get("firstdate_begin", ""),
+            "lieu": f.get("location_name", "Angers"),
             "ville": "Angers",
         })
 
@@ -297,10 +244,6 @@ def fetch_events(config: dict) -> list[dict]:
     return all_events
 
 
-# ---------------------------------------------------------------------------
-# Historique
-# ---------------------------------------------------------------------------
-
 def save_today_digest(digest: dict) -> None:
     history = []
     if HISTORY_PATH.exists():
@@ -314,10 +257,6 @@ def save_today_digest(digest: dict) -> None:
     with open(HISTORY_PATH, "w", encoding="utf-8") as f:
         json.dump(history, f, ensure_ascii=False, indent=2)
 
-
-# ---------------------------------------------------------------------------
-# Entrée principale
-# ---------------------------------------------------------------------------
 
 def main() -> None:
     log.info("=== Génération du digest quotidien ===")
