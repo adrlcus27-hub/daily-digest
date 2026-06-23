@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-06-23",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Alerte canicule : ce mardi a été la plus chaude jamais enregistrée dans l'Hexagone avec une moyenne provisoire de 29,8°C",
+        "resume": "Ce record devance les journées du 25 juillet 2019 et du 5 août 2003, qui avaient toutes les deux un indicateur de 29,4°C.",
+        "lien": "https://www.franceinfo.fr/environnement/meteo/alertes-meteo-et-vigilances/direct-alerte-canicule-41-8-c-a-poitiers-41-9-c-a-bordeaux-43-c-a-brive-plusieurs-records-de-chaleur-tous-mois-confondus-ont-ete-enregistres-lundi_8074961.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 23 Jun 2026 17:30:01 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Météo-France place 58 départements en vigilance rouge canicule et 31 en orange pour la journée de mercredi",
+        "resume": "Quelque 43,9 millions de personnes habitent dans les 58 départements concernés, selon un décompte de l'AFP, soit plus de deux tiers de la population de l'Hexagone.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/alerte-canicule-58-departements-seront-en-vigilance-rouge-mercredi-31-en-orange_8075762.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 23 Jun 2026 17:46:05 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Comment la thèse d'un réchauffement climatique s'est peu à peu imposée chez les scientifiques depuis les premières alertes en 1972",
+        "resume": "Le phénomène de hausse des températures a d'abord été évoqué au conditionnel avant de progressivement faire consensus au sein de la communauté internationale, notamment avec la création du Giec. Les s",
+        "lien": "https://www.franceinfo.fr/environnement/crise-climatique/comment-la-these-d-un-rechauffement-climatique-s-est-peu-a-peu-imposee-chez-les-scientifiques-depuis-les-premieres-alertes-en-1972_8075774.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 23 Jun 2026 17:56:16 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Effets de la chaleur sur le corps, nuits tropicales, pratique du sport... Damien Mascret et Sébastien Thomas ont répondu à vos questions sur la canicule",
+        "resume": "Les journalistes spécialisés en santé et en climat ont répondu aux internautes dans le \"20 heures\" de Léa Salamé, lundi soir.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/onvousrepond-effets-de-la-chaleur-sur-le-corps-nuits-tropicales-pratique-du-sport-damien-mascret-et-sebastien-thomas-ont-repondu-a-vos-questions-sur-la-canicule_8075726.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 23 Jun 2026 16:20:40 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"On vient avec son matelas gonflable\" : dormir, pique-niquer, flâner… Ce qui est autorisé (ou pas) dans les parcs ouverts toute la nuit pendant la canicule",
+        "resume": "La nuit de lundi à mardi a été la plus chaude en France depuis 1947. Plusieurs grandes villes, situées dans l'un des 54 départements en vigilance rouge canicule, ont décidé d'ouvrir leurs parcs toute ",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/on-vient-avec-son-matelas-gonflable-dormir-pique-niquer-flaner-ce-qui-est-autorise-ou-pas-dans-les-parcs-ouverts-toute-la-nuit-avec-la-canicule_8075444.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 23 Jun 2026 15:41:13 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "France : record de la nuit la plus chaude depuis 1947",
+        "resume": "Après des records de température lundi, la canicule exceptionnelle qui frappe le pays s'étend encore mardi. La nuit dernière était la plus chaude jamais enregistrée en France depuis 1947.",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260623-france-record-de-la-nuit-la-plus-chaude-depuis-1947",
+        "date": "Tue, 23 Jun 2026 15:44:37 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "J.D. Vance a-t-il été snobé par le Premier ministre qatari ?",
+        "resume": "Sur les réseaux sociaux, une séquence tournée à Genève alimente des interprétations selon lesquelles le vice-président américain aurait été ignoré par le Premier ministre qatari. Mais les images ne ra",
+        "lien": "https://www.france24.com/fr/moyen-orient/20260623-j-d-vance-a-t-il-%C3%A9t%C3%A9-snob%C3%A9-par-le-premier-ministre-qatari",
+        "date": "Tue, 23 Jun 2026 15:42:43 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Comment Donald Trump s’est pris les pieds dans le bassin réfléchissant de Washington",
+        "resume": "Le chantier de l'épuration de l'eau du célèbre bassin réfléchissant au pied du Lincoln Memorial à Washington est en train de tourner au cauchemar politique pour Donald Trump, qui s'y est personnelleme",
+        "lien": "https://www.france24.com/fr/am%C3%A9riques/20260623-comment-donald-trump-pris-pieds-dans-bassin-r%C3%A9fl%C3%A9chissant-washington-algues-250-ans-etats-unis",
+        "date": "Tue, 23 Jun 2026 15:08:59 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Obsession",
+        "date_sortie": "2026-05-13",
+        "synopsis": "Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lui… jusqu’à l’obsessi",
+        "note": 7.9,
+        "affiche": "https://image.tmdb.org/t/p/w300/mDCR1frpUvGfIKksuM440VLb7X9.jpg"
+      },
+      {
+        "titre": "Toy Story 5",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle... l'électronique !",
+        "note": 7.471,
+        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
+      },
+      {
+        "titre": "The Mandalorian and Grogu",
+        "date_sortie": "2026-05-20",
+        "synopsis": "L'Empire maléfique est tombé et les seigneurs de guerre impériaux restent dispersés dans toute la galaxie. Alors que la nouvelle République naissante travaille pour protéger tout ce que la rébellion s'est battue, ils ont",
+        "note": 6.737,
+        "affiche": "https://image.tmdb.org/t/p/w300/qkH4ntQtO5qnL17RFOvmkNHKpGt.jpg"
+      },
+      {
+        "titre": "Disclosure Day",
+        "date_sortie": "2026-06-10",
+        "synopsis": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
+        "note": 6.716,
+        "affiche": "https://image.tmdb.org/t/p/w300/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg"
+      },
+      {
+        "titre": "The Furious",
+        "date_sortie": "2026-06-10",
+        "synopsis": "Après l’enlèvement de sa fille par un réseau criminel et face à l’inaction de la police, Wang Wei se lance dans une traque implacable pour la retrouver. Son seul allié, Navin, est un journaliste tenace dont la femme a my",
+        "note": 7.6,
+        "affiche": "https://image.tmdb.org/t/p/w300/94rNmtdyclSnO3OOnVBW2Isy9r0.jpg"
+      },
+      {
+        "titre": "Backrooms",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
+        "note": 6.867,
+        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Legend of Zelda: Breath of the Wild",
+        "artiste": "Manaka Kataoka",
+        "date_sortie": "2026-06-19"
+      },
+      {
+        "titre": "The Legend of Zelda: Breath of the Wild",
+        "artiste": "Manaka Kataoka",
+        "date_sortie": "2026-06-19"
+      },
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Midnights in October",
+        "artiste": "Midnights in October",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Meridians",
+        "artiste": "Alasdair Fraser",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Atelier Dynamique et perspectives",
+        "date_debut": "2026-06-23T07:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "REUNION PUIS ENTRETIENS INDIVIDUELS DE RECRUTEMENT AVEC l'AGENCE D'INTERIM ACTUAL - METIERS DU BATIMENT",
+        "date_debut": "2026-06-23T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Réunion d'information Pass Entreprendre pour session du 05 octobre au 13 novembre 2026",
+        "date_debut": "2026-06-23T07:00:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Matinale création d'entreprise (pour les porteurs de projet ou début de création) Angers Balzac",
+        "date_debut": "2026-06-23T07:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "REUNION PUIS ENTRETIENS INDIVIDUELS DE RECRUTEMENT AVEC l'AGENCE D'INTERIM ACTUAL - METIERS DU BATIMENT",
+        "date_debut": "2026-06-23T09:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Balades touristiques en vélo-taxi",
+        "date_debut": "2026-06-23",
+        "lieu": "centre-ville",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Rendez-vous ORPAN tous seniors",
+        "date_debut": "2026-06-23",
+        "lieu": "RIG Malville",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Alexis Tramoni - En rodage",
+        "date_debut": "2026-06-23",
+        "lieu": "Compagnie du Café-Théâtre",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition « Sorcières »",
+        "date_debut": "2026-06-23",
+        "lieu": "Château des ducs de bretagne - musée d'histoire de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Expression(s) Décoloniale(s) #4 - Exposition",
+        "date_debut": "2026-06-23",
+        "lieu": "Château des Ducs de Bretagne -   Musée d'Histoire de Nantes",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-06-22",
     "news": [
       {
