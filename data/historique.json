@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-06-24",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Alerte canicule : le recours aux soins d'urgence a atteint un pic \"rarement voire jamais observé\" en début de semaine, selon Santé publique France",
+        "resume": "Le nombre de passages aux urgences a été multiplié par trois et celui des consultations SOS médecins par quatre en France hexagonale entre le 21 et le 22 juin.",
+        "lien": "https://www.franceinfo.fr/environnement/meteo/alertes-meteo-et-vigilances/direct-alerte-canicule-26-c-a-paris-27-c-a-bordeaux-29-c-a-la-rochelle-a-5-heures-mercredi-quatre-nouveaux-departements-places-en-vigilance-rouge-mercredi_8076842.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 24 Jun 2026 15:30:37 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "L'épreuve de français du brevet est maintenue malgré la canicule",
+        "resume": "L'examen a lieu vendredi matin. Edouard Geffray, le ministre de l'Education nationale, a toutefois promis des aménagements \"pour permettre aux élèves d'être dans des situations un peu plus confortable",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/les-epreuves-du-brevet-maintenues-malgre-l-episode-de-canicule-a-annonce-le-ministre-de-l-education-nationale_8077577.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 24 Jun 2026 15:20:17 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Le site de Météo-France a brièvement annoncé -1°C à Paris en pleine canicule, mais ce n'était qu'un mirage",
+        "resume": "Le site de prévisions météorologiques affichait mercredi matin des températures négatives pour toute la journée de jeudi dans la capitale, où le mercure devrait pourtant dépasser 40°C. Ces données tro",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/le-site-de-meteo-france-a-brievement-annonce-1-c-a-paris-en-pleine-canicule-mais-ce-n-etait-qu-un-mirage_8077433.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 24 Jun 2026 14:25:35 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "D'ici 25 ans, \"on va dépasser les 50°C, y compris sur le nord de la France\", alerte la géographe Magali Reghezza-Zitt",
+        "resume": "Mardi a été la journée la plus chaude enregistrée en France depuis la création des relevés météo, en 1947. La température moyenne a atteint 29,8 degrés, battant ainsi les précédents records de juillet",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/d-ici-25-ans-on-va-depasser-les-50-degres-y-compris-sur-le-nord-de-la-france-assure-la-geographe-magali-reghezza-zitt_8077103.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 24 Jun 2026 11:16:35 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Un incident lié à la chaleur prive environ 59 000 foyers d'électricité dans le Finistère, un rétablissement complet attendu \"en fin de journée, au plus tôt\"",
+        "resume": "Près de 120 000 foyers ont été touchés au plus fort de l'incident, selon le ministère de l'Energie.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-environ-68-000-foyers-prives-d-electricite-dans-le-finistere-un-retablissement-complet-attendu-en-fin-de-journee-au-plus-tot_8077175.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 24 Jun 2026 12:47:46 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "En Grèce, les secteurs du tourisme, de l'alimentation et du BTP en grève pour de meilleurs salaires",
+        "resume": "Une grève massive des travailleurs du tourisme, de l'alimentation et de la construction a lieu mercredi en Grèce, les professionnels de ces secteurs exigeant des augmentations de salaires et de meille",
+        "lien": "https://www.france24.com/fr/europe/20260624-en-gr%C3%A8ce-les-secteurs-du-tourisme-de-l-alimentation-et-du-btp-en-gr%C3%A8ve-pour-de-meilleurs-salaires",
+        "date": "Wed, 24 Jun 2026 13:52:11 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "RD Congo : en Ituri, plus d’un mois après le début d’Ebola, \"c'est une épidémie qui va durer\"",
+        "resume": "Alors qu'un premier cas vient d'être enregistré sur le sol français, à Mongbwalu, épicentre de l’épidémie d’Ebola à l’est de la RD Congo, des premiers cas de guérison ont été recensés. Mais si la ripo",
+        "lien": "https://www.france24.com/fr/afrique/20260624-rd-congo-ituri-ebola-bilan-%C3%A9pid%C3%A9mie-gu%C3%A9rison-enterrement-durer",
+        "date": "Wed, 24 Jun 2026 13:44:49 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "\"J'essaie de tenir, jour après jour\" : ces travailleurs en première ligne face à la canicule",
+        "resume": "Sous une chaleur écrasante et des températures records, la France tourne au ralenti. Au milieu des rues désertées et des terrasses abandonnées de Paris, des milliers de travailleurs continuent d’assur",
+        "lien": "https://www.france24.com/fr/france/20260624-j-essaie-tenir-jour-apres-jour-travailleurs-premi%C3%A8re-ligne-face-canicule",
+        "date": "Wed, 24 Jun 2026 13:11:38 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Toy Story 5",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle... l'électronique !",
+        "note": 7.429,
+        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
+      },
+      {
+        "titre": "The Mandalorian and Grogu",
+        "date_sortie": "2026-05-20",
+        "synopsis": "L'Empire maléfique est tombé et les seigneurs de guerre impériaux restent dispersés dans toute la galaxie. Alors que la nouvelle République naissante travaille pour protéger tout ce que la rébellion s'est battue, ils ont",
+        "note": 6.731,
+        "affiche": "https://image.tmdb.org/t/p/w300/qkH4ntQtO5qnL17RFOvmkNHKpGt.jpg"
+      },
+      {
+        "titre": "Disclosure Day",
+        "date_sortie": "2026-06-10",
+        "synopsis": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
+        "note": 6.7,
+        "affiche": "https://image.tmdb.org/t/p/w300/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg"
+      },
+      {
+        "titre": "The Furious",
+        "date_sortie": "2026-06-10",
+        "synopsis": "Après l’enlèvement de sa fille par un réseau criminel et face à l’inaction de la police, Wang Wei se lance dans une traque implacable pour la retrouver. Son seul allié, Navin, est un journaliste tenace dont la femme a my",
+        "note": 7.642,
+        "affiche": "https://image.tmdb.org/t/p/w300/94rNmtdyclSnO3OOnVBW2Isy9r0.jpg"
+      },
+      {
+        "titre": "Backrooms",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
+        "note": 6.9,
+        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
+      },
+      {
+        "titre": "Supergirl",
+        "date_sortie": "2026-07-01",
+        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
+        "note": 7.0,
+        "affiche": "https://image.tmdb.org/t/p/w300/ptyTrUvaQYkRTj42t6IMeGc0rZy.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Complete Orchestral Works, Vol. 3",
+        "artiste": "Maurice Ravel",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Ruina, amor y navaja",
+        "artiste": "Fausto Taranto",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Plays World Hits",
+        "artiste": "Michiel van der Kuy",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Living Free (Live Manchester '75)",
+        "artiste": "Don McLean",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Matinale création d'entreprise (pour les porteurs de projet ou début de création) Angers Balzac",
+        "date_debut": "2026-06-24T07:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Focus : IA et réseaux sociaux",
+        "date_debut": "2026-06-25T06:30:00+00:00",
+        "lieu": "CCI maine et loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "LES JEUDIS DE L'ALTERNANCE : Découvrez les opportunités du GEIQ pour les Personnes en Situation de Handicap",
+        "date_debut": "2026-06-25T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Matinée création d'entreprise - Angers Capucins",
+        "date_debut": "2026-06-25T07:30:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "LES JEUDIS DE L'ALTERNANCE : Découvrez les opportunités du GEIQ pour les Personnes en Situation de Handicap",
+        "date_debut": "2026-06-25T08:30:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Les Rendez-vous à la ferme",
+        "date_debut": "2026-06-24",
+        "lieu": "Parc de la Chantrerie",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition « L'agroalimentaire, une empreinte nantaise »",
+        "date_debut": "2026-06-24",
+        "lieu": "Maison des Hommes et des Techniques (MHT)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Friperie solidaire des Bourderies",
+        "date_debut": "2026-06-24",
+        "lieu": "Centre socioculturel des Bourderies",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le Voyage permanent - Coeur historique - Visite guidée",
+        "date_debut": "2026-06-24",
+        "lieu": "Nantes (Centre ville)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition Handiclap - au Pellerin",
+        "date_debut": "2026-06-24",
+        "lieu": "Médiathèque du Pellerin",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-06-23",
     "news": [
       {
