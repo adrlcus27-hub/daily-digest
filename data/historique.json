@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-06-26",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Alerte canicule : le ministère de la Santé se dit \"préoccupé\" par des \"décès à domicile\" en France",
+        "resume": "A travers le pays, les hôpitaux apparaissent de plus en plus sous tension, alors que le gouvernement a activé le niveau maximal d'un plan d'urgence sanitaire, Orsan.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-les-deux-tiers-de-la-france-encore-frappes-par-la-vague-de-chaleur-vendredi-13-nouveaux-departements-retrogrades-en-vigilance-samedi-matin_8080301.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 26 Jun 2026 15:04:21 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Canicule en Europe : l'ONU juge \"possible\" qu'il s'agisse d'un phénomène record",
+        "resume": "La porte-parole de l'Organisation météorologique mondiale a alerté vendredi sur \"des impacts majeurs\" du phénomène \"sur la santé humaine, les écosystèmes, l'agriculture, la productivité du travail\".",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-en-europe-l-onu-juge-possible-qu-il-s-agisse-d-un-phenomene-record_8081063.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 26 Jun 2026 15:16:24 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Une honte\" : l'émission \"Quotidien\" et son animateur Yann Barthès sous le feu des critiques après s'être moqués, en pleine canicule, des personnes vivant sous les toits",
+        "resume": "Le présentateur, réputé pour son humour caustique, a affirmé que \"tout le monde\" se \"foutait\" d'entendre ces mal-logés témoigner, estimant que tous les Français souffraient de la même manière de la ch",
+        "lien": "https://www.franceinfo.fr/culture/tv/une-honte-l-emission-quotidien-et-son-animateur-yann-barthes-sous-le-feu-des-critiques-apres-s-etre-moques-des-personnes-vivant-sous-les-toits-en-pleine-canicule_8080871.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 26 Jun 2026 14:36:17 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"J'allais faire un malaise\" : dans des classes surchauffées, un brevet sous haute température",
+        "resume": "Les épreuves du brevet ont débuté dans la matinée du vendredi 26 juin. Au total, 850 000 élèves de troisième, dans des salles qui ne sont bien souvent pas équipés pour faire face à la canicule. Chaque",
+        "lien": "https://www.franceinfo.fr/brevet/j-allais-faire-un-malaise-dans-des-classes-surchauffees-un-brevet-sous-haute-temperature_8081075.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 26 Jun 2026 15:08:14 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Canicule : l'Ironman de Nice annulé par décision du préfet des Alpes-Maritimes",
+        "resume": "Pour éviter d'encombrer des services d'urgences \"déjà fortement sollicités\" en raison de la canicule, le préfet des Alpes-Maritimes a annulé, vendredi, le célèbre Ironman de Nice.",
+        "lien": "https://www.franceinfo.fr/sports/sports-extremes/canicule-l-ironman-de-nice-annule-par-decision-du-prefet-des-alpes-maritimes_8081039.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 26 Jun 2026 13:55:31 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "De nombreux événements festifs et sportifs annulés en France",
+        "resume": "L'épisode caniculaire qui sévit en France chamboule les événements du week-end. Depuis plusieurs jours, de nombreuses compétitions amateurs sont annulées un peu partout dans l'hexagone en raison de ce",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260626-de-nombreux-%C3%A9venements-festifs-et-sportifs-annul%C3%A9s-en-france",
+        "date": "Fri, 26 Jun 2026 13:01:10 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Guerre au Moyen-Orient : Siavosh Ghazi, témoin du conflit depuis Téhéran",
+        "resume": "L'Agence internationale de l'énergie atomique (AIEA) estime qu'un dispositif de vérification \"très poussé\" est désormais nécessaire en Iran pour garantir l'absence de programme nucléaire militaire. De",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260626-guerre-au-moyen-orient-siavosh-ghazi-t%C3%A9moin-du-conflit-depuis-t%C3%A9h%C3%A9ran",
+        "date": "Fri, 26 Jun 2026 12:50:14 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Qualification historique pour la Côte d'Ivoire",
+        "resume": "La Côte d'Ivoire a validé son billet pour la phase à élimination directe de la Coupe du monde, pour la première fois de son Histoire. Victoire 2 buts à 0 contre le petit poucet Curaçao. Dans le même t",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/le-club-du-mondial/20260626-qualification-historique-pour-la-c%C3%B4te-d-ivoire",
+        "date": "Fri, 26 Jun 2026 12:44:01 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Toy Story 5",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle... l'électronique !",
+        "note": 7.4,
+        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
+      },
+      {
+        "titre": "Supergirl",
+        "date_sortie": "2026-07-01",
+        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
+        "note": 6.3,
+        "affiche": "https://image.tmdb.org/t/p/w300/ptyTrUvaQYkRTj42t6IMeGc0rZy.jpg"
+      },
+      {
+        "titre": "The Mandalorian and Grogu",
+        "date_sortie": "2026-05-20",
+        "synopsis": "L'Empire maléfique est tombé et les seigneurs de guerre impériaux restent dispersés dans toute la galaxie. Alors que la nouvelle République naissante travaille pour protéger tout ce que la rébellion s'est battue, ils ont",
+        "note": 6.7,
+        "affiche": "https://image.tmdb.org/t/p/w300/qkH4ntQtO5qnL17RFOvmkNHKpGt.jpg"
+      },
+      {
+        "titre": "Disclosure Day",
+        "date_sortie": "2026-06-10",
+        "synopsis": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
+        "note": 6.694,
+        "affiche": "https://image.tmdb.org/t/p/w300/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg"
+      },
+      {
+        "titre": "The Furious",
+        "date_sortie": "2026-06-10",
+        "synopsis": "Après l’enlèvement de sa fille par un réseau criminel et face à l’inaction de la police, Wang Wei se lance dans une traque implacable pour la retrouver. Son seul allié, Navin, est un journaliste tenace dont la femme a my",
+        "note": 7.7,
+        "affiche": "https://image.tmdb.org/t/p/w300/94rNmtdyclSnO3OOnVBW2Isy9r0.jpg"
+      },
+      {
+        "titre": "Backrooms",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
+        "note": 6.887,
+        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Midnights in October",
+        "artiste": "Midnights in October",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Au coeur des métiers saisonniers : Viticulture, Horticulture, Arboriculture et Maraîchage à l'honneur !",
+        "date_debut": "2026-06-26T07:30:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Vous êtes bricoleur et avez le permis B ? Ne manquez pas notre réunion d'information sur le poste de Technicien SAV !",
+        "date_debut": "2026-06-29T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "[Webinaire] Comment l’intelligence artificielle (IA) peut vous aider dans votre communication commerciale ?",
+        "date_debut": "2026-06-30T09:00:00+00:00",
+        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "SHIVA recrute des employé(e)s de maison (ménage-repassage) secteur Angers // Chalonnes sur Loire",
+        "date_debut": "2026-07-02T07:00:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Découvrez les formations en alternance dans le commerce et la vente avec ARCHI-MED",
+        "date_debut": "2026-07-02T07:30:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Exposition Esquisses vertaviennes : Lorsque tombe la nuit",
+        "date_debut": "2026-06-26",
+        "lieu": "L'Atelier (à Vertou)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Expression(s) Décoloniale(s) #4 - Exposition",
+        "date_debut": "2026-06-26",
+        "lieu": "Château des Ducs de Bretagne -   Musée d'Histoire de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Histoires d’écoles - Les paysages scolaires à Nantes - Exposition",
+        "date_debut": "2026-06-26",
+        "lieu": "Maison de l'architecture des Pays de la Loire",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Biodivers'été 2026",
+        "date_debut": "2026-06-26",
+        "lieu": "Parcs et jardins",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le Voyage permanent - Coeur historique - Visite guidée",
+        "date_debut": "2026-06-26",
+        "lieu": "Nantes (Centre ville)",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-06-25",
     "news": [
       {
