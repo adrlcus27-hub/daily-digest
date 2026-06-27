@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-06-27",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Canicule : des températures supérieures à 35°C attendues samedi pour au moins 193 millions de personnes en Europe",
+        "resume": "Les températures maximales devraient même dépasser 30°C pour plus de 400 millions d'habitants en Europe, selon l'AFP.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-meteo-france-maintient-37-departements-en-vigilance-rouge-la-fin-du-pic-se-precise-pour-dimanche-soir_8082254.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 27 Jun 2026 11:37:46 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "La vigilance rouge canicule maintenue dans 37 départements, une partie du territoire bascule en orange pour les risques liés aux orages",
+        "resume": "Le dernier bulletin de Météo-France prévoit une fin du pic caniculaire pour dimanche soir, où plus un seul département ne devrait être concerné par une vigilance rouge.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/la-vigilance-rouge-canicule-maintenue-dans-37-departements-d-autres-retrogradations-attendues-dans-la-journee_8082341.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 27 Jun 2026 13:10:53 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "A Paris, un homme meurt noyé dans le canal Saint-Martin",
+        "resume": "La victime, dont l'âge n'a pas été précisé, se trouvait \"en dehors de l'espace surveillé et des horaires d'ouverture de la baignade\", a déclaré le maire de Paris, Emmanuel Grégoire.",
+        "lien": "https://www.franceinfo.fr/france/ile-de-france/paris/paris/un-homme-meurt-noye-dans-le-canal-saint-martin-a-paris_8081867.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 27 Jun 2026 11:29:47 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"On a beaucoup d'appels, ça n'arrête pas\" : à Paris, le Samu en surchauffe pendant la canicule",
+        "resume": "Hyperthermies, arrêts cardiaques, décès... L'ambulance du Samu ne cesse de faire des aller-retours et le centre d'appels est inondé de coups de téléphone : les secours font face à une très forte deman",
+        "lien": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-on-a-beaucoup-d-appels-ca-n-arrete-pas-a-paris-le-samu-en-surchauffe-pendant-la-canicule_8058425.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 27 Jun 2026 09:07:08 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Au canal Saint-Martin, à Paris, amour, flirt et rencontres sous canicule : \"Il a pris mon Snap et j'espère le revoir en vacances\"",
+        "resume": "Depuis l'ouverture de ce canal parisien à la baignade, en raison des fortes chaleurs, les adolescents célibataires viennent s'y rafraîchir et faire des rencontres, tandis que les jeunes couples expéri",
+        "lien": "https://www.franceinfo.fr/societe/reportage-au-canal-saint-martin-a-paris-amour-flirt-et-rencontres-sous-canicule-il-a-pris-mon-snap-et-j-espere-le-revoir-en-vacances_8080676.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 27 Jun 2026 07:07:22 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Togo : la justice de la CEDEAO juge illégale la réforme constitutionnelle",
+        "resume": "Au Togo, un arrêt de la Cour de justice de la CEDEAO, datant de la fin janvier mais rendu public seulement le 25 juin 2026, juge illégale la réforme constitutionnelle du pays, adoptée il y a deux ans.",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260627-togo-la-justice-de-la-cedeao-juge-ill%C3%A9gale-la-r%C3%A9forme-constitutionnelle",
+        "date": "Sat, 27 Jun 2026 10:58:40 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Washington sanctionne la seule raffinerie d'or du Rwanda",
+        "resume": "L'administration Trump emboîte le pas à l'Europe en sanctionnant Gasabo Gold, l'unique raffinerie d'or du Rwanda, accusée de faire transiter des minerais de conflit depuis l'est de la République démoc",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260627-washington-sanctionne-la-seule-raffinerie-d-or-du-rwanda",
+        "date": "Sat, 27 Jun 2026 10:57:20 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Canicule : la Hongrie maintient sa première Pride de l'après-Orbán",
+        "resume": "La canicule qui frappe la France ces derniers jours se déplace vers l'Est. La Hongrie est touchée, mais maintient sa Pride ce week-end malgré des températures élevées. \"Ici, pas question de l'annuler ",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260627-canicule-la-hongrie-maintient-sa-premi%C3%A8re-pride-de-l-apr%C3%A8s-orb%C3%A1n",
+        "date": "Sat, 27 Jun 2026 10:55:30 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Toy Story 5",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle... l'électronique !",
+        "note": 7.5,
+        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
+      },
+      {
+        "titre": "Supergirl",
+        "date_sortie": "2026-07-01",
+        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
+        "note": 6.2,
+        "affiche": "https://image.tmdb.org/t/p/w300/ptyTrUvaQYkRTj42t6IMeGc0rZy.jpg"
+      },
+      {
+        "titre": "Disclosure Day",
+        "date_sortie": "2026-06-10",
+        "synopsis": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
+        "note": 6.7,
+        "affiche": "https://image.tmdb.org/t/p/w300/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg"
+      },
+      {
+        "titre": "The Mandalorian and Grogu",
+        "date_sortie": "2026-05-20",
+        "synopsis": "L'Empire maléfique est tombé et les seigneurs de guerre impériaux restent dispersés dans toute la galaxie. Alors que la nouvelle République naissante travaille pour protéger tout ce que la rébellion s'est battue, ils ont",
+        "note": 6.7,
+        "affiche": "https://image.tmdb.org/t/p/w300/qkH4ntQtO5qnL17RFOvmkNHKpGt.jpg"
+      },
+      {
+        "titre": "The Furious",
+        "date_sortie": "2026-06-10",
+        "synopsis": "Après l’enlèvement de sa fille par un réseau criminel et face à l’inaction de la police, Wang Wei se lance dans une traque implacable pour la retrouver. Son seul allié, Navin, est un journaliste tenace dont la femme a my",
+        "note": 7.68,
+        "affiche": "https://image.tmdb.org/t/p/w300/94rNmtdyclSnO3OOnVBW2Isy9r0.jpg"
+      },
+      {
+        "titre": "Backrooms",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
+        "note": 6.9,
+        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Young & Cursed (Original Motion Picture Soundtrack)",
+        "artiste": "Patrick O'Malley",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Warehouse 10 Volume 15",
+        "artiste": "Dave Matthews Band",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Warehouse 2026: 7.16.2025 Allianz Amphitheater At Riverfront, Richmond, VA",
+        "artiste": "Dave Matthews Band",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Time Machine",
+        "artiste": "The Jungle",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "RAGE",
+        "artiste": "Kita Alexander",
+        "date_sortie": "2026-06-26"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Vous êtes bricoleur et avez le permis B ? Ne manquez pas notre réunion d'information sur le poste de Technicien SAV !",
+        "date_debut": "2026-06-29T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "[Webinaire] Comment l’intelligence artificielle (IA) peut vous aider dans votre communication commerciale ?",
+        "date_debut": "2026-06-30T09:00:00+00:00",
+        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "SHIVA recrute des employé(e)s de maison (ménage-repassage) secteur Angers // Chalonnes sur Loire",
+        "date_debut": "2026-07-02T07:00:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "réunion d'information création reprise entreprise en hôtellerie restauration avec accompagnement CCI Angers",
+        "date_debut": "2026-07-02T07:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Rendez-vous Angers Emploi Savary",
+        "date_debut": "2026-07-02T12:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Les parents viennent de Mars, les enfants du McDo - Chez Papa",
+        "date_debut": "2026-06-27",
+        "lieu": "Théâtre de Jeanne",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le Potager de la Cantine",
+        "date_debut": "2026-06-27",
+        "lieu": "Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Balades touristiques en vélo-taxi",
+        "date_debut": "2026-06-27",
+        "lieu": "centre-ville",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition Handiclap - au Pellerin",
+        "date_debut": "2026-06-27",
+        "lieu": "Médiathèque du Pellerin",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition Handiclap - au Pellerin",
+        "date_debut": "2026-06-27",
+        "lieu": "Médiathèque du Pellerin",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-06-26",
     "news": [
       {
