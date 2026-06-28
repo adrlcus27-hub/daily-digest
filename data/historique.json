@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-06-28",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Canicule : \"Il y a eu 122 000 interventions\" des secours pendant la vague de chaleur, annonce le ministre de l'Intérieur",
+        "resume": "Laurent Nuñez s'est exprimé dimanche lors d'un déplacement dans une caserne de pompiers parisienne. La ministre de la Santé a de son côté estimé que cet épisode caniculaire ne provoquera \"probablement",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-la-vigilance-rouge-ne-concerne-plus-que-le-haut-et-le-bas-rhin-45-departements-toujours-en-orange-apres-une-nuit-d-orages_8083376.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 28 Jun 2026 12:02:58 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "La vigilance rouge canicule ne concerne plus que le Haut-Rhin et le Bas-Rhin, 45 départements toujours en orange après une nuit d'orages",
+        "resume": "La baisse des températures s'est accompagnée samedi soir de forts orages sur plusieurs régions.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/la-vigilance-rouge-canicule-ne-concerne-plus-que-le-haut-et-le-bas-rhin-45-departements-toujours-en-orange-apres-une-nuit-d-orages_8083445.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 28 Jun 2026 11:41:15 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Foudre, vent, grêle... Après la canicule, d'impressionnants orages ont traversé la France samedi soir",
+        "resume": "Quatorze départements passeront en vigilance orange orage ce dimanche dans l'après-midi, de l'Auvergne aux Pyrénées-Atlantiques.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/en-images-foudre-vent-grele-apres-la-canicule-d-impressionnants-orages-ont-traverse-la-france-samedi-soir_8083475.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 28 Jun 2026 10:37:24 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Orages : le Nord durement touché, des dégâts dans plusieurs départements",
+        "resume": "Les pompiers du Nord ont réalisé 405 interventions dans la nuit de samedi à dimanche face aux violents intempéries.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/orages-le-nord-durement-touche-des-degats-dans-plusieurs-departements_8083652.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 28 Jun 2026 12:18:31 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "En Europe, au moins 191 millions de personnes vont passer dimanche sous plus de 35°C à cause de la vague de chaleur",
+        "resume": "Au total, les températures maximales devraient dépasser 30°C pour plus de 381 millions d'habitants en Europe, selon les calculs de l'AFP.",
+        "lien": "https://www.franceinfo.fr/monde/europe/en-europe-au-moins-191-millions-de-personnes-vont-passer-dimanche-sous-plus-de-35-c-a-cause-de-la-vague-de-chaleur_8083580.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 28 Jun 2026 12:12:23 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Mondial 2026 : la RD Congo qualifiée, les supporters rêvent des demi-finales",
+        "resume": "Les supporters de la RD Congo célèbrent la qualification des Léopards à Atlanta et affichent leurs ambitions avant le quart de finale contre l'Angleterre. Plusieurs regrettent également l'absence du c",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260628-mondial-2026-la-rd-congo-qualifi%C3%A9e-les-supporters-r%C3%AAvent-des-demi-finales",
+        "date": "Sun, 28 Jun 2026 10:43:11 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Cuba se tourne vers l'énergie solaire face au blocus énergétique des États-Unis",
+        "resume": "Depuis que Washington impose un blocus pétrolier de facto à la Havane, l'île vit au rythme des coupures de courant. Les habitants se tournent vers de nouvelles solutions, dont l'énergie solaire.",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260628-cuba-se-tourne-vers-l-%C3%A9nergie-solaire-face-au-blocus-%C3%A9nerg%C3%A9tique-des-%C3%A9tats-unis",
+        "date": "Sun, 28 Jun 2026 10:41:05 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Mondial 2026 : la Coupe du monde suivie à Gaza",
+        "resume": "À Gaza, les matchs de la Coupe du monde sont diffusés dans des cafés improvisés. Une parenthèse dans un quotidien éprouvant.",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260628-mondial-2026-la-coupe-du-monde-suivie-%C3%A0-gaza",
+        "date": "Sun, 28 Jun 2026 10:37:39 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Toy Story 5",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle... l'électronique !",
+        "note": 7.467,
+        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
+      },
+      {
+        "titre": "Supergirl",
+        "date_sortie": "2026-07-01",
+        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
+        "note": 6.138,
+        "affiche": "https://image.tmdb.org/t/p/w300/ptyTrUvaQYkRTj42t6IMeGc0rZy.jpg"
+      },
+      {
+        "titre": "Disclosure Day",
+        "date_sortie": "2026-06-10",
+        "synopsis": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
+        "note": 6.694,
+        "affiche": "https://image.tmdb.org/t/p/w300/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg"
+      },
+      {
+        "titre": "The Mandalorian and Grogu",
+        "date_sortie": "2026-05-20",
+        "synopsis": "L'Empire maléfique est tombé et les seigneurs de guerre impériaux restent dispersés dans toute la galaxie. Alors que la nouvelle République naissante travaille pour protéger tout ce que la rébellion s'est battue, ils ont",
+        "note": 6.685,
+        "affiche": "https://image.tmdb.org/t/p/w300/qkH4ntQtO5qnL17RFOvmkNHKpGt.jpg"
+      },
+      {
+        "titre": "The Furious",
+        "date_sortie": "2026-06-10",
+        "synopsis": "Après l’enlèvement de sa fille par un réseau criminel et face à l’inaction de la police, Wang Wei se lance dans une traque implacable pour la retrouver. Son seul allié, Navin, est un journaliste tenace dont la femme a my",
+        "note": 7.685,
+        "affiche": "https://image.tmdb.org/t/p/w300/94rNmtdyclSnO3OOnVBW2Isy9r0.jpg"
+      },
+      {
+        "titre": "Backrooms",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
+        "note": 6.894,
+        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Midnights in October",
+        "artiste": "Midnights in October",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Meridians",
+        "artiste": "Alasdair Fraser",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Broken Dreams",
+        "artiste": "Siska",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "ЖЗЛ",
+        "artiste": "Lacerate",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Vous êtes bricoleur et avez le permis B ? Ne manquez pas notre réunion d'information sur le poste de Technicien SAV !",
+        "date_debut": "2026-06-29T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "[Webinaire] Comment l’intelligence artificielle (IA) peut vous aider dans votre communication commerciale ?",
+        "date_debut": "2026-06-30T09:00:00+00:00",
+        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "SHIVA recrute des employé(e)s de maison (ménage-repassage) secteur Angers // Chalonnes sur Loire",
+        "date_debut": "2026-07-02T07:00:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "réunion d'information création reprise entreprise en hôtellerie restauration avec accompagnement CCI Angers",
+        "date_debut": "2026-07-02T07:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Rendez-vous Angers Emploi Savary",
+        "date_debut": "2026-07-02T12:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Exposition - Brillos, les cultures Queer en Amérique latine hispanophone",
+        "date_debut": "2026-06-28",
+        "lieu": "Cosmopolis",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Balades touristiques en vélo-taxi",
+        "date_debut": "2026-06-28",
+        "lieu": "centre-ville",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Balades touristiques en vélo-taxi",
+        "date_debut": "2026-06-28",
+        "lieu": "centre-ville",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Stages théâtre Divine Triumph",
+        "date_debut": "2026-06-28",
+        "lieu": "Labo diva",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Croisière Estuaire Nantes-St Nazaire",
+        "date_debut": "2026-06-28",
+        "lieu": "Nantes",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-06-27",
     "news": [
       {
