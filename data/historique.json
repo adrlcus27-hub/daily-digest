@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-07-04",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Il n'y a que son intérêt qui occupe sa pensée\" : comment Donald Trump a presque triplé sa fortune grâce aux cryptomonnaies",
+        "resume": "Les derniers documents financiers publiés par l'administration américaine montrent que Donald Trump a engrangé près de 1,2 milliard de dollars grâce aux cryptomonnaies en 2025.",
+        "lien": "https://www.franceinfo.fr/monde/usa/il-n-y-a-que-son-interet-qui-occupe-sa-pensee-comment-donald-trump-a-presque-triple-sa-fortune-grace-aux-cryptomonnaies_8089946.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 04 Jul 2026 07:00:30 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Funérailles d'Ali Khamenei : les Iraniens affluent à Téhéran pour rendre hommage au guide suprême tué dans la guerre au Moyen-Orient",
+        "resume": "La télévision d'Etat iranienne a annoncé, samedi, le début des obsèques nationales du défunt guide suprême. Des milliers d'Iraniens se sont recueillis dès les premières heures dans la capitale.",
+        "lien": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-l-iran-donne-le-coup-d-envoi-des-funerailles-nationales-du-guide-supreme-ali-khamenei-tue-dans-la-guerre-au-moyen-orient_8093471.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 04 Jul 2026 08:36:22 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Hier nous avons réussi à éteindre deux départs de feu\" : dans l'Aude, des bénévoles patrouilleurs en forêt pour aider à prévenir les incendies",
+        "resume": "Alors que plusieurs départements du sud de la France sont en alerte maximale aux incendies, les équipes de patrouilleurs en forêts assistent les pompiers dans la prévention et la surveillance de dépar",
+        "lien": "https://www.franceinfo.fr/faits-divers/incendie/reportage-hier-nous-avons-reussi-a-eteindre-deux-departs-de-feu-dans-l-aude-des-benevoles-patrouilleurs-en-foret-pour-aider-a-prevenir-les-incendies_8093519.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 04 Jul 2026 09:52:15 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"C'est un immense talent, mais il n'a que 19 ans\" : comment le monde du cyclisme perçoit les débuts du phénomène Paul Seixas sur le Tour de France",
+        "resume": "Les débuts du Lyonnais sur la Grande Boucle, à partir de samedi, suscitent autant de fantasmes qu'ils n'incitent à la prudence pour le coureur de 19 ans.",
+        "lien": "https://www.franceinfo.fr/tour-de-france/c-est-un-immense-talent-mais-il-n-a-que-19-ans-comment-le-monde-du-cyclisme-percoit-les-debuts-du-phenomene-paul-seixas-sur-le-tour-de-france_8055791.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 04 Jul 2026 12:29:25 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Un animateur de centre de loisirs dans les Landes suspendu après une plainte pour \"comportement inapproprié\" sur un mineur",
+        "resume": "Dans un communiqué, la mairie explique avoir pris cette décision afin de \"préserver les enfants\".",
+        "lien": "https://www.franceinfo.fr/societe/pedocriminalite/un-animateur-de-centre-de-loisirs-dans-les-landes-suspendu-apres-une-plainte-pour-comportement-inapproprie-sur-un-mineur_8093726.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 04 Jul 2026 12:08:42 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Après les canicules et malgré l'hiver pluvieux, la sécheresse s'installe en France",
+        "resume": "Alors que l'été ne fait que commencer, la quasi-totalité des départements français est désormais en vigilance \"sécheresse\". En cause, un déficit de pluies au printemps, les canicules qui ont marqué l'",
+        "lien": "https://www.france24.com/fr/plan%C3%A8te/20260704-apr%C3%A8s-canicules-et-malgr%C3%A9-hiver-pluvieux-s%C3%A9cheresse-s-installe-france-eau-changement-climatique",
+        "date": "Sat, 04 Jul 2026 10:45:23 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Italie : l'hommage du pape Léon XIV aux migrants à Lampedusa",
+        "resume": "Au moment où elle durcit sa politique migratoire, le pape Léon XIV a exhorté samedi l'Europe à agir davantage pour protéger les migrants lors d'une visite sur la petite île italienne de Lampedusa, dev",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260704-italie-l-hommage-du-pape-l%C3%A9on-xiv-aux-migrants-%C3%A0-lampedusa",
+        "date": "Sat, 04 Jul 2026 10:10:27 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "En direct : des milliers de fidèles rendent hommage au défunt Guide suprême Ali Khamenei",
+        "resume": "",
+        "lien": "https://www.france24.com/fr/moyen-orient/20260704-en-direct-d%C3%A9but-de-l-hommage-de-trois-jours-pour-le-d%C3%A9funt-guide-supr%C3%AAme-iranien-ali-khamenei",
+        "date": "Sat, 04 Jul 2026 10:07:22 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Disclosure Day",
+        "date_sortie": "2026-06-10",
+        "synopsis": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
+        "note": 6.668,
+        "affiche": "https://image.tmdb.org/t/p/w300/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg"
+      },
+      {
+        "titre": "Backrooms",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
+        "note": 6.859,
+        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
+      },
+      {
+        "titre": "Toy Story 5",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle... l'électronique !",
+        "note": 7.428,
+        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
+      },
+      {
+        "titre": "Scary Movie",
+        "date_sortie": "2026-06-03",
+        "synopsis": "Vingt-six ans après avoir échappé à un tueur masqué étrangement familier, les héros emblématiques de la saga sont de nouveau dans la ligne de mire du meurtrier, et aucune franchise de film d’horreur n’est à l’abri.",
+        "note": 5.434,
+        "affiche": "https://image.tmdb.org/t/p/w300/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg"
+      },
+      {
+        "titre": "Supergirl",
+        "date_sortie": "2026-07-01",
+        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
+        "note": 6.273,
+        "affiche": "https://image.tmdb.org/t/p/w300/1QV4GubAlUvGX3FjqWWWfQiYkN4.jpg"
+      },
+      {
+        "titre": "Des Minions et des monstres",
+        "date_sortie": "2026-06-24",
+        "synopsis": "L’histoire turbulente, absurde et évidemment vraie des Minions et la manière dont ils ont conquis Hollywood, sont devenus de véritables stars de cinéma, ont tout perdu, ont libéré des monstres dans notre monde, puis ont ",
+        "note": 6.644,
+        "affiche": "https://image.tmdb.org/t/p/w300/vJHa85i6ZOZIvcPK0ak4nSpijZv.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Complete Orchestral Works, Vol. 3",
+        "artiste": "Maurice Ravel",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Ruina, amor y navaja",
+        "artiste": "Fausto Taranto",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Plays World Hits",
+        "artiste": "Michiel van der Kuy",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Living Free (Live Manchester '75)",
+        "artiste": "Don McLean",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Session de Recrutement RANSDTAD Inhouse AGENTS de PRODUCTION pour VALEO Vision Ecouflant",
+        "date_debut": "2026-07-07T12:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Réunion d'information Pass Entreprendre pour session du 05 octobre au 13 novembre 2026",
+        "date_debut": "2026-07-08T07:00:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Découvrez les métiers de la coiffure, de l'esthétique et du spa : un événement incontournable pour votre avenir professionnel !",
+        "date_debut": "2026-07-08T08:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Atelier Senior 360",
+        "date_debut": "2026-07-08T11:30:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "L'ingénieur de Saint-Nicolas",
+        "date_debut": "2026-07-08T12:00:00+00:00",
+        "lieu": "Étang Saint-Nicolas",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Expression(s) Décoloniale(s) #4 - Exposition",
+        "date_debut": "2026-07-04",
+        "lieu": "Château des Ducs de Bretagne -   Musée d'Histoire de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition collective En chantier",
+        "date_debut": "2026-07-04",
+        "lieu": "APO33 - La Fabrique Ile de Nantes/Plateforme Intermédia",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Estives 2026 – Yoga inclusif au château",
+        "date_debut": "2026-07-04",
+        "lieu": "Château des ducs de bretagne - musée d'histoire de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Dans la peau des collectionneurs - Visite guidée au musée Dobrée",
+        "date_debut": "2026-07-04",
+        "lieu": "Musée Dobrée",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Odyssée de l’oubli - Exposition Anne et Patrick Poirier",
+        "date_debut": "2026-07-04",
+        "lieu": "Musée d'arts de Nantes",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-07-03",
     "news": [
       {
@@ -2585,112 +2784,5 @@
         "ville": "Nantes"
       }
     ]
-  },
-  {
-    "date": "2026-06-22",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Mutations, enquête administrative.. quelles suites disciplinaires après les premières conclusions de la mission d'inspection sur l'affaire Lyhanna ?",
-        "resume": "Dans un premier rapport rendu lundi, la mission d'inspection a mis en évidence une série de dysfonctionnements, tant de la part du parquet que de la gendarmerie. Des sanctions ont d'ores et déjà été p",
-        "lien": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/affaire-lyhanna-quelles-eventuelles-suites-disciplinaires-apres-les-conclusions-de-la-mission-d-inspection_8074127.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 22 Jun 2026 21:21:24 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Une situation de chaleur encore forte\" : pourquoi la canicule va durer en France malgré la baisse des températures prévue en fin de semaine",
-        "resume": "Les températures devraient progressivement baisser vendredi, en commençant par l'Ouest. Mais le mercure devrait rester élevé pour la saison sur une large partie du pays tout le week-end, et jusqu'aux ",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/alerte-canicule-en-france-un-rafraichissement-relatif-prevu-vendredi-mais-pas-de-certitude-sur-la-fin-de-la-vague-de-chaleur_8073590.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 22 Jun 2026 16:59:32 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Lionel Messi porte l’Argentine, qualifiée pour les seizièmes de finale de la Coupe du monde 2026, après sa victoire contre l’Autriche",
-        "resume": "Lionel Messi est devenu le meilleur buteur de l’histoire en Coupe du monde, avec son 17e but inscrit pour l’ouverture du score de l’Argentine contre l’Autriche, puis un 18e en fin de match, lundi (2-0",
-        "lien": "https://www.franceinfo.fr/coupe-du-monde/lionel-messi-porte-l-argentine-qualifiee-pour-les-seiziemes-de-finale-de-la-coupe-du-monde-2026-apres-sa-victoire-contre-l-autriche_8074523.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 22 Jun 2026 21:10:18 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"On se croirait en Arizona\" : face à la canicule à Paris, touristes et habitants à la recherche de fraîcheur, des musées aux eaux du canal Saint-Martin",
-        "resume": "Alors que le mercure a frôlé les 40°C en Ile-de-France lundi, habitants et touristes tentent tant bien que mal de fuir la chaleur en investissant les rares endroits climatisés de la capitale, ou en pr",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/reportage-on-se-croirait-en-arizona-face-a-la-canicule-a-paris-touristes-et-habitants-a-la-recherche-de-fraicheur-des-musees-aux-eaux-du-canal-saint-martin_8074328.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 22 Jun 2026 20:29:24 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"On n'a peut-être jamais eu autant besoin de nous\" : l'ARS veut supprimer 160 000 euros de subventions au Planning familial",
-        "resume": "L'ARS de Nouvelle-Aquitaine envisage de supprimer ses subventions publiques au Planning familial de Gironde, soit 160 000 euros. L'autorité sanitaire évoque un manque de probité dans ses actions et de",
-        "lien": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/on-n-a-peut-etre-jamais-eu-autant-besoin-de-nous-l-ars-veut-supprimer-160-000-euros-de-subventions-au-planning-familial-3372214.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 22 Jun 2026 08:54:09 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Mondial 2026 : Messi dans l'histoire, l'Argentine enchaîne contre l'Autriche",
-        "resume": "",
-        "lien": "https://www.france24.com/fr/sports/20260622-mondial-2026-un-messi-dans-l-histoire-l-argentine-encha%C3%AEne-contre-l-autricheamais",
-        "date": "Mon, 22 Jun 2026 19:05:42 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Mondial 2026 : Lionel Messi dans l'histoire, l'Argentine enchaîne contre l'Autriche",
-        "resume": "L'Argentine a décroché une deuxième victoire de suite dans ce Mondial 2026 en dominant l'Autriche (2-0), ce lundi à Arlington. L'Albiceleste a été portée par son capitaine Lionel Messi, qui a d'abord ",
-        "lien": "https://www.france24.com/fr/sports/20260622-mondial-2026-un-messi-dans-l-histoire-l-argentine-encha%C3%AEne-contre-l-autricheamais",
-        "date": "Mon, 22 Jun 2026 19:05:08 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Canada : tirs à Montréal, trois morts dont le suspect, selon la police",
-        "resume": "Trois hommes, dont un policier et le suspect, sont morts lundi lors d'une fusillade dans un quartier juif de Montréal, tandis qu'une policière a été blessée, ont annoncé les autorités.",
-        "lien": "https://www.france24.com/fr/am%C3%A9riques/20260622-canada-tirs-montr%C3%A9al-trois-morts-dont-suspect-selon-police-fusillade",
-        "date": "Mon, 22 Jun 2026 18:57:29 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Obsession",
-        "date_sortie": "2026-05-13",
-        "synopsis": "Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lui… jusqu’à l’obsessi",
-        "note": 7.9,
-        "affiche": "https://image.tmdb.org/t/p/w300/mDCR1frpUvGfIKksuM440VLb7X9.jpg"
-      },
-      {
-        "titre": "Toy Story 5",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle... l'électronique !",
-        "note": 7.5,
-        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
-      },
-      {
-        "titre": "The Mandalorian and Grogu",
-        "date_sortie": "2026-05-20",
-        "synopsis": "L'Empire maléfique est tombé et les seigneurs de guerre impériaux restent dispersés dans toute la galaxie. Alors que la nouvelle République naissante travaille pour protéger tout ce que la rébellion s'est battue, ils ont",
-        "note": 6.734,
-        "affiche": "https://image.tmdb.org/t/p/w300/qkH4ntQtO5qnL17RFOvmkNHKpGt.jpg"
-      },
-      {
-        "titre": "Disclosure Day",
-        "date_sortie": "2026-06-10",
-        "synopsis": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
-        "note": 6.722,
-        "affiche": "https://image.tmdb.org/t/p/w300/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg"
-      },
-      {
-        "titre": "The Furious",
-        "date_sortie": "2026-06-10",
-        "synopsis": "Après l’enlèvement de sa fille par un réseau criminel et face à l’inaction de la police, Wang Wei se lance dans une traque implacable pour la retrouver. Son seul allié, Navin, est un journaliste tenace dont la femme a my",
-        "note": 7.7,
-        "affiche": "https://image.tmdb.org/t/p/w300/94rNmtdyclSnO3OOnVBW2Isy9r0.jpg"
-      },
-      {
-        "titre": "Backrooms",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
-        "note": 6.878,
-        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
-      }
-    ],
-    "albums": [],
-    "evenements": []
   }
 ]
