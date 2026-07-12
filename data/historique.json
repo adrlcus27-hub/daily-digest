@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-07-12",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"L'armée américaine est prête à détruire complètement toutes les régions d'Iran\" : comment la trêve entre Washington et Téhéran a volé en éclats cette semaine",
+        "resume": "Depuis mardi, les deux pays s'accusent mutuellement de violer l'accord signé le 17 juin, qui visait à permettre la reprise du trafic maritime dans le détroit d'Ormuz.",
+        "lien": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-armee-americaine-est-prete-a-detruire-completement-toutes-les-regions-d-iran-comment-la-treve-entre-washington-et-teheran-a-vole-en-eclats-cette-semaine_8103818.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 12 Jul 2026 09:39:17 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Coupe du monde 2026 : \"L'arbitrage a détruit notre match\", déplore le sélectionneur de la Suisse, après la défaite des Helvètes contre l'Argentine",
+        "resume": "Tenants du titre, Lionel Messi et ses coéquipiers ont écarté la Nati à l'issue de la prolongation, dans la nuit de samedi à dimanche, en quarts de finale.",
+        "lien": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-l-angleterre-et-l-argentine-s-affronteront-en-demi-finales_8104190.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 12 Jul 2026 10:56:21 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Dix ans après le drame de Nice, c'est \"un attentat qui est complètement oublié\", déplore Anne Murris, présidente de l'association Mémorial des anges",
+        "resume": "Le 14 juillet 2016, un camion fonçait sur la foule rassemblée sur la promenade des Anglais après le feu d'artifice, faisant 86 morts et plus de 400 blessés.",
+        "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/attentat-de-nice-dix-ans-apres-on-ne-se-sent-pas-soutenu-deplore-l-association-memorial-des-anges_8104889.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 12 Jul 2026 10:11:34 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Il pensait avoir gagné à Euromillions et c'est foutu\" : comment Jordan Bardella a été relégué au rôle de numéro 2 derrière Marine Le Pen",
+        "resume": "Alors qu'il s'était préparé à porter les couleurs du Rassemblement national à l'élection présidentielle, l'ambitieux patron du parti doit se contenter de la perspective de Matignon. Une rétrogradation",
+        "lien": "https://www.franceinfo.fr/politique/jordan-bardella/il-pensait-avoir-gagne-a-euromillions-et-c-est-foutu-comment-jordan-bardella-a-ete-relegue-au-role-de-numero-2-derriere-marine-le-pen_8101364.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 12 Jul 2026 06:56:01 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "L'incendie qui a fait 12 morts dans le sud de l'Espagne est stabilisé",
+        "resume": "Le retour à leur domicile des quelque 1 000 personnes évacuées qui n'avaient pas encore pu rentrer chez elles est autorisé.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/l-incendie-qui-a-fait-12-morts-dans-le-sud-de-l-espagne-est-stabilise_8104988.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 12 Jul 2026 12:46:26 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Violences faites aux femmes en hausse pendant la canicule : comment protéger les victimes ?",
+        "resume": "Selon plusieurs études scientifiques relayées par l'ONG Care France, les canicules s'accompagnent d'une hausse des violences conjugales, des agressions sexistes et des féminicides. “Les autorités ne s",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260712-violences-faites-aux-femmes-en-hausse-pendant-la-canicule-comment-prot%C3%A9ger-les-victimes",
+        "date": "Sun, 12 Jul 2026 10:11:31 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "\"Le niveau se stabilise\" : comment les équipes africaines ont marqué le Mondial 2026",
+        "resume": "Avec l'élimination du Maroc en quarts de finale face à la France, l'aventure des sélections africaines à la Coupe du monde 2026 a pris fin cette semaine. La rédaction de France 24 fait le bilan de la ",
+        "lien": "https://www.france24.com/fr/sports/20260712-comment-les-%C3%A9quipes-africaines-ont-marqu%C3%A9-le-mondial-2026",
+        "date": "Sun, 12 Jul 2026 10:10:14 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Afrique du Sud : Jayden Adams décède à 25 ans après avoir disputé le mondial",
+        "resume": "Le milieu de terrain de l’équipe d’Afrique du Sud, Jayden Adams, est mort à seulement 25 ans. Il venait tout juste de rentrer de la Coupe du Monde où il avait disputé trois rencontres pour les Bafana ",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260712-afrique-du-sud-jayden-adams-d%C3%A9c%C3%A8de-%C3%A0-25-ans-apr%C3%A8s-avoir-disput%C3%A9-le-mondial",
+        "date": "Sun, 12 Jul 2026 10:09:13 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Toy Story 5",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle… l'électronique !",
+        "note": 7.4,
+        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
+      },
+      {
+        "titre": "Disclosure Day",
+        "date_sortie": "2026-06-10",
+        "synopsis": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
+        "note": 6.686,
+        "affiche": "https://image.tmdb.org/t/p/w300/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg"
+      },
+      {
+        "titre": "Scary Movie",
+        "date_sortie": "2026-06-03",
+        "synopsis": "Vingt-six ans après avoir échappé à un tueur masqué étrangement familier, les héros emblématiques de la saga sont de nouveau dans la ligne de mire du meurtrier, et aucune franchise de film d’horreur n’est à l’abri.",
+        "note": 5.402,
+        "affiche": "https://image.tmdb.org/t/p/w300/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg"
+      },
+      {
+        "titre": "Backrooms",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
+        "note": 6.813,
+        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
+      },
+      {
+        "titre": "The Furious",
+        "date_sortie": "2026-06-10",
+        "synopsis": "Après l’enlèvement de sa fille par un réseau criminel et face à l’inaction de la police, Wang Wei se lance dans une traque implacable pour la retrouver. Son seul allié, Navin, est un journaliste tenace dont la femme a my",
+        "note": 7.524,
+        "affiche": "https://image.tmdb.org/t/p/w300/94rNmtdyclSnO3OOnVBW2Isy9r0.jpg"
+      },
+      {
+        "titre": "Vaiana, la légende du bout du monde",
+        "date_sortie": "2026-07-08",
+        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
+        "note": 5.1,
+        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Midnights in October",
+        "artiste": "Midnights in October",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Adopter la bonne posture : on n'achète pas tous les jours une ferme !",
+        "date_debut": "2026-07-15T16:30:00+00:00",
+        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Découvrez les opportunités du GEIQ pour les Personnes en Situation de Handicap",
+        "date_debut": "2026-07-16T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Découvrez les opportunités du GEIQ pour les Personnes en Situation de Handicap",
+        "date_debut": "2026-07-16T08:30:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Découvrez les opportunités du GEIQ pour les Personnes en Situation de Handicap",
+        "date_debut": "2026-07-16T08:45:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Réunion d'information pour la \"Passerelle découverte des métiers de l'hôtellerie restauration\"",
+        "date_debut": "2026-07-16T12:00:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Histoires de femmes et femmes d'histoire - Visite guidée",
+        "date_debut": "2026-07-12",
+        "lieu": "Nantes (Centre ville)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Croisière Estuaire Nantes-St Nazaire",
+        "date_debut": "2026-07-12",
+        "lieu": "Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Ecchymoses, une exposition collective de Claire Amiot, Pablo Boissel-Arrieta, Morgane Fontaine, Baptiste Jan & Floryan Varennes",
+        "date_debut": "2026-07-12",
+        "lieu": "Grand Huit - Collectif Bonus",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Jam odonymes",
+        "date_debut": "2026-07-12",
+        "lieu": "Quartier Chantenay - Bellevue - Croix Bonneau",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Balades touristiques en vélo-taxi",
+        "date_debut": "2026-07-12",
+        "lieu": "centre-ville",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-07-11",
     "news": [
       {
@@ -2582,205 +2781,6 @@
         "titre": "House of Banksy - Une expo non autorisée",
         "date_debut": "2026-06-29",
         "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-28",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Canicule : \"Il y a eu 122 000 interventions\" des secours pendant la vague de chaleur, annonce le ministre de l'Intérieur",
-        "resume": "Laurent Nuñez s'est exprimé dimanche lors d'un déplacement dans une caserne de pompiers parisienne. La ministre de la Santé a de son côté estimé que cet épisode caniculaire ne provoquera \"probablement",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-la-vigilance-rouge-ne-concerne-plus-que-le-haut-et-le-bas-rhin-45-departements-toujours-en-orange-apres-une-nuit-d-orages_8083376.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 28 Jun 2026 12:02:58 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "La vigilance rouge canicule ne concerne plus que le Haut-Rhin et le Bas-Rhin, 45 départements toujours en orange après une nuit d'orages",
-        "resume": "La baisse des températures s'est accompagnée samedi soir de forts orages sur plusieurs régions.",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/la-vigilance-rouge-canicule-ne-concerne-plus-que-le-haut-et-le-bas-rhin-45-departements-toujours-en-orange-apres-une-nuit-d-orages_8083445.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 28 Jun 2026 11:41:15 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Foudre, vent, grêle... Après la canicule, d'impressionnants orages ont traversé la France samedi soir",
-        "resume": "Quatorze départements passeront en vigilance orange orage ce dimanche dans l'après-midi, de l'Auvergne aux Pyrénées-Atlantiques.",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/en-images-foudre-vent-grele-apres-la-canicule-d-impressionnants-orages-ont-traverse-la-france-samedi-soir_8083475.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 28 Jun 2026 10:37:24 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Orages : le Nord durement touché, des dégâts dans plusieurs départements",
-        "resume": "Les pompiers du Nord ont réalisé 405 interventions dans la nuit de samedi à dimanche face aux violents intempéries.",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/orages-le-nord-durement-touche-des-degats-dans-plusieurs-departements_8083652.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 28 Jun 2026 12:18:31 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "En Europe, au moins 191 millions de personnes vont passer dimanche sous plus de 35°C à cause de la vague de chaleur",
-        "resume": "Au total, les températures maximales devraient dépasser 30°C pour plus de 381 millions d'habitants en Europe, selon les calculs de l'AFP.",
-        "lien": "https://www.franceinfo.fr/monde/europe/en-europe-au-moins-191-millions-de-personnes-vont-passer-dimanche-sous-plus-de-35-c-a-cause-de-la-vague-de-chaleur_8083580.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 28 Jun 2026 12:12:23 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Mondial 2026 : la RD Congo qualifiée, les supporters rêvent des demi-finales",
-        "resume": "Les supporters de la RD Congo célèbrent la qualification des Léopards à Atlanta et affichent leurs ambitions avant le quart de finale contre l'Angleterre. Plusieurs regrettent également l'absence du c",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260628-mondial-2026-la-rd-congo-qualifi%C3%A9e-les-supporters-r%C3%AAvent-des-demi-finales",
-        "date": "Sun, 28 Jun 2026 10:43:11 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Cuba se tourne vers l'énergie solaire face au blocus énergétique des États-Unis",
-        "resume": "Depuis que Washington impose un blocus pétrolier de facto à la Havane, l'île vit au rythme des coupures de courant. Les habitants se tournent vers de nouvelles solutions, dont l'énergie solaire.",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260628-cuba-se-tourne-vers-l-%C3%A9nergie-solaire-face-au-blocus-%C3%A9nerg%C3%A9tique-des-%C3%A9tats-unis",
-        "date": "Sun, 28 Jun 2026 10:41:05 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Mondial 2026 : la Coupe du monde suivie à Gaza",
-        "resume": "À Gaza, les matchs de la Coupe du monde sont diffusés dans des cafés improvisés. Une parenthèse dans un quotidien éprouvant.",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260628-mondial-2026-la-coupe-du-monde-suivie-%C3%A0-gaza",
-        "date": "Sun, 28 Jun 2026 10:37:39 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Toy Story 5",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle... l'électronique !",
-        "note": 7.467,
-        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
-      },
-      {
-        "titre": "Supergirl",
-        "date_sortie": "2026-07-01",
-        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
-        "note": 6.138,
-        "affiche": "https://image.tmdb.org/t/p/w300/ptyTrUvaQYkRTj42t6IMeGc0rZy.jpg"
-      },
-      {
-        "titre": "Disclosure Day",
-        "date_sortie": "2026-06-10",
-        "synopsis": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
-        "note": 6.694,
-        "affiche": "https://image.tmdb.org/t/p/w300/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg"
-      },
-      {
-        "titre": "The Mandalorian and Grogu",
-        "date_sortie": "2026-05-20",
-        "synopsis": "L'Empire maléfique est tombé et les seigneurs de guerre impériaux restent dispersés dans toute la galaxie. Alors que la nouvelle République naissante travaille pour protéger tout ce que la rébellion s'est battue, ils ont",
-        "note": 6.685,
-        "affiche": "https://image.tmdb.org/t/p/w300/qkH4ntQtO5qnL17RFOvmkNHKpGt.jpg"
-      },
-      {
-        "titre": "The Furious",
-        "date_sortie": "2026-06-10",
-        "synopsis": "Après l’enlèvement de sa fille par un réseau criminel et face à l’inaction de la police, Wang Wei se lance dans une traque implacable pour la retrouver. Son seul allié, Navin, est un journaliste tenace dont la femme a my",
-        "note": 7.685,
-        "affiche": "https://image.tmdb.org/t/p/w300/94rNmtdyclSnO3OOnVBW2Isy9r0.jpg"
-      },
-      {
-        "titre": "Backrooms",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
-        "note": 6.894,
-        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Midnights in October",
-        "artiste": "Midnights in October",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Meridians",
-        "artiste": "Alasdair Fraser",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Broken Dreams",
-        "artiste": "Siska",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "ЖЗЛ",
-        "artiste": "Lacerate",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Vous êtes bricoleur et avez le permis B ? Ne manquez pas notre réunion d'information sur le poste de Technicien SAV !",
-        "date_debut": "2026-06-29T07:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "[Webinaire] Comment l’intelligence artificielle (IA) peut vous aider dans votre communication commerciale ?",
-        "date_debut": "2026-06-30T09:00:00+00:00",
-        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "SHIVA recrute des employé(e)s de maison (ménage-repassage) secteur Angers // Chalonnes sur Loire",
-        "date_debut": "2026-07-02T07:00:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "réunion d'information création reprise entreprise en hôtellerie restauration avec accompagnement CCI Angers",
-        "date_debut": "2026-07-02T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Rendez-vous Angers Emploi Savary",
-        "date_debut": "2026-07-02T12:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Exposition - Brillos, les cultures Queer en Amérique latine hispanophone",
-        "date_debut": "2026-06-28",
-        "lieu": "Cosmopolis",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Balades touristiques en vélo-taxi",
-        "date_debut": "2026-06-28",
-        "lieu": "centre-ville",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Balades touristiques en vélo-taxi",
-        "date_debut": "2026-06-28",
-        "lieu": "centre-ville",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Stages théâtre Divine Triumph",
-        "date_debut": "2026-06-28",
-        "lieu": "Labo diva",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Croisière Estuaire Nantes-St Nazaire",
-        "date_debut": "2026-06-28",
-        "lieu": "Nantes",
         "ville": "Nantes"
       }
     ]
