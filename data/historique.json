@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-07-13",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Un nouvel incendie dans l'Yonne perturbe le trafic SNCF entre Paris et le Sud-Est, plus de trois heures de retard annoncées pour certains trains",
+        "resume": "L'incendie a parcouru 800 hectares, soit près de 5% du massif de la forêt, a relevé le ministre de l'Intérieur lors d'un point-presse sur place.",
+        "lien": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-les-flammes-ont-deja-parcouru-plus-de-800-hectares-dans-la-foret-de-fontainebleau-en-region-parisienne_8105603.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 13 Jul 2026 14:26:44 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "La perspective d'un procès est \"un nouvel espoir\" pour les victimes de l'attentat de Nice le 14-Juillet 2016, estime Virginie Leroy, avocate des parties civiles",
+        "resume": "Les familles accusent les autorités de n’avoir pas anticipé la menace et de n’avoir pas su sécuriser le feu d'artifice auquel participaient 25 000 personnes.",
+        "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/la-perspective-d-un-proces-est-un-nouvel-espoir-pour-les-victimes-de-l-attentat-de-nice-le-14-juillet-2016-estime-virginie-leroy-avocate-des-parties-civiles_8106194.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 13 Jul 2026 14:14:23 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Infiltrations, sabotages et espionnage : ce que l'on sait de la \"vaste opération cyber russe\", qui touche la France et une dizaine de pays européens",
+        "resume": "Le ministre des Affaires étrangères, Jean-Noël Barrot, a annoncé lundi qu'il allait convoquer l'ambassadeur russe en France \"dans les prochains jours\", tandis que l'Union européenne a évoqué de nouvel",
+        "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/infiltrations-sabotages-et-espionnage-ce-que-l-on-sait-de-la-vaste-operation-cyber-russe-qui-touche-la-france-et-une-dizaine-de-pays-europeens_8105945.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 13 Jul 2026 15:22:36 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Guerre au Moyen-Orient : la télévision d'Etat iranienne rapporte des \"tirs de sommation\" iraniens contre deux navires dans le détroit d'Ormuz",
+        "resume": "Ces bateaux \"tentaient de franchir illégalement le détroit d'Ormuz ont été pris pour cible et stoppés par des tirs de sommation de la marine des Gardiens de la Révolution\", a déclaré un correspondant ",
+        "lien": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-armee-americaine-annonce-une-nouvelle-serie-de-frappes-contre-des-dizaines-de-cibles-en-iran_8105657.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 13 Jul 2026 13:34:17 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Le nombre de faillites d'entreprises pourrait atteindre entre 71 000 et 75 000 d'ici la fin de l'année 2026",
+        "resume": "L'AGS prévoit de verser 2,6 milliards d'euros aux salariés d'entreprises en difficulté en 2026. Un bilan aggravé par de lourds plans sociaux ces derniers mois.",
+        "lien": "https://www.franceinfo.fr/economie/entreprises/le-nombre-de-faillites-d-entreprises-pourrait-atteindre-entre-71-000-et-75-000-d-ici-la-fin-de-l-annee-2026_8106080.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 13 Jul 2026 12:23:27 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Canicule en France : vigilance rouge maintenue dans trente-sept départements",
+        "resume": "Vingt-six millions de Français sont toujours concernés par la vigilance rouge à la canicule, avant une décrue prévue mardi 14 juillet, qui ne sera pour autant pas synonyme de fin de ce troisième coup ",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260713-canicule-en-france-vigilance-rouge-maintenue-dans-trente-sept-d%C3%A9partements",
+        "date": "Mon, 13 Jul 2026 13:35:58 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Derrière l'image : la campagne de Marine Le Pen, un duo avec Jordan Bardella",
+        "resume": "Derrière l'image revient sur la campagne de Marine Le Pen pour la présidentielle 2027. Tandis que Jordan Bardella s'assume en candidat Premier ministre, la candidate domine largement le premier tour d",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260713-derri%C3%A8re-l-image-la-campagne-de-marine-le-pen-un-duo-avec-jordan-bardella",
+        "date": "Mon, 13 Jul 2026 13:29:31 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Thaïlande : des personnes fuient l'incendie meurtrier d'un bar à Bangkok",
+        "resume": "Un incendie dans un bar a fait au moins 27 morts et des dizaines de blessés dimanche soir dans la périphérie de Bangkok, selon les autorités et des témoins, la pire catastrophe de ce type en Thaïlande",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260713-tha%C3%AFlande-des-personnes-fuient-l-incendie-meurtrier-d-un-bar-%C3%A0-bangkok",
+        "date": "Mon, 13 Jul 2026 13:06:54 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Toy Story 5",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle… l'électronique !",
+        "note": 7.4,
+        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
+      },
+      {
+        "titre": "Disclosure Day",
+        "date_sortie": "2026-06-10",
+        "synopsis": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
+        "note": 6.689,
+        "affiche": "https://image.tmdb.org/t/p/w300/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg"
+      },
+      {
+        "titre": "Scary Movie",
+        "date_sortie": "2026-06-03",
+        "synopsis": "Vingt-six ans après avoir échappé à un tueur masqué étrangement familier, les héros emblématiques de la saga sont de nouveau dans la ligne de mire du meurtrier, et aucune franchise de film d’horreur n’est à l’abri.",
+        "note": 5.4,
+        "affiche": "https://image.tmdb.org/t/p/w300/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg"
+      },
+      {
+        "titre": "Backrooms",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
+        "note": 6.822,
+        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
+      },
+      {
+        "titre": "Vaiana, la légende du bout du monde",
+        "date_sortie": "2026-07-08",
+        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
+        "note": 5.272,
+        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
+      },
+      {
+        "titre": "The Furious",
+        "date_sortie": "2026-06-10",
+        "synopsis": "Après l’enlèvement de sa fille par un réseau criminel et face à l’inaction de la police, Wang Wei se lance dans une traque implacable pour la retrouver. Son seul allié, Navin, est un journaliste tenace dont la femme a my",
+        "note": 7.532,
+        "affiche": "https://image.tmdb.org/t/p/w300/94rNmtdyclSnO3OOnVBW2Isy9r0.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Midnights in October",
+        "artiste": "Midnights in October",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Adopter la bonne posture : on n'achète pas tous les jours une ferme !",
+        "date_debut": "2026-07-15T16:30:00+00:00",
+        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Découvrez les opportunités du GEIQ pour les Personnes en Situation de Handicap",
+        "date_debut": "2026-07-16T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Découvrez les opportunités du GEIQ pour les Personnes en Situation de Handicap",
+        "date_debut": "2026-07-16T08:30:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Découvrez les opportunités du GEIQ pour les Personnes en Situation de Handicap",
+        "date_debut": "2026-07-16T08:45:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Réunion d'information pour la \"Passerelle découverte des métiers de l'hôtellerie restauration\"",
+        "date_debut": "2026-07-16T12:00:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Le Grand Spectacle avec Zoé, Victor, Aziza, Noahm, Camille, Raphaël et Bilal de Claire FRANEK",
+        "date_debut": "2026-07-13",
+        "lieu": "Le Pavillon - Maison de quartier de la Bottière",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition : Sous terre, la vie du sol",
+        "date_debut": "2026-07-13",
+        "lieu": "Parc Potager de la Crapaudine",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Ateliers de co-conception de l’œuvre street art de la Mano avec l'artiste",
+        "date_debut": "2026-07-13",
+        "lieu": "Maison de quartier La Mano",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Atelier bulles de détente",
+        "date_debut": "2026-07-13",
+        "lieu": "Square Georges Méliès",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Balades touristiques en vélo-taxi",
+        "date_debut": "2026-07-13",
+        "lieu": "centre-ville",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-07-12",
     "news": [
       {
@@ -2582,205 +2781,6 @@
         "titre": "Jardinage au jardin partagé Paysages Nourriciers du Breil",
         "date_debut": "2026-06-30",
         "lieu": "Parc Georges Méliès",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-29",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Canicule : \"Le nombre de victimes à domicile est bien supérieur à tous les épisodes précédents\", annonce le Premier ministre, Sébastien Lecornu",
-        "resume": "Le plan Orsan 3 est maintenu dans les jours à venir, a annoncé le chef du gouvernement, lundi, avant une réunion de la cellule interministérielle de crise.",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-la-vigilance-orange-est-levee-pour-l-ile-de-france-et-neuf-autres-departements_8084432.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 29 Jun 2026 18:53:07 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Que sait-on du risque d'un retour des fortes chaleurs, voire d'une canicule, pour les prochaines semaines ?",
-        "resume": "Météo-France confirme qu'un scénario de fortes chaleurs semble \"probable\" notamment pour la semaine du 6 au 13 juillet, mais appelle à la prudence concernant l'intensité du phénomène.",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/que-sait-on-du-risque-d-un-retour-des-fortes-chaleurs-voire-d-une-canicule-pour-les-prochaines-semaines_8084477.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 29 Jun 2026 12:04:14 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Canicule : un nombre de décès qui pourrait encore augmenter",
-        "resume": "Alors que les températures baissent, l'urgence demeure : les hôpitaux craignent une nouvelle vague de décès dans les jours à venir due à la canicule.",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-un-nombre-de-deces-qui-pourrait-encore-augmenter_8085098.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 29 Jun 2026 16:37:46 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Rénovation thermique, achat de volets ou d'un climatiseur... Qu'avez-vous prévu pour faire face à une prochaine canicule ?",
-        "resume": "Alors qu'un épisode s'achève et que d'autres menacent, franceinfo recherche le témoignage de lecteurs que les chaleurs extrêmes de ces dernières semaines ont convaincus d'agir pour ne plus souffrir au",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/appel-a-temoignages-renovation-thermique-achat-de-volets-ou-d-un-climatiseur-qu-avez-vous-prevu-pour-faire-face-a-une-prochaine-canicule_8084693.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 29 Jun 2026 12:43:10 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Canicule : c'est quoi l'effet retard ?",
-        "resume": "Alors que les températures baissent, l’urgence demeure : les hôpitaux craignent une nouvelle vague de décès dans les jours à venir, liée à la canicule. C’est ce que l’on appelle \"l’effet retard\".",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-c-est-quoi-l-effet-retard_8085398.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 29 Jun 2026 17:38:15 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "France: réintroduction de pesticides, partage de l'eau et loup en débat au Sénat",
-        "resume": "La loi d'urgence agricole est examinée au Sénat en France. Le sénateur Laurent Duplomb tente une nouvelle fois d'obtenir la réautorisation de deux pesticides dont l'acétamipride. Deux autres amendemen",
-        "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260629-france-r%C3%A9introduction-de-pesticides-partage-de-l-eau-et-loup-en-d%C3%A9bat-au-s%C3%A9nat",
-        "date": "Mon, 29 Jun 2026 17:12:36 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "La France inflige un lourd malus financier aux produits de \"l'ultra fast-fashion\"",
-        "resume": "Le Parlement français a approuvé, lundi, un texte instaurant un malus financier sur les produits achetés sur les sites d'\"ultra fast-fashion\", tels que Shein ou Temu. La gauche a regretté ce périmètre",
-        "lien": "https://www.france24.com/fr/france/20260629-parlement-france-adopte-loi-ultra-fast-fashion-shein-zara-malus-p%C3%A9nalit%C3%A9-publicit%C3%A9-interdite-influenceurs",
-        "date": "Mon, 29 Jun 2026 17:03:38 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Togo : la Cour de justice de la CEDEAO juge illégale la réforme constitutionnelle de 2024",
-        "resume": "Au Togo, un arrêt de la Cour de justice de la CEDEAO datant de fin janvier, mais rendu public seulement le 25 juin, juge illégale la réforme constitutionnelle du pays adoptée il y a deux ans. Une réfo",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260629-togo-la-cour-de-justice-de-la-cedeao-juge-ill%C3%A9gale-la-r%C3%A9forme-constitutionnelle-de-2024",
-        "date": "Mon, 29 Jun 2026 17:02:51 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Disclosure Day",
-        "date_sortie": "2026-06-10",
-        "synopsis": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
-        "note": 6.695,
-        "affiche": "https://image.tmdb.org/t/p/w300/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg"
-      },
-      {
-        "titre": "Toy Story 5",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle... l'électronique !",
-        "note": 7.472,
-        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
-      },
-      {
-        "titre": "Backrooms",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
-        "note": 6.875,
-        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
-      },
-      {
-        "titre": "Scary Movie",
-        "date_sortie": "2026-06-03",
-        "synopsis": "Vingt-six ans après avoir échappé à un tueur masqué étrangement familier, les héros emblématiques de la saga sont de nouveau dans la ligne de mire du meurtrier, et aucune franchise de film d’horreur n’est à l’abri.",
-        "note": 5.524,
-        "affiche": "https://image.tmdb.org/t/p/w300/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg"
-      },
-      {
-        "titre": "Supergirl",
-        "date_sortie": "2026-07-01",
-        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
-        "note": 6.2,
-        "affiche": "https://image.tmdb.org/t/p/w300/ptyTrUvaQYkRTj42t6IMeGc0rZy.jpg"
-      },
-      {
-        "titre": "The Mandalorian and Grogu",
-        "date_sortie": "2026-05-20",
-        "synopsis": "L'Empire maléfique est tombé et les seigneurs de guerre impériaux restent dispersés dans toute la galaxie. Alors que la nouvelle République naissante travaille pour protéger tout ce que la rébellion s'est battue, ils ont",
-        "note": 6.687,
-        "affiche": "https://image.tmdb.org/t/p/w300/qkH4ntQtO5qnL17RFOvmkNHKpGt.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Young & Cursed (Original Motion Picture Soundtrack)",
-        "artiste": "Patrick O'Malley",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Warehouse 10 Volume 15",
-        "artiste": "Dave Matthews Band",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Warehouse 2026: 7.16.2025 Allianz Amphitheater At Riverfront, Richmond, VA",
-        "artiste": "Dave Matthews Band",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Time Machine",
-        "artiste": "The Jungle",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "RAGE",
-        "artiste": "Kita Alexander",
-        "date_sortie": "2026-06-26"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Vous êtes bricoleur et avez le permis B ? Ne manquez pas notre réunion d'information sur le poste de Technicien SAV !",
-        "date_debut": "2026-06-29T07:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "[Webinaire] Comment l’intelligence artificielle (IA) peut vous aider dans votre communication commerciale ?",
-        "date_debut": "2026-06-30T09:00:00+00:00",
-        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "SHIVA recrute des employé(e)s de maison (ménage-repassage) secteur Angers // Chalonnes sur Loire",
-        "date_debut": "2026-07-02T07:00:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "réunion d'information création reprise entreprise en hôtellerie restauration avec accompagnement CCI Angers",
-        "date_debut": "2026-07-02T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Rendez-vous Angers Emploi Savary",
-        "date_debut": "2026-07-02T12:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Terrain d'aventures Dervallières",
-        "date_debut": "2026-06-29",
-        "lieu": "Plaine Lorrain",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Exposition « L'agroalimentaire, une empreinte nantaise »",
-        "date_debut": "2026-06-29",
-        "lieu": "Maison des Hommes et des Techniques (MHT)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Stage de théâtre ados",
-        "date_debut": "2026-06-29",
-        "lieu": "Maison des Associations du Port Boyer",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Balades touristiques en vélo-taxi",
-        "date_debut": "2026-06-29",
-        "lieu": "centre-ville",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "House of Banksy - Une expo non autorisée",
-        "date_debut": "2026-06-29",
-        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
         "ville": "Nantes"
       }
     ]
