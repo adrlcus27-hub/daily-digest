@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-07-14",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Cérémonies du 14-Juillet : un nombre record de militaires pour le dernier défilé présidé par Emmanuel Macron",
+        "resume": "A l'occasion de la Fête nationale, le chef de l'Etat préside le dixième et dernier défilé du 14-Juillet de ses quinquennats. La cérémonie militaire s'annonce spectaculaire et plus massive que les anné",
+        "lien": "https://www.franceinfo.fr/france/14-juillet/direct-ceremonies-du-14-juillet-suivez-le-traditionnel-defile-militaire-sur-les-champs-elysees-a-paris_8086544.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 14 Jul 2026 10:37:44 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Dernier défilé d'Emmanuel Macron, démonstrations militaires inédites, 7 000 policiers mobilisés... Ce qu'il faut savoir sur l'édition 2026 du défilé du 14-Juillet",
+        "resume": "Placée sous le thème du \"réveil stratégique de l'Europe\", cette édition de la fête nationale sera également la dernière d'Emmanuel Macron en tant que président de la République.",
+        "lien": "https://www.franceinfo.fr/france/14-juillet/dernier-defile-d-emmanuel-macron-demonstrations-militaires-inedites-7-000-policiers-mobilises-ce-qu-il-faut-savoir-sur-l-edition-2026-du-defile-du-14-juillet_8105975.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 13 Jul 2026 17:04:32 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Les ultramarins du 11e régiment d'infanterie de marine font un haka devant l'Arc de triomphe avant le défilé du 14-Juillet",
+        "resume": "Cette danse chantée rituel issue de la culture maori a été exécutée lundi sur la place de l'Etoile, à Paris.",
+        "lien": "https://www.franceinfo.fr/france/14-juillet/les-ultramarins-du-11e-regiment-d-infanterie-de-marine-font-un-haka-devant-l-arc-de-triomphe-avant-le-defile-du-14-juillet_8107253.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 14 Jul 2026 11:38:57 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Ce sera massif\" : Emmanuel Macron promet \"un défilé historique\" pour le dernier 14-Juillet de son double quinquennat",
+        "resume": "Le chef de l'Etat vante son bilan en matière de défense et de réarmement face aux nouvelles menaces géostratégiques qui sont apparues depuis dix ans.",
+        "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/ce-sera-massif-emmanuel-macron-promet-un-defile-historique-pour-le-dernier-14-juillet-de-son-double-quinquennat_8105954.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 14 Jul 2026 05:46:14 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Le Conseil d'Etat rétablit finalement le QR code obligatoire pour le défilé du 14-Juillet",
+        "resume": "Le tribunal administratif de Paris avait d'abord annulé cette mesure, lundi, après avoir été saisi en urgence par une association.",
+        "lien": "https://www.franceinfo.fr/france/14-juillet/le-conseil-d-etat-retablit-finalement-le-qr-code-obligatoire-pour-le-defile-du-14-juillet_8107082.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 14 Jul 2026 08:54:36 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "\"Mbappé dictateur\" : comment le capitaine des Bleus a tourné la critique en atout",
+        "resume": "Depuis le début de la Coupe du monde, une tendance sur les réseaux sociaux associant Kylian Mbappé à l'image d'un dictateur tout-puissant a gagné en popularité sur internet et dans les stades. Si ce s",
+        "lien": "https://www.france24.com/fr/sports/20260714-mbapp%C3%A9-dictateur-capitaine-bleus-critique-avantage-france-espagne-mondial",
+        "date": "Tue, 14 Jul 2026 10:25:50 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "L'Ukraine force la Russie à rediriger son trafic maritime en mer d'Azov",
+        "resume": "L'armée ukrainienne a indiqué avoir frappé plus d'une centaine de bateaux russes en mer d'Azov, dont 11 dans la nuit de lundi à mardi, dans ce passage de transport stratégique pour les produits agrico",
+        "lien": "https://www.france24.com/fr/europe/20260714-l-ukraine-force-la-russie-%C3%A0-rediriger-son-trafic-maritime-en-mer-d-azov",
+        "date": "Tue, 14 Jul 2026 09:56:37 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Un monde moins peuplé et plus âgé : l'hiver démographique",
+        "resume": "En 2050, la Terre comptera 9,8 milliards d'habitants. Certains pays gagneront des habitants, d'autres en perdront. Les premiers se trouvent surtout parmi les nations en développement, les seconds parm",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/aux-avant-postes/20260714-un-monde-moins-peupl%C3%A9-et-plus-%C3%A2g%C3%A9-l-hiver-d%C3%A9mographique",
+        "date": "Tue, 14 Jul 2026 09:28:58 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Toy Story 5",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle… l'électronique !",
+        "note": 7.4,
+        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
+      },
+      {
+        "titre": "Disclosure Day",
+        "date_sortie": "2026-06-10",
+        "synopsis": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
+        "note": 6.7,
+        "affiche": "https://image.tmdb.org/t/p/w300/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg"
+      },
+      {
+        "titre": "Scary Movie",
+        "date_sortie": "2026-06-03",
+        "synopsis": "Vingt-six ans après avoir échappé à un tueur masqué étrangement familier, les héros emblématiques de la saga sont de nouveau dans la ligne de mire du meurtrier, et aucune franchise de film d’horreur n’est à l’abri.",
+        "note": 5.4,
+        "affiche": "https://image.tmdb.org/t/p/w300/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg"
+      },
+      {
+        "titre": "Backrooms",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
+        "note": 6.8,
+        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
+      },
+      {
+        "titre": "Vaiana, la légende du bout du monde",
+        "date_sortie": "2026-07-08",
+        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
+        "note": 5.448,
+        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
+      },
+      {
+        "titre": "The Furious",
+        "date_sortie": "2026-06-10",
+        "synopsis": "Après l’enlèvement de sa fille par un réseau criminel et face à l’inaction de la police, Wang Wei se lance dans une traque implacable pour la retrouver. Son seul allié, Navin, est un journaliste tenace dont la femme a my",
+        "note": 7.5,
+        "affiche": "https://image.tmdb.org/t/p/w300/94rNmtdyclSnO3OOnVBW2Isy9r0.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 1",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Adopter la bonne posture : on n'achète pas tous les jours une ferme !",
+        "date_debut": "2026-07-15T16:30:00+00:00",
+        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Découvrez les opportunités du GEIQ pour les Personnes en Situation de Handicap",
+        "date_debut": "2026-07-16T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Découvrez les opportunités du GEIQ pour les Personnes en Situation de Handicap",
+        "date_debut": "2026-07-16T08:30:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Découvrez les opportunités du GEIQ pour les Personnes en Situation de Handicap",
+        "date_debut": "2026-07-16T08:45:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Réunion d'information pour la \"Passerelle découverte des métiers de l'hôtellerie restauration\"",
+        "date_debut": "2026-07-16T12:00:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Le Grand Spectacle avec Zoé, Victor, Aziza, Noahm, Camille, Raphaël et Bilal de Claire FRANEK",
+        "date_debut": "2026-07-14",
+        "lieu": "Le Pavillon - Maison de quartier de la Bottière",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition : Sous terre, la vie du sol",
+        "date_debut": "2026-07-14",
+        "lieu": "Parc Potager de la Crapaudine",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Balades touristiques en vélo-taxi",
+        "date_debut": "2026-07-14",
+        "lieu": "centre-ville",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Expression(s) Décoloniale(s) #4 - Exposition",
+        "date_debut": "2026-07-14",
+        "lieu": "Château des Ducs de Bretagne -   Musée d'Histoire de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Terrain d'aventures Dervallières",
+        "date_debut": "2026-07-14",
+        "lieu": "Plaine Lorrain",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-07-13",
     "news": [
       {
@@ -2582,205 +2781,6 @@
         "titre": "Friperie solidaire des Bourderies",
         "date_debut": "2026-07-01",
         "lieu": "Centre socioculturel des Bourderies",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-30",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Le pronostic vital d'une victime de l'explosion d'un colis piégé à Monaco est toujours engagé, l'homme et l'enfant sont hors de danger",
-        "resume": "L'une des trois personnes blessées est l'oligarque ukrainien Vadim Ermolaev. Le procureur général Stéphane Thibault a confirmé qu'il ne s'agissait pas d'un attentat, mais plutôt d'une tentative d'assa",
-        "lien": "https://www.franceinfo.fr/faits-divers/le-pronostic-vital-est-toujours-engage-une-victime-apres-l-explosion-d-un-colis-piege-a-monaco-l-homme-et-l-enfant-hors-de-danger_8086562.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 30 Jun 2026 12:45:21 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"On veut montrer qu'on est là\" : à Los Angeles, le Mexique prend ses quartiers pendant la Coupe du monde",
-        "resume": "Ne vous étonnez pas de voir des maillots verts partout dans la mégapole californienne. L'importante communauté mexicaine qui y réside en a fait un marqueur identitaire (et politique).",
-        "lien": "https://www.franceinfo.fr/coupe-du-monde/masculine/reportage-on-veut-montrer-qu-on-est-la-a-los-angeles-le-mexique-prend-ses-quartiers-pendant-la-coupe-du-monde_8074763.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 30 Jun 2026 12:09:10 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Premiers congés de naissance, hausse du prix du gaz, taxe sur les petits colis... Ce qui change au 1er juillet",
-        "resume": "Dès mercredi, les nouveaux parents pourront profiter du nouveau congé de naissance d'une durée d'un ou deux mois.",
-        "lien": "https://www.franceinfo.fr/societe/premiers-conges-de-naissance-hausse-du-prix-du-gaz-taxe-sur-les-petits-colis-ce-qui-change-au-1er-juillet_8084684.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 30 Jun 2026 07:01:10 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "L'Union européenne appliquera son accord commercial avec les Etats-Unis mercredi, en supprimant les droits de douane sur les produits américains",
-        "resume": "Cet accord commercial est le principal engagement pris l'été dernier par les Européens à Turnberry, en Écosse.",
-        "lien": "https://www.franceinfo.fr/monde/usa/droits-de-douane/l-union-europeenne-appliquera-son-accord-commercial-avec-les-etats-unis-mercredi-en-supprimant-les-droits-de-douane-sur-les-produits-americains_8086688.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 30 Jun 2026 13:59:06 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Les allocations chômage ne seront pas revalorisées au 1er juillet, annonce l'Unédic",
-        "resume": "La dernière revalorisation des allocations chômage remontait au 1er juillet 2025.",
-        "lien": "https://www.franceinfo.fr/economie/emploi/chomage/les-allocations-chomage-ne-seront-pas-revalorisees-au-1er-juillet-annonce-l-unedic_8086676.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 30 Jun 2026 13:30:35 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Monaco : enquête ouverte pour \"tentative d'assassinat\", la qualification \"terroriste\" non retenue",
-        "resume": "Au lendemain de l'attaque à l'engin explosif survenue à Monaco, dans laquelle trois personnes ont été blessées, une enquête a été ouverte pour \"tentative d'assassinat\", a déclaré le procureur général ",
-        "lien": "https://www.france24.com/fr/europe/20260630-monaco-enqu%C3%AAte-ouverte-pour-tentative-d-assassinat-la-qualification-terroriste-non-retenue",
-        "date": "Tue, 30 Jun 2026 11:47:11 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Non, cette vidéo ne montre pas des chrétiens africains réduits en esclavage par des musulmans",
-        "resume": "Une vidéo montrant des hommes menottés marchant en file indienne, virale, est relayée par des comptes islamophobes, qui affirment qu’elle montre des musulmans réduisant en esclavage des chrétiens afri",
-        "lien": "https://www.france24.com/fr/afrique/20260630-non-cette-vid%C3%A9o-ne-montre-pas-des-chr%C3%A9tiens-africains-r%C3%A9duits-en-esclavage-par-des-musulmans",
-        "date": "Tue, 30 Jun 2026 11:40:43 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "L'espace, le meilleur labo de la Terre ? Parlons-en avec C. Haigneré, S. Rousseau et O. Sanguy",
-        "resume": "C’est à bord de la Station spatiale internationale, en orbite, qu’une Française de 43 ans entame son 137ème jour à 400 km au-dessus de la Terre. Sophie Adenot est la deuxième femme astronaute tricolor",
-        "lien": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20260630-l-espace-le-meilleur-labo-de-la-terre-parlons-en-avec-c-haigner%C3%A9-s-rousseau-et-o-sanguy",
-        "date": "Tue, 30 Jun 2026 11:36:24 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Disclosure Day",
-        "date_sortie": "2026-06-10",
-        "synopsis": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
-        "note": 6.694,
-        "affiche": "https://image.tmdb.org/t/p/w300/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg"
-      },
-      {
-        "titre": "Toy Story 5",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle... l'électronique !",
-        "note": 7.481,
-        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
-      },
-      {
-        "titre": "Backrooms",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
-        "note": 6.9,
-        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
-      },
-      {
-        "titre": "Scary Movie",
-        "date_sortie": "2026-06-03",
-        "synopsis": "Vingt-six ans après avoir échappé à un tueur masqué étrangement familier, les héros emblématiques de la saga sont de nouveau dans la ligne de mire du meurtrier, et aucune franchise de film d’horreur n’est à l’abri.",
-        "note": 5.515,
-        "affiche": "https://image.tmdb.org/t/p/w300/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg"
-      },
-      {
-        "titre": "Supergirl",
-        "date_sortie": "2026-07-01",
-        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
-        "note": 6.251,
-        "affiche": "https://image.tmdb.org/t/p/w300/ptyTrUvaQYkRTj42t6IMeGc0rZy.jpg"
-      },
-      {
-        "titre": "The Mandalorian and Grogu",
-        "date_sortie": "2026-05-20",
-        "synopsis": "L'Empire maléfique est tombé et les seigneurs de guerre impériaux restent dispersés dans toute la galaxie. Alors que la nouvelle République naissante travaille pour protéger tout ce que la rébellion s'est battue, ils ont",
-        "note": 6.7,
-        "affiche": "https://image.tmdb.org/t/p/w300/qkH4ntQtO5qnL17RFOvmkNHKpGt.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Midnights in October",
-        "artiste": "Midnights in October",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "[Webinaire] Comment l’intelligence artificielle (IA) peut vous aider dans votre communication commerciale ?",
-        "date_debut": "2026-06-30T09:00:00+00:00",
-        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "SHIVA recrute des employé(e)s de maison (ménage-repassage) secteur Angers // Chalonnes sur Loire",
-        "date_debut": "2026-07-02T07:00:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "réunion d'information création reprise entreprise en hôtellerie restauration avec accompagnement CCI Angers",
-        "date_debut": "2026-07-02T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Rendez-vous Angers Emploi Savary",
-        "date_debut": "2026-07-02T12:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Rendez-vous Angers Emploi Savary",
-        "date_debut": "2026-07-02T13:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Expression(s) Décoloniale(s) #4 - Exposition",
-        "date_debut": "2026-06-30",
-        "lieu": "Château des Ducs de Bretagne -   Musée d'Histoire de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Exposition Handiclap - au Pellerin",
-        "date_debut": "2026-06-30",
-        "lieu": "Médiathèque du Pellerin",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Stage de pratique artistique ado",
-        "date_debut": "2026-06-30",
-        "lieu": "La Bonneterie",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Apéro'Crochet, tous niveaux",
-        "date_debut": "2026-06-30",
-        "lieu": "Le 20 mille",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Jardinage au jardin partagé Paysages Nourriciers du Breil",
-        "date_debut": "2026-06-30",
-        "lieu": "Parc Georges Méliès",
         "ville": "Nantes"
       }
     ]
