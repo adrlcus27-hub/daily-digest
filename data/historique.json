@@ -1,5 +1,173 @@
 [
   {
+    "date": "2026-07-20",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Capacités de largage importantes, pilotage difficile... On vous présente l'A400M, avion militaire transformé pour lutter contre les incendies",
+        "resume": "Laurent Nuñez a annoncé lundi sur France Inter l'équipement de l'A400M, un avion de transport militaire, pour lutter contre les nombreux incendies attisés par les fortes chaleurs et la sécheresse. Ces",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/capacites-de-largage-importantes-pilotage-difficile-on-vous-presente-l-a400m-avion-militaire-transforme-pour-lutter-contre-les-incendies_8114822.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 20 Jul 2026 14:19:11 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Incendie dans le Var : \"Le feu n'est pas encore fixé\", annoncent les pompiers",
+        "resume": "Quelque 360 pompiers sont toujours mobilisés lundi contre les flammes dans les communes de Taradeau et des Arcs.",
+        "lien": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-plus-de-600-pompiers-mobilises-pour-lutter-contre-les-flammes-dans-la-commune-de-taradeau-dans-le-var_8114624.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 20 Jul 2026 12:15:31 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Plus de 360 pompiers encore mobilisés, dix maisons brûlées, trains supprimés... Ce que l'on sait de l'incendie dans le Var",
+        "resume": "Le feu s'est déclenché dimanche et a parcouru 200 hectares à proximité d'habitations dans les communes des Arcs et de Taradeau. Le département du sud-est de la France est en vigilance orange \"canicule",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/plus-de-360-pompiers-encore-mobilises-dix-maisons-brulees-trains-supprimes-ce-que-l-on-sait-de-l-incendie-dans-le-var_8114654.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 20 Jul 2026 10:41:35 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"On prend en photo toute voiture suspecte\" : après l'incendie à Fontainebleau, des riverains traumatisés patrouillent aux lisières de la forêt",
+        "resume": "Le feu couve toujours dans la forêt de Fontainebleau, au sud-est de Paris. Alors des habitants de Noisy-sur-Ecole, tout près, s'organisent pour surveiller les lieux et signaler tout comportement suspe",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/reportage-on-prend-en-photo-toute-voiture-suspecte-apres-l-incendie-a-fontainebleau-des-riverains-aux-aguets-pour-proteger-la-foret-des-pyromanes_8114606.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 20 Jul 2026 12:06:18 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Je pense que ce soir, nous n'aurons plus une maison pour nous coucher\" : deux communes touchées par un incendie dans le Var",
+        "resume": "Plusieurs départs de feux ont eu lieu dans le Var, dimanche 19 juillet, avec une progression extrêmement rapide sous l’effet du vent. Plusieurs habitations ont été touchées dans les secteurs de Tarade",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/je-pense-que-ce-soir-nous-n-aurons-plus-une-maison-pour-nous-coucher-deux-communes-touchees-par-un-incendie-dans-le-var_8114354.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 19 Jul 2026 23:10:22 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "🔴 Royaume-Uni : suivez en direct le discours du nouveau Premier ministre Andy Burnham",
+        "resume": "",
+        "lien": "https://www.france24.com/fr/europe/20260720-royaume-uni-andy-burnham-succ%C3%A8de-%C3%A0-keir-starmer-au-poste-de-premier-ministre",
+        "date": "Mon, 20 Jul 2026 11:48:10 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "En RDC, Félix Tshisekedi annonce un dialogue national inclusif",
+        "resume": "En République démocratique du Congo, le président Félix Tshisekedi semble avoir écouté certaines revendications de ses opposants et des églises catholiques et protestantes. Il a ouvert la voie à un di",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260720-en-rdc-f%C3%A9lix-tshisekedi-annonce-un-dialogue-national-inclusif",
+        "date": "Mon, 20 Jul 2026 11:25:01 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Royaume-Uni : quels défis attendent Andy Burnham ?",
+        "resume": "Le travailliste Andy Burnham prend lundi ses fonctions de Premier ministre du Royaume-Uni, et entend incarner à Downing Street un changement de style autant que politique, dans un pays confronté à des",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260720-royaume-uni-quels-d%C3%A9fis-attendent-andy-burnham",
+        "date": "Mon, 20 Jul 2026 11:24:14 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "L'Odyssée",
+        "date_sortie": "2026-07-15",
+        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
+        "note": 7.8,
+        "affiche": "https://image.tmdb.org/t/p/w300/k12dsDVtARFmr6TbC2hn0c68aw5.jpg"
+      },
+      {
+        "titre": "Disclosure Day",
+        "date_sortie": "2026-06-10",
+        "synopsis": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
+        "note": 6.691,
+        "affiche": "https://image.tmdb.org/t/p/w300/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg"
+      },
+      {
+        "titre": "Toy Story 5",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle… l'électronique !",
+        "note": 7.4,
+        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
+      },
+      {
+        "titre": "Vaiana, la légende du bout du monde",
+        "date_sortie": "2026-07-08",
+        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
+        "note": 5.843,
+        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
+      },
+      {
+        "titre": "Des Minions et des monstres",
+        "date_sortie": "2026-06-24",
+        "synopsis": "L’histoire turbulente, absurde et évidemment vraie des Minions et la manière dont ils ont conquis Hollywood, sont devenus de véritables stars de cinéma, ont tout perdu, ont libéré des monstres dans notre monde, puis ont ",
+        "note": 6.4,
+        "affiche": "https://image.tmdb.org/t/p/w300/jMOf0SSthlNp5uXhEXz4e3tqDX5.jpg"
+      },
+      {
+        "titre": "Backrooms",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
+        "note": 7.045,
+        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
+      }
+    ],
+    "albums": [],
+    "evenements": [
+      {
+        "titre": "Réunion visio pour aider au développement de l'entreprise créée",
+        "date_debut": "2026-07-21T12:00:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Matinale création d'entreprise (pour les porteurs de projet ou début de création) Angers Balzac",
+        "date_debut": "2026-07-22T07:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Randstad Inhouse Bouvet recrute !",
+        "date_debut": "2026-07-23T07:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Atelier en visio : Profil de compétences & Organisation des démarches (ODD)",
+        "date_debut": "2026-07-24T07:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Recrutement - Employé(e) Polyvalent(e) en restauration chez Luks Kebab ANGERS",
+        "date_debut": "2026-07-27T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "INTERSTELLAR Ré-imaginer la Terre",
+        "date_debut": "2026-07-20",
+        "lieu": "HAB Galerie (Hangar à Bananes)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Odyssée de l’oubli - Exposition Anne et Patrick Poirier",
+        "date_debut": "2026-07-20",
+        "lieu": "Musée d'arts de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Terrain d'aventures de Nantes Nord des Ceméa Pays de la loire",
+        "date_debut": "2026-07-20",
+        "lieu": "2 rue Samuel de Champlain",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition Le Muséum au fil du temps",
+        "date_debut": "2026-07-20",
+        "lieu": "Place de la Monnaie",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Terrain d'aventures Dervallières",
+        "date_debut": "2026-07-20",
+        "lieu": "Plaine Lorrain",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-07-19",
     "news": [
       {
@@ -2582,205 +2750,6 @@
         "titre": "Balades touristiques en vélo-taxi",
         "date_debut": "2026-07-07",
         "lieu": "centre-ville",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-06",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Il avait besoin de parler\" : ce qu'il faut retenir de la conférence de presse des avocats de Cédric Jubillar, qui a reconnu avoir tué sa femme",
-        "resume": "Guy et Pierre Debuisson expliquent notamment avoir noué une relation de confiance avec leur client, ce qui lui a permis de passer aux aveux. Ils souhaitent désormais le report du procès en appel qui d",
-        "lien": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/il-avait-besoin-de-parler-ce-qu-il-faut-retenir-de-la-conference-de-presse-des-avocats-de-cedric-jubillar-qui-a-reconnu-avoir-tue-sa-femme_8095916.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 06 Jul 2026 16:16:12 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "La vigilance orange canicule étendue à 61 départements mardi, contre 16 lundi, annonce Météo-France",
-        "resume": "Météo-France alerte sur un \"nouvel épisode sévère et durable, nécessitant une vigilance particulière notamment pour les personnes sensibles ou exposées\".",
-        "lien": "https://www.franceinfo.fr/environnement/meteo/alertes-meteo-et-vigilances/la-vigilance-orange-canicule-etendue-a-61-departements-mardi-contre-16-lundi-annonce-meteo-france_8096354.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 06 Jul 2026 16:36:48 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Si un chef d'Etat interfère dans les règles de la Fifa...\" : on vous explique l'affaire Balogun-Trump, rarissime cas d'ingérence politique dans la Coupe du monde",
-        "resume": "Expulsé lors du 16e de finale des Etats-Unis contre la Bosnie-Herzégovine, l'attaquant américain pourra finalement jouer contre la Belgique dans la nuit de lundi à mardi. L'intervention de Donald Trum",
-        "lien": "https://www.franceinfo.fr/coupe-du-monde/si-un-chef-d-etat-interfere-dans-les-regles-de-la-fifa-on-vous-explique-l-affaire-balogun-trump-rarissime-cas-d-ingerence-politique-dans-la-coupe-du-monde_8095907.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 06 Jul 2026 18:25:28 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Emmanuel Macron est arrivé en Syrie, une première pour un chef d'Etat de l'Union européenne depuis la chute de Bachar al-Assad",
-        "resume": "Le chef d'Etat français va défendre, lors d'une visite de deux jours, \"une Syrie libre, plurielle, respectueuse de chacune de ses composantes\", selon l'Elysée.",
-        "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-est-arrive-en-syrie-une-premiere-pour-un-chef-d-etat-de-l-union-europeenne-depuis-la-chute-de-bachar-al-assad_8096609.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 06 Jul 2026 18:43:00 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Incendies : le feu dans les Pyrénées-Orientales \"n'est pas fixé\" et \"continue à progresser\" annonce Laurent Nuñez, 4 900 hectares déjà brûlés",
-        "resume": "L'important incendie qui s'est déclaré dans les Pyrénées-Orientales n'est toujours pas fixé et a désormais \"parcouru 4 900 hectares\", a annoncé le ministre de l'Intérieur lundi.",
-        "lien": "https://www.franceinfo.fr/faits-divers/incendie/incendie-dans-les-pyrenees-orientales-le-feu-a-deja-parcouru-environ-4-500-hectares-les-habitants-de-26-communes-doivent-evacuer_8095550.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 06 Jul 2026 18:52:46 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Iran : marée humaine à Téhéran en hommage à Ali Khamenei",
-        "resume": "⁠Une foule d'Iraniens a défilé ⁠dans les rues de ​Téhéran lundi  lors d'un cortège funèbre en l'honneur de l'ayatollah Ali Khamenei, le dirigeant assassiné fin février par les Etats-Unis ​et Israël, d",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260706-iran-mar%C3%A9e-humaine-%C3%A0-t%C3%A9h%C3%A9ran-en-hommage-%C3%A0-ali-khamenei",
-        "date": "Mon, 06 Jul 2026 16:39:28 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Le bilan de l'épidémie d'Ebola en RD Congo dépasse les 500 morts",
-        "resume": "L'épidémie d'Ebola en République démocratique du Congo a fait plus de 500 morts, a annoncé lundi l'Organisation mondiale de la santé, citant des sources officielles congolaises. La 17ᵉ épidémie dans c",
-        "lien": "https://www.france24.com/fr/afrique/20260706-bilan-%C3%A9pid%C3%A9mie-ebola-en-rd-congo-d%C3%A9passe-500-morts",
-        "date": "Mon, 06 Jul 2026 16:05:26 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Mondial 2026 : dans les coulisses de l'opération américaine pour sauver le soldat Balogun",
-        "resume": "La décision prise dimanche par la Fifa d'annuler la suspension pour un match du buteur star des États-Unis est intervenue après un coup de fil entre Donald Trump et le président de la fédération inter",
-        "lien": "https://www.france24.com/fr/sports/20260706-mondial-2026-carton-rouge-trump-op%C3%A9ration-am%C3%A9ricaine-pour-sauver-le-soldat-balogun",
-        "date": "Mon, 06 Jul 2026 15:47:33 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Disclosure Day",
-        "date_sortie": "2026-06-10",
-        "synopsis": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
-        "note": 6.665,
-        "affiche": "https://image.tmdb.org/t/p/w300/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg"
-      },
-      {
-        "titre": "Toy Story 5",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle… l'électronique !",
-        "note": 7.418,
-        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
-      },
-      {
-        "titre": "Scary Movie",
-        "date_sortie": "2026-06-03",
-        "synopsis": "Vingt-six ans après avoir échappé à un tueur masqué étrangement familier, les héros emblématiques de la saga sont de nouveau dans la ligne de mire du meurtrier, et aucune franchise de film d’horreur n’est à l’abri.",
-        "note": 5.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg"
-      },
-      {
-        "titre": "Backrooms",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
-        "note": 6.835,
-        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
-      },
-      {
-        "titre": "Des Minions et des monstres",
-        "date_sortie": "2026-06-24",
-        "synopsis": "L’histoire turbulente, absurde et évidemment vraie des Minions et la manière dont ils ont conquis Hollywood, sont devenus de véritables stars de cinéma, ont tout perdu, ont libéré des monstres dans notre monde, puis ont ",
-        "note": 6.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/jMOf0SSthlNp5uXhEXz4e3tqDX5.jpg"
-      },
-      {
-        "titre": "Supergirl",
-        "date_sortie": "2026-07-01",
-        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
-        "note": 6.3,
-        "affiche": "https://image.tmdb.org/t/p/w300/1QV4GubAlUvGX3FjqWWWfQiYkN4.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Young & Cursed (Original Motion Picture Soundtrack)",
-        "artiste": "Patrick O'Malley",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Warehouse 10 Volume 15",
-        "artiste": "Dave Matthews Band",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Warehouse 2026: 7.16.2025 Allianz Amphitheater At Riverfront, Richmond, VA",
-        "artiste": "Dave Matthews Band",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Time Machine",
-        "artiste": "The Jungle",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Flare",
-        "artiste": "ASML",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Session de Recrutement RANSDTAD Inhouse AGENTS de PRODUCTION pour VALEO Vision Ecouflant",
-        "date_debut": "2026-07-07T12:00:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Réunion d'information Pass Entreprendre pour session du 05 octobre au 13 novembre 2026",
-        "date_debut": "2026-07-08T07:00:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Découvrez les métiers de la coiffure, de l'esthétique et du spa : un événement incontournable pour votre avenir professionnel !",
-        "date_debut": "2026-07-08T08:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Atelier Senior 360",
-        "date_debut": "2026-07-08T11:30:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "L'ingénieur de Saint-Nicolas",
-        "date_debut": "2026-07-08T12:00:00+00:00",
-        "lieu": "Étang Saint-Nicolas",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Stages théâtre Divine Triumph",
-        "date_debut": "2026-07-06",
-        "lieu": "Maison de quartier de l'île",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Stages d'été à Port-Barbe",
-        "date_debut": "2026-07-06",
-        "lieu": "Espace de plein air de Port-Barbe",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Stage d'été Aviron 2026 - Adultes",
-        "date_debut": "2026-07-06",
-        "lieu": "Club Léo Lagrange Nantes Aviron",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "INTERSTELLAR Ré-imaginer la Terre",
-        "date_debut": "2026-07-06",
-        "lieu": "HAB Galerie (Hangar à Bananes)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Exposition - Brillos, les cultures Queer en Amérique latine hispanophone",
-        "date_debut": "2026-07-06",
-        "lieu": "Cosmopolis",
         "ville": "Nantes"
       }
     ]
