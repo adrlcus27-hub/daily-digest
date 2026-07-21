@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-07-21",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Le maire d'Alès, menacé par la DZ Mafia, a été exfiltré de son domicile par le Raid cette nuit après des craintes sur la présence d'une voiture piégée",
+        "resume": "Jeudi dernier, l'épouse de l'élu LR avait retrouvé \"des tags\" sur les murs de la clôture de leur maison, et une enveloppe contenant deux balles de 9 mm et un courrier menaçant portant la signature du ",
+        "lien": "https://www.franceinfo.fr/societe/drogue/le-maire-d-ales-menace-par-la-dz-mafia-a-ete-exfiltre-de-son-domicile-par-le-raid-cette-nuit-apres-des-craintes-sur-la-presence-d-une-voiture-piegee_8116196.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 21 Jul 2026 13:30:01 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Pourquoi la Haute Autorité de santé recommande de rendre obligatoire la vaccination contre la grippe pour tous les professionnels de santé",
+        "resume": "Dans la foulée de l'avis rendu lundi par l'autorité indépendante, le gouvernement a annoncé engager \"les travaux pour mettre en œuvre l'obligation vaccinale des professionnels au contact des personnes",
+        "lien": "https://www.franceinfo.fr/sante/vaccins/pourquoi-la-haute-autorite-de-sante-recommande-de-rendre-obligatoire-la-vaccination-contre-la-grippe-pour-tous-les-professionnels-de-sante_8116070.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 21 Jul 2026 12:34:42 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Tour de France : Evenepoel veut se rapprocher de Pogacar, Seixas en embuscade... Suivez le contre-la-montre entre Evian-les-Bains et Thonon-les-Bains",
+        "resume": "C'est le seul exercice chronométré en individuel du Tour de France cette année, après le contre-la-montre par équipes inaugural en Espagne. Petit bonus : un col de deuxième catégorie au milieu du parc",
+        "lien": "https://www.franceinfo.fr/tour-de-france/tour-de-france-evenepoel-veut-se-rapprocher-de-pogacar-seixas-en-embuscade-suivez-le-contre-la-montre-entre-evian-les-bains-et-thonon-les-bains_8116097.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 21 Jul 2026 13:00:01 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Votre CV est incompatible avec la fonction\" : pourquoi la nomination du sénateur LR François-Noël Buffet au poste de Défenseur des droits, entérinée par le Parlement, fait polémique",
+        "resume": "L'ancien ministre a été auditionné mardi par la commission des lois du Sénat, avant le vote qui a confirmé ce choix d'Emmanuel Macron.",
+        "lien": "https://www.franceinfo.fr/politique/votre-cv-est-incompatible-avec-la-fonction-pourquoi-la-probable-nomination-du-senateur-lr-francois-noel-buffet-au-poste-de-defenseur-des-droits-fait-polemique_8114936.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 21 Jul 2026 13:44:03 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Nés dans les années 1950, 1970 ou encore 1990… Comparez les températures des étés de votre enfance à celles d'aujourd'hui",
+        "resume": "Avec le réchauffement climatique, les étés n'ont plus le même visage que ceux du passé. Franceinfo vous propose de constater l'évolution spectaculaire des températures en quelques décennies.",
+        "lien": "https://www.franceinfo.fr/environnement/crise-climatique/grand-format-nes-dans-les-annees-1950-1970-ou-encore-1990-comparez-les-temperatures-des-etes-de-votre-enfance-a-celles-d-aujourd-hui_8096318.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 21 Jul 2026 07:53:58 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Sénégal : Dakar soutient la candidature de Macky Sall à l’ONU",
+        "resume": "Le Sénégal soutient désormais la candidature de son ancien président Macky Sall au poste de secrétaire général de l’ONU. Un revirement politique qui intervient après une rencontre avec le président Ba",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260721-s%C3%A9n%C3%A9gal-dakar-soutient-la-candidature-de-macky-sall-%C3%A0-l-onu",
+        "date": "Tue, 21 Jul 2026 11:45:53 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Mbappé, Messi, Yamal, Rodri ? Une course au Ballon d'Or 2026 plus indécise que jamais",
+        "resume": "Après le sacre de l'Espagne à la Coupe du monde 2026, la course au Ballon d'Or s'ouvre dès ce mardi dans une indécision totale. Entre champions du monde espagnols, lauréats de la Ligue des champions e",
+        "lien": "https://www.france24.com/fr/sports/20260721-mbappe-messi-yamal-rodri-ballon-or-2026-indecise",
+        "date": "Tue, 21 Jul 2026 11:23:16 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "🔴 En direct : le Koweït accuse l'Iran de frappes contre des centrales électriques et usines de dessalement",
+        "resume": "",
+        "lien": "https://www.france24.com/fr/moyen-orient/20260721-en-direct-moyen-orient-iran-etats-unis-frappes-americaines-bahrein-koweit-ormuz-trump-houthis",
+        "date": "Tue, 21 Jul 2026 11:13:39 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "L'Odyssée",
+        "date_sortie": "2026-07-15",
+        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
+        "note": 7.9,
+        "affiche": "https://image.tmdb.org/t/p/w300/k12dsDVtARFmr6TbC2hn0c68aw5.jpg"
+      },
+      {
+        "titre": "Vaiana, la légende du bout du monde",
+        "date_sortie": "2026-07-08",
+        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
+        "note": 5.7,
+        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
+      },
+      {
+        "titre": "Backrooms",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
+        "note": 7.078,
+        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
+      },
+      {
+        "titre": "Disclosure Day",
+        "date_sortie": "2026-06-10",
+        "synopsis": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
+        "note": 6.7,
+        "affiche": "https://image.tmdb.org/t/p/w300/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg"
+      },
+      {
+        "titre": "Toy Story 5",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle… l'électronique !",
+        "note": 7.423,
+        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
+      },
+      {
+        "titre": "Des Minions et des monstres",
+        "date_sortie": "2026-06-24",
+        "synopsis": "L’histoire turbulente, absurde et évidemment vraie des Minions et la manière dont ils ont conquis Hollywood, sont devenus de véritables stars de cinéma, ont tout perdu, ont libéré des monstres dans notre monde, puis ont ",
+        "note": 6.4,
+        "affiche": "https://image.tmdb.org/t/p/w300/jMOf0SSthlNp5uXhEXz4e3tqDX5.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Midnights in October",
+        "artiste": "Midnights in October",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Meridians",
+        "artiste": "Alasdair Fraser",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Romance De La Venganza",
+        "artiste": "Krystal Martínez-Rodríguez",
+        "date_sortie": "2026-07-17"
+      },
+      {
+        "titre": "Living Free (Live Manchester '75)",
+        "artiste": "Don McLean",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Réunion visio pour aider au développement de l'entreprise créée",
+        "date_debut": "2026-07-21T12:00:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Matinale création d'entreprise (pour les porteurs de projet ou début de création) Angers Balzac",
+        "date_debut": "2026-07-22T07:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Randstad Inhouse Bouvet recrute !",
+        "date_debut": "2026-07-23T07:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Atelier en visio : Profil de compétences & Organisation des démarches (ODD)",
+        "date_debut": "2026-07-24T07:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Recrutement - Employé(e) Polyvalent(e) en restauration chez Luks Kebab ANGERS",
+        "date_debut": "2026-07-27T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Le Potager de la Cantine",
+        "date_debut": "2026-07-21",
+        "lieu": "Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le Voyage permanent - Coeur historique - Visite guidée",
+        "date_debut": "2026-07-21",
+        "lieu": "Nantes (Centre ville)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Biodivers'été 2026 au Parc des Oblates",
+        "date_debut": "2026-07-21",
+        "lieu": "Parc des Oblates",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Epicerie solidaire \"Le Comptoir d'Halvêque\"",
+        "date_debut": "2026-07-21",
+        "lieu": "salle des 4 carrés",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Balades touristiques en vélo-taxi",
+        "date_debut": "2026-07-21",
+        "lieu": "centre-ville",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-07-20",
     "news": [
       {
@@ -2551,205 +2750,6 @@
         "titre": "Exposition « L'agroalimentaire, une empreinte nantaise »",
         "date_debut": "2026-07-08",
         "lieu": "Maison des Hommes et des Techniques (MHT)",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-07",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Procès en appel de Marine le Pen : la leader du RN sera-t-elle candidate à la présidentielle ? Une réunion en cours au siège du parti",
-        "resume": "La cour d'appel de Paris a ouvert la voie à une quatrième candidature à la présidentielle de Marine Le Pen en réduisant sa peine d'inéligibilité. Mais elle a toujours affirmé qu'elle ne ferait pas cam",
-        "lien": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/direct-marine-le-pen-pourra-t-elle-se-presenter-a-la-presidentielle-la-decision-cruciale-de-la-cour-d-appel-sur-son-ineligibilite-attendue-cet-apres-midi_8090117.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 07 Jul 2026 15:08:22 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Bac 2026 : le taux de réussite provisoire s'élève à 85,5%, un chiffre stable par rapport à 2025",
-        "resume": "Les élèves qui n'ont pas leur bac du premier coup pourront décrocher leur diplôme à l'issue des épreuves de rattrapage, à condition d'avoir eu plus de 8/20 de moyenne.",
-        "lien": "https://www.franceinfo.fr/bac/bac-2026-le-taux-de-reussite-provisoire-s-eleve-a-85-5-un-chiffre-stable-par-rapport-a-2025_8097758.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 07 Jul 2026 13:39:48 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Investissements, sécurité, influence régionale… Les enjeux de la visite historique d'Emmanuel Macron en Syrie",
-        "resume": "Emmanuel Macron est arrivé lundi à Damas pour une visite de deux jours, la première d'un chef d'Etat français en Syrie depuis 2009. Il est accompagné d'une délégation d'une dizaine de dirigeants de gr",
-        "lien": "https://www.franceinfo.fr/monde/revolte-en-syrie/investissements-securite-influence-regionale-les-enjeux-de-la-visite-historique-d-emmanuel-macron-en-syrie_8097455.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 07 Jul 2026 15:33:12 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Violences dans le périscolaire à Paris : un animateur de l'école maternelle Alphonse-Baudin, accusé d'agressions sexuelles sur mineurs, relaxé par le tribunal",
-        "resume": "La justice a estimé qu'il existait \"un doute sérieux sur la caractérisation d’atteintes sexuelles\". Lors de l'audience du 26 mai, le ministère public avait requis trois ans de prison, dont un ferme so",
-        "lien": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/violences-dans-le-periscolaire-a-paris-l-animateur-de-l-ecole-maternelle-alphonse-baudin-accuse-d-agressions-sexuelles-sur-mineurs-relaxe-par-le-tribunal_8095931.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 07 Jul 2026 14:37:15 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"C'est un feu hors normes\" : à Ille-sur-Têt, la sidération des habitants et des pompiers après le passage de l'incendie",
-        "resume": "L'incendie dans les Pyrénées-Orientales a été ralenti grâce au travail des pompiers, qui continue. Des milliers d'habitants ont dû être évacués. Certains viennent constater les dégâts.",
-        "lien": "https://www.franceinfo.fr/faits-divers/incendie/c-est-un-feu-hors-normes-a-ille-sur-tet-la-sideration-des-habitants-et-des-pompiers-apres-le-passage-de-l-incendie_8097323.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 07 Jul 2026 14:31:56 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "REPLAY - Syrie : Macron et Al-Charaa prennent la parole après leur rencontre",
-        "resume": "Le président syrien Ahmad al-Chareh a appelé mardi lors d'une conférence de presse conjointe avec son homologue français Emmanuel Macron la France à jouer un \"rôle actif\" pour mettre fin aux \"agressio",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260707-replay-syrie-macron-et-al-charaa-prennent-la-parole-apr%C3%A8s-leur-rencontre",
-        "date": "Tue, 07 Jul 2026 13:49:49 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Macron en Syrie : ce qu’il faut retenir de la conférence de presse avec Al-Charaa",
-        "resume": "Le président syrien Ahmad al-Charaa appelé mardi lors d'une conférence de presse conjointe avec son homologue français Emmanuel Macron la France à jouer un \"rôle actif\" pour mettre fin aux \"agressions",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260707-macron-en-syrie-ce-qu-il-faut-retenir-de-la-conf%C3%A9rence-de-presse-avec-al-charaa",
-        "date": "Tue, 07 Jul 2026 13:34:48 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Présidentielle 2027 : Marine Le Pen fera-t-elle campagne avec un bracelet électronique ?",
-        "resume": "Le couperet judiciaire ⁠est tombé : Marine Le ​Pen, condamnée mardi en appel à trois ans de prison, dont un an ferme aménageable sous surveillance électronique, et 45 mois d’inéligibilité dont 30 avec",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260707-pr%C3%A9sidentielle-2027-marine-le-pen-fera-t-elle-campagne-avec-un-bracelet-%C3%A9lectronique",
-        "date": "Tue, 07 Jul 2026 13:25:04 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Disclosure Day",
-        "date_sortie": "2026-06-10",
-        "synopsis": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
-        "note": 6.678,
-        "affiche": "https://image.tmdb.org/t/p/w300/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg"
-      },
-      {
-        "titre": "Toy Story 5",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle… l'électronique !",
-        "note": 7.399,
-        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
-      },
-      {
-        "titre": "Backrooms",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
-        "note": 6.847,
-        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
-      },
-      {
-        "titre": "Scary Movie",
-        "date_sortie": "2026-06-03",
-        "synopsis": "Vingt-six ans après avoir échappé à un tueur masqué étrangement familier, les héros emblématiques de la saga sont de nouveau dans la ligne de mire du meurtrier, et aucune franchise de film d’horreur n’est à l’abri.",
-        "note": 5.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg"
-      },
-      {
-        "titre": "Des Minions et des monstres",
-        "date_sortie": "2026-06-24",
-        "synopsis": "L’histoire turbulente, absurde et évidemment vraie des Minions et la manière dont ils ont conquis Hollywood, sont devenus de véritables stars de cinéma, ont tout perdu, ont libéré des monstres dans notre monde, puis ont ",
-        "note": 6.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/jMOf0SSthlNp5uXhEXz4e3tqDX5.jpg"
-      },
-      {
-        "titre": "Supergirl",
-        "date_sortie": "2026-07-01",
-        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
-        "note": 6.251,
-        "affiche": "https://image.tmdb.org/t/p/w300/1QV4GubAlUvGX3FjqWWWfQiYkN4.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Midnights in October",
-        "artiste": "Midnights in October",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Meridians",
-        "artiste": "Alasdair Fraser",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Living Free (Live Manchester '75)",
-        "artiste": "Don McLean",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Through Lines",
-        "artiste": "Skye Peterson",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Session de Recrutement RANSDTAD Inhouse AGENTS de PRODUCTION pour VALEO Vision Ecouflant",
-        "date_debut": "2026-07-07T12:00:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Réunion d'information Pass Entreprendre pour session du 05 octobre au 13 novembre 2026",
-        "date_debut": "2026-07-08T07:00:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Découvrez les métiers de la coiffure, de l'esthétique et du spa : un événement incontournable pour votre avenir professionnel !",
-        "date_debut": "2026-07-08T08:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Atelier Senior 360",
-        "date_debut": "2026-07-08T11:30:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "L'ingénieur de Saint-Nicolas",
-        "date_debut": "2026-07-08T12:00:00+00:00",
-        "lieu": "Étang Saint-Nicolas",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Epicerie solidaire \"Le Comptoir d'Halvêque\"",
-        "date_debut": "2026-07-07",
-        "lieu": "salle des 4 carrés",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Stages théâtre Divine Triumph",
-        "date_debut": "2026-07-07",
-        "lieu": "Maison de quartier de l'île",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le Potager de la Cantine",
-        "date_debut": "2026-07-07",
-        "lieu": "Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Bouge ton été à la base nautique municipale et Port-Barbe",
-        "date_debut": "2026-07-07",
-        "lieu": "Centre Nautique Nantais",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Balades touristiques en vélo-taxi",
-        "date_debut": "2026-07-07",
-        "lieu": "centre-ville",
         "ville": "Nantes"
       }
     ]
