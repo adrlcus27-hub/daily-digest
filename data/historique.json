@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-07-22",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "A la demande d'Emmanuel Macron, la ministre démissionnaire de la Transition écologique, Monique Barbut, reste finalement au gouvernement",
+        "resume": "Alors qu'elle dénonçait \"le recul environnemental de trop\" après le vote de la loi d'urgence agricole, la ministre a accepté de poursuivre sa mission \"face à l'urgence d'agir contre les conséquences d",
+        "lien": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/le-recul-environnemental-de-trop-la-ministre-de-la-transition-ecologique-monique-barbut-demissionne-apres-l-adoption-definitive-de-la-loi-d-urgence-agricole_8117516.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 22 Jul 2026 12:56:43 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Des projections de \"quelques mètres\" à \"plusieurs kilomètres\" : on vous explique ce que sont les \"sautes de feu\" qui amplifient la propagation des incendies",
+        "resume": "Ce phénomène contribue à la propagation du feu et à la création de foyers secondaires. Il complique aussi l'anticipation de la trajectoire de l'incendie, rendant encore plus délicate l'intervention de",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/des-projections-de-quelques-metres-a-plusieurs-kilometres-on-vous-explique-ce-que-sont-les-sautes-de-feu-qui-amplifient-la-propagation-des-incendies_8117441.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 22 Jul 2026 12:24:26 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Daniel Siad, soupçonné d'avoir été rabatteur pour le compte de Jeffrey Epstein et visé par des plaintes pour viol, retrouvé mort à son domicile",
+        "resume": "Le sexagénaire était visé par cinq plaintes, dont certaines pour viol, et faisait l'objet d'une enquête en France.",
+        "lien": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/daniel-siad-soupconne-d-avoir-ete-rabatteur-pour-le-compte-de-jeffrey-epstein-et-vise-par-des-plaintes-pour-viol-retrouve-mort-a-son-domicile_8117654.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 22 Jul 2026 11:30:26 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Guerre au Moyen-Orient : le baril de pétrole repasse la barre des 95 dollars",
+        "resume": "C'est une première depuis près de six semaines. Les hostilités au Moyen-Orient font craindre un blocage durable des exportations d'hydrocarbures de la région.",
+        "lien": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-armee-americaine-a-lance-des-frappes-contre-des-cibles-iraniennes-pour-la-onzieme-nuit-consecutive_8117363.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 22 Jul 2026 13:17:02 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Tour de France 2026 : le revanchard Evenepoel, le prodige Seixas, l'équipier Del Toro... Une lutte électrique entre trois hommes pour le podium",
+        "resume": "Avec les abandons de Jonas Vingegaard et Florian Lipowitz, la lutte s'est resserrée à trois hommes pour le podium final, derrière l'intouchable Tadej Pogacar.",
+        "lien": "https://www.franceinfo.fr/tour-de-france/tour-de-france-2026-le-revanchard-evenepoel-le-prodige-seixas-l-equipier-del-toro-une-lutte-electrique-entre-trois-hommes-pour-le-podium_8116367.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 22 Jul 2026 13:20:52 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "En RDC, l'opposition suspend sa manifestation et ouvre le dialogue avec Tshisekedi",
+        "resume": "Se dirige-t-on vers un apaisement du climat politique en RDC ? Rien n'est moins sûr. La plateforme C64 a reporté la marche prévue ce mercredi contre le projet de révision de la Constitution, après plu",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260722-en-rdc-l-opposition-suspend-sa-manifestation-et-ouvre-le-dialogue-avec-tshisekedi",
+        "date": "Wed, 22 Jul 2026 11:52:47 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "France : le maire d’Alès Christophe Rivenq menacé de mort par la DZ Mafia",
+        "resume": "D'abord deux balles de 9 mm et des tags à son domicile, puis une exfiltration en pleine nuit : le maire LR d'Alès Christophe Rivenq est la cible de menaces attribuées au groupe criminel DZ Mafia qui a",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260722-france-le-maire-d-al%C3%A8s-christophe-rivenq-menac%C3%A9-de-mort-par-la-dz-mafia",
+        "date": "Wed, 22 Jul 2026 11:27:46 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Guinée : huit morts dans l’effondrement d’un immeuble à Conakry",
+        "resume": "En Guinée, l'effondrement d'un immeuble à Conakry a fait au moins huit morts et plusieurs blessés. Le drame est survenu alors que les premières fortes pluies des derniers jours provoquent d'importants",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260722-guin%C3%A9e-huit-morts-dans-l-effondrement-d-un-immeuble-%C3%A0-conakry",
+        "date": "Wed, 22 Jul 2026 11:27:07 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "L'Odyssée",
+        "date_sortie": "2026-07-15",
+        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
+        "note": 7.891,
+        "affiche": "https://image.tmdb.org/t/p/w300/5WzPybmv7J9lwfRfhHpuk0pySNc.jpg"
+      },
+      {
+        "titre": "Vaiana, la légende du bout du monde",
+        "date_sortie": "2026-07-08",
+        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
+        "note": 5.727,
+        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
+      },
+      {
+        "titre": "Backrooms",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
+        "note": 7.1,
+        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
+      },
+      {
+        "titre": "Des Minions et des monstres",
+        "date_sortie": "2026-06-24",
+        "synopsis": "L’histoire turbulente, absurde et évidemment vraie des Minions et la manière dont ils ont conquis Hollywood, sont devenus de véritables stars de cinéma, ont tout perdu, ont libéré des monstres dans notre monde, puis ont ",
+        "note": 6.391,
+        "affiche": "https://image.tmdb.org/t/p/w300/jMOf0SSthlNp5uXhEXz4e3tqDX5.jpg"
+      },
+      {
+        "titre": "Supergirl",
+        "date_sortie": "2026-07-01",
+        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
+        "note": 6.139,
+        "affiche": "https://image.tmdb.org/t/p/w300/1QV4GubAlUvGX3FjqWWWfQiYkN4.jpg"
+      },
+      {
+        "titre": "Toy Story 5",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle… l'électronique !",
+        "note": 7.417,
+        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Midnights in October",
+        "artiste": "Midnights in October",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Meridians",
+        "artiste": "Alasdair Fraser",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Romance De La Venganza",
+        "artiste": "Krystal Martínez-Rodríguez",
+        "date_sortie": "2026-07-17"
+      },
+      {
+        "titre": "Living Free (Live Manchester '75)",
+        "artiste": "Don McLean",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Matinale création d'entreprise (pour les porteurs de projet ou début de création) Angers Balzac",
+        "date_debut": "2026-07-22T07:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Randstad Inhouse Bouvet recrute !",
+        "date_debut": "2026-07-23T07:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Atelier en visio : Profil de compétences & Organisation des démarches (ODD)",
+        "date_debut": "2026-07-24T07:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Recrutement - Employé(e) Polyvalent(e) en restauration chez Luks Kebab ANGERS",
+        "date_debut": "2026-07-27T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Au coeur des métiers saisonniers : Viticulture, Horticulture, Arboriculture et Maraîchage à l'honneur !",
+        "date_debut": "2026-07-28T07:30:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Expression(s) Décoloniale(s) #4 - Exposition",
+        "date_debut": "2026-07-22",
+        "lieu": "Château des Ducs de Bretagne -   Musée d'Histoire de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Croisière Estuaire Nantes-St Nazaire",
+        "date_debut": "2026-07-22",
+        "lieu": "Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Friperie solidaire des Bourderies",
+        "date_debut": "2026-07-22",
+        "lieu": "Centre socioculturel des Bourderies",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Vers un autre monde - Exposition de projets de fin d'études en architecture",
+        "date_debut": "2026-07-22",
+        "lieu": "École nationale supérieure d’architecture - ensa",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Les Rendez-vous à la ferme",
+        "date_debut": "2026-07-22",
+        "lieu": "Parc de la Chantrerie",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-07-21",
     "news": [
       {
@@ -2551,205 +2750,6 @@
         "titre": "Stages théâtre Divine Triumph",
         "date_debut": "2026-07-09",
         "lieu": "Maison de quartier de l'île",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-08",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Marine Le Pen condamnée en appel : Jordan Bardella dit n'éprouver \"ni soulagement, ni déception\" de ne pas être le candidat du RN à la présidentielle",
-        "resume": "Reconnue coupable en appel de détournement de fonds publics, la députée du Pas-de-Calais a annoncé son intention de se présenter à la présidentielle et de se pourvoir en cassation.",
-        "lien": "https://www.franceinfo.fr/politique/direct-condamnation-en-appel-de-marine-le-pen-la-cheffe-de-file-des-deputes-rn-maintient-sa-candidature-a-la-presidentielle_8098919.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 08 Jul 2026 13:48:58 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Elle ne lâche jamais rien\" : à Hénin-Beaumont et à Amilly, les soutiens de Marine Le Pen saluent sa candidature",
-        "resume": "Quelques heures après sa condamnation en appel dans l'affaire des assistants parlementaires européens, Marine Le Pen a annoncé, mardi, sa candidature à l'élection présidentielle de 2027. À Hénin-Beaum",
-        "lien": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/elle-ne-lache-jamais-rien-a-henin-beaumont-et-a-amilly-les-soutiens-de-marine-le-pen-saluent-sa-candidature_8065637.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 08 Jul 2026 09:41:20 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Il va accepter sans problème la décision de Marine Le Pen\" : comment Jordan Bardella et la candidate du RN vont-ils faire campagne en binôme en 2027 ?",
-        "resume": "En annonçant briguer l'Elysée, Marine Le Pen met fin à une possible candidature de Jordan Bardella. \"Nous nous sommes préparés. Le couple politique que nous formons peut vraiment changer les choses\", ",
-        "lien": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/il-va-accepter-sans-probleme-la-decision-de-marine-le-pen-comment-jordan-bardella-et-la-candidate-du-rn-vont-ils-faire-campagne-en-binome-en-2027_8098388.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 08 Jul 2026 05:45:29 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Un jour, on lira ça dans les livres d'histoire\" : la folle journée où Marine Le Pen a fait le pari de maintenir sa candidature en 2027",
-        "resume": "La cour d'appel de Paris a condamné la leader du Rassemblement national, mardi, à un an de prison ferme aménageable avec bracelet électronique pour détournement de fonds publics. Mais la députée a ann",
-        "lien": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/recit-un-jour-on-lira-ca-dans-les-livres-d-histoire-la-folle-journee-ou-marine-le-pen-a-fait-le-pari-de-maintenir-sa-candidature-en-2027_8097413.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 08 Jul 2026 07:40:57 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Il n'y a plus d'exécution provisoire\" : pourquoi Marine Le Pen mise sur un pourvoi en cassation pour espérer gagner la présidentielle",
-        "resume": "La cheffe de file des députés du Rassemblement national est candidate à la présidentielle de 2027, malgré sa condamnation par la cour d'appel de Paris. Elle a annoncé qu'elle allait former un pourvoi ",
-        "lien": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/il-n-y-a-plus-d-execution-provisoire-pourquoi-marine-le-pen-mise-sur-un-pourvoi-en-cassation-pour-esperer-gagner-la-presidentielle_8098436.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 08 Jul 2026 08:35:37 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Camouflage, brouillage, observation : au cœur d’un entraînement du RENS",
-        "resume": "Deuxième épisode de notre série consacrée au renseignement : le RENS… Direction l’Aube, au cœur de la forêt, avec le 4ᵉ Régiment de Hussards et le 54ᵉ RT. Sur le terrain, les spécialistes du camouflag",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260708-camouflage-brouillage-observation-au-c%C5%93ur-d-un-entra%C3%AEnement-du-rens",
-        "date": "Wed, 08 Jul 2026 11:51:53 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Mondial 2026 : l'Égypte demande l'exclusion de l'arbitre français François Letexier",
-        "resume": "La Fédération égyptienne de football a demandé à la Fifa d'exclure l'arbitre français François Letexier pour le reste du Mondial2026, dénonçant des \"erreurs d'arbitrages flagrantes\" lors du huitième d",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260708-mondial-2026-l-%C3%A9gypte-demande-l-exclusion-de-l-arbitre-fran%C3%A7ais-fran%C3%A7ois-letexier",
-        "date": "Wed, 08 Jul 2026 11:51:14 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Trump affirme que le cessez-le-feu avec l'Iran est \"terminé\"",
-        "resume": "Le président américain Donald Trump a affirmé mercredi à Ankara que le cessez-le-feu avec l'Iran était \"terminé\", ouvrant toutefois la porte à une reprise éventuelle des discussions.",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260708-trump-affirme-que-le-cessez-le-feu-avec-l-iran-est-termin%C3%A9",
-        "date": "Wed, 08 Jul 2026 11:47:20 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Toy Story 5",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle… l'électronique !",
-        "note": 7.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
-      },
-      {
-        "titre": "Disclosure Day",
-        "date_sortie": "2026-06-10",
-        "synopsis": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
-        "note": 6.689,
-        "affiche": "https://image.tmdb.org/t/p/w300/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg"
-      },
-      {
-        "titre": "Backrooms",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
-        "note": 6.8,
-        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
-      },
-      {
-        "titre": "Scary Movie",
-        "date_sortie": "2026-06-03",
-        "synopsis": "Vingt-six ans après avoir échappé à un tueur masqué étrangement familier, les héros emblématiques de la saga sont de nouveau dans la ligne de mire du meurtrier, et aucune franchise de film d’horreur n’est à l’abri.",
-        "note": 5.406,
-        "affiche": "https://image.tmdb.org/t/p/w300/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg"
-      },
-      {
-        "titre": "The Furious",
-        "date_sortie": "2026-06-10",
-        "synopsis": "Après l’enlèvement de sa fille par un réseau criminel et face à l’inaction de la police, Wang Wei se lance dans une traque implacable pour la retrouver. Son seul allié, Navin, est un journaliste tenace dont la femme a my",
-        "note": 7.7,
-        "affiche": "https://image.tmdb.org/t/p/w300/fSy33TZPKVsvVpiHPIrdeRY6tlH.jpg"
-      },
-      {
-        "titre": "Des Minions et des monstres",
-        "date_sortie": "2026-06-24",
-        "synopsis": "L’histoire turbulente, absurde et évidemment vraie des Minions et la manière dont ils ont conquis Hollywood, sont devenus de véritables stars de cinéma, ont tout perdu, ont libéré des monstres dans notre monde, puis ont ",
-        "note": 6.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/jMOf0SSthlNp5uXhEXz4e3tqDX5.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Young & Cursed (Original Motion Picture Soundtrack)",
-        "artiste": "Patrick O'Malley",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Warehouse 10 Volume 15",
-        "artiste": "Dave Matthews Band",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Warehouse 2026: 7.16.2025 Allianz Amphitheater At Riverfront, Richmond, VA",
-        "artiste": "Dave Matthews Band",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Time Machine",
-        "artiste": "The Jungle",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Flare",
-        "artiste": "ASML",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Réunion d'information Pass Entreprendre pour session du 05 octobre au 13 novembre 2026",
-        "date_debut": "2026-07-08T07:00:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Découvrez les métiers de la coiffure, de l'esthétique et du spa : un événement incontournable pour votre avenir professionnel !",
-        "date_debut": "2026-07-08T08:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Atelier Senior 360",
-        "date_debut": "2026-07-08T11:30:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "L'ingénieur de Saint-Nicolas",
-        "date_debut": "2026-07-08T12:00:00+00:00",
-        "lieu": "Étang Saint-Nicolas",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Découvrez les formations en alternance dans le commerce et la vente avec ARCHI-MED",
-        "date_debut": "2026-07-09T07:30:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Bouge ton été au parc du Grand-Blottereau",
-        "date_debut": "2026-07-08",
-        "lieu": "Parc du Grand Blottereau",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Friperie solidaire des Bourderies",
-        "date_debut": "2026-07-08",
-        "lieu": "Centre socioculturel des Bourderies",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Ecchymoses, une exposition collective de Claire Amiot, Pablo Boissel-Arrieta, Morgane Fontaine, Baptiste Jan & Floryan Varennes",
-        "date_debut": "2026-07-08",
-        "lieu": "Grand Huit - Collectif Bonus",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Pause café à la Petite Ferme suivi d'un atelier jardinage",
-        "date_debut": "2026-07-08",
-        "lieu": "Petite ferme urbaine (La)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Exposition « L'agroalimentaire, une empreinte nantaise »",
-        "date_debut": "2026-07-08",
-        "lieu": "Maison des Hommes et des Techniques (MHT)",
         "ville": "Nantes"
       }
     ]
