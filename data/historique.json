@@ -1,5 +1,198 @@
 [
   {
+    "date": "2026-07-23",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Incendie en Gironde : 8 800 nouvelles évacuations sont en cours à Claouey, annonce la préfète",
+        "resume": "Les flammes ont parcouru plus de 2 400 hectares en moins d'une journée dans le bassin d'Arcachon. Des pompiers de Paris ont été envoyés en renfort.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendie-en-gironde-2-000-hectares-brules-au-moins-12-000-personnes-evacuees-depuis-hier-annonce-la-prefecture_8118599.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 23 Jul 2026 12:27:12 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Pendant deux jours, j'ai tiré le corps d'un mort\" : pour les soldats ukrainiens, l'évacuation risquée des blessés de la \"kill zone\", partie la plus dangereuse du front",
+        "resume": "La guerre en Ukraine est désormais marquée par l'utilisation de drones et de frappes à longue portée. À Zaporijjia, dans le sud du pays, des soldats ukrainiens mènent une évacuation de blessés au cœur",
+        "lien": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/pendant-deux-jours-j-ai-tire-le-corps-d-un-mort-dans-la-kill-zone-les-soldats-ukrainiens-vivent-sous-la-menace-permanente-des-drones-russes_8089898.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 23 Jul 2026 12:14:06 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"C'est important de porter plainte pour laisser la justice voir qui est responsable et rétablir la vérité\", déclare la DJ Barbara Butch",
+        "resume": "L'un de ses concerts a été interrompu il y a cinq jours par des militants propalestiniens et Insoumis qui lui reprochent notamment son soutien à la proposition de loi Yadan \"contre les nouvelles forme",
+        "lien": "https://www.franceinfo.fr/culture/musique/electro/c-est-important-de-porter-plainte-pour-laisser-la-justice-voir-qui-est-responsable-et-retablir-la-verite-declare-la-dj-barbara-butch_8118848.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 23 Jul 2026 11:05:10 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Tour de France : la dernière chance pour une victoire française ? Suivez la redoutable étape alpine entre Voiron et Orcières-Merlette avec nous",
+        "resume": "Le premier volet de la trilogie alpine du Tour constitue la dernière occasion pour un baroudeur de s'imposer. Mais il devra s'agir d'un coureur particulièrement costaud vu les 3 900 mètres de dénivelé",
+        "lien": "https://www.franceinfo.fr/tour-de-france/direct-tour-de-france-la-derniere-chance-pour-une-victoire-francaise-suivez-la-redoutable-etape-alpine-entre-voiron-et-orcieres-merlette-avec-nous_8118881.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 23 Jul 2026 13:56:40 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Affaire Epstein : l'association Innocence en danger assigne l'Etat français pour \"déni de justice\" après la mort de Daniel Siad, visé par plusieurs plaintes",
+        "resume": "Daniel Siad, visé par plusieurs plaintes dont deux pour viols, n'a jamais été entendu par la justice alors que les premiers signalements remontent à l'été 2019.",
+        "lien": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/affaire-epstein-l-association-innocence-en-danger-assigne-l-etat-francais-pour-deni-de-justice-apres-la-mort-du-rabatteur-presume-du-pedocriminel_8119124.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 23 Jul 2026 12:34:05 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Incendies en France : 2 400 hectares ravagés, 12 000 habitants évacués",
+        "resume": "La Gironde est en proie à un incendie d'une intensité exceptionnelle: déjà 2 400 hectares ont été réduits en cendres, forçant l'évacuation de 12 000 habitants. Les pompiers et les autorités luttent co",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260723-incendies-en-france-2-400-hectares-ravag%C3%A9s-12-000-habitants-%C3%A9vacu%C3%A9s",
+        "date": "Thu, 23 Jul 2026 12:05:22 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Madagascar : les autorités tentent de rassurer après une vague de disparitions d'enfants",
+        "resume": "Depuis fin juin, une vague de disparitions inquiète la capitale malgache. En une semaine, quatre corps ont été retrouvés, dont ceux d'une fillette de 12 ans et d'un adolescent de 17 ans. Entre fugues ",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260723-madagascar-les-autorit%C3%A9s-tentent-de-rassurer-apr%C3%A8s-une-vague-de-disparitions-d-enfants",
+        "date": "Thu, 23 Jul 2026 11:54:59 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "En images : près du bassin d'Arcachon, le feu s'attaque à nouveau à la forêt des Landes",
+        "resume": "L'incendie qui sévit depuis mercredi au nord du bassin d'Arcachon a déjà parcouru 2 400 hectares et conduit à l'évacuation d'environ 20 000 personnes. Les pompiers continuent de lutter pour mettre fin",
+        "lien": "https://www.france24.com/fr/france/20260723-en-images-feu-for%C3%AAt-bassin-arcachon-flammes-landes-gascogne",
+        "date": "Thu, 23 Jul 2026 11:53:09 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "L'Odyssée",
+        "date_sortie": "2026-07-15",
+        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
+        "note": 7.927,
+        "affiche": "https://image.tmdb.org/t/p/w300/5WzPybmv7J9lwfRfhHpuk0pySNc.jpg"
+      },
+      {
+        "titre": "Vaiana, la légende du bout du monde",
+        "date_sortie": "2026-07-08",
+        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
+        "note": 5.778,
+        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
+      },
+      {
+        "titre": "Backrooms",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
+        "note": 7.087,
+        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
+      },
+      {
+        "titre": "Supergirl",
+        "date_sortie": "2026-07-01",
+        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
+        "note": 6.148,
+        "affiche": "https://image.tmdb.org/t/p/w300/1QV4GubAlUvGX3FjqWWWfQiYkN4.jpg"
+      },
+      {
+        "titre": "Des Minions et des monstres",
+        "date_sortie": "2026-06-24",
+        "synopsis": "L’histoire turbulente, absurde et évidemment vraie des Minions et la manière dont ils ont conquis Hollywood, sont devenus de véritables stars de cinéma, ont tout perdu, ont libéré des monstres dans notre monde, puis ont ",
+        "note": 6.367,
+        "affiche": "https://image.tmdb.org/t/p/w300/jMOf0SSthlNp5uXhEXz4e3tqDX5.jpg"
+      },
+      {
+        "titre": "Toy Story 5",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle… l'électronique !",
+        "note": 7.417,
+        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "Romance De La Venganza",
+        "artiste": "Krystal Martínez-Rodríguez",
+        "date_sortie": "2026-07-17"
+      },
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Young & Cursed (Original Motion Picture Soundtrack)",
+        "artiste": "Patrick O'Malley",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Warehouse 10 Volume 15",
+        "artiste": "Dave Matthews Band",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Warehouse 2026: 7.16.2025 Allianz Amphitheater At Riverfront, Richmond, VA",
+        "artiste": "Dave Matthews Band",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Time Machine",
+        "artiste": "The Jungle",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Randstad Inhouse Bouvet recrute !",
+        "date_debut": "2026-07-23T07:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Atelier en visio : Profil de compétences & Organisation des démarches (ODD)",
+        "date_debut": "2026-07-24T07:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Recrutement - Employé(e) Polyvalent(e) en restauration chez Luks Kebab ANGERS",
+        "date_debut": "2026-07-27T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Au coeur des métiers saisonniers : Viticulture, Horticulture, Arboriculture et Maraîchage à l'honneur !",
+        "date_debut": "2026-07-28T07:30:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Exposition « L'agroalimentaire, une empreinte nantaise »",
+        "date_debut": "2026-07-23",
+        "lieu": "Maison des Hommes et des Techniques (MHT)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "INTERSTELLAR Ré-imaginer la Terre",
+        "date_debut": "2026-07-23",
+        "lieu": "HAB Galerie (Hangar à Bananes)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Croisière Estuaire Nantes-St Nazaire",
+        "date_debut": "2026-07-23",
+        "lieu": "Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Odyssée de l’oubli - Exposition Anne et Patrick Poirier",
+        "date_debut": "2026-07-23",
+        "lieu": "Musée d'arts de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Terrain d'aventures de Nantes Nord des Ceméa Pays de la loire",
+        "date_debut": "2026-07-23",
+        "lieu": "2 rue Samuel de Champlain",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-07-22",
     "news": [
       {
@@ -2551,205 +2744,6 @@
         "titre": "Terrain d'aventures Dervallières",
         "date_debut": "2026-07-10",
         "lieu": "Plaine Lorrain",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-09",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Pourquoi la peine d'inéligibilité avec exécution provisoire prononcée contre Marine Le Pen en première instance ne s'applique-t-elle pas après son pourvoi en cassation ?",
-        "resume": "Selon Rémy Heitz, procureur général de la Cour de cassation, le recours annoncé par la leader d'extrême droite contre l'arrêt de la cour d'appel ne fait pas \"revivre\" le jugement rendu par le tribunal",
-        "lien": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/pourquoi-la-peine-d-ineligibilite-avec-execution-provisoire-prononcee-contre-marine-le-pen-en-premiere-instance-ne-s-applique-t-elle-pas-apres-son-pourvoi-en-cassation_8100746.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 09 Jul 2026 17:00:38 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Alerte canicule : neuf départements de l'ouest de la France placés en vigilance rouge à partir de vendredi midi, 76 en orange",
-        "resume": "C'est la première fois depuis le début de cet épisode de fortes chaleurs, le troisième de l'année, que des départements sont placés au plus haut niveau de vigilance. La vigilance orange s'étendra auss",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-72-departements-places-en-vigilance-orange-l-episode-de-chaleur-progresse-en-france_8100425.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 09 Jul 2026 17:07:30 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Mort de Bonnie Tyler : on vous raconte la petite histoire derrière l'énorme tube \"It's a Heartache\" de la chanteuse",
-        "resume": "La chanteuse galloise, qui s'est éteinte à l'âge de 75 ans, s'était confiée sur la chance et le hasard qui ont marqué une grande partie de sa carrière.",
-        "lien": "https://www.franceinfo.fr/culture/musique/mort-de-bonnie-tyler-la-petite-histoire-derriere-l-enorme-tube-it-s-a-heartache-de-la-chanteuse-a-la-voix-eraillee_8100875.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 09 Jul 2026 13:40:49 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Tadej Pogacar assomme déjà le Tour de France en remportant la 6e étape et reprend le maillot jaune après une démonstration en solitaire",
-        "resume": "Le Slovène a déjà fait une belle opération dans sa quête de cinquième sacre sur la Grande Boucle, jeudi, en lâchant tous ses adversaires dans le col du Tourmalet.",
-        "lien": "https://www.franceinfo.fr/tour-de-france/en-patron-tadej-pogacar-assomme-deja-le-tour-de-france-en-remportant-la-6e-etape-apres-une-demonstration-en-solitaire_8101355.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 09 Jul 2026 17:34:14 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "La Cour européenne des droits de l'Homme a déclaré recevable la requête de Nicolas Sarkozy dans l'affaire \"des écoutes Bismuth\"",
-        "resume": "Cela \"permettra aux juges européens de préciser les conditions dans lesquelles doit s’exercer le droit au secret professionnel entre un avocat et son client\", a affirmé l'avocat de l'ancien président,",
-        "lien": "https://www.franceinfo.fr/politique/nicolas-sarkozy/la-cour-europeenne-des-droits-de-l-homme-a-declare-recevable-la-requete-de-nicolas-sarkozy-dans-l-affaire-des-ecoutes-bismuth_8101286.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 09 Jul 2026 16:46:06 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Cameroun : la plage de Down Beach à Limbé se meurt sous le poids des déchets",
-        "resume": "À Limbé, en pleine zone anglophone du Cameroun, la plage de Down Beach, autrefois joyau de cette cité balnéaire, se meurt. En cause, des tonnes de déchets qui recouvrent son sable volcanique. Un phéno",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260709-cameroun-la-plage-de-down-beach-%C3%A0-limb%C3%A9-se-meurt-sous-le-poids-des-d%C3%A9chets",
-        "date": "Thu, 09 Jul 2026 16:11:04 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Turquie : Erdogan offre un revolver et six balles aux leaders de l’Otan",
-        "resume": "Les dirigeants de l’Otan ont reçu un revolver et six munitions de la part de Recep Tayyip Erdogan après le sommet de mercredi 7 juillet à Ankara.",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260709-turquie-erdogan-offre-un-revolver-et-six-balles-aux-leaders-de-l-otan",
-        "date": "Thu, 09 Jul 2026 16:06:09 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Guerre au Moyen-Orient : le détroit d'Ormuz, épicentre des nouvelles attaques",
-        "resume": "L'armée américaine ⁠a annoncé avoir mené de nouvelles frappes contre l'Iran dans la nuit de mercredi à jeudi afin de ⁠garantir la navigation dans le ​détroit d'Ormuz, provoquant de la part de Téhéran ",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260709-guerre-au-moyen-orient-le-d%C3%A9troit-d-ormuz-%C3%A9picentre-des-nouvelles-attaques",
-        "date": "Thu, 09 Jul 2026 16:02:58 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Toy Story 5",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle… l'électronique !",
-        "note": 7.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
-      },
-      {
-        "titre": "Disclosure Day",
-        "date_sortie": "2026-06-10",
-        "synopsis": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
-        "note": 6.688,
-        "affiche": "https://image.tmdb.org/t/p/w300/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg"
-      },
-      {
-        "titre": "Backrooms",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
-        "note": 6.8,
-        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
-      },
-      {
-        "titre": "Scary Movie",
-        "date_sortie": "2026-06-03",
-        "synopsis": "Vingt-six ans après avoir échappé à un tueur masqué étrangement familier, les héros emblématiques de la saga sont de nouveau dans la ligne de mire du meurtrier, et aucune franchise de film d’horreur n’est à l’abri.",
-        "note": 5.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg"
-      },
-      {
-        "titre": "The Furious",
-        "date_sortie": "2026-06-10",
-        "synopsis": "Après l’enlèvement de sa fille par un réseau criminel et face à l’inaction de la police, Wang Wei se lance dans une traque implacable pour la retrouver. Son seul allié, Navin, est un journaliste tenace dont la femme a my",
-        "note": 7.7,
-        "affiche": "https://image.tmdb.org/t/p/w300/fSy33TZPKVsvVpiHPIrdeRY6tlH.jpg"
-      },
-      {
-        "titre": "Des Minions et des monstres",
-        "date_sortie": "2026-06-24",
-        "synopsis": "L’histoire turbulente, absurde et évidemment vraie des Minions et la manière dont ils ont conquis Hollywood, sont devenus de véritables stars de cinéma, ont tout perdu, ont libéré des monstres dans notre monde, puis ont ",
-        "note": 6.366,
-        "affiche": "https://image.tmdb.org/t/p/w300/jMOf0SSthlNp5uXhEXz4e3tqDX5.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 1",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Découvrez les formations en alternance dans le commerce et la vente avec ARCHI-MED",
-        "date_debut": "2026-07-09T07:30:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Webinaire - Présentation du BPREA à distance",
-        "date_debut": "2026-07-09T16:00:00+00:00",
-        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Adopter la bonne posture : on n'achète pas tous les jours une ferme !",
-        "date_debut": "2026-07-15T16:30:00+00:00",
-        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Découvrez les opportunités du GEIQ pour les Personnes en Situation de Handicap",
-        "date_debut": "2026-07-16T07:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Découvrez les opportunités du GEIQ pour les Personnes en Situation de Handicap",
-        "date_debut": "2026-07-16T08:30:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Le Voyage permanent - Coeur historique - Visite guidée",
-        "date_debut": "2026-07-09",
-        "lieu": "Nantes (Centre ville)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Croisière Estuaire Nantes-St Nazaire",
-        "date_debut": "2026-07-09",
-        "lieu": "Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Les livres ont la bougeotte",
-        "date_debut": "2026-07-09",
-        "lieu": "Bassin des Dervallières",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Terrain d'aventures Dervallières",
-        "date_debut": "2026-07-09",
-        "lieu": "Plaine Lorrain",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Stages théâtre Divine Triumph",
-        "date_debut": "2026-07-09",
-        "lieu": "Maison de quartier de l'île",
         "ville": "Nantes"
       }
     ]
