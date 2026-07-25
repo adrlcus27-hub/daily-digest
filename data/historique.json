@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-07-25",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"C'est l'apocalypse\" : au Parc des expositions de Bordeaux, l'angoisse des évacués des incendies en Gironde",
+        "resume": "Les milliers de personnes ont été évacuées dans plusieurs communes près de Bordeaux. Toutes acheminées aux Parc des expositions de la ville où ils décrivent \"l'apocalypse\".",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/c-est-l-apocalypse-aux-parcs-des-expositions-de-bordeaux-l-angoisse-des-evacues-des-incendies-en-gironde_8121542.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 25 Jul 2026 07:26:04 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Incendies dans le sud-ouest : sept nouvelles communes évacuées près de Bordeaux",
+        "resume": "Cette nouvelle mesure concerne les habitants des communes de Saint-Médard-en-Jalles, Le Haillan, Saint-Jean-d'Illac, Martignas-sur-Jalles et Saint-Aubin-de-Médoc.",
+        "lien": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-dans-le-sud-ouest-sept-nouvelles-communes-evacuees-pres-de-bordeaux_8121596.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 25 Jul 2026 09:52:19 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Emmanuel Macron demande aux Armées \"de se mobiliser\" pour lutter contre les incendies dans le Sud-Ouest, 500 militaires supplémentaires déployés",
+        "resume": "Au total, ce sont environ 1 000 militaires qui seront déployés sur le terrain face aux flammes, qui ont déjà dévoré 22 000 hectares et provoqué l'évacuation de plus de 140 000 personnes.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/emmanuel-macron-demande-aux-armees-de-se-mobiliser-pour-lutter-contre-les-incendies-dans-le-sud-ouest-500-militaires-supplementaires-deployes_8121302.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 25 Jul 2026 00:26:42 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Un feu \"imprévisible\" et \"vorace\" : le récit en images des incendies en Gironde et dans les Landes",
+        "resume": "Un incendie s'est déclenché mercredi en Gironde, près de la très touristique presqu'île du cap Ferret. Un autre est survenu jeudi dans le département voisin des Landes. Des milliers d'hectares ont été",
+        "lien": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/un-feu-imprevisible-et-vorace-on-fait-le-recit-en-images-des-incendies-en-gironde-et-dans-les-landes_8120582.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 24 Jul 2026 16:04:07 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Suivez au fil des heures l'avancée des incendies qui ravagent la Gironde et les Landes",
+        "resume": "Cette carte est alimentée plusieurs fois par jour par les données satellites de la Nasa et de son  service de surveillance des incendies Firms.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/carte-suivez-au-fil-des-heures-l-avancee-des-incendies-qui-ravagent-la-gironde-et-les-landes_8120696.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 24 Jul 2026 17:36:27 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Antonio Guterres effectue une visite en Syrie, la première d'un chef de l'ONU depuis 2009",
+        "resume": "Le secrétaire général des Nations unies s'est rendu en Syrie samedi pour une visite de trois jours au cours de laquelle il doit rencontrer le président Ahmed al-Charaa, et aborder la lente transition ",
+        "lien": "https://www.france24.com/fr/moyen-orient/20260725-antonio-guterres-effectue-une-visite-en-syrie-la-premi%C3%A8re-d-un-chef-de-l-onu-depuis-2009",
+        "date": "Sat, 25 Jul 2026 07:56:55 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Plongeon dans la nostalgie avec les piscines Tournesol",
+        "resume": "Ce sont d'étranges bâtiments en forme de dômes aplatis, percés de dizaines de hublots. Voici l'histoire des piscines Tournesol, curiosités architecturales françaises capables de s'ouvrir et de suivre ",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260725-plong%C3%A9e-nostalgie-piscine-tournesol-france-natation-architecture-histoire-culture-prime",
+        "date": "Sat, 25 Jul 2026 07:43:53 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Incendies en France : nouvelle nuit d'évacuations, la solidarité s'organise",
+        "resume": "En Gironde, sept communes aux portes de Bordeaux nécessitent une \"évacuation progressive\" face à la progression des incendies. Habitants et touristes ont dû quitter leur logement dans l'urgence, en pl",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260725-incendies-en-france-nouvelle-nuit-d-%C3%A9vacuations-la-solidarit%C3%A9-s-organise",
+        "date": "Sat, 25 Jul 2026 07:22:18 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "L'Odyssée",
+        "date_sortie": "2026-07-15",
+        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
+        "note": 7.956,
+        "affiche": "https://image.tmdb.org/t/p/w300/5WzPybmv7J9lwfRfhHpuk0pySNc.jpg"
+      },
+      {
+        "titre": "Vaiana, la légende du bout du monde",
+        "date_sortie": "2026-07-08",
+        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
+        "note": 5.9,
+        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
+      },
+      {
+        "titre": "Supergirl",
+        "date_sortie": "2026-07-01",
+        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
+        "note": 6.151,
+        "affiche": "https://image.tmdb.org/t/p/w300/1QV4GubAlUvGX3FjqWWWfQiYkN4.jpg"
+      },
+      {
+        "titre": "Backrooms",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
+        "note": 7.09,
+        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
+      },
+      {
+        "titre": "Des Minions et des monstres",
+        "date_sortie": "2026-06-24",
+        "synopsis": "L’histoire turbulente, absurde et évidemment vraie des Minions et la manière dont ils ont conquis Hollywood, sont devenus de véritables stars de cinéma, ont tout perdu, ont libéré des monstres dans notre monde, puis ont ",
+        "note": 6.408,
+        "affiche": "https://image.tmdb.org/t/p/w300/jMOf0SSthlNp5uXhEXz4e3tqDX5.jpg"
+      },
+      {
+        "titre": "Toy Story 5",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle… l'électronique !",
+        "note": 7.425,
+        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Midnights in October",
+        "artiste": "Midnights in October",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Recrutement - Employé(e) Polyvalent(e) en restauration chez Luks Kebab ANGERS",
+        "date_debut": "2026-07-27T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Au coeur des métiers saisonniers : Viticulture, Horticulture, Arboriculture et Maraîchage à l'honneur !",
+        "date_debut": "2026-07-28T07:30:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Impro Contenders / Spectacle d'improvisation / Nantes",
+        "date_debut": "2026-07-25",
+        "lieu": "Mystère Impro Club",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Balades touristiques en vélo-taxi",
+        "date_debut": "2026-07-25",
+        "lieu": "centre-ville",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Impro Contenders / Spectacle d'improvisation / Nantes",
+        "date_debut": "2026-07-25",
+        "lieu": "Mystère Impro Club",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition « L'agroalimentaire, une empreinte nantaise »",
+        "date_debut": "2026-07-25",
+        "lieu": "Maison des Hommes et des Techniques (MHT)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Odyssée de l’oubli - Exposition Anne et Patrick Poirier",
+        "date_debut": "2026-07-25",
+        "lieu": "Musée d'arts de Nantes",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-07-24",
     "news": [
       {
@@ -2533,205 +2714,6 @@
         "titre": "Balades touristiques en vélo-taxi",
         "date_debut": "2026-07-12",
         "lieu": "centre-ville",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-11",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Incendies : 32 personnes soupçonnées d'être à l’origine de départs de feu ont été interpellées depuis le début de l'été, annonce Laurent Nuñez",
-        "resume": "\"Ces comportements inacceptables, qui génèrent des conséquences désastreuses et mobilisent nos sapeurs-pompiers au péril de leurs vies, relèvent désormais de la Justice\", dénonce le ministre de l'Inté",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-la-france-suffoque-paris-et-une-vingtaine-de-departements-places-en-vigilance-rouge_8103668.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 11 Jul 2026 12:20:36 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "NOS JOURS HEUREUX. \"C'est une deuxième vie ici\" : la parenthèse dorée des habitués du camping, près de l'océan et loin des tracas",
-        "resume": "Notre série \"Nos jours heureux\" explore les moments de bonheur et de joie pendant l'été. Dans cet épisode, des retraités plantent leurs tentes et garent leurs caravanes dès l'ouverture de leur camping",
-        "lien": "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-c-est-une-deuxieme-vie-ici-la-parenthese-doree-des-habitues-du-camping-pres-de-l-ocean-et-loin-des-tracas_8086847.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 11 Jul 2026 12:12:48 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Coupe du monde 2026 : avant d'affronter la Suisse, le sélectionneur argentin estime que son équipe et Lionel Messi méritent des excuses",
-        "resume": "Lionel Scaloni n'apprécie pas les critiques sur le niveau de jeu de son attaquant. Il l'a fait clairement savoir à la presse, vendredi.",
-        "lien": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-lionel-messi-erling-haaland-harry-kane-les-stars-attendues-au-tournant-des-quarts-de-finale_8102834.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 11 Jul 2026 10:59:57 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Après les orages nocturnes, 20 000 foyers privés d'électricité dans le Sud-Ouest",
-        "resume": "Enedis prévoit un rétablissement des lignes \"dans le courant du week-end\".",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/apres-les-orages-nocturnes-20-000-foyers-prives-d-electricite-dans-le-sud-ouest_8103902.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 11 Jul 2026 11:52:33 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Des perquisitions ont eu lieu fin juin au département des Bouches-du-Rhône et à la métropole Aix-Marseille pour des soupçons de favoritisme et de corruption",
-        "resume": "Ces investigations sont ouvertes pour des soupçons de \"favoritisme, de corruption et de trafic d'influence commis en bande organisée, de détournement de fonds publics et de recel de ces délits\".",
-        "lien": "https://www.franceinfo.fr/faits-divers/justice-proces/des-perquisitions-ont-eu-lieu-fin-juin-au-departement-des-bouches-du-rhone-et-a-la-metropole-aix-marseille-pour-des-soupcons-de-favoritisme-et-de-corruption_8103797.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 11 Jul 2026 11:47:45 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Epidémie d'Ebola : Médecins sans frontières forme des professionnels de santé au Kenya",
-        "resume": "Alors que l'épidémie d'Ebola sévit toujours en RD Congo, l'Unicef alerte sur un risque d'aggravation de la situation humanitaire. De son côté, Médecins sans frontières forme des professionnels de sant",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260711-epid%C3%A9mie-d-ebola-m%C3%A9decins-sans-fronti%C3%A8res-forme-des-professionnels-de-sant%C3%A9-au-kenya",
-        "date": "Sat, 11 Jul 2026 10:21:29 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Pluies torentielles, vents violents... Le typhon Bavi s'abat sur Taïwan",
-        "resume": "Quelque 900 000 personnes ont été évacuées en Chine à l'approche du typhon Bavi, dont les vents et les pluies ont frappé samedi Taïwan et plusieurs îles japonaises, privant des milliers de foyers d'él",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260711-pluies-torentielles-vents-violents-le-typhon-bavi-s-abat-sur-ta%C3%AFwan",
-        "date": "Sat, 11 Jul 2026 10:18:54 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Une vidéo anti-LFI montrant des musulmans vandaliser une boucherie en Angleterre est générée par IA",
-        "resume": "Une vidéo montrant des personnes musulmanes vandaliser une boucherie en Angleterre a été publiée sur X par un compte ouvertement opposé au parti de gauche La France insoumise. Mais elle est générée pa",
-        "lien": "https://www.france24.com/fr/france/20260711-vid%C3%A9o-anti-lfi-montrant-musulmans-vandaliser-boucherie-angleterre-g%C3%A9n%C3%A9r%C3%A9e-ia-intox",
-        "date": "Sat, 11 Jul 2026 09:50:40 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Toy Story 5",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle… l'électronique !",
-        "note": 7.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
-      },
-      {
-        "titre": "Disclosure Day",
-        "date_sortie": "2026-06-10",
-        "synopsis": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
-        "note": 6.688,
-        "affiche": "https://image.tmdb.org/t/p/w300/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg"
-      },
-      {
-        "titre": "Backrooms",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
-        "note": 6.8,
-        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
-      },
-      {
-        "titre": "Scary Movie",
-        "date_sortie": "2026-06-03",
-        "synopsis": "Vingt-six ans après avoir échappé à un tueur masqué étrangement familier, les héros emblématiques de la saga sont de nouveau dans la ligne de mire du meurtrier, et aucune franchise de film d’horreur n’est à l’abri.",
-        "note": 5.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg"
-      },
-      {
-        "titre": "The Furious",
-        "date_sortie": "2026-06-10",
-        "synopsis": "Après l’enlèvement de sa fille par un réseau criminel et face à l’inaction de la police, Wang Wei se lance dans une traque implacable pour la retrouver. Son seul allié, Navin, est un journaliste tenace dont la femme a my",
-        "note": 7.543,
-        "affiche": "https://image.tmdb.org/t/p/w300/fSy33TZPKVsvVpiHPIrdeRY6tlH.jpg"
-      },
-      {
-        "titre": "Des Minions et des monstres",
-        "date_sortie": "2026-06-24",
-        "synopsis": "L’histoire turbulente, absurde et évidemment vraie des Minions et la manière dont ils ont conquis Hollywood, sont devenus de véritables stars de cinéma, ont tout perdu, ont libéré des monstres dans notre monde, puis ont ",
-        "note": 6.379,
-        "affiche": "https://image.tmdb.org/t/p/w300/jMOf0SSthlNp5uXhEXz4e3tqDX5.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Midnights in October",
-        "artiste": "Midnights in October",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Adopter la bonne posture : on n'achète pas tous les jours une ferme !",
-        "date_debut": "2026-07-15T16:30:00+00:00",
-        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Découvrez les opportunités du GEIQ pour les Personnes en Situation de Handicap",
-        "date_debut": "2026-07-16T07:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Découvrez les opportunités du GEIQ pour les Personnes en Situation de Handicap",
-        "date_debut": "2026-07-16T08:30:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Découvrez les opportunités du GEIQ pour les Personnes en Situation de Handicap",
-        "date_debut": "2026-07-16T08:45:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Réunion visio pour aider au développement de l'entreprise créée",
-        "date_debut": "2026-07-21T12:00:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Matinée d'éveil parent-enfant",
-        "date_debut": "2026-07-11",
-        "lieu": "Crèche associative Toiles",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Impro Contenders / Spectacle d'improvisation / Nantes",
-        "date_debut": "2026-07-11",
-        "lieu": "Mystère Impro Club",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "La ville est un jardin - Visite guidée",
-        "date_debut": "2026-07-11",
-        "lieu": "Nantes (Centre ville)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Impro Contenders / Spectacle d'improvisation / Nantes",
-        "date_debut": "2026-07-11",
-        "lieu": "Mystère Impro Club",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Exposition « L'agroalimentaire, une empreinte nantaise »",
-        "date_debut": "2026-07-11",
-        "lieu": "Maison des Hommes et des Techniques (MHT)",
         "ville": "Nantes"
       }
     ]
