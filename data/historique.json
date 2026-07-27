@@ -1,5 +1,192 @@
 [
   {
+    "date": "2026-07-27",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Incendies : les frais de relogement des personnes évacuées seront bien pris en charge par les assureurs, annonce le gouvernement",
+        "resume": "Près de 220 000 personnes ont notamment quitté leur logement en Gironde, où un feu d'une ampleur inédite a ravagé 42 000 hectares depuis mercredi. Deux mille cinq cents sapeurs-pompiers, 1 500 militai",
+        "lien": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendies-en-gironde-84-sapeurs-pompiers-blesses-par-l-incendie-reste-globalement-stable-au-cours-de-la-nuit_8123420.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 27 Jul 2026 10:29:13 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Pourquoi les orages annoncés ne sont pas une si bonne nouvelle dans la lutte contre les incendies",
+        "resume": "De violents orages ont touché une partie de la France, ce week-end du 25 juillet, et Météo France annonce déjà de nouveaux épisodes orageux en fin de semaine.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/pourquoi-les-orages-annonces-ne-sont-pas-une-si-bonne-nouvelle-dans-la-lutte-contre-les-incendies_8123612.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 27 Jul 2026 11:12:42 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "La France a-t-elle des moyens anti-incendie \"supérieurs à ses voisins\" ?",
+        "resume": "Selon le député Renew Europe, Grégory Allione, la France contribue plus au mécanisme européen de protection civile parce qu'elle a plus de moyens que les pays qui lui apportent leur aide.",
+        "lien": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-la-france-a-t-elle-des-moyens-anti-incendie-superieurs-a-ses-voisins_8069567.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 27 Jul 2026 08:58:44 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Il y a des budgets qui sont partis ailleurs, et ce n'est pas normal\" : pour certains sinistrés et pompiers, le sentiment d'un manque de moyens face à l'incendie en Gironde",
+        "resume": "Des sinistrés et des pompiers, dans les Landes et en Gironde, témoignent auprès de France Télévisions, dimanche 26 juillet.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/il-y-a-des-budgets-qui-sont-partis-ailleurs-et-ce-n-est-pas-normal-la-colere-des-sinistres-et-des-pompiers_8123255.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 26 Jul 2026 22:13:18 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Regardez la progression au fil des heures des incendies qui ravagent la Gironde et les Landes",
+        "resume": "Cette carte est alimentée plusieurs fois par jour par les données satellites de la Nasa et de son  service de surveillance des incendies Firms.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/carte-suivez-au-fil-des-heures-l-avancee-des-incendies-qui-ravagent-la-gironde-et-les-landes_8120696.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 27 Jul 2026 07:43:29 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "L'Iran annonce avoir convoqué l'ambassadeur français à Téhéran pour \"ingérence\"",
+        "resume": "Après la détention pendant plusieurs heures la semaine dernière de deux agents de l'ambassade de France en Iran – dont un a été \"molesté\" selon le Quai d'Orsay –, Téhéran dit lundi avoir convoqué l'am",
+        "lien": "https://www.france24.com/fr/moyen-orient/20260727-iran-convocation-ambassadeur-fran%C3%A7ais-ing%C3%A9rence-diplomate-molest%C3%A9",
+        "date": "Mon, 27 Jul 2026 09:47:35 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Incendies en Gironde : 220 000 personnes évacuées",
+        "resume": "Quelque 220 000 personnes ont par exemple été évacuées depuis mercredi 22 juillet à cause de l'incendie qui a embrasé les pourtours du très touristique bassin d'Arcachon. Les précisions de notre journ",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260727-incendies-en-gironde-220-000-personnes-%C3%A9vacu%C3%A9es",
+        "date": "Mon, 27 Jul 2026 09:39:34 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Incendies en France : Que peut-on attendre de la cellule interministérielle de crise ?",
+        "resume": "Des milliers de pompiers ont affronté pour la cinquième nuit consécutive un incendie hors norme en Gironde. Emmanuel Macron préside ce lundi 27 juillet une \"cellule interministérielle de crise\" place ",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260727-incendies-en-france-que-peut-on-attendre-de-la-cellule-interminist%C3%A9rielle-de-crise",
+        "date": "Mon, 27 Jul 2026 09:36:27 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "L'Odyssée",
+        "date_sortie": "2026-07-15",
+        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
+        "note": 7.966,
+        "affiche": "https://image.tmdb.org/t/p/w300/5WzPybmv7J9lwfRfhHpuk0pySNc.jpg"
+      },
+      {
+        "titre": "Vaiana, la légende du bout du monde",
+        "date_sortie": "2026-07-08",
+        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
+        "note": 5.883,
+        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
+      },
+      {
+        "titre": "Supergirl",
+        "date_sortie": "2026-07-01",
+        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
+        "note": 6.2,
+        "affiche": "https://image.tmdb.org/t/p/w300/1QV4GubAlUvGX3FjqWWWfQiYkN4.jpg"
+      },
+      {
+        "titre": "Backrooms",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
+        "note": 7.075,
+        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
+      },
+      {
+        "titre": "Toy Story 5",
+        "date_sortie": "2026-06-17",
+        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle… l'électronique !",
+        "note": 7.421,
+        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
+      },
+      {
+        "titre": "Des Minions et des monstres",
+        "date_sortie": "2026-06-24",
+        "synopsis": "L’histoire turbulente, absurde et évidemment vraie des Minions et la manière dont ils ont conquis Hollywood, sont devenus de véritables stars de cinéma, ont tout perdu, ont libéré des monstres dans notre monde, puis ont ",
+        "note": 6.425,
+        "affiche": "https://image.tmdb.org/t/p/w300/jMOf0SSthlNp5uXhEXz4e3tqDX5.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Complete Orchestral Works, Vol. 3",
+        "artiste": "Maurice Ravel",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Ruina, amor y navaja",
+        "artiste": "Fausto Taranto",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Plays World Hits",
+        "artiste": "Michiel van der Kuy",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Living Free (Live Manchester '75)",
+        "artiste": "Don McLean",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Recrutement - Employé(e) Polyvalent(e) en restauration chez Luks Kebab ANGERS",
+        "date_debut": "2026-07-27T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Au coeur des métiers saisonniers : Viticulture, Horticulture, Arboriculture et Maraîchage à l'honneur !",
+        "date_debut": "2026-07-28T07:30:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "RECRUTEMENT CHARGE DE CLIENTELE CHEZ INTELCIA",
+        "date_debut": "2026-08-10T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Le Voyage permanent - Coeur historique - Visite guidée",
+        "date_debut": "2026-07-27",
+        "lieu": "Nantes (Centre ville)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Biodivers'été 2026",
+        "date_debut": "2026-07-27",
+        "lieu": "Parcs et jardins",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "The Art of the Brick - Exposition d’art en Lego",
+        "date_debut": "2026-07-27",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le Potager de la Cantine",
+        "date_debut": "2026-07-27",
+        "lieu": "Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Balades touristiques en vélo-taxi",
+        "date_debut": "2026-07-27",
+        "lieu": "centre-ville",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-07-26",
     "news": [
       {
@@ -2497,205 +2684,6 @@
         "titre": "Terrain d'aventures Dervallières",
         "date_debut": "2026-07-14",
         "lieu": "Plaine Lorrain",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-13",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Un nouvel incendie dans l'Yonne perturbe le trafic SNCF entre Paris et le Sud-Est, plus de trois heures de retard annoncées pour certains trains",
-        "resume": "L'incendie a parcouru 800 hectares, soit près de 5% du massif de la forêt, a relevé le ministre de l'Intérieur lors d'un point-presse sur place.",
-        "lien": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-les-flammes-ont-deja-parcouru-plus-de-800-hectares-dans-la-foret-de-fontainebleau-en-region-parisienne_8105603.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 13 Jul 2026 14:26:44 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "La perspective d'un procès est \"un nouvel espoir\" pour les victimes de l'attentat de Nice le 14-Juillet 2016, estime Virginie Leroy, avocate des parties civiles",
-        "resume": "Les familles accusent les autorités de n’avoir pas anticipé la menace et de n’avoir pas su sécuriser le feu d'artifice auquel participaient 25 000 personnes.",
-        "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/la-perspective-d-un-proces-est-un-nouvel-espoir-pour-les-victimes-de-l-attentat-de-nice-le-14-juillet-2016-estime-virginie-leroy-avocate-des-parties-civiles_8106194.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 13 Jul 2026 14:14:23 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Infiltrations, sabotages et espionnage : ce que l'on sait de la \"vaste opération cyber russe\", qui touche la France et une dizaine de pays européens",
-        "resume": "Le ministre des Affaires étrangères, Jean-Noël Barrot, a annoncé lundi qu'il allait convoquer l'ambassadeur russe en France \"dans les prochains jours\", tandis que l'Union européenne a évoqué de nouvel",
-        "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/infiltrations-sabotages-et-espionnage-ce-que-l-on-sait-de-la-vaste-operation-cyber-russe-qui-touche-la-france-et-une-dizaine-de-pays-europeens_8105945.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 13 Jul 2026 15:22:36 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Guerre au Moyen-Orient : la télévision d'Etat iranienne rapporte des \"tirs de sommation\" iraniens contre deux navires dans le détroit d'Ormuz",
-        "resume": "Ces bateaux \"tentaient de franchir illégalement le détroit d'Ormuz ont été pris pour cible et stoppés par des tirs de sommation de la marine des Gardiens de la Révolution\", a déclaré un correspondant ",
-        "lien": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-armee-americaine-annonce-une-nouvelle-serie-de-frappes-contre-des-dizaines-de-cibles-en-iran_8105657.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 13 Jul 2026 13:34:17 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Le nombre de faillites d'entreprises pourrait atteindre entre 71 000 et 75 000 d'ici la fin de l'année 2026",
-        "resume": "L'AGS prévoit de verser 2,6 milliards d'euros aux salariés d'entreprises en difficulté en 2026. Un bilan aggravé par de lourds plans sociaux ces derniers mois.",
-        "lien": "https://www.franceinfo.fr/economie/entreprises/le-nombre-de-faillites-d-entreprises-pourrait-atteindre-entre-71-000-et-75-000-d-ici-la-fin-de-l-annee-2026_8106080.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 13 Jul 2026 12:23:27 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Canicule en France : vigilance rouge maintenue dans trente-sept départements",
-        "resume": "Vingt-six millions de Français sont toujours concernés par la vigilance rouge à la canicule, avant une décrue prévue mardi 14 juillet, qui ne sera pour autant pas synonyme de fin de ce troisième coup ",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260713-canicule-en-france-vigilance-rouge-maintenue-dans-trente-sept-d%C3%A9partements",
-        "date": "Mon, 13 Jul 2026 13:35:58 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Derrière l'image : la campagne de Marine Le Pen, un duo avec Jordan Bardella",
-        "resume": "Derrière l'image revient sur la campagne de Marine Le Pen pour la présidentielle 2027. Tandis que Jordan Bardella s'assume en candidat Premier ministre, la candidate domine largement le premier tour d",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260713-derri%C3%A8re-l-image-la-campagne-de-marine-le-pen-un-duo-avec-jordan-bardella",
-        "date": "Mon, 13 Jul 2026 13:29:31 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Thaïlande : des personnes fuient l'incendie meurtrier d'un bar à Bangkok",
-        "resume": "Un incendie dans un bar a fait au moins 27 morts et des dizaines de blessés dimanche soir dans la périphérie de Bangkok, selon les autorités et des témoins, la pire catastrophe de ce type en Thaïlande",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260713-tha%C3%AFlande-des-personnes-fuient-l-incendie-meurtrier-d-un-bar-%C3%A0-bangkok",
-        "date": "Mon, 13 Jul 2026 13:06:54 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Toy Story 5",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle… l'électronique !",
-        "note": 7.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
-      },
-      {
-        "titre": "Disclosure Day",
-        "date_sortie": "2026-06-10",
-        "synopsis": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
-        "note": 6.689,
-        "affiche": "https://image.tmdb.org/t/p/w300/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg"
-      },
-      {
-        "titre": "Scary Movie",
-        "date_sortie": "2026-06-03",
-        "synopsis": "Vingt-six ans après avoir échappé à un tueur masqué étrangement familier, les héros emblématiques de la saga sont de nouveau dans la ligne de mire du meurtrier, et aucune franchise de film d’horreur n’est à l’abri.",
-        "note": 5.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg"
-      },
-      {
-        "titre": "Backrooms",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
-        "note": 6.822,
-        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
-      },
-      {
-        "titre": "Vaiana, la légende du bout du monde",
-        "date_sortie": "2026-07-08",
-        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
-        "note": 5.272,
-        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
-      },
-      {
-        "titre": "The Furious",
-        "date_sortie": "2026-06-10",
-        "synopsis": "Après l’enlèvement de sa fille par un réseau criminel et face à l’inaction de la police, Wang Wei se lance dans une traque implacable pour la retrouver. Son seul allié, Navin, est un journaliste tenace dont la femme a my",
-        "note": 7.532,
-        "affiche": "https://image.tmdb.org/t/p/w300/94rNmtdyclSnO3OOnVBW2Isy9r0.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Midnights in October",
-        "artiste": "Midnights in October",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Adopter la bonne posture : on n'achète pas tous les jours une ferme !",
-        "date_debut": "2026-07-15T16:30:00+00:00",
-        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Découvrez les opportunités du GEIQ pour les Personnes en Situation de Handicap",
-        "date_debut": "2026-07-16T07:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Découvrez les opportunités du GEIQ pour les Personnes en Situation de Handicap",
-        "date_debut": "2026-07-16T08:30:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Découvrez les opportunités du GEIQ pour les Personnes en Situation de Handicap",
-        "date_debut": "2026-07-16T08:45:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Réunion d'information pour la \"Passerelle découverte des métiers de l'hôtellerie restauration\"",
-        "date_debut": "2026-07-16T12:00:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Le Grand Spectacle avec Zoé, Victor, Aziza, Noahm, Camille, Raphaël et Bilal de Claire FRANEK",
-        "date_debut": "2026-07-13",
-        "lieu": "Le Pavillon - Maison de quartier de la Bottière",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Exposition : Sous terre, la vie du sol",
-        "date_debut": "2026-07-13",
-        "lieu": "Parc Potager de la Crapaudine",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Ateliers de co-conception de l’œuvre street art de la Mano avec l'artiste",
-        "date_debut": "2026-07-13",
-        "lieu": "Maison de quartier La Mano",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Atelier bulles de détente",
-        "date_debut": "2026-07-13",
-        "lieu": "Square Georges Méliès",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Balades touristiques en vélo-taxi",
-        "date_debut": "2026-07-13",
-        "lieu": "centre-ville",
         "ville": "Nantes"
       }
     ]
