@@ -1,5 +1,180 @@
 [
   {
+    "date": "2026-07-29",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"C'est un jeu de cache-cache\" : en Gironde, bénévoles et pompiers traquent sans relâche les reprises de feu",
+        "resume": "L'incendie est stabilisé mais pas fixé, en raison des nombreuses reprises de feu, notamment dans la forêt du Grand Crohot, qui borde la plage du même nom, près de Lège-Cap-Ferret. Des bénévoles aident",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/reportage-c-est-un-jeu-de-cache-cache-en-gironde-benevoles-et-pompiers-traquent-sans-relache-les-reprises-de-feu_8126522.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 29 Jul 2026 09:16:33 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Incendie en Gironde : le feu reste \"stabilisé\" après une nouvelle \"nuit calme\", selon la préfecture",
+        "resume": "\"Le feu est toujours stabilisé avec plusieurs reprises (...) traitées rapidement cette nuit\", notamment sur le camp de Souge, à Arès et au Temple, selon les autorités.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendie-en-gironde-le-feu-reste-stabilise-apres-une-nouvelle-nuit-calme-selon-la-prefecture_8126570.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 29 Jul 2026 09:15:23 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Frégate-F100, Kepplair 72... Ces avions sur le point d'émerger pour remplacer une flotte vieillissante dans la lutte contre les incendies",
+        "resume": "L'âge moyen des Canadair français est de 30 ans et leur production n'a pas encore été relancée dans l'usine canadienne de Calgary. Mais plusieurs autres appareils peuvent participer à la lutte contre ",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/fregate-f100-kepplair-72-ces-avions-sur-le-point-d-emerger-pour-remplacer-une-flotte-vieillissante-dans-la-lutte-contre-les-incendies_8125166.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 29 Jul 2026 07:24:00 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Face au désastre qui arrive\" : dans les coulisses de la photo des incendies en Gironde qui fait le tour du monde",
+        "resume": "Relayée par l'AFP, cette photographie de deux personnes installées sur des transats sur une plage de Lacanau est devenue en quelques heures l’une des images les plus commentées de l’été sur les réseau",
+        "lien": "https://www.franceinfo.fr/replay-radio/l-il-de-marion/pour-quelles-raisons-cette-photo-des-incendies-en-gironde-est-elle-devenue-le-symbole-de-l-ete_8092310.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 29 Jul 2026 08:54:37 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Quand ils rentrent, ce sont des zombies\" : en Gironde, l'inquiétude d'une mère face à l'épuisement de son mari et de son fils tous deux pompiers",
+        "resume": "Habitante du Porge, mère et femme de pompier, Claire voit depuis plusieurs jours \"les hommes de sa vie\" lutter contre le mégafeu qui ravage la Gironde. Elle raconte la tension et la fatigue qui pèsent",
+        "lien": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/quand-ils-rentrent-ce-sont-des-zombies-en-gironde-l-inquietude-d-une-mere-face-a-l-epuisement-de-son-mari-et-de-son-fils-tous-deux-pompiers_8099213.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 29 Jul 2026 09:49:39 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Khalida Boufedeche, première femme élue à la tête du Parlement algérien",
+        "resume": "Khalida Boufedeche est devenue mardi la première femme élue à la tête du Parlement algérien. Membre du comité central du FLN, le parti arrivé en tête des dernières législatives en Algérie, elle accède",
+        "lien": "https://www.france24.com/fr/afrique/20260729-algerie-khalida-boufedeche-premiere-femme-elue-a-la-tete-du-parlement-algerien",
+        "date": "Wed, 29 Jul 2026 08:00:50 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Zidane intronisé : le début d'une nouvelle ère pour l'équipe de France",
+        "resume": "Zinedine Zidane a été officiellement présenté en tant que nouveau sélectionneur de l’équipe de France. Il a signé un contrat de quatre ans, avec pour objectifs l’Euro 2028 et la Coupe du monde 2030.",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20260729-zidane-intronis%C3%A9-le-d%C3%A9but-d-une-nouvelle-%C3%A8re-pour-l-%C3%A9quipe-de-france",
+        "date": "Wed, 29 Jul 2026 07:11:35 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Animateurs, agriculteurs, bénévoles : ces visages de la solidarité face aux incendies en Gironde",
+        "resume": "L'un est devenu la coqueluche des enfants réfugiés au centre des expositions de Bordeaux, l'autre se bat aux côtés des pompiers… Animateurs, agriculteurs, ou encore bénévoles de la protection civile, ",
+        "lien": "https://www.france24.com/fr/france/20260729-animateurs-agriculteurs-b%C3%A9n%C3%A9voles-ces-visages-de-la-solidarit%C3%A9-face-aux-incendies-en-gironde",
+        "date": "Wed, 29 Jul 2026 06:05:17 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "L'Odyssée",
+        "date_sortie": "2026-07-15",
+        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
+        "note": 8.0,
+        "affiche": "https://image.tmdb.org/t/p/w300/5WzPybmv7J9lwfRfhHpuk0pySNc.jpg"
+      },
+      {
+        "titre": "Supergirl",
+        "date_sortie": "2026-07-01",
+        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
+        "note": 6.66,
+        "affiche": "https://image.tmdb.org/t/p/w300/1QV4GubAlUvGX3FjqWWWfQiYkN4.jpg"
+      },
+      {
+        "titre": "Vaiana, la légende du bout du monde",
+        "date_sortie": "2026-07-08",
+        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
+        "note": 5.901,
+        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
+      },
+      {
+        "titre": "Spider-Man : Brand New Day",
+        "date_sortie": "2026-07-29",
+        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
+        "note": 7.7,
+        "affiche": "https://image.tmdb.org/t/p/w300/yikio8CfJxIA7faZxgvB9FGXy6u.jpg"
+      },
+      {
+        "titre": "On l'appelait Robin des Bois",
+        "date_sortie": "2026-07-01",
+        "synopsis": "Hanté par son passé après une vie de crimes et de violence, Robin des Bois est laissé pour mort à l’issue d’un combat qu’il pensait être le dernier. Recueilli par une femme mystérieuse, il se voit offrir une ultime chanc",
+        "note": 6.6,
+        "affiche": "https://image.tmdb.org/t/p/w300/ndDY118G0Xn6W8aKP3sLz0ESkGq.jpg"
+      },
+      {
+        "titre": "Des Minions et des monstres",
+        "date_sortie": "2026-06-24",
+        "synopsis": "L’histoire turbulente, absurde et évidemment vraie des Minions et la manière dont ils ont conquis Hollywood, sont devenus de véritables stars de cinéma, ont tout perdu, ont libéré des monstres dans notre monde, puis ont ",
+        "note": 6.4,
+        "affiche": "https://image.tmdb.org/t/p/w300/jMOf0SSthlNp5uXhEXz4e3tqDX5.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Midnights in October",
+        "artiste": "Midnights in October",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "RECRUTEMENT CHARGE DE CLIENTELE CHEZ INTELCIA",
+        "date_debut": "2026-08-10T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Pause-café",
+        "date_debut": "2026-07-29",
+        "lieu": "RIG Malville",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Dans la peau des collectionneurs - Visite guidée au musée Dobrée",
+        "date_debut": "2026-07-29",
+        "lieu": "Musée Dobrée",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le Voyage permanent - Coeur historique - Visite guidée",
+        "date_debut": "2026-07-29",
+        "lieu": "Nantes (Centre ville)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Cours Découvertes Pilates & Stretching Postural – Umaneha",
+        "date_debut": "2026-07-29",
+        "lieu": "Dalby Sport-Santé",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "The Art of the Brick - Exposition d’art en Lego",
+        "date_debut": "2026-07-29",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-07-28",
     "news": [
       {
@@ -2467,205 +2642,6 @@
         "titre": "Odyssée de l’oubli - Exposition Anne et Patrick Poirier",
         "date_debut": "2026-07-16",
         "lieu": "Musée d'arts de Nantes",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-15",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Tactique, arbitrage, fraîcheur physique... Cinq questions sur les raisons de la défaite de l'équipe de France face à l'Espagne en demi-finale de la Coupe du monde",
-        "resume": "Le match contre la Roja, mardi, a exposé des failles dans une équipe de France pourtant au sommet de sa confiance.",
-        "lien": "https://www.franceinfo.fr/coupe-du-monde/tactique-arbitrage-fraicheur-physique-cinq-questions-sur-la-defaite-de-l-equipe-de-france-face-a-l-espagne-en-demi-finale-de-la-coupe-du-monde_8108492.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 15 Jul 2026 12:24:17 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Jérôme Barella va être entendu par le juge d'instruction, en vue de sa mise en examen pour le viol et le meurtre de Lyhanna",
-        "resume": "Pour l'instant, le principal suspect dans la mort de la collégienne est mis en examen pour enlèvement et séquestration. Lors de sa garde à vue, il a confié avoir été \"touché\" par \"plusieurs personnes\"",
-        "lien": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/affaire-lyhanna-jerome-barella-entendu-par-le-juge-d-instruction-en-vue-de-sa-mise-en-examen-pour-le-viol-et-le-meurtre-de-la-fillette_8107760.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 15 Jul 2026 11:16:41 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Affaire Grégory : les faits d'association de malfaiteurs reprochés à la grand-tante Jacqueline Jacob sont prescrits",
-        "resume": "La chambre de l'instruction de la cour d'appel de Dijon a estimé que des poursuites ne pouvaient pas être engagées contre l'octogénaire pour \"association de malfaiteurs\".",
-        "lien": "https://www.franceinfo.fr/faits-divers/affaire-du-petit-gregory/affaire-gregory-les-faits-reproches-a-la-grand-tante-jacqueline-jacob-sont-prescrits-annonce-la-cour-d-appel-de-dijon_8108504.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 15 Jul 2026 12:06:46 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Patios, loggias végétalisées, jardin intérieur… À la découverte d'un immeuble bioclimatique, conçu pour résister naturellement à la chaleur",
-        "resume": "Nous avons visité un bâtiment bioclimatique, pensé spécialement pour mieux résister aux fortes chaleurs alors que la France a connu une troisième vague de canicule en moins de deux mois",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/patios-loggias-vegetalisees-jardin-interieur-a-la-decouverte-d-un-immeuble-bioclimatique-concu-pour-resister-naturellement-a-la-chaleur_8107808.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 15 Jul 2026 12:31:36 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Le parquet général ne se pourvoit pas en cassation dans l'affaire des assistants d'eurodéputés du Front national",
-        "resume": "Si les magistrats d'appel avaient suivi les réquisitions du parquet de condamner Marine Le Pen et une dizaine de cadres du parti à la flamme pour détournement de fonds publics, les peines prononcées a",
-        "lien": "https://www.franceinfo.fr/faits-divers/justice-proces/proces-des-assistants-d-eurodeputes-du-front-national-le-parquet-general-ne-se-pourvoit-pas-en-cassation_8108705.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 15 Jul 2026 12:59:46 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "🔴 Moyen-Orient en direct : l'armée américaine annonce une nouvelle \"vague de frappes\" en Iran",
-        "resume": "",
-        "lien": "https://www.france24.com/fr/moyen-orient/20260715-en-direct-echange-frappes-iran-etats-unis-blocus-des-ports-iraniens-vigueur-detroit-ormuz-pays-golfe-koweit-bahrein-jordanie-liban-israel-donald-trump-menace",
-        "date": "Wed, 15 Jul 2026 10:47:40 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Mondial 2026 : l'autopsie tactique de la défaite des Bleus en demi-finale",
-        "resume": "L'élimination de la France mardi en demi-finales du Mondial face à l'Espagne laisse un goût d'inachevé après les promesses suscitées par le jeu flamboyant déployé tout au long de la compétition. Pour ",
-        "lien": "https://www.france24.com/fr/sports/20260715-mondial-2026-autopsie-tactique-elimination-france-espagne-demi-finale-deschamps-rabiot-tchouameni",
-        "date": "Wed, 15 Jul 2026 09:56:52 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Mali-Algérie : les deux pays amorcent un rapprochement après une longue crise",
-        "resume": "Après plus d’un an de tensions, Bamako et Alger amorcent un retour au dialogue. Les deux pays ont annoncé vendredi la réouverture de leurs espaces aériens respectifs et le retour de leurs ambassadeurs",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260715-mali-alg%C3%A9rie-les-deux-pays-amorcent-un-rapprochement-apr%C3%A8s-une-longue-crise",
-        "date": "Wed, 15 Jul 2026 09:43:50 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Toy Story 5",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle… l'électronique !",
-        "note": 7.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
-      },
-      {
-        "titre": "Disclosure Day",
-        "date_sortie": "2026-06-10",
-        "synopsis": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
-        "note": 6.692,
-        "affiche": "https://image.tmdb.org/t/p/w300/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg"
-      },
-      {
-        "titre": "Backrooms",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
-        "note": 6.929,
-        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
-      },
-      {
-        "titre": "Vaiana, la légende du bout du monde",
-        "date_sortie": "2026-07-08",
-        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
-        "note": 5.7,
-        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
-      },
-      {
-        "titre": "The Furious",
-        "date_sortie": "2026-06-10",
-        "synopsis": "Après l’enlèvement de sa fille par un réseau criminel et face à l’inaction de la police, Wang Wei se lance dans une traque implacable pour la retrouver. Son seul allié, Navin, est un journaliste tenace dont la femme a my",
-        "note": 7.532,
-        "affiche": "https://image.tmdb.org/t/p/w300/94rNmtdyclSnO3OOnVBW2Isy9r0.jpg"
-      },
-      {
-        "titre": "L'Odyssée",
-        "date_sortie": "2026-07-15",
-        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
-        "note": 5.158,
-        "affiche": "https://image.tmdb.org/t/p/w300/xJ97RenWOB8DBBwZryjUQTDdH73.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Midnights in October",
-        "artiste": "Midnights in October",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Adopter la bonne posture : on n'achète pas tous les jours une ferme !",
-        "date_debut": "2026-07-15T16:30:00+00:00",
-        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Découvrez les opportunités du GEIQ pour les Personnes en Situation de Handicap",
-        "date_debut": "2026-07-16T07:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Découvrez les opportunités du GEIQ pour les Personnes en Situation de Handicap",
-        "date_debut": "2026-07-16T08:30:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Découvrez les opportunités du GEIQ pour les Personnes en Situation de Handicap",
-        "date_debut": "2026-07-16T08:45:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Réunion d'information pour la \"Passerelle découverte des métiers de l'hôtellerie restauration\"",
-        "date_debut": "2026-07-16T12:00:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Balades touristiques en vélo-taxi",
-        "date_debut": "2026-07-15",
-        "lieu": "centre-ville",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le Grand Spectacle avec Zoé, Victor, Aziza, Noahm, Camille, Raphaël et Bilal de Claire FRANEK",
-        "date_debut": "2026-07-15",
-        "lieu": "Le Pavillon - Maison de quartier de la Bottière",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Destination camping",
-        "date_debut": "2026-07-15",
-        "lieu": "Centre socioculturel Accoord Bout des Landes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Les Sciences en Bas de Chez Toi / horaires canicule adaptés",
-        "date_debut": "2026-07-15",
-        "lieu": "Parc du Jamet",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Terrain d'aventures Dervallières",
-        "date_debut": "2026-07-15",
-        "lieu": "Plaine Lorrain",
         "ville": "Nantes"
       }
     ]
