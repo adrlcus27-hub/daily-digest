@@ -1,5 +1,180 @@
 [
   {
+    "date": "2026-07-30",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Incendie en Gironde : 84 000 habitants de neuf communes autorisés à rentrer chez eux, l'autoroute A63 doit rouvrir à 14 heures",
+        "resume": "Ceux d'Eysines, Mérignac et Le Haillan étaient déjà autoriser à rentrer chez eux depuis mardi.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendies-en-france-la-reprise-de-feu-en-foret-de-fontainebleau-a-ete-fixee-6-hectares-ont-brule_8127944.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 30 Jul 2026 10:14:51 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"On n'y voit rien, c'est l'apocalypse\" : on vous raconte les 48 heures qui ont ravagé la commune du Porge, anéantie par l'incendie en Gironde",
+        "resume": "Près de 200 maisons sont parties en fumée dans cette commune martyre. Au travers des témoignages des pompiers et des habitants, qui se sont sentis abandonnés, franceinfo remonte le fil de la catastrop",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/recit-franceinfo-on-n-y-voit-rien-c-est-l-apocalypse-on-vous-raconte-les-48-heures-qui-ont-ravage-la-commune-du-porge-aneantie-par-l-incendie-en-gironde_8127344.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 30 Jul 2026 06:50:28 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Le Syndicat national du personnel navigant de l'aéronautique civile dénonce des problèmes de maintenance des Canadair",
+        "resume": "Son secrétaire général adjoint, Eric Durand, pointe du doigt le manque de disponibilité des Canadair à cause de problèmes de maintenance depuis dix ans. Ces avions sont très sollicités depuis le début",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/le-syndicat-national-du-personnel-navigant-de-l-aeronautique-civile-denonce-des-problemes-de-maintenance-des-canadair_8128142.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 30 Jul 2026 08:58:01 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Incendies en France : comment venir en aide aux sinistrés, soutenir les pompiers ou préparer l'après ?",
+        "resume": "La Fondation de France, le Secours populaire, le maire de Paris ou encore le président de la région Sud ont lancé des appels à la solidarité.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-france-comment-venir-en-aide-aux-sinistres-soutenir-les-pompiers-ou-preparer-l-apres_8123681.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 29 Jul 2026 15:52:45 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Le gouvernement souhaite faire émerger une filière composée d’industriels impliqués dans la lutte contre les incendies",
+        "resume": "Alors que les incendies ravagent toujours, fin juillet, le Sud-Ouest, le gouvernement veut réunir les industriels du secteur pour renforcer les capacités françaises de lutte contre les feux.",
+        "lien": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/le-gouvernement-souhaite-faire-emerger-une-filiere-composee-d-industriels-impliques-dans-la-lutte-contre-les-incendies_8100752.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 30 Jul 2026 08:12:08 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Pologne : un projectile s'écrase dans une zone inhabitée de l'est du pays",
+        "resume": "Les autorités polonaises ont indiqué jeudi avoir localisé dans une zone inhabitée de l'est du pays un cratère, probable lieu d'impact d'un projectile lié aux frappes menées en Ukraine dans la nuit par",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260730-pologne-un-projectile-s-%C3%A9crase-dans-une-zone-inhabit%C3%A9e-de-l-est-du-pays",
+        "date": "Thu, 30 Jul 2026 08:18:50 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Moyen-Orient : les États-Unis reprennent leurs bombardements sur l'Iran",
+        "resume": "Les Etats-Unis ont annoncé jeudi avoir achevé une \"lourde série\" de bombardements sur l'Iran en représailles à des attaques contre leurs forces au Moyen-Orient, les médias iraniens faisant état de tro",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260730-moyen-orient-les-%C3%A9tats-unis-reprennent-leurs-bombardements-sur-l-iran",
+        "date": "Thu, 30 Jul 2026 08:18:11 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "🔴 Incendies en direct : 84 000 habitants autorisés à rentrer chez eux près de Bordeaux",
+        "resume": "",
+        "lien": "https://www.france24.com/fr/europe/20260730-incendies-en-direct-le-m%C3%A9gafeu-en-gironde-stabilis%C3%A9-jeudi-matin-m%C3%A9t%C3%A9o-favorable",
+        "date": "Thu, 30 Jul 2026 08:05:47 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "L'Odyssée",
+        "date_sortie": "2026-07-15",
+        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
+        "note": 7.941,
+        "affiche": "https://image.tmdb.org/t/p/w300/5WzPybmv7J9lwfRfhHpuk0pySNc.jpg"
+      },
+      {
+        "titre": "Supergirl",
+        "date_sortie": "2026-07-01",
+        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
+        "note": 6.72,
+        "affiche": "https://image.tmdb.org/t/p/w300/1QV4GubAlUvGX3FjqWWWfQiYkN4.jpg"
+      },
+      {
+        "titre": "Vaiana, la légende du bout du monde",
+        "date_sortie": "2026-07-08",
+        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
+        "note": 5.909,
+        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
+      },
+      {
+        "titre": "Spider-Man : Brand New Day",
+        "date_sortie": "2026-07-29",
+        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
+        "note": 7.983,
+        "affiche": "https://image.tmdb.org/t/p/w300/yikio8CfJxIA7faZxgvB9FGXy6u.jpg"
+      },
+      {
+        "titre": "On l'appelait Robin des Bois",
+        "date_sortie": "2026-07-01",
+        "synopsis": "Hanté par son passé après une vie de crimes et de violence, Robin des Bois est laissé pour mort à l’issue d’un combat qu’il pensait être le dernier. Recueilli par une femme mystérieuse, il se voit offrir une ultime chanc",
+        "note": 6.579,
+        "affiche": "https://image.tmdb.org/t/p/w300/ndDY118G0Xn6W8aKP3sLz0ESkGq.jpg"
+      },
+      {
+        "titre": "Des Minions et des monstres",
+        "date_sortie": "2026-06-24",
+        "synopsis": "L’histoire turbulente, absurde et évidemment vraie des Minions et la manière dont ils ont conquis Hollywood, sont devenus de véritables stars de cinéma, ont tout perdu, ont libéré des monstres dans notre monde, puis ont ",
+        "note": 6.413,
+        "affiche": "https://image.tmdb.org/t/p/w300/jMOf0SSthlNp5uXhEXz4e3tqDX5.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Midnights in October",
+        "artiste": "Midnights in October",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "RECRUTEMENT CHARGE DE CLIENTELE CHEZ INTELCIA",
+        "date_debut": "2026-08-10T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "INTERSTELLAR Ré-imaginer la Terre",
+        "date_debut": "2026-07-30",
+        "lieu": "HAB Galerie (Hangar à Bananes)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Histoires de street-art et graffitis - Circuit centre ville - Visite guidée",
+        "date_debut": "2026-07-30",
+        "lieu": "Nantes (Centre ville)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Friperie solidaire des Bourderies",
+        "date_debut": "2026-07-30",
+        "lieu": "Centre socioculturel des Bourderies",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Balades touristiques en vélo-taxi",
+        "date_debut": "2026-07-30",
+        "lieu": "centre-ville",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Raconte-moi Nantes - Visite guidée en famille",
+        "date_debut": "2026-07-30",
+        "lieu": "Nantes (Centre ville)",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-07-29",
     "news": [
       {
@@ -2443,205 +2618,6 @@
         "titre": "The Art of the Brick - Exposition d’art en Lego",
         "date_debut": "2026-07-17",
         "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-16",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Disparition de Delphine Aussaguel : des ossements qui pourraient être \"humains\" ont été retrouvés \"sur les lieux indiqués par Cédric Jubillar\", annonce le procureur général",
-        "resume": "Le trentenaire, qui a avoué être à l'origine de la mort de sa femme cinq ans après sa disparition, est sur place avec les gendarmes, dans le Tarn.",
-        "lien": "https://www.franceinfo.fr/replay-radio/affaire-jubillar-le-proces-d-une-disparition/direct-affaire-jubillar-apres-les-aveux-de-cedric-jubillar-de-nouvelles-fouilles-sont-en-cours-pour-retrouver-le-corps-de-delphine-aussaguel_8110025.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 16 Jul 2026 13:46:57 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "La justice n'a pas été informée des aveux de Cédric Jubillar autrement \"que par la presse\", indique la cour d'appel de Toulouse",
-        "resume": "\"Pour l'instant, la cour d'appel de Toulouse n'a eu connaissance de l'élément nouveau que constituerait la lettre d'aveux de monsieur Jubillar que par la presse\", explique la cour d'appel de Toulouse,",
-        "lien": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/la-justice-n-a-pas-ete-informee-des-aveux-de-cedric-jubillar-autrement-que-par-la-presse-indique-la-cour-d-appel-de-toulouse_8096426.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 06 Jul 2026 16:52:34 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"C'est d'abord la méfiance, la prudence et surtout la stupéfaction\", dit l'avocate de la mère de Cédric Jubillar après la publication de sa lettre d'aveux",
-        "resume": "Me Vallat dit sa \"stupéfaction\" après la révélation d’aveux attribués au peintre-plaquiste par \"voie de presse\", dénonçant une méthode \"inouïe\".",
-        "lien": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/c-est-d-abord-la-mefiance-la-prudence-et-surtout-la-stupefaction-dit-l-avocate-de-la-mere-de-cedric-jubillar-apres-la-publication-de-sa-lettre-d-aveux_8097320.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 07 Jul 2026 08:28:00 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Les aveux de Cédric Jubillar peuvent-ils jouer en sa faveur lors de son procès en appel ?",
-        "resume": "Alors qu'il niait toute implication depuis cinq ans et demi, le peintre-plaquiste de 39 ans, qui doit être rejugé mi-septembre, vient de reconnaître avoir tué son épouse, Delphine Aussaguel, disparue ",
-        "lien": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/les-aveux-de-cedric-jubillar-peuvent-ils-jouer-en-sa-faveur-lors-de-son-proces-en-appel_8095949.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 06 Jul 2026 19:17:21 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Aveux de Cédric Jubillar : il \"n'a jamais eu l'intention de tuer son épouse\", affirme son avocat",
-        "resume": "Condamné à 30 ans de prison en première instance, le peintre-plaquiste avait toujours nié sa responsabilité dans la disparition de Delphine Aussaguel.",
-        "lien": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/direct-l-avocat-de-cedric-jubillar-tient-une-conference-de-presse-a-la-mi-journee-apres-les-aveux-de-son-client_8095871.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 06 Jul 2026 23:51:29 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "La forêt de Fontainebleau : ce joyau naturel frappé par un des pires incendies de son histoire",
-        "resume": "Le feu de forêt qui a touché Fontainebleau en début de semaine a laissé la faune et la flore en grande difficulté. Fréquenté depuis la préhistoire et réputé pour la beauté de ses paysages, le lieu est",
-        "lien": "https://www.france24.com/fr/france/20260716-incendie-%C3%A0-fontainebleau-le-poumon-vert-de-paris-calcin%C3%A9",
-        "date": "Thu, 16 Jul 2026 11:45:37 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Des ossements retrouvés à l'emplacement donné aux enquêteurs par Cédric Jubillar",
-        "resume": "Les gendarmes ont découvert jeudi 16 juillet des ossements, dans un lieu désigné par Cédric Jubillar, non loin du village de Cagnac-les-Mines où son épouse Delphine a été vue pour la dernière fois, fi",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260716-des-ossements-retrouv%C3%A9s-%C3%A0-l-emplacement-donn%C3%A9-aux-enqu%C3%AAteurs-par-c%C3%A9dric-jubillar",
-        "date": "Thu, 16 Jul 2026 11:29:31 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "France : les crimes commis sur les mineurs bientôt imprescriptibles ?",
-        "resume": "L'Assemblée nationale a voté pour étendre l'imprescriptibilité, jusque-là reservée aux crimes contre l'humanité, à ceux commis sur les mineurs, lors de l'examen du projet de loi sur la protection des ",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260716-france-les-crimes-commis-sur-les-mineurs-bient%C3%B4t-imprescriptibles",
-        "date": "Thu, 16 Jul 2026 11:27:20 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Toy Story 5",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle… l'électronique !",
-        "note": 7.403,
-        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
-      },
-      {
-        "titre": "Vaiana, la légende du bout du monde",
-        "date_sortie": "2026-07-08",
-        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
-        "note": 5.626,
-        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
-      },
-      {
-        "titre": "Disclosure Day",
-        "date_sortie": "2026-06-10",
-        "synopsis": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
-        "note": 6.7,
-        "affiche": "https://image.tmdb.org/t/p/w300/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg"
-      },
-      {
-        "titre": "Backrooms",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
-        "note": 6.953,
-        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
-      },
-      {
-        "titre": "The Furious",
-        "date_sortie": "2026-06-10",
-        "synopsis": "Après l’enlèvement de sa fille par un réseau criminel et face à l’inaction de la police, Wang Wei se lance dans une traque implacable pour la retrouver. Son seul allié, Navin, est un journaliste tenace dont la femme a my",
-        "note": 7.456,
-        "affiche": "https://image.tmdb.org/t/p/w300/94rNmtdyclSnO3OOnVBW2Isy9r0.jpg"
-      },
-      {
-        "titre": "L'Odyssée",
-        "date_sortie": "2026-07-15",
-        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
-        "note": 6.2,
-        "affiche": "https://image.tmdb.org/t/p/w300/xJ97RenWOB8DBBwZryjUQTDdH73.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Midnights in October",
-        "artiste": "Midnights in October",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Découvrez les opportunités du GEIQ pour les Personnes en Situation de Handicap",
-        "date_debut": "2026-07-16T07:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Découvrez les opportunités du GEIQ pour les Personnes en Situation de Handicap",
-        "date_debut": "2026-07-16T08:30:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Découvrez les opportunités du GEIQ pour les Personnes en Situation de Handicap",
-        "date_debut": "2026-07-16T08:45:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Réunion d'information pour la \"Passerelle découverte des métiers de l'hôtellerie restauration\"",
-        "date_debut": "2026-07-16T12:00:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Réunion visio pour aider au développement de l'entreprise créée",
-        "date_debut": "2026-07-21T12:00:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Dans la peau des collectionneurs - Visite guidée au musée Dobrée",
-        "date_debut": "2026-07-16",
-        "lieu": "Musée Dobrée",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Les jeudis de l'été à Bellevue",
-        "date_debut": "2026-07-16",
-        "lieu": "Centre socioculturel de Bellevue - Centre du Jamet",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le Grand Spectacle avec Zoé, Victor, Aziza, Noahm, Camille, Raphaël et Bilal de Claire FRANEK",
-        "date_debut": "2026-07-16",
-        "lieu": "Le Pavillon - Maison de quartier de la Bottière",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Exposition : Sous terre, la vie du sol",
-        "date_debut": "2026-07-16",
-        "lieu": "Parc Potager de la Crapaudine",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Odyssée de l’oubli - Exposition Anne et Patrick Poirier",
-        "date_debut": "2026-07-16",
-        "lieu": "Musée d'arts de Nantes",
         "ville": "Nantes"
       }
     ]
