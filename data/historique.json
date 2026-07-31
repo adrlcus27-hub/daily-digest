@@ -1,5 +1,180 @@
 [
   {
+    "date": "2026-07-31",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"C'est fini pour nous, on part\" : au Porge, épicentre du gigantesque incendie en Gironde, la douloureuse question de l'après",
+        "resume": "Les 3 500 habitants de la commune n'ont pas seulement la tête dans la paperasse administrative. Tous s'interrogent sur leur avenir dans la commune ravagée par les flammes.",
+        "lien": "https://www.franceinfo.fr/faits-divers/incendie/reportage-c-est-fini-pour-nous-on-part-au-porge-epicentre-du-gigantesque-incendie-en-gironde-la-douloureuse-question-de-l-apres_8128640.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 31 Jul 2026 07:05:07 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Incendies en France : 308 personnes interpellées au total, annonce le ministre de l'Intérieur",
+        "resume": "Parmi elles, 33 sont incarcérées, \"soit en détention provisoire, en attente de jugement, soit qui ont été condamnées\", parfois \"à de la prison ferme\", a ajouté Laurent Nuñez vendredi matin.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendie-en-gironde-le-feu-est-contenu-dans-son-perimetre-rapporte-la-prefecture_8129489.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 31 Jul 2026 09:50:36 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Incendie en Gironde : les pompiers observent une minute de silence en hommage aux deux soldats du feu tués à Mérignac",
+        "resume": "Les deux pompiers sont mort le 21 juillet, alors qu'ils luttaient contre feu de broussailles près de l'aéroport de Bordeaux-Mérignac.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/video-incendie-en-gironde-les-pompiers-observent-une-minute-de-silence-en-hommage-aux-deux-soldats-du-feu-tues-a-merignac_8129717.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 31 Jul 2026 10:03:08 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Hyperthermie, intoxication, brûlures… Ces dangers qui menacent les pompiers lors des incendies",
+        "resume": "L'incendie en Gironde est \"stabilisé et contenu dans son périmètre\" depuis la nuit de jeudi à vendredi. Mais le bilan est lourd. 42 000 hectares brûlés, plus de 200 habitations détruites, et des dizai",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/hyperthermie-intoxication-brulures-ces-dangers-qui-menacent-les-pompiers-lors-des-incendies_8129729.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 31 Jul 2026 10:31:22 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Un projet de panneaux solaires en Gironde devient le carburant d’une théorie du complot sur les incendies",
+        "resume": "Sur Tik Tok, Facebook ou X, de nombreuses vidéos affirment que les incendies du Sud Ouest n’auraient rien d’accidentel et auraient été déclenchés pour permettre l'installation d'un vaste parc photovol",
+        "lien": "https://www.franceinfo.fr/replay-radio/l-il-de-marion/incendies-en-gironde-un-projet-de-panneaux-solaires-devient-le-carburant-d-une-theorie-du-complot_8092304.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 31 Jul 2026 09:21:26 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Ce que l'on sait de l'accord de désarmement du Hamas dans la bande de Gaza",
+        "resume": "Le Hamas a consenti, vendredi, à un accord sur la deuxième phase du cessez-le-feu avec Israël, confirmant une déclaration de Donald Trump. Les deux points clés de cette phase consistent au désarmement",
+        "lien": "https://www.france24.com/fr/moyen-orient/20260731-ce-que-l-on-sait-accord-de-d%C3%A9sarmement-du-hamas-bande-gaza-isra%C3%ABl-%C3%A9tats-unis-cessez-le-feu-trump",
+        "date": "Fri, 31 Jul 2026 08:40:52 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Espagne : près de 50 000 migrants ont rejoint Ceuta depuis le Maroc en 24 heures",
+        "resume": "Entre 40 000 et 50 000 migrants ont traversé la frontière entre le Maroc et Ceuta par voie maritime et terrestre depuis hier, a annoncé le ministère de l'Intérieur espagnol. Au total, 18 personnes son",
+        "lien": "https://www.france24.com/fr/europe/20260731-espagne-pr%C3%A8s-de-50-000-migrants-ont-rejoint-ceuta-depuis-le-maroc-en-24-heures",
+        "date": "Fri, 31 Jul 2026 08:31:27 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Légende du football italien et de l'AC Milan, Franco Baresi est mort",
+        "resume": "L'ancien footballeur italien Franco ⁠Baresi, figure ​emblématique de l'AC Milan et de la SquadraAzzurra, dont il a ​orchestré la défense avec maestria durant les années 1980 et 1990, est mort à l'âge ",
+        "lien": "https://www.france24.com/fr/sports/20260731-legende-football-italien-franco-baresi-ac-milan-deces",
+        "date": "Fri, 31 Jul 2026 07:46:35 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Spider-Man : Brand New Day",
+        "date_sortie": "2026-07-29",
+        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
+        "note": 8.002,
+        "affiche": "https://image.tmdb.org/t/p/w300/yikio8CfJxIA7faZxgvB9FGXy6u.jpg"
+      },
+      {
+        "titre": "L'Odyssée",
+        "date_sortie": "2026-07-15",
+        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
+        "note": 7.946,
+        "affiche": "https://image.tmdb.org/t/p/w300/5WzPybmv7J9lwfRfhHpuk0pySNc.jpg"
+      },
+      {
+        "titre": "Supergirl",
+        "date_sortie": "2026-07-01",
+        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
+        "note": 6.746,
+        "affiche": "https://image.tmdb.org/t/p/w300/1QV4GubAlUvGX3FjqWWWfQiYkN4.jpg"
+      },
+      {
+        "titre": "Vaiana, la légende du bout du monde",
+        "date_sortie": "2026-07-08",
+        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
+        "note": 5.887,
+        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
+      },
+      {
+        "titre": "On l'appelait Robin des Bois",
+        "date_sortie": "2026-07-01",
+        "synopsis": "Hanté par son passé après une vie de crimes et de violence, Robin des Bois est laissé pour mort à l’issue d’un combat qu’il pensait être le dernier. Recueilli par une femme mystérieuse, il se voit offrir une ultime chanc",
+        "note": 6.646,
+        "affiche": "https://image.tmdb.org/t/p/w300/ndDY118G0Xn6W8aKP3sLz0ESkGq.jpg"
+      },
+      {
+        "titre": "Des Minions et des monstres",
+        "date_sortie": "2026-06-24",
+        "synopsis": "L’histoire turbulente, absurde et évidemment vraie des Minions et la manière dont ils ont conquis Hollywood, sont devenus de véritables stars de cinéma, ont tout perdu, ont libéré des monstres dans notre monde, puis ont ",
+        "note": 6.445,
+        "affiche": "https://image.tmdb.org/t/p/w300/jMOf0SSthlNp5uXhEXz4e3tqDX5.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Midnights in October",
+        "artiste": "Midnights in October",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "RECRUTEMENT CHARGE DE CLIENTELE CHEZ INTELCIA",
+        "date_debut": "2026-08-10T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "INTERSTELLAR Ré-imaginer la Terre",
+        "date_debut": "2026-07-31",
+        "lieu": "HAB Galerie (Hangar à Bananes)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Statues de Nantes, images de la ville - Visite guidée",
+        "date_debut": "2026-07-31",
+        "lieu": "Nantes (Centre ville)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Terrain d'aventures de Nantes Nord des Ceméa Pays de la loire",
+        "date_debut": "2026-07-31",
+        "lieu": "2 rue Samuel de Champlain",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Balades touristiques en vélo-taxi",
+        "date_debut": "2026-07-31",
+        "lieu": "centre-ville",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "House of Banksy - Une expo non autorisée",
+        "date_debut": "2026-07-31",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-07-30",
     "news": [
       {
@@ -2419,205 +2594,6 @@
         "titre": "Vers un autre monde - Exposition de projets de fin d'études en architecture",
         "date_debut": "2026-07-18",
         "lieu": "École nationale supérieure d’architecture - ensa",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-17",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Des aveux de Cédric Jubillar à la découverte d'ossements, comment l'une des plus importantes affaires criminelles a basculé en une quinzaine de jours",
-        "resume": "Jeudi, des ossements ont été retrouvés lors de fouilles sur les lieux indiqués par le trentenaire comme l'endroit où il a déposé le corps de sa femme cinq ans plus tôt, a annoncé la justice. Il pourra",
-        "lien": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/recit-des-aveux-de-cedric-jubillar-a-la-decouverte-d-ossements-comment-l-une-des-plus-importantes-affaires-criminelles-a-bascule-en-une-quinzaine-de-jours_8111228.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 17 Jul 2026 11:45:39 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Affaire Jubillar : les ossements découverts dans le Tarn vont être analysés \"dans l'après-midi\" au siège de l'Institut de recherche criminelle de la gendarmerie nationale",
-        "resume": "Selon une source proche de l'enquête à franceinfo, les fouilles se poursuivent dans la zone indiquée par Cédric Jubillar, à une quinzaine de kilomètres de Cagnac-les-Mines, où il vivait avec sa femme ",
-        "lien": "https://www.franceinfo.fr/faits-divers/direct-affaire-jubillar-les-ossements-decouverts-dans-le-tarn-vont-etre-analyses-au-siege-de-l-institut-de-recherche-criminelle-de-la-gendarmerie-nationale_8111339.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 17 Jul 2026 11:26:39 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"C'est une deuxième affaire qui démarre\" depuis la découverte d'ossements dans le Tarn après les aveux de Cédric Jubillar, affirme l'avocate d'une amie de Delphine Aussaguel",
-        "resume": "Le procès en appel de Cédric Jubillar initialement prévu le 21 septembre 2026 ne pourra pas sans doute pas se tenir dans les délais prévus.",
-        "lien": "https://www.franceinfo.fr/replay-radio/affaire-jubillar-le-proces-d-une-disparition/c-est-une-deuxieme-affaire-qui-demarre-depuis-la-decouverte-d-ossements-dans-le-tarn-apres-les-aveux-de-cedric-jubillar-affirme-l-avocate-d-une-amie-de-delphine-aussaguel_8110820.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 17 Jul 2026 06:19:33 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"On est passé à côté des centaines de fois\" : à Mailhoc, où des ossements ont été découverts sur les indications de Cédric Jubillar, les habitants sont \"bouleversés\"",
-        "resume": "Jeudi, des ossements ont été retrouvés à une douzaine de kilomètres d'Albi. Sur place, comme à Cagnac-les-Mines, où vivait le couple, c'est la stupéfaction.",
-        "lien": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/reportage-on-est-passe-a-cote-des-centaines-de-fois-a-mailhoc-ou-des-ossements-ont-ete-decouverts-sur-les-indications-de-cedric-jubillar-les-habitants-sont-bouleverses_8111192.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 17 Jul 2026 10:46:11 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Affaire Cédric Jubillar : comment vont se dérouler les analyses des ossements retrouvés près de six ans après la disparition de Delphine Aussaguel",
-        "resume": "Des ossements ont été retrouvés jeudi dans le Tarn à un emplacement désigné par Cédric Jubillar, dix jours après ses aveux. Il a reconnu être à \"l'origine de la mort\" de son épouse, disparue depuis fi",
-        "lien": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/affaire-cedric-jubillar-comment-vont-se-derouler-les-analyses-des-ossements-retrouves-pres-de-six-ans-apres-la-disparition-de-delphine-aussaguel_8110277.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 16 Jul 2026 19:58:48 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "États-Unis : Trump réitère ses accusations de fraude électorale",
-        "resume": "Donald Trump dénonce des \"vulnérabilités choquantes\" dans le système électoral américain, pointant notamment la Chine du doigt dans une allocution où il laisse planer son intention de contester les ré",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260717-%C3%A9tats-unis-trump-r%C3%A9it%C3%A8re-ses-accusations-de-fraude-%C3%A9lectorale",
-        "date": "Fri, 17 Jul 2026 10:34:06 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Afrique du Sud : la chasse aux migrants africains s'intensifie",
-        "resume": "Les attaques contre des migrants africains se multiplient en Afrique du Sud depuis le début de l'année. Depuis plusieurs mois, des groupes de citoyens anti-immigrés ont lancé une vaste campagne en Afr",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260717-afrique-du-sud-la-chasse-aux-migrants-africains-s-intensifie",
-        "date": "Fri, 17 Jul 2026 10:28:09 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Tchad : le Forum africain de l'eau s'achève à N'Djamena",
-        "resume": "Le Forum africain de l'eau s'est conclu ce jeudi soir à N'Djamena, un rendez-vous international organisé conjointement avec la Banque mondiale pour réfléchir aux solutions permettant d'améliorer l'acc",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260717-tchad-le-forum-africain-de-l-eau-s-ach%C3%A8ve-%C3%A0-n-djamena",
-        "date": "Fri, 17 Jul 2026 10:26:16 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Toy Story 5",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle… l'électronique !",
-        "note": 7.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
-      },
-      {
-        "titre": "Vaiana, la légende du bout du monde",
-        "date_sortie": "2026-07-08",
-        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
-        "note": 5.758,
-        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
-      },
-      {
-        "titre": "Disclosure Day",
-        "date_sortie": "2026-06-10",
-        "synopsis": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
-        "note": 6.689,
-        "affiche": "https://image.tmdb.org/t/p/w300/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg"
-      },
-      {
-        "titre": "Backrooms",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
-        "note": 7.0,
-        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
-      },
-      {
-        "titre": "The Furious",
-        "date_sortie": "2026-06-10",
-        "synopsis": "Après l’enlèvement de sa fille par un réseau criminel et face à l’inaction de la police, Wang Wei se lance dans une traque implacable pour la retrouver. Son seul allié, Navin, est un journaliste tenace dont la femme a my",
-        "note": 7.391,
-        "affiche": "https://image.tmdb.org/t/p/w300/94rNmtdyclSnO3OOnVBW2Isy9r0.jpg"
-      },
-      {
-        "titre": "L'Odyssée",
-        "date_sortie": "2026-07-15",
-        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
-        "note": 6.947,
-        "affiche": "https://image.tmdb.org/t/p/w300/k12dsDVtARFmr6TbC2hn0c68aw5.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Midnights in October",
-        "artiste": "Midnights in October",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Réunion visio pour aider au développement de l'entreprise créée",
-        "date_debut": "2026-07-21T12:00:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Matinale création d'entreprise (pour les porteurs de projet ou début de création) Angers Balzac",
-        "date_debut": "2026-07-22T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Randstad Inhouse Bouvet recrute !",
-        "date_debut": "2026-07-23T07:00:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Atelier en visio : Profil de compétences & Organisation des démarches (ODD)",
-        "date_debut": "2026-07-24T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Recrutement - Employé(e) Polyvalent(e) en restauration chez Luks Kebab ANGERS",
-        "date_debut": "2026-07-27T07:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Terrain d'aventures de Nantes Nord des Ceméa Pays de la loire",
-        "date_debut": "2026-07-17",
-        "lieu": "2 rue Samuel de Champlain",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le Voyage permanent - Coeur historique - Visite guidée",
-        "date_debut": "2026-07-17",
-        "lieu": "Nantes (Centre ville)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Ecchymoses, une exposition collective de Claire Amiot, Pablo Boissel-Arrieta, Morgane Fontaine, Baptiste Jan & Floryan Varennes",
-        "date_debut": "2026-07-17",
-        "lieu": "Grand Huit - Collectif Bonus",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Exposition collective En chantier",
-        "date_debut": "2026-07-17",
-        "lieu": "APO33 - La Fabrique Ile de Nantes/Plateforme Intermédia",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "The Art of the Brick - Exposition d’art en Lego",
-        "date_debut": "2026-07-17",
-        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
         "ville": "Nantes"
       }
     ]
