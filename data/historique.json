@@ -1,5 +1,180 @@
 [
   {
+    "date": "2026-08-01",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Vers midi, il y a eu l'étincelle fatidique\" : retour dans le fossé de Saumos où l'incendie qui a ravagé la Gironde a pris, il y a dix jours",
+        "resume": "Samedi matin, la situation sur le front du mégafeu en Gironde reste stabilisée. Près de 200 000 personnes ont pu rentrer chez elles sur un total de 220 000 déplacés depuis le début de l'incendie, le p",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/reportage-vers-midi-il-y-a-eu-l-etincelle-fatidique-retour-dans-le-fosse-de-saumos-ou-l-incendie-qui-a-ravage-la-gironde-a-pris-il-y-a-dix-jours_8131046.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 01 Aug 2026 09:55:03 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Pendant trois jours on n’a pas mangé\" : des Marocains qui s'étaient infiltrés dans l'enclave espagnole de Ceuta ont pris le chemin du retour",
+        "resume": "Après être entrés à Ceuta ces derniers jours, les migrants ont commencé à quitter l’enclave espagnole vendredi. Selon Madrid, plus de 48 000 personnes sont déjà revenues au Maroc sur les quelque 60 00",
+        "lien": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/reportage-pendant-trois-jours-on-n-a-pas-mange-des-marocains-qui-s-etaient-infiltres-dans-l-enclave-espagnole-de-ceuta-ont-pris-le-chemin-du-retour_8130932.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 01 Aug 2026 09:13:10 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Un refus de maternité\" : comment expliquer que certaines femmes tuent leur nouveau-né après une grossesse passée inaperçue",
+        "resume": "Un homme a découvert les corps de cinq bébés dans l'appartement familial à Orange (Vaucluse), en début de semaine. Il a émis l'hypothèse de précédents dénis de grossesse de sa conjointe, mise en exame",
+        "lien": "https://www.franceinfo.fr/faits-divers/un-refus-de-maternite-comment-expliquer-que-certaines-femmes-tuent-leur-nouveau-ne-apres-une-grossesse-passee-inapercue_8130194.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 01 Aug 2026 07:17:50 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Démarchage téléphonique, prix de l'électricité, taux des livrets d'épargne… Ce qui change au mois d'août",
+        "resume": "Le mois qui s'ouvre samedi marque également le début du versement de l'allocation de rentrée scolaire, ainsi que le durcissement des règles pour les professionnels délivrant les cartes grises.",
+        "lien": "https://www.franceinfo.fr/societe/demarchage-telephonique-prix-de-l-electricite-taux-des-livrets-d-epargne-ce-va-changer-au-mois-d-aout_8125109.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 01 Aug 2026 09:58:49 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Week-end de chassé-croisé sur les routes : le ministre des Transports appelle les voyageurs à la \"vigilance\" pour éviter tout départ de feu",
+        "resume": "Philippe Tabarot insiste sur l'importance de ne \"pas jeter ses mégots de cigarettes par la fenêtre de son véhicule ou de son train\" alors que des millions de vacanciers vont se croiser sur les routes ",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/week-end-de-chasse-croise-sur-les-routes-le-ministre-des-transports-appelle-les-voyageurs-a-la-vigilance-pour-eviter-tout-depart-de-feu_8131082.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 01 Aug 2026 10:02:50 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "La cité engloutie de Baia révélée",
+        "resume": "À une trentaine de kilomètres à l'ouest de Naples, Baia fut l'une des stations balnéaires les plus prestigieuses de l'Empire romain. Progressivement recouverte par la mer, elle continue de révéler ses",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260801-la-cit%C3%A9-engloutie-de-baia-r%C3%A9v%C3%A9l%C3%A9e",
+        "date": "Sat, 01 Aug 2026 07:32:23 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Pfas et cadmium : le guide pour boire et manger sans (trop) s'empoisonner (3/3)",
+        "resume": "Du poison dans l'assiette (3/3). Les alertes sanitaires sur l'alimentation se sont multipliées ces dernières années, si bien qu'il semble désormais difficile d'échapper aux polluants dans l'assiette. ",
+        "lien": "https://www.france24.com/fr/plan%C3%A8te/20260801-pfas-et-cadmium-guide-pour-boire-manger-sans-trop-s-empoisonner-polluants-eternels",
+        "date": "Sat, 01 Aug 2026 07:27:49 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Ceuta : l'Espagne critiquée par la droite européenne, Paris et Rome renforcent les contrôles",
+        "resume": "La France et l'Italie ont annoncé samedi durcir leurs contrôles frontaliers avec l'Espagne après l'arrivée illégale de 60 000 migrants en provenance du Maroc ces derniers jours dans l'enclave de Ceuta",
+        "lien": "https://www.france24.com/fr/europe/20260801-ceuta-l-espagne-critiqu%C3%A9e-par-la-droite-europ%C3%A9enne-paris-et-rome-renforcent-les-contr%C3%B4les",
+        "date": "Sat, 01 Aug 2026 02:33:11 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Spider-Man : Brand New Day",
+        "date_sortie": "2026-07-29",
+        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
+        "note": 8.0,
+        "affiche": "https://image.tmdb.org/t/p/w300/yikio8CfJxIA7faZxgvB9FGXy6u.jpg"
+      },
+      {
+        "titre": "L'Odyssée",
+        "date_sortie": "2026-07-15",
+        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
+        "note": 7.94,
+        "affiche": "https://image.tmdb.org/t/p/w300/5WzPybmv7J9lwfRfhHpuk0pySNc.jpg"
+      },
+      {
+        "titre": "Supergirl",
+        "date_sortie": "2026-07-01",
+        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
+        "note": 6.74,
+        "affiche": "https://image.tmdb.org/t/p/w300/1QV4GubAlUvGX3FjqWWWfQiYkN4.jpg"
+      },
+      {
+        "titre": "Vaiana, la légende du bout du monde",
+        "date_sortie": "2026-07-08",
+        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
+        "note": 5.888,
+        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
+      },
+      {
+        "titre": "On l'appelait Robin des Bois",
+        "date_sortie": "2026-07-01",
+        "synopsis": "Hanté par son passé après une vie de crimes et de violence, Robin des Bois est laissé pour mort à l’issue d’un combat qu’il pensait être le dernier. Recueilli par une femme mystérieuse, il se voit offrir une ultime chanc",
+        "note": 6.6,
+        "affiche": "https://image.tmdb.org/t/p/w300/ndDY118G0Xn6W8aKP3sLz0ESkGq.jpg"
+      },
+      {
+        "titre": "Des Minions et des monstres",
+        "date_sortie": "2026-06-24",
+        "synopsis": "L’histoire turbulente, absurde et évidemment vraie des Minions et la manière dont ils ont conquis Hollywood, sont devenus de véritables stars de cinéma, ont tout perdu, ont libéré des monstres dans notre monde, puis ont ",
+        "note": 6.447,
+        "affiche": "https://image.tmdb.org/t/p/w300/jMOf0SSthlNp5uXhEXz4e3tqDX5.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Midnights in October",
+        "artiste": "Midnights in October",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "RECRUTEMENT CHARGE DE CLIENTELE CHEZ INTELCIA",
+        "date_debut": "2026-08-10T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Biodivers'été 2026",
+        "date_debut": "2026-08-01",
+        "lieu": "Parcs et jardins",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Les samedis au Japon",
+        "date_debut": "2026-08-01",
+        "lieu": "Maison de l'Erdre",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "The Art of the Brick - Exposition d’art en Lego",
+        "date_debut": "2026-08-01",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Balades touristiques en vélo-taxi",
+        "date_debut": "2026-08-01",
+        "lieu": "centre-ville",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Maboul à facettes #2",
+        "date_debut": "2026-08-01",
+        "lieu": "Nantes",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-07-31",
     "news": [
       {
@@ -2395,205 +2570,6 @@
         "titre": "Balades touristiques en vélo-taxi",
         "date_debut": "2026-07-19",
         "lieu": "centre-ville",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-18",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Ce qui reste autour de nous, c’est ce paysage en noir et blanc\" : aux côtés d'une agente de l’ONF, dans la forêt brûlée de Fontainebleau",
-        "resume": "Le feu est fixé depuis deux jours et pourtant, la forêt continue de brûler et reste interdite au public. L'autoroute A6 a pu rouvrir pour les départs en vacances mais les pompiers restent mobilisés en",
-        "lien": "https://www.franceinfo.fr/faits-divers/incendie/reportage-ce-qui-reste-autour-de-nous-c-est-ce-paysage-en-noir-et-blanc-au-c-ur-de-la-desolation-avec-une-agente-de-l-onf-dans-la-foret-brulee-de-fontainebleau_8112773.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 18 Jul 2026 10:41:53 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Aide à mourir : le patient ne rencontrera-t-il qu'un seul médecin avant la validation de sa demande, comme le dénonce François-Xavier Bellamy ?",
-        "resume": "L'argument du vice-président des Républicains est trompeur. Car le texte adopté mercredi stipule que l'aide à mourir doit reposer sur une décision collégiale. Le médecin sollicité par le patient a l'o",
-        "lien": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-aide-a-mourir-le-patient-ne-rencontrera-t-il-qu-un-seul-medecin-avant-la-validation-de-sa-demande-comme-le-denonce-francois-xavier-bellamy_8110238.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 18 Jul 2026 06:40:55 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Affaire Jubillar : les gendarmes spécialisés engagés dans une course contre la montre pour identifier les ossements retrouvés dans le Tarn",
-        "resume": "Les ossements retrouvés dispersés dans un champ sont-ils ceux de Delphine Aussaguel ? Dans l'attente des résultats, franceinfo s'est rendu à Pontoise pour suivre la mission minutieuse réalisée par ces",
-        "lien": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/reportage-affaire-jubillar-les-gendarmes-specialises-engages-dans-une-course-contre-la-montre-pour-identifier-les-ossements-retrouves-dans-le-tarn_8112218.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 18 Jul 2026 07:59:26 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Guerre au Moyen-Orient : au Koweït, des blessés et des dégâts après une attaque iranienne contre un site pétrolier",
-        "resume": "L'armée américaine a de nouveau ciblé plusieurs sites en Iran, avant que les Gardiens de la Révolution ne répliquent en déclenchant des tirs contre des bases américaines de la région.",
-        "lien": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-bahrein-repousse-une-nouvelle-attaque-iranienne-apres-une-septieme-nuit-de-frappes-entre-washington-et-teheran_8112620.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 18 Jul 2026 12:22:00 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Le XV de France remporte son dernier match estival face au Japon lors de la troisième journée du Championnat des nations",
-        "resume": "A Tokyo, les Bleus ont signé une prestation très solide, samedi, pour boucler leur tournée dans l'hémisphère sud.",
-        "lien": "https://www.franceinfo.fr/sports/rugby/coupe-d-automne-des-nations/le-xv-de-france-remporte-son-dernier-match-estival-face-au-japon-lors-de-la-troisieme-journee-du-championnat-des-nations_8112857.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 18 Jul 2026 12:36:11 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Show de mi-temps à l'américaine, bagues aux vainqueurs : une finale de Mondial façon Super Bowl",
-        "resume": "La Coupe du monde 2026 va se terminer avec éclat, dimanche, lors de la 104e et dernière rencontre de la compétition. Entre spectacles, récompenses et prix démesurés, la finale entre l'Espagne et l'Arg",
-        "lien": "https://www.france24.com/fr/sports/20260718-show-de-mi-temps-%C3%A0-l-am%C3%A9ricaine-bagues-aux-vainqueurs-une-finale-de-mondial-fa%C3%A7on-super-bowl",
-        "date": "Sat, 18 Jul 2026 10:08:25 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Aux États-Unis, le soutien à Israël divise les démocrates avant les midterms",
-        "resume": "Plus de 100 élus démocrates à la Chambre des représentants ont voté cette semaine pour supprimer l'aide américaine à Israël, révélant un fossé grandissant au sein du parti qui pourrait peser sur les é",
-        "lien": "https://www.france24.com/fr/am%C3%A9riques/20260718-%C3%A9tats-unis-soutien-isra%C3%ABl-divise-d%C3%A9mocrates-avant-midterms",
-        "date": "Sat, 18 Jul 2026 10:00:34 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Des milliers d'ukrainiens manifestent contre le limogeage de Federov",
-        "resume": "Des milliers de personnes ont défilé à Kiev contre le limogeage du très populaire Mykhaïlo Fedorov, qui avait notamment lutté contre la corruption dans son ministère. Il a été écarté par Volodymyr Zel",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260718-des-milliers-d-ukrainiens-manifestent-contre-le-limogeage-de-federov",
-        "date": "Sat, 18 Jul 2026 09:28:55 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Vaiana, la légende du bout du monde",
-        "date_sortie": "2026-07-08",
-        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
-        "note": 5.8,
-        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
-      },
-      {
-        "titre": "L'Odyssée",
-        "date_sortie": "2026-07-15",
-        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
-        "note": 7.536,
-        "affiche": "https://image.tmdb.org/t/p/w300/k12dsDVtARFmr6TbC2hn0c68aw5.jpg"
-      },
-      {
-        "titre": "Toy Story 5",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle… l'électronique !",
-        "note": 7.413,
-        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
-      },
-      {
-        "titre": "Disclosure Day",
-        "date_sortie": "2026-06-10",
-        "synopsis": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
-        "note": 6.687,
-        "affiche": "https://image.tmdb.org/t/p/w300/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg"
-      },
-      {
-        "titre": "Backrooms",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
-        "note": 7.019,
-        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
-      },
-      {
-        "titre": "Supergirl",
-        "date_sortie": "2026-07-01",
-        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
-        "note": 6.196,
-        "affiche": "https://image.tmdb.org/t/p/w300/1QV4GubAlUvGX3FjqWWWfQiYkN4.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Midnights in October",
-        "artiste": "Midnights in October",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Réunion visio pour aider au développement de l'entreprise créée",
-        "date_debut": "2026-07-21T12:00:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Matinale création d'entreprise (pour les porteurs de projet ou début de création) Angers Balzac",
-        "date_debut": "2026-07-22T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Randstad Inhouse Bouvet recrute !",
-        "date_debut": "2026-07-23T07:00:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Atelier en visio : Profil de compétences & Organisation des démarches (ODD)",
-        "date_debut": "2026-07-24T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Recrutement - Employé(e) Polyvalent(e) en restauration chez Luks Kebab ANGERS",
-        "date_debut": "2026-07-27T07:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Odyssée de l’oubli - Exposition Anne et Patrick Poirier",
-        "date_debut": "2026-07-18",
-        "lieu": "Musée d'arts de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Femmes et collections au musée Dobrée - Visite guidée",
-        "date_debut": "2026-07-18",
-        "lieu": "Musée Dobrée",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "INTERSTELLAR Ré-imaginer la Terre",
-        "date_debut": "2026-07-18",
-        "lieu": "HAB Galerie (Hangar à Bananes)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le Potager de la Cantine",
-        "date_debut": "2026-07-18",
-        "lieu": "Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Vers un autre monde - Exposition de projets de fin d'études en architecture",
-        "date_debut": "2026-07-18",
-        "lieu": "École nationale supérieure d’architecture - ensa",
         "ville": "Nantes"
       }
     ]
