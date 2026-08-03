@@ -1,5 +1,180 @@
 [
   {
+    "date": "2026-08-03",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Incendie dans le Var : le brasier \"n'est pas maîtrisé ni fixé\", des reprises de feu attendues avec la hausse des températures",
+        "resume": "L'incendie près de Carcassonne a quant à lui été fixé dimanche. La lutte continue également pour éteindre le mégafeu de Gironde.",
+        "lien": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendie-dans-l-aude-l-autoroute-a61-a-rouvert-dans-les-deux-sens-le-feu-fixe-mais-encore-sous-surveillance_8132693.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 03 Aug 2026 08:41:10 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Guerre au Moyen-Orient : \"Nous ne négocions pas avec les Etats-Unis en ce moment\", réagit l'Iran après l'annonce par Donald Trump de nouveaux pourparlers cet après-midi",
+        "resume": "Donald Trump a affirmé que \"ce que l'on fait maintenant, c'est parler avec [les Iraniens] sous la forme d'une négociation\", qui doit commencer lundi après-midi. Mais la diplomatie iranienne a démenti ",
+        "lien": "https://www.franceinfo.fr/monde/iran/frappes-americaines-en-iran/direct-guerre-au-moyen-orient-donald-trump-annonce-une-reprise-des-negociations-avec-l-iran_8132732.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 03 Aug 2026 09:54:17 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "L'Aude, l'Aveyron et le Cantal rejoignent les sept départements du quart sud-ouest en vigilance orange aux orages à partir de 16 heures",
+        "resume": "Météo-France anticipe \"une importante activité électrique, de fortes chutes de grêle\", \"de fortes rafales de vent\" et \"de très fortes intensités de précipitations\". Vingt départements de l'est restent",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/sept-departements-du-quart-sud-ouest-passent-en-vigilance-orange-aux-orages-a-partir-de-16-heures-20-departements-toujours-en-alerte-orange-canicule_8132735.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 03 Aug 2026 10:11:24 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Une gravité exceptionnelle\" : après deux suicides d'agents des services du Premier ministre et plusieurs tentatives, des enquêtes judiciaires et internes ouvertes",
+        "resume": "Une plainte a été déposée le 25 juin par une fonctionnaire après une tentative de suicide fin avril, révèle France Inter.",
+        "lien": "https://www.franceinfo.fr/societe/justice/info-radio-france-une-gravite-exceptionnelle-apres-deux-suicides-d-agents-des-services-du-premier-ministre-et-plusieurs-tentatives-des-enquetes-judiciaires-et-internes-ouvertes_8132558.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 03 Aug 2026 07:59:49 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Le quintuple vainqueur du Tour de France Tadej Pogacar présent au départ de la Vuelta",
+        "resume": "Son équipe UAE Team Emirates - XRG a annoncé, lundi, la participation du Slovène au Tour d'Espagne, qui débute le 22 août prochain.",
+        "lien": "https://www.franceinfo.fr/sports/cyclisme/le-quintuple-vainqueur-du-tour-de-france-tadej-pogacar-present-au-depart-de-la-vuelta_8132945.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 03 Aug 2026 10:45:14 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "En Sicile, des vacanciers découvrent près de 700 000 euros en billets sur une plage",
+        "resume": "Sur une plage de Casuzze, en Sicile, des vacanciers ont découvert des sacs contenant d’importantes liasses de billets, échoués après l’intervention des garde-côtes auprès d’un bateau en difficulté. Le",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260803-en-sicile-des-vacanciers-d%C3%A9couvrent-pr%C3%A8s-de-700-000-euros-en-billets-sur-une-plage",
+        "date": "Mon, 03 Aug 2026 09:26:48 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Fifa : le président Infantino poussé vers la sortie ?",
+        "resume": "Gianni Infantino fait face à une contestation grandissante au sein de la Fifa. Après la fronde de l’UEFA et du Concacaf contre son projet d’ouverture du capital lié au Mondial, la pression s’est accen",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260803-fifa-le-pr%C3%A9sident-infantino-pouss%C3%A9-vers-la-sortie",
+        "date": "Mon, 03 Aug 2026 09:23:18 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Brésil : le président brésilien a été investi par son parti et vise un quatrième mandat",
+        "resume": "Le président brésilien Lula a été investi par son parti et se lance dans la course à un quatrième mandat. Correspondance de Gustavo Ribeiro depuis São Paulo pour France 24.",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260803-br%C3%A9sil-le-pr%C3%A9sident-br%C3%A9silien-a-%C3%A9t%C3%A9-investi-par-son-parti-et-vise-un-quatri%C3%A8me-mandat",
+        "date": "Mon, 03 Aug 2026 09:20:04 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Spider-Man : Brand New Day",
+        "date_sortie": "2026-07-29",
+        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
+        "note": 8.028,
+        "affiche": "https://image.tmdb.org/t/p/w300/yikio8CfJxIA7faZxgvB9FGXy6u.jpg"
+      },
+      {
+        "titre": "L'Odyssée",
+        "date_sortie": "2026-07-15",
+        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
+        "note": 7.95,
+        "affiche": "https://image.tmdb.org/t/p/w300/5WzPybmv7J9lwfRfhHpuk0pySNc.jpg"
+      },
+      {
+        "titre": "Supergirl",
+        "date_sortie": "2026-07-01",
+        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
+        "note": 6.7,
+        "affiche": "https://image.tmdb.org/t/p/w300/1QV4GubAlUvGX3FjqWWWfQiYkN4.jpg"
+      },
+      {
+        "titre": "Vaiana, la légende du bout du monde",
+        "date_sortie": "2026-07-08",
+        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
+        "note": 5.84,
+        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
+      },
+      {
+        "titre": "On l'appelait Robin des Bois",
+        "date_sortie": "2026-07-01",
+        "synopsis": "Hanté par son passé après une vie de crimes et de violence, Robin des Bois est laissé pour mort à l’issue d’un combat qu’il pensait être le dernier. Recueilli par une femme mystérieuse, il se voit offrir une ultime chanc",
+        "note": 6.5,
+        "affiche": "https://image.tmdb.org/t/p/w300/ndDY118G0Xn6W8aKP3sLz0ESkGq.jpg"
+      },
+      {
+        "titre": "Des Minions et des monstres",
+        "date_sortie": "2026-06-24",
+        "synopsis": "L’histoire turbulente, absurde et évidemment vraie des Minions et la manière dont ils ont conquis Hollywood, sont devenus de véritables stars de cinéma, ont tout perdu, ont libéré des monstres dans notre monde, puis ont ",
+        "note": 6.4,
+        "affiche": "https://image.tmdb.org/t/p/w300/jMOf0SSthlNp5uXhEXz4e3tqDX5.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Midnights in October",
+        "artiste": "Midnights in October",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "RECRUTEMENT CHARGE DE CLIENTELE CHEZ INTELCIA",
+        "date_debut": "2026-08-10T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Expression(s) Décoloniale(s) #4 - Exposition",
+        "date_debut": "2026-08-03",
+        "lieu": "Château des Ducs de Bretagne -   Musée d'Histoire de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Odyssée de l’oubli - Exposition Anne et Patrick Poirier",
+        "date_debut": "2026-08-03",
+        "lieu": "Musée d'arts de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Terrain d'aventures Dervallières",
+        "date_debut": "2026-08-03",
+        "lieu": "Plaine Lorrain",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition « L'agroalimentaire, une empreinte nantaise »",
+        "date_debut": "2026-08-03",
+        "lieu": "Maison des Hommes et des Techniques (MHT)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Terrain d'aventures de Nantes Nord des Ceméa Pays de la loire",
+        "date_debut": "2026-08-03",
+        "lieu": "2 rue Samuel de Champlain",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-08-02",
     "news": [
       {
@@ -2378,174 +2553,6 @@
         "titre": "Balades touristiques en vélo-taxi",
         "date_debut": "2026-07-21",
         "lieu": "centre-ville",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-20",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Capacités de largage importantes, pilotage difficile... On vous présente l'A400M, avion militaire transformé pour lutter contre les incendies",
-        "resume": "Laurent Nuñez a annoncé lundi sur France Inter l'équipement de l'A400M, un avion de transport militaire, pour lutter contre les nombreux incendies attisés par les fortes chaleurs et la sécheresse. Ces",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/capacites-de-largage-importantes-pilotage-difficile-on-vous-presente-l-a400m-avion-militaire-transforme-pour-lutter-contre-les-incendies_8114822.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 20 Jul 2026 14:19:11 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Incendie dans le Var : \"Le feu n'est pas encore fixé\", annoncent les pompiers",
-        "resume": "Quelque 360 pompiers sont toujours mobilisés lundi contre les flammes dans les communes de Taradeau et des Arcs.",
-        "lien": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-plus-de-600-pompiers-mobilises-pour-lutter-contre-les-flammes-dans-la-commune-de-taradeau-dans-le-var_8114624.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 20 Jul 2026 12:15:31 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Plus de 360 pompiers encore mobilisés, dix maisons brûlées, trains supprimés... Ce que l'on sait de l'incendie dans le Var",
-        "resume": "Le feu s'est déclenché dimanche et a parcouru 200 hectares à proximité d'habitations dans les communes des Arcs et de Taradeau. Le département du sud-est de la France est en vigilance orange \"canicule",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/plus-de-360-pompiers-encore-mobilises-dix-maisons-brulees-trains-supprimes-ce-que-l-on-sait-de-l-incendie-dans-le-var_8114654.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 20 Jul 2026 10:41:35 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"On prend en photo toute voiture suspecte\" : après l'incendie à Fontainebleau, des riverains traumatisés patrouillent aux lisières de la forêt",
-        "resume": "Le feu couve toujours dans la forêt de Fontainebleau, au sud-est de Paris. Alors des habitants de Noisy-sur-Ecole, tout près, s'organisent pour surveiller les lieux et signaler tout comportement suspe",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/reportage-on-prend-en-photo-toute-voiture-suspecte-apres-l-incendie-a-fontainebleau-des-riverains-aux-aguets-pour-proteger-la-foret-des-pyromanes_8114606.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 20 Jul 2026 12:06:18 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Je pense que ce soir, nous n'aurons plus une maison pour nous coucher\" : deux communes touchées par un incendie dans le Var",
-        "resume": "Plusieurs départs de feux ont eu lieu dans le Var, dimanche 19 juillet, avec une progression extrêmement rapide sous l’effet du vent. Plusieurs habitations ont été touchées dans les secteurs de Tarade",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/je-pense-que-ce-soir-nous-n-aurons-plus-une-maison-pour-nous-coucher-deux-communes-touchees-par-un-incendie-dans-le-var_8114354.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 19 Jul 2026 23:10:22 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "🔴 Royaume-Uni : suivez en direct le discours du nouveau Premier ministre Andy Burnham",
-        "resume": "",
-        "lien": "https://www.france24.com/fr/europe/20260720-royaume-uni-andy-burnham-succ%C3%A8de-%C3%A0-keir-starmer-au-poste-de-premier-ministre",
-        "date": "Mon, 20 Jul 2026 11:48:10 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "En RDC, Félix Tshisekedi annonce un dialogue national inclusif",
-        "resume": "En République démocratique du Congo, le président Félix Tshisekedi semble avoir écouté certaines revendications de ses opposants et des églises catholiques et protestantes. Il a ouvert la voie à un di",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260720-en-rdc-f%C3%A9lix-tshisekedi-annonce-un-dialogue-national-inclusif",
-        "date": "Mon, 20 Jul 2026 11:25:01 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Royaume-Uni : quels défis attendent Andy Burnham ?",
-        "resume": "Le travailliste Andy Burnham prend lundi ses fonctions de Premier ministre du Royaume-Uni, et entend incarner à Downing Street un changement de style autant que politique, dans un pays confronté à des",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260720-royaume-uni-quels-d%C3%A9fis-attendent-andy-burnham",
-        "date": "Mon, 20 Jul 2026 11:24:14 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "L'Odyssée",
-        "date_sortie": "2026-07-15",
-        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
-        "note": 7.8,
-        "affiche": "https://image.tmdb.org/t/p/w300/k12dsDVtARFmr6TbC2hn0c68aw5.jpg"
-      },
-      {
-        "titre": "Disclosure Day",
-        "date_sortie": "2026-06-10",
-        "synopsis": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
-        "note": 6.691,
-        "affiche": "https://image.tmdb.org/t/p/w300/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg"
-      },
-      {
-        "titre": "Toy Story 5",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle… l'électronique !",
-        "note": 7.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
-      },
-      {
-        "titre": "Vaiana, la légende du bout du monde",
-        "date_sortie": "2026-07-08",
-        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
-        "note": 5.843,
-        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
-      },
-      {
-        "titre": "Des Minions et des monstres",
-        "date_sortie": "2026-06-24",
-        "synopsis": "L’histoire turbulente, absurde et évidemment vraie des Minions et la manière dont ils ont conquis Hollywood, sont devenus de véritables stars de cinéma, ont tout perdu, ont libéré des monstres dans notre monde, puis ont ",
-        "note": 6.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/jMOf0SSthlNp5uXhEXz4e3tqDX5.jpg"
-      },
-      {
-        "titre": "Backrooms",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
-        "note": 7.045,
-        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
-      }
-    ],
-    "albums": [],
-    "evenements": [
-      {
-        "titre": "Réunion visio pour aider au développement de l'entreprise créée",
-        "date_debut": "2026-07-21T12:00:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Matinale création d'entreprise (pour les porteurs de projet ou début de création) Angers Balzac",
-        "date_debut": "2026-07-22T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Randstad Inhouse Bouvet recrute !",
-        "date_debut": "2026-07-23T07:00:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Atelier en visio : Profil de compétences & Organisation des démarches (ODD)",
-        "date_debut": "2026-07-24T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Recrutement - Employé(e) Polyvalent(e) en restauration chez Luks Kebab ANGERS",
-        "date_debut": "2026-07-27T07:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "INTERSTELLAR Ré-imaginer la Terre",
-        "date_debut": "2026-07-20",
-        "lieu": "HAB Galerie (Hangar à Bananes)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Odyssée de l’oubli - Exposition Anne et Patrick Poirier",
-        "date_debut": "2026-07-20",
-        "lieu": "Musée d'arts de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Terrain d'aventures de Nantes Nord des Ceméa Pays de la loire",
-        "date_debut": "2026-07-20",
-        "lieu": "2 rue Samuel de Champlain",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Exposition Le Muséum au fil du temps",
-        "date_debut": "2026-07-20",
-        "lieu": "Place de la Monnaie",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Terrain d'aventures Dervallières",
-        "date_debut": "2026-07-20",
-        "lieu": "Plaine Lorrain",
         "ville": "Nantes"
       }
     ]
