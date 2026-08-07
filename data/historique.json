@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-08-07",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Où et quand l'éclipse du 12 août sera-t-elle la plus impressionnante dans l'Hexagone ?",
+        "resume": "Mercredi 12 août, une éclipse solaire se produira peu avant le coucher du soleil. En France, la lune occultera presque totalement l'astre durant quelques minutes.",
+        "lien": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/carte-ou-et-quand-l-eclipse-du-12-aout-sera-t-elle-la-plus-impressionnante-dans-l-hexagone_8135849.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 07 Aug 2026 05:56:23 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Je veux passer à des actions concrètes\" : les incendies en Gironde leur donnent envie de devenir pompiers volontaires",
+        "resume": "Les feux de forêts, notamment dans le Sud-Ouest, ont été un déclic pour certains, qui veulent devenir sapeurs-pompiers volontaires. Entre envie d'aider et quête de sens, ces futurs engagés racontent.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/temoignages-je-veux-passer-a-des-actions-concretes-les-incendies-en-gironde-leur-donnent-envie-de-devenir-pompiers-volontaires_8132426.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 07 Aug 2026 08:06:51 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Les prix des carburants en baisse, le litre de SP95 repasse sous les 2 euros",
+        "resume": "Vendredi, l'essence SP95-E10 affiche un prix moyen de 1,98 euro le litre, le gazole se situe à 2,18 euros le litre en moyenne.",
+        "lien": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/carburants-l-essence-repasse-en-dessous-de-2-euros-le-litre-legere-baisse-du-prix-du-gazole_8138042.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 07 Aug 2026 08:33:35 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Storm-1516, Matriochka… Qui se cache derrière les ingérences russes dans la campagne présidentielle, et quel est leur mode opératoire?",
+        "resume": "Trois candidats présumés ou déclarés à l'élection présidentielle de 2027 ont été visés par des réseaux prorusses spécialistes de la désinformation.",
+        "lien": "https://www.franceinfo.fr/monde/russie/storm-1516-matriochka-qui-sont-les-acteurs-de-l-ingerence-russe-et-quel-est-leur-mode-operatoire_8137145.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 07 Aug 2026 07:56:42 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Quotas limitatifs\" pour l'immigration, présence dans les médias de la sphère Bolloré… Gabriel Attal profite-t-il de l'été pour ancrer sa campagne présidentielle à droite ?",
+        "resume": "Le candidat Renaissance à l'élection présidentielle se démultiplie, cet été, pour tenter de prendre les devants sur Edouard Philippe, son rival du bloc central. En distillant des propositions beaucoup",
+        "lien": "https://www.franceinfo.fr/elections/presidentielle/quotas-limitatifs-pour-l-immigration-presence-dans-les-medias-de-la-sphere-bollore-gabriel-attal-profite-t-il-de-l-ete-pour-ancrer-sa-campagne-presidentielle-a-droite_8137157.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 07 Aug 2026 08:17:08 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Fusillade dans un lycée de Bangkok, au moins neuf morts dont le tireur présumé",
+        "resume": "Une fusillade a eu lieu vendredi dans un lycée de Bangkok en Thaïlande. Au moins neuf personnes sont mortes, dont le tireur présumé - un adolescent scolarisé dans l'établissement. Quinze élèves ton ég",
+        "lien": "https://www.france24.com/fr/asie-pacifique/20260807-fusillade-dans-un-lyc%C3%A9e-de-bangkok-au-moins-neuf-morts-dont-le-tireur-pr%C3%A9sum%C3%A9-tha%C3%AFlande",
+        "date": "Fri, 07 Aug 2026 07:03:50 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "\"Sauvez mon petit !\" : l'accueil des enfants espagnols en France pendant la guerre civile (2/4)",
+        "resume": "Il y a 90 ans, la guerre d'Espagne (2/4). Au cours de ce conflit, près de 15 000 enfants originaires de la zone républicaine ont été envoyés en France. Ces \"enfants de la guerre\" ont été placés dans d",
+        "lien": "https://www.france24.com/fr/europe/20260807-guerre-espagne-accueil-refugies-enfants-france-histoire-humanitaire",
+        "date": "Fri, 07 Aug 2026 06:01:07 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Yan Diomandé, l’Ivoirien qui affole les records en rejoignant le Real Madrid",
+        "resume": "Le Real Madrid a officialisé la signature de Yan Diomandé jusqu’en 2033 en provenance de Leipzig. Estimé à 125 millions d’euros, plus 15 millions de bonus, le transfert devient le plus cher de l’histo",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20260807-yan-diomand%C3%A9-l-ivoirien-qui-affole-les-records-en-rejoignant-le-real-madrid",
+        "date": "Fri, 07 Aug 2026 05:13:11 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Spider-Man : Brand New Day",
+        "date_sortie": "2026-07-29",
+        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
+        "note": 7.926,
+        "affiche": "https://image.tmdb.org/t/p/w300/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg"
+      },
+      {
+        "titre": "L'Odyssée",
+        "date_sortie": "2026-07-15",
+        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
+        "note": 7.966,
+        "affiche": "https://image.tmdb.org/t/p/w300/6dfr9o52w9AVYJSlSA1IBUlLCyU.jpg"
+      },
+      {
+        "titre": "Supergirl",
+        "date_sortie": "2026-07-01",
+        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
+        "note": 6.76,
+        "affiche": "https://image.tmdb.org/t/p/w300/hMEZkdaoqoPAqEgk9Y1mwYnGkPZ.jpg"
+      },
+      {
+        "titre": "On l'appelait Robin des Bois",
+        "date_sortie": "2026-07-01",
+        "synopsis": "Hanté par son passé après une vie de crimes et de violence, Robin des Bois est laissé pour mort à l’issue d’un combat qu’il pensait être le dernier. Recueilli par une femme mystérieuse, il se voit offrir une ultime chanc",
+        "note": 6.5,
+        "affiche": "https://image.tmdb.org/t/p/w300/gGKr2JIML9FEV6Cpos9TIJAQpeE.jpg"
+      },
+      {
+        "titre": "Vaiana, la légende du bout du monde",
+        "date_sortie": "2026-07-08",
+        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
+        "note": 5.942,
+        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
+      },
+      {
+        "titre": "Evil Dead Burn",
+        "date_sortie": "2026-07-08",
+        "synopsis": "Après l’enterrement de son mari, Alice se rend dans la maison isolée de sa belle-famille pour partager un dernier repas à sa mémoire. Mais la réunion familiale bascule dans l’horreur lorsque ses proches se transforment, ",
+        "note": 7.911,
+        "affiche": "https://image.tmdb.org/t/p/w300/2gusfeWILgIfRWQTA9nbXAEyQ0S.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Midnights in October",
+        "artiste": "Midnights in October",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "RECRUTEMENT CHARGE DE CLIENTELE CHEZ INTELCIA",
+        "date_debut": "2026-08-10T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Réunion visio pour aider au développement de l'entreprise créée",
+        "date_debut": "2026-08-13T07:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Découvrez le métier de conducteur de car scolaire (H/F) et venez rencontrer les professionnels du secteur qui recrutent en Maine et Loire",
+        "date_debut": "2026-08-18T07:30:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Les mammifères ailés",
+        "date_debut": "2026-08-18T18:30:00+00:00",
+        "lieu": "Tour de l'horloge, Parc Balzac",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Atelier en visio : Profil de compétences & Organisation des démarches (ODD)",
+        "date_debut": "2026-08-19T07:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Balades touristiques en vélo-taxi",
+        "date_debut": "2026-08-07",
+        "lieu": "centre-ville",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "House of Banksy - Une expo non autorisée",
+        "date_debut": "2026-08-07",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Odyssée de l’oubli - Exposition Anne et Patrick Poirier",
+        "date_debut": "2026-08-07",
+        "lieu": "Musée d'arts de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Biodivers'été 2026",
+        "date_debut": "2026-08-07",
+        "lieu": "Parcs et jardins",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "The Art of the Brick - Exposition d’art en Lego",
+        "date_debut": "2026-08-07",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-08-06",
     "news": [
       {
@@ -2348,193 +2547,6 @@
         "titre": "Odyssée de l’oubli - Exposition Anne et Patrick Poirier",
         "date_debut": "2026-07-25",
         "lieu": "Musée d'arts de Nantes",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-24",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"On se demande si ce n'est pas la fin du monde\" : en Gironde, les évacués de l'incendie du Cap-Ferret témoignent de scènes \"impressionnantes, limite apocalyptiques\"",
-        "resume": "L'incendie au nord du bassin d'Arcachon, en Gironde, a désormais parcouru 8 700 hectares. La préfecture a ordonné l’évacuation progressive de l’ensemble de la presqu'île du Bassin d’Arcachon, village ",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/temoignages-on-se-demande-si-ce-n-est-pas-la-fin-du-monde-en-gironde-les-evacues-du-cap-ferret-temoignent-de-scenes-impressionnantes-limites-apocalyptiques_8120234.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 24 Jul 2026 08:53:16 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Incendie en Gironde : plus de 10 000 hectares parcourus, \"le feu n'est pas maîtrisé\" selon Laurent Nuñez",
-        "resume": "Le ministre de l'Intérieur a fait état, vendredi, de 80 maisons brûlées \"dont une cinquantaine détruites\". La préfecture a ordonné l'évacuation progressive de toute la presqu'île du Cap-Ferret.",
-        "lien": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 24 Jul 2026 09:52:21 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Alors que les vacanciers s'apprêtent à prendre la route, le maire de Bordeaux appelle à \"attendre avant de se déplacer\" en raison des incendies",
-        "resume": "\"Le verrou\" préparé à Lège-Cap-Ferret n'a pas tenu, annonce la Sécurité civile. La route vers le Cap-Ferret est fermée et les villages de la presqu'île sont évacués vendredi.",
-        "lien": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/le-maire-de-bordeaux-appelle-les-vacanciers-a-attendre-avant-de-se-deplacer-en-raison-des-incendies_8120111.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 24 Jul 2026 09:31:05 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Face aux incendies, Emmanuel Macron demande l'activation du mécanisme de protection civile de l'UE, des renforts aériens attendus \"rapidement\"",
-        "resume": "Le président de la République, qui déplore une situation \"sous très forte tension\", assure que les sapeurs-pompiers français vont pouvoir compter sur l'appui \"de deux Canadair croates, de deux Air Tra",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/face-aux-incendies-emmanuel-macron-demande-l-activation-du-mecanisme-de-protection-civile-de-l-ue-des-renforts-aeriens-europeens-attendus-rapidement_8119946.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 24 Jul 2026 01:41:55 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Comparez l'ampleur de la surface brûlée cette année par les incendies avec la taille de votre commune",
-        "resume": "Afin de se rendre compte de l'ampleur des feux de forêt dans l'Hexagone, franceinfo vous propose de superposer la surface totale brûlée en France hexagonale à votre commune sur notre carte interactive",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/carte-comparez-l-ampleur-de-la-surface-brulee-cette-annee-par-les-incendies-avec-la-taille-de-votre-commune_8117633.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 24 Jul 2026 06:12:33 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "🔴 En direct : plus de 10 000 hectares de forêt ravagés dans le Sud-Ouest, le Cap-Ferret évacué",
-        "resume": "",
-        "lien": "https://www.france24.com/fr/france/20260724-feux-for%C3%AAts-en-direct-10-000-hectares-ravag%C3%A9s-sud-ouest-cap-ferret-%C3%A9vacu%C3%A9",
-        "date": "Fri, 24 Jul 2026 07:42:51 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "En direct : plus de 10 000 hectares de forêt ravagés dans le Sud-Ouest, le Cap-Ferret évacué",
-        "resume": "Un ordre d'évacuation complet de la très touristique presqu'île du Cap-Ferret, par route et par mer, a été lancé vendredi face aux deux incendies massifs qui dévorent la forêt en Gironde et dans les L",
-        "lien": "https://www.france24.com/fr/france/20260724-feux-for%C3%AAts-en-direct-10-000-hectares-ravag%C3%A9s-sud-ouest-cap-ferret-%C3%A9vacu%C3%A9",
-        "date": "Fri, 24 Jul 2026 07:32:15 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Russie : des drones ukrainiens touchent un entrepôt d'e-commerce à Saint-Pétersbourg",
-        "resume": "Un entrepôt du géant du e-commerce Wildberries a été visé vendredi par des drones ukrainiens près de Saint-Pétersbourg. C'est la troisième attaque récente contre \"l'Amazon de la Russie\", accusé par Ki",
-        "lien": "https://www.france24.com/fr/europe/20260724-russie-drones-ukrainiens-touchent-entrep%C3%B4t-commerce-saint-p%C3%A9tersbourg",
-        "date": "Fri, 24 Jul 2026 06:34:37 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "L'Odyssée",
-        "date_sortie": "2026-07-15",
-        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
-        "note": 7.9,
-        "affiche": "https://image.tmdb.org/t/p/w300/5WzPybmv7J9lwfRfhHpuk0pySNc.jpg"
-      },
-      {
-        "titre": "Vaiana, la légende du bout du monde",
-        "date_sortie": "2026-07-08",
-        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
-        "note": 5.847,
-        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
-      },
-      {
-        "titre": "Backrooms",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
-        "note": 7.09,
-        "affiche": "https://image.tmdb.org/t/p/w300/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
-      },
-      {
-        "titre": "Supergirl",
-        "date_sortie": "2026-07-01",
-        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
-        "note": 6.14,
-        "affiche": "https://image.tmdb.org/t/p/w300/1QV4GubAlUvGX3FjqWWWfQiYkN4.jpg"
-      },
-      {
-        "titre": "Des Minions et des monstres",
-        "date_sortie": "2026-06-24",
-        "synopsis": "L’histoire turbulente, absurde et évidemment vraie des Minions et la manière dont ils ont conquis Hollywood, sont devenus de véritables stars de cinéma, ont tout perdu, ont libéré des monstres dans notre monde, puis ont ",
-        "note": 6.411,
-        "affiche": "https://image.tmdb.org/t/p/w300/jMOf0SSthlNp5uXhEXz4e3tqDX5.jpg"
-      },
-      {
-        "titre": "Toy Story 5",
-        "date_sortie": "2026-06-17",
-        "synopsis": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle… l'électronique !",
-        "note": 7.415,
-        "affiche": "https://image.tmdb.org/t/p/w300/b2bt3UomRX41rHHZmIsSNmXzidU.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Midnights in October",
-        "artiste": "Midnights in October",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Atelier en visio : Profil de compétences & Organisation des démarches (ODD)",
-        "date_debut": "2026-07-24T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Recrutement - Employé(e) Polyvalent(e) en restauration chez Luks Kebab ANGERS",
-        "date_debut": "2026-07-27T07:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Au coeur des métiers saisonniers : Viticulture, Horticulture, Arboriculture et Maraîchage à l'honneur !",
-        "date_debut": "2026-07-28T07:30:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Croisière Estuaire Nantes-St Nazaire",
-        "date_debut": "2026-07-24",
-        "lieu": "Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Odyssée de l’oubli - Exposition Anne et Patrick Poirier",
-        "date_debut": "2026-07-24",
-        "lieu": "Musée d'arts de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Exposition « L'agroalimentaire, une empreinte nantaise »",
-        "date_debut": "2026-07-24",
-        "lieu": "Maison des Hommes et des Techniques (MHT)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Expression(s) Décoloniale(s) #4 - Exposition",
-        "date_debut": "2026-07-24",
-        "lieu": "Château des Ducs de Bretagne -   Musée d'Histoire de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le Voyage permanent - Coeur historique - Visite guidée",
-        "date_debut": "2026-07-24",
-        "lieu": "Nantes (Centre ville)",
         "ville": "Nantes"
       }
     ]
