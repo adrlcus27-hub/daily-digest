@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-08-13",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"L'eau va devenir plus chère que le vin\" : en Côte-d'Or, la sécheresse contraint Quincy-le-Vicomte à se ravitailler par camion citerne",
+        "resume": "La source des Prâles ne fournit pas suffisamment d'eau depuis le début de l'été. Pour avoir de l'eau au robinet, la population doit compter sur des livraisons par la route, qui restent coûteuses malgr",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/reportage-l-eau-va-devenir-plus-chere-que-le-vin-en-cote-d-or-la-secheresse-contraint-quincy-le-vicomte-a-se-ravitailler-par-camion-citerne_8141777.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 13 Aug 2026 07:01:52 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"C'était quand même impressionnant !\" : à La Corogne, une éclipse solaire totale un peu gâchée par les nuages pour des milliers de spectateurs",
+        "resume": "Environ 125 000 personnes se sont réunies mercredi soir sur la plage de la ville du nord-ouest de l'Espagne, selon la mairie. Le jour a laissé place à la nuit pendant une minute et 17 secondes, mais u",
+        "lien": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/reportage-c-etait-quand-meme-impressionnant-a-la-corogne-une-eclipse-solaire-un-peu-gachee-par-les-nuages-pour-des-milliers-de-spectateurs_8144789.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 13 Aug 2026 08:30:48 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"On est dans un système qu'il faut réviser\" : un sapeur-pompier explique pourquoi les soldats du feu sont appelés à la grève jeudi",
+        "resume": "Alors que neuf organisations syndicales appellent les pompiers à la grève jeudi, Ludovic Goblet, lieutenant au Service départemental d'incendie et de secours de la Somme, réclame davantage de moyens e",
+        "lien": "https://www.franceinfo.fr/societe/mobilisation-des-pompiers/on-est-dans-un-systeme-qu-il-faut-reviser-un-sapeur-pompier-explique-pourquoi-les-soldats-du-feu-sont-appeles-a-la-greve-jeudi_8144441.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 13 Aug 2026 06:10:00 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "En difficulté face aux tirs de misilles ballistiques, l'Ukraine restreint la diffusion de ses données sur les frappes russes",
+        "resume": "Seuls des systèmes avancés, notamment les Patriot fabriqués aux Etats-Unis, peuvent abattre ce type de missiles. Or Kiev fait état d'une pénurie de ces intercepteurs depuis que le conflit au Moyen-Ori",
+        "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-difficulte-l-ukraine-restreint-la-diffusion-de-donnees-sur-les-frappes-de-missiles-russes_8145398.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 13 Aug 2026 00:14:44 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Trois personnes gravement blessées par arme à feu dans la rue à Besançon",
+        "resume": "Le pronostic vital des trois hommes âgés de 19 à 40 ans est engagé, a annoncé le parquet de Besançon.",
+        "lien": "https://www.franceinfo.fr/faits-divers/trois-personnes-gravement-blessees-par-arme-a-feu-dans-la-rue-a-besancon_8145749.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 13 Aug 2026 09:05:23 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "La quasi-totalité de la France placée en vigilance orange canicule jusqu'à vendredi",
+        "resume": "La vague de chaleur se poursuit, jeudi, en France avec 80 départements placés en vigilance orange canicule jusqu'à vendredi inclus. Le gouvernement chiffre jusqu'à 15 milliards d'euros le coût de ces ",
+        "lien": "https://www.france24.com/fr/france/20260813-canicule-france-vigilance-orange-secheresse-meteo-vague-chaleur-extreme",
+        "date": "Thu, 13 Aug 2026 06:53:14 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Guerre en Ukraine en direct : la Russie dit avoir abattu 362 drones ukrainiens cette nuit",
+        "resume": "Le ministère russe de la Défense a déclaré, jeudi, avoir intercepté et détruit 362 drones ukrainiens au cours de la nuit au-dessus de différentes régions. Suivez notre direct.",
+        "lien": "https://www.france24.com/fr/europe/20260813-en-direct-live-guerre-ukraine-russie-attaque-drones-ukrainiens",
+        "date": "Thu, 13 Aug 2026 06:01:35 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Législative partielle au Royaume-Uni : Nigel Farage opposé au candidat Tête-de-poubelle",
+        "resume": "Nigel Farage, chef du parti anti-immigration Reform UK, espère jeudi être largement réélu lors d'une législative partielle en Angleterre, qu'il a lui-même déclenchée. Lors de ce scrutin, il a pour pri",
+        "lien": "https://www.france24.com/fr/europe/20260813-l%C3%A9gislative-partielle-au-royaume-uni-nigel-farage-oppos%C3%A9-au-candidat-t%C3%AAte-de-poubelle",
+        "date": "Thu, 13 Aug 2026 05:57:11 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Spider-Man : Brand New Day",
+        "date_sortie": "2026-07-29",
+        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
+        "note": 7.858,
+        "affiche": "https://image.tmdb.org/t/p/w300/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg"
+      },
+      {
+        "titre": "L'Odyssée",
+        "date_sortie": "2026-07-15",
+        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
+        "note": 8.0,
+        "affiche": "https://image.tmdb.org/t/p/w300/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg"
+      },
+      {
+        "titre": "Evil Dead Burn",
+        "date_sortie": "2026-07-08",
+        "synopsis": "Après l’enterrement de son mari, Alice se rend dans la maison isolée de sa belle-famille pour partager un dernier repas à sa mémoire. Mais la réunion familiale bascule dans l’horreur lorsque ses proches se transforment, ",
+        "note": 7.91,
+        "affiche": "https://image.tmdb.org/t/p/w300/2gusfeWILgIfRWQTA9nbXAEyQ0S.jpg"
+      },
+      {
+        "titre": "Vaiana, la légende du bout du monde",
+        "date_sortie": "2026-07-08",
+        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
+        "note": 6.0,
+        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
+      },
+      {
+        "titre": "La fin d’Oak Street",
+        "date_sortie": "2026-08-12",
+        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
+        "note": 7.0,
+        "affiche": "https://image.tmdb.org/t/p/w300/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg"
+      },
+      {
+        "titre": "DC",
+        "date_sortie": "2026-08-07",
+        "synopsis": "Dans un univers où règnent violence et trahison, le rebelle Devadas s’allie à Chandra. Entre passion, vengeance et bains de sang, leur loyauté sera mise à l’épreuve dans un combat où survivre devient leur seule règle.",
+        "note": 8.0,
+        "affiche": "https://image.tmdb.org/t/p/w300/cm1uBPBUDfSIZXhWxsp1zzlKnf.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Midnights in October",
+        "artiste": "Midnights in October",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Réunion visio pour aider au développement de l'entreprise créée",
+        "date_debut": "2026-08-13T07:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Découvrez le métier de conducteur de car scolaire (H/F) et venez rencontrer les professionnels du secteur qui recrutent en Maine et Loire",
+        "date_debut": "2026-08-18T07:30:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Les mammifères ailés",
+        "date_debut": "2026-08-18T18:30:00+00:00",
+        "lieu": "Tour de l'horloge, Parc Balzac",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Atelier en visio : Profil de compétences & Organisation des démarches (ODD)",
+        "date_debut": "2026-08-19T07:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Formation Assistant(e) de Vie aux Familles",
+        "date_debut": "2026-08-24T07:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Terrain d'aventures Dervallières",
+        "date_debut": "2026-08-13",
+        "lieu": "Plaine Lorrain",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition « L'agroalimentaire, une empreinte nantaise »",
+        "date_debut": "2026-08-13",
+        "lieu": "Maison des Hommes et des Techniques (MHT)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "DroneArt Show Harry Potter (tm)",
+        "date_debut": "2026-08-13",
+        "lieu": "Hippodrome du Petit Port",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Croisière Estuaire Nantes-St Nazaire",
+        "date_debut": "2026-08-13",
+        "lieu": "Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Découverte de \"Anne et Patrick Poirier. Odyssée de l'oubli\"",
+        "date_debut": "2026-08-13",
+        "lieu": "Musée d'arts de Nantes",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-08-12",
     "news": [
       {
@@ -2462,181 +2661,6 @@
         "titre": "House of Banksy - Une expo non autorisée",
         "date_debut": "2026-07-31",
         "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-30",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Incendie en Gironde : 84 000 habitants de neuf communes autorisés à rentrer chez eux, l'autoroute A63 doit rouvrir à 14 heures",
-        "resume": "Ceux d'Eysines, Mérignac et Le Haillan étaient déjà autoriser à rentrer chez eux depuis mardi.",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendies-en-france-la-reprise-de-feu-en-foret-de-fontainebleau-a-ete-fixee-6-hectares-ont-brule_8127944.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 30 Jul 2026 10:14:51 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"On n'y voit rien, c'est l'apocalypse\" : on vous raconte les 48 heures qui ont ravagé la commune du Porge, anéantie par l'incendie en Gironde",
-        "resume": "Près de 200 maisons sont parties en fumée dans cette commune martyre. Au travers des témoignages des pompiers et des habitants, qui se sont sentis abandonnés, franceinfo remonte le fil de la catastrop",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/recit-franceinfo-on-n-y-voit-rien-c-est-l-apocalypse-on-vous-raconte-les-48-heures-qui-ont-ravage-la-commune-du-porge-aneantie-par-l-incendie-en-gironde_8127344.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 30 Jul 2026 06:50:28 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Le Syndicat national du personnel navigant de l'aéronautique civile dénonce des problèmes de maintenance des Canadair",
-        "resume": "Son secrétaire général adjoint, Eric Durand, pointe du doigt le manque de disponibilité des Canadair à cause de problèmes de maintenance depuis dix ans. Ces avions sont très sollicités depuis le début",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/le-syndicat-national-du-personnel-navigant-de-l-aeronautique-civile-denonce-des-problemes-de-maintenance-des-canadair_8128142.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 30 Jul 2026 08:58:01 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Incendies en France : comment venir en aide aux sinistrés, soutenir les pompiers ou préparer l'après ?",
-        "resume": "La Fondation de France, le Secours populaire, le maire de Paris ou encore le président de la région Sud ont lancé des appels à la solidarité.",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-france-comment-venir-en-aide-aux-sinistres-soutenir-les-pompiers-ou-preparer-l-apres_8123681.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 29 Jul 2026 15:52:45 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Le gouvernement souhaite faire émerger une filière composée d’industriels impliqués dans la lutte contre les incendies",
-        "resume": "Alors que les incendies ravagent toujours, fin juillet, le Sud-Ouest, le gouvernement veut réunir les industriels du secteur pour renforcer les capacités françaises de lutte contre les feux.",
-        "lien": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/le-gouvernement-souhaite-faire-emerger-une-filiere-composee-d-industriels-impliques-dans-la-lutte-contre-les-incendies_8100752.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 30 Jul 2026 08:12:08 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Pologne : un projectile s'écrase dans une zone inhabitée de l'est du pays",
-        "resume": "Les autorités polonaises ont indiqué jeudi avoir localisé dans une zone inhabitée de l'est du pays un cratère, probable lieu d'impact d'un projectile lié aux frappes menées en Ukraine dans la nuit par",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260730-pologne-un-projectile-s-%C3%A9crase-dans-une-zone-inhabit%C3%A9e-de-l-est-du-pays",
-        "date": "Thu, 30 Jul 2026 08:18:50 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Moyen-Orient : les États-Unis reprennent leurs bombardements sur l'Iran",
-        "resume": "Les Etats-Unis ont annoncé jeudi avoir achevé une \"lourde série\" de bombardements sur l'Iran en représailles à des attaques contre leurs forces au Moyen-Orient, les médias iraniens faisant état de tro",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260730-moyen-orient-les-%C3%A9tats-unis-reprennent-leurs-bombardements-sur-l-iran",
-        "date": "Thu, 30 Jul 2026 08:18:11 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "🔴 Incendies en direct : 84 000 habitants autorisés à rentrer chez eux près de Bordeaux",
-        "resume": "",
-        "lien": "https://www.france24.com/fr/europe/20260730-incendies-en-direct-le-m%C3%A9gafeu-en-gironde-stabilis%C3%A9-jeudi-matin-m%C3%A9t%C3%A9o-favorable",
-        "date": "Thu, 30 Jul 2026 08:05:47 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "L'Odyssée",
-        "date_sortie": "2026-07-15",
-        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
-        "note": 7.941,
-        "affiche": "https://image.tmdb.org/t/p/w300/5WzPybmv7J9lwfRfhHpuk0pySNc.jpg"
-      },
-      {
-        "titre": "Supergirl",
-        "date_sortie": "2026-07-01",
-        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
-        "note": 6.72,
-        "affiche": "https://image.tmdb.org/t/p/w300/1QV4GubAlUvGX3FjqWWWfQiYkN4.jpg"
-      },
-      {
-        "titre": "Vaiana, la légende du bout du monde",
-        "date_sortie": "2026-07-08",
-        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
-        "note": 5.909,
-        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
-      },
-      {
-        "titre": "Spider-Man : Brand New Day",
-        "date_sortie": "2026-07-29",
-        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
-        "note": 7.983,
-        "affiche": "https://image.tmdb.org/t/p/w300/yikio8CfJxIA7faZxgvB9FGXy6u.jpg"
-      },
-      {
-        "titre": "On l'appelait Robin des Bois",
-        "date_sortie": "2026-07-01",
-        "synopsis": "Hanté par son passé après une vie de crimes et de violence, Robin des Bois est laissé pour mort à l’issue d’un combat qu’il pensait être le dernier. Recueilli par une femme mystérieuse, il se voit offrir une ultime chanc",
-        "note": 6.579,
-        "affiche": "https://image.tmdb.org/t/p/w300/ndDY118G0Xn6W8aKP3sLz0ESkGq.jpg"
-      },
-      {
-        "titre": "Des Minions et des monstres",
-        "date_sortie": "2026-06-24",
-        "synopsis": "L’histoire turbulente, absurde et évidemment vraie des Minions et la manière dont ils ont conquis Hollywood, sont devenus de véritables stars de cinéma, ont tout perdu, ont libéré des monstres dans notre monde, puis ont ",
-        "note": 6.413,
-        "affiche": "https://image.tmdb.org/t/p/w300/jMOf0SSthlNp5uXhEXz4e3tqDX5.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Midnights in October",
-        "artiste": "Midnights in October",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "RECRUTEMENT CHARGE DE CLIENTELE CHEZ INTELCIA",
-        "date_debut": "2026-08-10T07:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "INTERSTELLAR Ré-imaginer la Terre",
-        "date_debut": "2026-07-30",
-        "lieu": "HAB Galerie (Hangar à Bananes)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Histoires de street-art et graffitis - Circuit centre ville - Visite guidée",
-        "date_debut": "2026-07-30",
-        "lieu": "Nantes (Centre ville)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Friperie solidaire des Bourderies",
-        "date_debut": "2026-07-30",
-        "lieu": "Centre socioculturel des Bourderies",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Balades touristiques en vélo-taxi",
-        "date_debut": "2026-07-30",
-        "lieu": "centre-ville",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Raconte-moi Nantes - Visite guidée en famille",
-        "date_debut": "2026-07-30",
-        "lieu": "Nantes (Centre ville)",
         "ville": "Nantes"
       }
     ]
