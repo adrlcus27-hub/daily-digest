@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-08-17",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Incendie dans les Landes : le feu est \"fixé\", 250 évacués autorisés à rentrer chez eux, annonce la préfecture",
+        "resume": "Depuis jeudi, l'incendie a ravagé quelque 1 700 hectares de pinèdes, entraînant l'évacuation de 650 habitants.",
+        "lien": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-le-premier-ministre-sebastien-lecornu-et-plusieurs-ministres-attendus-en-gironde-le-feu-contenu-mais-pas-fixe-dans-les-landes_8150471.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 17 Aug 2026 08:35:53 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Seuls six départements du Sud-Est encore maintenus en vigilance orange \"canicule\"",
+        "resume": "Le risque orageux est également moindre, aucun département n'étant en vigilance orange orages lundi.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/seuls-six-departements-du-sud-est-maintenus-en-vigilance-orange-canicule-lundi-a-partir-de-6-heures_8150288.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 17 Aug 2026 08:11:30 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Les cartons de Léon Marchand, l'émergence de Mary-Ambre Moluh, le retour des relais... Le bilan de la France aux championnats d'Europe de natation",
+        "resume": "Avec onze médailles, dont quatre en or, l'équipe de France termine à la quatrième place du classement des championnats d'Europe de natation, à Saint-Denis.",
+        "lien": "https://www.franceinfo.fr/sports/natation/championnats-d-europe-de-natation/les-cartons-de-leon-marchand-l-emergence-de-mary-ambre-moluh-le-retour-des-relais-le-bilan-de-la-france-aux-championnats-d-europe-de-natation_8150345.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 17 Aug 2026 06:00:10 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"On a failli être satellisés pour l'éternité\" : imprévus dangereux, émerveillement céleste et épreuve physique... Des astronautes racontent les coulisses des sorties spatiales",
+        "resume": "Les sorties extravéhiculaires représentent \"la mission dans la mission\" se souvient auprès de franceinfo Jean-Loup Chrétien, le premier Français et premier Européen à en avoir réalisé une, en 1988.",
+        "lien": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/mission-epsilon/on-a-failli-etre-satellises-pour-l-eternite-imprevus-dangereux-emerveillement-celeste-et-epreuve-physique-des-astronautes-racontent-les-coulisses-des-sorties-spatiales_7989083.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 17 Aug 2026 05:58:40 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Qui se cache derrière le piratage hors norme du fisc français ?",
+        "resume": "Le Premier ministre, Sébastien Lecornu, présidera lundi 17 août une cellule de crise au sujet du piratage de grande ampleur qui a visé la plateforme des impôts. Les données fiscales de 678 000 particu",
+        "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/qui-se-cache-derriere-le-piratage-hors-norme-du-fisc-francais_8150246.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 16 Aug 2026 20:27:06 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Alvin Junior Mak, étoile montante de la mode franco-congolaise propulsé par le Mondial",
+        "resume": "Innovation africaine (3/3). Styliste franco-congolais, Alvin Junior Mak a marqué de son empreinte le Mondial de football en concevant le très remarqué costume de l'équipe de la République du Congo. Un",
+        "lien": "https://www.france24.com/fr/afrique/20260817-alvin-junior-mak-%C3%A9toile-montante-mode-franco-congolaise-propuls%C3%A9-mondial",
+        "date": "Mon, 17 Aug 2026 05:58:28 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Trophée des champions : à 10 contre 11, Lens fait tomber le PSG",
+        "resume": "Le RC Lens a remporté le trophée des champions face au Paris Saint-Germain (1-0). Sous les yeux de Zinédine Zidane, les lensois ont tenu une heure en infériorité numérique.",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20260817-troph%C3%A9e-des-champions-%C3%A0-10-contre-11-lens-fait-tomber-le-psg",
+        "date": "Mon, 17 Aug 2026 05:50:59 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "L'actrice américaine Hayden Panettiere, star de \"Heroes\", meurt à l'âge de 36 ans",
+        "resume": "L'actrice américaine Hayden Panettiere, connue pour ses rôles dans les séries télévisées \"Heroes\" et \"Nashville\", est morte à l'âge de 36 ans. Son décès a été annoncé par des médias dans la nuit de di",
+        "lien": "https://www.france24.com/fr/am%C3%A9riques/20260817-l-actrice-am%C3%A9ricaine-hayden-panettiere-ic%C3%B4ne-de-la-s%C3%A9rie-heroes-meurt-%C3%A0-l-%C3%A2ge-de-36-ans",
+        "date": "Mon, 17 Aug 2026 05:39:08 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Spider-Man : Brand New Day",
+        "date_sortie": "2026-07-29",
+        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
+        "note": 7.879,
+        "affiche": "https://image.tmdb.org/t/p/w300/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg"
+      },
+      {
+        "titre": "L'Odyssée",
+        "date_sortie": "2026-07-15",
+        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
+        "note": 7.992,
+        "affiche": "https://image.tmdb.org/t/p/w300/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg"
+      },
+      {
+        "titre": "Evil Dead Burn",
+        "date_sortie": "2026-07-08",
+        "synopsis": "Après l’enterrement de son mari, Alice se rend dans la maison isolée de sa belle-famille pour partager un dernier repas à sa mémoire. Mais la réunion familiale bascule dans l’horreur lorsque ses proches se transforment, ",
+        "note": 7.9,
+        "affiche": "https://image.tmdb.org/t/p/w300/2gusfeWILgIfRWQTA9nbXAEyQ0S.jpg"
+      },
+      {
+        "titre": "La Fin d'Oak Street",
+        "date_sortie": "2026-08-12",
+        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
+        "note": 6.725,
+        "affiche": "https://image.tmdb.org/t/p/w300/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg"
+      },
+      {
+        "titre": "Vaiana, la légende du bout du monde",
+        "date_sortie": "2026-07-08",
+        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
+        "note": 6.061,
+        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
+      },
+      {
+        "titre": "Matrix",
+        "date_sortie": "1999-06-23",
+        "synopsis": "Programmeur anonyme dans un service administratif le jour, Thomas Anderson devient Neo la nuit venue. Sous ce pseudonyme, il est l'un des pirates les plus recherchés du cyber‐espace. À cheval entre deux mondes, Neo est a",
+        "note": 8.255,
+        "affiche": "https://image.tmdb.org/t/p/w300/pEoqbqtLc4CcwDUDqxmEDSWpWTZ.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Midnights in October",
+        "artiste": "Midnights in October",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Meridians",
+        "artiste": "Alasdair Fraser",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Broken Dreams",
+        "artiste": "Siska",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "ЖЗЛ",
+        "artiste": "Lacerate",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Découvrez le métier de conducteur de car scolaire (H/F) et venez rencontrer les professionnels du secteur qui recrutent en Maine et Loire",
+        "date_debut": "2026-08-18T07:30:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Les mammifères ailés",
+        "date_debut": "2026-08-18T18:30:00+00:00",
+        "lieu": "Tour de l'horloge, Parc Balzac",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Atelier en visio : Profil de compétences & Organisation des démarches (ODD)",
+        "date_debut": "2026-08-19T07:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Formation Assistant(e) de Vie aux Familles",
+        "date_debut": "2026-08-24T07:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "NOZ recrute son futur Prospecteur itinérant (H/F)",
+        "date_debut": "2026-08-25T06:30:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "INTERSTELLAR Ré-imaginer la Terre",
+        "date_debut": "2026-08-17",
+        "lieu": "HAB Galerie (Hangar à Bananes)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Expression(s) Décoloniale(s) #4 - Exposition",
+        "date_debut": "2026-08-17",
+        "lieu": "Château des Ducs de Bretagne -   Musée d'Histoire de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition « L'agroalimentaire, une empreinte nantaise »",
+        "date_debut": "2026-08-17",
+        "lieu": "Maison des Hommes et des Techniques (MHT)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Cours d'été pilates et stretching postural - Umaneha",
+        "date_debut": "2026-08-17",
+        "lieu": "Dalby Sport-Santé",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Balades touristiques en vélo-taxi",
+        "date_debut": "2026-08-17",
+        "lieu": "centre-ville",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-08-16",
     "news": [
       {
@@ -2527,181 +2726,6 @@
         "titre": "Jardinage au jardin partagé Paysages Nourriciers du Breil",
         "date_debut": "2026-08-04",
         "lieu": "Parc Georges Méliès",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-03",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Incendie dans le Var : le brasier \"n'est pas maîtrisé ni fixé\", des reprises de feu attendues avec la hausse des températures",
-        "resume": "L'incendie près de Carcassonne a quant à lui été fixé dimanche. La lutte continue également pour éteindre le mégafeu de Gironde.",
-        "lien": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendie-dans-l-aude-l-autoroute-a61-a-rouvert-dans-les-deux-sens-le-feu-fixe-mais-encore-sous-surveillance_8132693.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 03 Aug 2026 08:41:10 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Guerre au Moyen-Orient : \"Nous ne négocions pas avec les Etats-Unis en ce moment\", réagit l'Iran après l'annonce par Donald Trump de nouveaux pourparlers cet après-midi",
-        "resume": "Donald Trump a affirmé que \"ce que l'on fait maintenant, c'est parler avec [les Iraniens] sous la forme d'une négociation\", qui doit commencer lundi après-midi. Mais la diplomatie iranienne a démenti ",
-        "lien": "https://www.franceinfo.fr/monde/iran/frappes-americaines-en-iran/direct-guerre-au-moyen-orient-donald-trump-annonce-une-reprise-des-negociations-avec-l-iran_8132732.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 03 Aug 2026 09:54:17 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "L'Aude, l'Aveyron et le Cantal rejoignent les sept départements du quart sud-ouest en vigilance orange aux orages à partir de 16 heures",
-        "resume": "Météo-France anticipe \"une importante activité électrique, de fortes chutes de grêle\", \"de fortes rafales de vent\" et \"de très fortes intensités de précipitations\". Vingt départements de l'est restent",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/sept-departements-du-quart-sud-ouest-passent-en-vigilance-orange-aux-orages-a-partir-de-16-heures-20-departements-toujours-en-alerte-orange-canicule_8132735.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 03 Aug 2026 10:11:24 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Une gravité exceptionnelle\" : après deux suicides d'agents des services du Premier ministre et plusieurs tentatives, des enquêtes judiciaires et internes ouvertes",
-        "resume": "Une plainte a été déposée le 25 juin par une fonctionnaire après une tentative de suicide fin avril, révèle France Inter.",
-        "lien": "https://www.franceinfo.fr/societe/justice/info-radio-france-une-gravite-exceptionnelle-apres-deux-suicides-d-agents-des-services-du-premier-ministre-et-plusieurs-tentatives-des-enquetes-judiciaires-et-internes-ouvertes_8132558.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 03 Aug 2026 07:59:49 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Le quintuple vainqueur du Tour de France Tadej Pogacar présent au départ de la Vuelta",
-        "resume": "Son équipe UAE Team Emirates - XRG a annoncé, lundi, la participation du Slovène au Tour d'Espagne, qui débute le 22 août prochain.",
-        "lien": "https://www.franceinfo.fr/sports/cyclisme/le-quintuple-vainqueur-du-tour-de-france-tadej-pogacar-present-au-depart-de-la-vuelta_8132945.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 03 Aug 2026 10:45:14 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "En Sicile, des vacanciers découvrent près de 700 000 euros en billets sur une plage",
-        "resume": "Sur une plage de Casuzze, en Sicile, des vacanciers ont découvert des sacs contenant d’importantes liasses de billets, échoués après l’intervention des garde-côtes auprès d’un bateau en difficulté. Le",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260803-en-sicile-des-vacanciers-d%C3%A9couvrent-pr%C3%A8s-de-700-000-euros-en-billets-sur-une-plage",
-        "date": "Mon, 03 Aug 2026 09:26:48 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Fifa : le président Infantino poussé vers la sortie ?",
-        "resume": "Gianni Infantino fait face à une contestation grandissante au sein de la Fifa. Après la fronde de l’UEFA et du Concacaf contre son projet d’ouverture du capital lié au Mondial, la pression s’est accen",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260803-fifa-le-pr%C3%A9sident-infantino-pouss%C3%A9-vers-la-sortie",
-        "date": "Mon, 03 Aug 2026 09:23:18 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Brésil : le président brésilien a été investi par son parti et vise un quatrième mandat",
-        "resume": "Le président brésilien Lula a été investi par son parti et se lance dans la course à un quatrième mandat. Correspondance de Gustavo Ribeiro depuis São Paulo pour France 24.",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260803-br%C3%A9sil-le-pr%C3%A9sident-br%C3%A9silien-a-%C3%A9t%C3%A9-investi-par-son-parti-et-vise-un-quatri%C3%A8me-mandat",
-        "date": "Mon, 03 Aug 2026 09:20:04 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Spider-Man : Brand New Day",
-        "date_sortie": "2026-07-29",
-        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
-        "note": 8.028,
-        "affiche": "https://image.tmdb.org/t/p/w300/yikio8CfJxIA7faZxgvB9FGXy6u.jpg"
-      },
-      {
-        "titre": "L'Odyssée",
-        "date_sortie": "2026-07-15",
-        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
-        "note": 7.95,
-        "affiche": "https://image.tmdb.org/t/p/w300/5WzPybmv7J9lwfRfhHpuk0pySNc.jpg"
-      },
-      {
-        "titre": "Supergirl",
-        "date_sortie": "2026-07-01",
-        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
-        "note": 6.7,
-        "affiche": "https://image.tmdb.org/t/p/w300/1QV4GubAlUvGX3FjqWWWfQiYkN4.jpg"
-      },
-      {
-        "titre": "Vaiana, la légende du bout du monde",
-        "date_sortie": "2026-07-08",
-        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
-        "note": 5.84,
-        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
-      },
-      {
-        "titre": "On l'appelait Robin des Bois",
-        "date_sortie": "2026-07-01",
-        "synopsis": "Hanté par son passé après une vie de crimes et de violence, Robin des Bois est laissé pour mort à l’issue d’un combat qu’il pensait être le dernier. Recueilli par une femme mystérieuse, il se voit offrir une ultime chanc",
-        "note": 6.5,
-        "affiche": "https://image.tmdb.org/t/p/w300/ndDY118G0Xn6W8aKP3sLz0ESkGq.jpg"
-      },
-      {
-        "titre": "Des Minions et des monstres",
-        "date_sortie": "2026-06-24",
-        "synopsis": "L’histoire turbulente, absurde et évidemment vraie des Minions et la manière dont ils ont conquis Hollywood, sont devenus de véritables stars de cinéma, ont tout perdu, ont libéré des monstres dans notre monde, puis ont ",
-        "note": 6.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/jMOf0SSthlNp5uXhEXz4e3tqDX5.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Midnights in October",
-        "artiste": "Midnights in October",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "RECRUTEMENT CHARGE DE CLIENTELE CHEZ INTELCIA",
-        "date_debut": "2026-08-10T07:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Expression(s) Décoloniale(s) #4 - Exposition",
-        "date_debut": "2026-08-03",
-        "lieu": "Château des Ducs de Bretagne -   Musée d'Histoire de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Odyssée de l’oubli - Exposition Anne et Patrick Poirier",
-        "date_debut": "2026-08-03",
-        "lieu": "Musée d'arts de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Terrain d'aventures Dervallières",
-        "date_debut": "2026-08-03",
-        "lieu": "Plaine Lorrain",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Exposition « L'agroalimentaire, une empreinte nantaise »",
-        "date_debut": "2026-08-03",
-        "lieu": "Maison des Hommes et des Techniques (MHT)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Terrain d'aventures de Nantes Nord des Ceméa Pays de la loire",
-        "date_debut": "2026-08-03",
-        "lieu": "2 rue Samuel de Champlain",
         "ville": "Nantes"
       }
     ]
