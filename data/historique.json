@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-08-19",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "La loi créant un droit à l'aide à mourir a été promulguée par Emmanuel Macron et publiée au Journal officiel",
+        "resume": "Avant que les premiers malades puissent avoir recours au dispositif créé par le texte, adopté définitivement au Parlement mi-juillet, le gouvernement devra publier les décrets d'application nécessaire",
+        "lien": "https://www.franceinfo.fr/societe/euthanasie/la-loi-sur-l-aide-a-mourir-a-ete-promulguee-par-emmanuel-macron-macron-et-publiee-au-journal-officiel_8153051.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 19 Aug 2026 06:33:16 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Rassurer\", \"expliquer\"… Les appels de contribuables concernés par le piratage de leurs données affluent au fisc",
+        "resume": "Depuis lundi, les victimes \"sont informées individuellement par la DGFiP, par courriel ou par courrier, des données susceptibles d’avoir été consultées ou extraites et, le cas échéant, des mesures de ",
+        "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/rassurer-expliquer-les-appels-de-contribuables-concernes-par-le-piratage-de-leurs-donnees-affluent-au-fisc_8153108.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 19 Aug 2026 08:12:15 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"On va avoir un changement net\" : après la baisse des températures, que nous réserve la météo pour la fin de l'été ?",
+        "resume": "Après plusieurs épisodes caniculaires, la France connaît enfin un répit, avec la fin de la vigilance orange \"canicule\" sur l'ensemble des départements. Mais il est encore trop tôt pour dire si nous so",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/on-va-avoir-un-changement-net-apres-la-baisse-des-temperatures-que-nous-reserve-la-meteo-pour-la-fin-de-l-ete_8152022.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 19 Aug 2026 06:01:41 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"C'est le chantier de fond de la rentrée\" : comment Sébastien Lecornu prépare le budget 2027, le dernier avant l'élection présidentielle",
+        "resume": "Avant la présentation du projet de loi de finances, le 30 septembre, le Premier ministre cherche la formule magique pour trouver des économies sans risquer d'être renversé.",
+        "lien": "https://www.franceinfo.fr/economie/impots/c-est-le-chantier-de-fond-de-la-rentree-comment-sebastien-lecornu-prepare-le-budget-2027-le-dernier-avant-l-election-presidentielle_8150600.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 19 Aug 2026 06:00:48 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Patrick Bruel visé par une nouvelle plainte pour \"tentative de viol\"",
+        "resume": "Cette plainte pour \"tentative de viol\" contre Patrick Bruel a été déposée \"cet été\", précise, mercredi sur France Inter, Myriam Guedj-Benayoun, avocate de plusieurs plaignantes dans cette affaire.",
+        "lien": "https://www.franceinfo.fr/culture/musique/patrick-bruel/affaire-de-violences-sexuelles/info-radio-france-patrick-bruel-vise-par-une-nouvelle-plainte-pour-tentative-de-viol_8153165.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 19 Aug 2026 08:01:02 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "En Ukraine, l'ex-ministre Fedorov appelle à des élections malgré la guerre avec la Russie",
+        "resume": "L'ancien ministre ukrainien ⁠de la Défense, Mykhaïlo ​Fedorov, a appelé mardi soir à la tenued'élections. Un scrutin que la guerre avec la Russie rend complexe, mais qu'il juge indispensable afin de \"",
+        "lien": "https://www.france24.com/fr/europe/20260819-ukraine-ex-ministre-d%C3%A9fense-appelle-%C3%A0-%C3%A9lections-malgr%C3%A9-guerre-russie-mykha%C3%AFlo-fedorov",
+        "date": "Wed, 19 Aug 2026 06:22:51 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Ligue des champions : tout reste à faire entre Lyon et Fenerbahçe",
+        "resume": "L’Olympique Lyonnais et Fenerbahçe se sont quittés sur un match nul (1-1) en barrage aller de ligue des champions. Le match retour aura lieu le mercredi 26 août à Lyon.",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20260819-ligue-des-champions-tout-reste-%C3%A0-faire-entre-lyon-et-fenerbah%C3%A7e",
+        "date": "Wed, 19 Aug 2026 05:00:02 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Les exercices militaires entre la Corée du Sud et les États-Unis écourtés, un revers pour Séoul",
+        "resume": "Un revers pour la Corée du Sud, alliée historique des États-Unis. Les exercices militaires conjoints entre Séoul et Washington, censés prendre fin le 27 août, se termineront vendredi. En cause : les c",
+        "lien": "https://www.france24.com/fr/asie-pacifique/20260819-les-exercices-militaires-entre-s%C3%A9oul-et-washington-seront-%C3%A9court%C3%A9s-de-pr%C3%A8s-d-une-semaine",
+        "date": "Wed, 19 Aug 2026 03:33:10 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Spider-Man : Brand New Day",
+        "date_sortie": "2026-07-29",
+        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
+        "note": 7.882,
+        "affiche": "https://image.tmdb.org/t/p/w300/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg"
+      },
+      {
+        "titre": "L'Odyssée",
+        "date_sortie": "2026-07-15",
+        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
+        "note": 8.0,
+        "affiche": "https://image.tmdb.org/t/p/w300/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg"
+      },
+      {
+        "titre": "La Fin d'Oak Street",
+        "date_sortie": "2026-08-12",
+        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
+        "note": 6.635,
+        "affiche": "https://image.tmdb.org/t/p/w300/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg"
+      },
+      {
+        "titre": "La Pat’ Patrouille : Le film mission Dino",
+        "date_sortie": "2026-08-05",
+        "synopsis": "Lorsqu’une mystérieuse tempête surprend leur navire, la Pat’ Patrouille s’échoue sur une île tropicale encore inexplorée… et peuplée de dinosaures ! Ils y rencontrent Rex, un chiot courageux installé sur l’île depuis des",
+        "note": 7.016,
+        "affiche": "https://image.tmdb.org/t/p/w300/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg"
+      },
+      {
+        "titre": "Mutiny",
+        "date_sortie": "2026-08-19",
+        "synopsis": "Après que son patron industriel milliardaire ait été assassiné sous ses yeux, Cole Reed est désigné pour endosser le crime, ce qui le met en fuite alors qu'il s'efforce de découvrir une conspiration internationale.",
+        "note": 9.75,
+        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
+      },
+      {
+        "titre": "Juste pour une Nuit",
+        "date_sortie": "2026-08-12",
+        "synopsis": "Un homme et une femme se démènent pour trouver quelqu'un avec qui coucher la seule nuit de l'année où les relations sexuelles avant le mariage sont légales dans leur société.",
+        "note": 6.833,
+        "affiche": "https://image.tmdb.org/t/p/w300/ynL7Ng0bLYJ3RZuxAqkE95QBVOL.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Midnights in October",
+        "artiste": "Midnights in October",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Atelier en visio : Profil de compétences & Organisation des démarches (ODD)",
+        "date_debut": "2026-08-19T07:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Formation Assistant(e) de Vie aux Familles",
+        "date_debut": "2026-08-24T07:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "NOZ recrute son futur Prospecteur itinérant (H/F)",
+        "date_debut": "2026-08-25T06:30:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "La Gendarmerie nationale recrute - Réunion d'informations",
+        "date_debut": "2026-08-25T08:00:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Visio Opportunités du moment - Angers Capucins",
+        "date_debut": "2026-08-25T08:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "[Derniers jours] Odyssée de l’oubli - Exposition Anne et Patrick Poirier",
+        "date_debut": "2026-08-19",
+        "lieu": "Musée d'arts de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "The Art of the Brick - Exposition d’art en Lego",
+        "date_debut": "2026-08-19",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition « L'agroalimentaire, une empreinte nantaise »",
+        "date_debut": "2026-08-19",
+        "lieu": "Maison des Hommes et des Techniques (MHT)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Point d'Information Nantes Solidaire",
+        "date_debut": "2026-08-19",
+        "lieu": "Espace Départemental des Solidarités Cassin",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Terrain d'aventures de Nantes Nord des Ceméa Pays de la loire",
+        "date_debut": "2026-08-19",
+        "lieu": "2 rue Samuel de Champlain",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-08-18",
     "news": [
       {
@@ -2551,193 +2750,6 @@
         "titre": "Biodivers'été 2026",
         "date_debut": "2026-08-06",
         "lieu": "Parcs et jardins",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-05",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Mehdi Laribi, présenté comme l'un des fondateurs de la DZ Mafia, a été arrêté en Algérie fin juillet",
-        "resume": "Considéré comme l'un des cinq ou six membres fondateurs du groupe criminel, Mehdi Laribi a été placé sous contrôle judiciaire.",
-        "lien": "https://www.franceinfo.fr/societe/drogue/info-franceinfo-mehdi-laribi-presente-comme-l-un-des-fondateurs-de-la-dz-mafia-arrete-en-algerie-il-y-a-quelques-jours_8135381.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 05 Aug 2026 06:17:03 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Le chef étoilé Jean Imbert, soupçonné de violences conjugales, transféré au tribunal judiciaire de Paris à l'issue de sa garde à vue",
-        "resume": "L'ancien vainqueur de l'émission de cuisine \"Top Chef\" est visé par plusieurs plaintes d'ex-compagnes.",
-        "lien": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/le-chef-etoile-jean-imbert-soupconne-de-violences-conjugales-transfere-au-tribunal-judiciaire-de-paris-a-l-issue-de-sa-garde-a-vue_8135615.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 05 Aug 2026 10:03:39 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Incendie dans le Var : les pompiers poursuivent la lutte contre les reprises de feu, une hausse des températures et du vent à prévoir",
-        "resume": "Quelque 800 pompiers sont toujours mobilisés près du massif du Gros Bessillon. La piste de départs de feu volontaires est \"sérieusement envisagée\" par le parquet de Draguignan.",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendie-dans-le-var-les-pompiers-poursuivent-la-lutte-contre-les-reprises-de-feu-hausse-des-temperatures-et-du-vent-a-prevoir_8135408.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 05 Aug 2026 10:25:39 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Vous ne voulez pas louper l'éclipse solaire du 12 août ? On répond à sept questions pas si bêtes sur les lunettes de protection",
-        "resume": "Pour regarder ce phénomène exceptionnel, veillez à utiliser des protections portant le marquage CE et respectant la norme internationale ISO 12312-2. \"Même avec des équipements adaptés, il est conseil",
-        "lien": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/vous-ne-voulez-pas-louper-l-eclipse-solaire-du-12-aout-on-repond-a-sept-questions-pas-si-betes-sur-les-lunettes-de-protection_8129738.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 05 Aug 2026 05:56:58 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Guerre en Ukraine : au moins 17 morts et 44 blessés dans des bombardements russes sur la région de Kiev",
-        "resume": "\"Les intercepteurs de missiles balistiques auraient pu sauver la vie de ceux qui sont morts aujourd'hui\", dénonce Volodymyr Zelensky, qui réclame plus d'aide de la part de ses soutiens occidentaux.",
-        "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-15-morts-et-27-blesses-dans-des-bombardements-russes-sur-la-region-de-kiev_8135441.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 05 Aug 2026 09:31:42 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Ligue des champions : Lyon en mauvaise posture au 3e tour préliminaire",
-        "resume": "L'Olympique lyonnais (OL) s’est incliné sur la pelouse du Sparta Prague (2-1) en 3e tour préliminaire aller. Le match retour aura lieu le 11 août à Lyon, au Groupama Stadium.",
-        "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20260805-ligue-des-champions-lyon-mauvaise-posture-3e-tour-pr%C3%A9liminaire-ol-sparta-prague",
-        "date": "Wed, 05 Aug 2026 06:40:47 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Foot : des cadres de la Fifa prennent leurs distances avec Infantino",
-        "resume": "D'Arsène Wenger au secrétaire général Mattias Grafström, des voix s'élèvent jusqu'au sein de la Fifa pour prendre leurs distances avec le président Gianni Infantino, principal défenseur d'un projet fi",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260805-foot-des-cadres-de-la-fifa-prennent-leurs-distances-avec-infantino",
-        "date": "Wed, 05 Aug 2026 06:31:51 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Ukraine : une attaque russe fait 15 morts à Kiev et dans sa région",
-        "resume": "Des frappes russes nocturnes ont fait un mort à Kiev et quatorze autres dans ses environs, et incendié des entrepôts, ont annoncé les autorités locales mercredi matin. L'armée de l'air affirme qu'elle",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260805-ukraine-une-attaque-russe-fait-15-morts-%C3%A0-kiev-et-dans-sa-r%C3%A9gion",
-        "date": "Wed, 05 Aug 2026 06:29:50 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Spider-Man : Brand New Day",
-        "date_sortie": "2026-07-29",
-        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
-        "note": 7.984,
-        "affiche": "https://image.tmdb.org/t/p/w300/yikio8CfJxIA7faZxgvB9FGXy6u.jpg"
-      },
-      {
-        "titre": "L'Odyssée",
-        "date_sortie": "2026-07-15",
-        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
-        "note": 7.956,
-        "affiche": "https://image.tmdb.org/t/p/w300/5WzPybmv7J9lwfRfhHpuk0pySNc.jpg"
-      },
-      {
-        "titre": "Supergirl",
-        "date_sortie": "2026-07-01",
-        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
-        "note": 6.74,
-        "affiche": "https://image.tmdb.org/t/p/w300/1QV4GubAlUvGX3FjqWWWfQiYkN4.jpg"
-      },
-      {
-        "titre": "On l'appelait Robin des Bois",
-        "date_sortie": "2026-07-01",
-        "synopsis": "Hanté par son passé après une vie de crimes et de violence, Robin des Bois est laissé pour mort à l’issue d’un combat qu’il pensait être le dernier. Recueilli par une femme mystérieuse, il se voit offrir une ultime chanc",
-        "note": 6.481,
-        "affiche": "https://image.tmdb.org/t/p/w300/ndDY118G0Xn6W8aKP3sLz0ESkGq.jpg"
-      },
-      {
-        "titre": "Vaiana, la légende du bout du monde",
-        "date_sortie": "2026-07-08",
-        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
-        "note": 5.838,
-        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
-      },
-      {
-        "titre": "Matrix",
-        "date_sortie": "1999-06-23",
-        "synopsis": "Programmeur anonyme dans un service administratif le jour, Thomas Anderson devient Neo la nuit venue. Sous ce pseudonyme, il est l'un des pirates les plus recherchés du cyber‐espace. À cheval entre deux mondes, Neo est a",
-        "note": 8.254,
-        "affiche": "https://image.tmdb.org/t/p/w300/pEoqbqtLc4CcwDUDqxmEDSWpWTZ.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Midnights in October",
-        "artiste": "Midnights in October",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Meridians",
-        "artiste": "Alasdair Fraser",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Living Free (Live Manchester '75)",
-        "artiste": "Don McLean",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Through Lines",
-        "artiste": "Skye Peterson",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "RECRUTEMENT CHARGE DE CLIENTELE CHEZ INTELCIA",
-        "date_debut": "2026-08-10T07:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Découvrez le métier de conducteur de car scolaire (H/F) et venez rencontrer les professionnels du secteur qui recrutent en Maine et Loire",
-        "date_debut": "2026-08-18T07:30:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Les mammifères ailés",
-        "date_debut": "2026-08-18T18:30:00+00:00",
-        "lieu": "Tour de l'horloge, Parc Balzac",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Dans la peau des collectionneurs - Visite guidée au musée Dobrée",
-        "date_debut": "2026-08-05",
-        "lieu": "Musée Dobrée",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Terrain d'aventures Dervallières",
-        "date_debut": "2026-08-05",
-        "lieu": "Plaine Lorrain",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Pause-café",
-        "date_debut": "2026-08-05",
-        "lieu": "RIG Malville",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Les Rendez-vous à la ferme",
-        "date_debut": "2026-08-05",
-        "lieu": "Parc de la Chantrerie",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Odyssée de l’oubli - Exposition Anne et Patrick Poirier",
-        "date_debut": "2026-08-05",
-        "lieu": "Musée d'arts de Nantes",
         "ville": "Nantes"
       }
     ]
