@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-08-20",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Attaques de drones, frappes sur les infrastructures énergétiques et civiles… Comment l'Ukraine tente de faire entrer la guerre dans le quotidien des Russes",
+        "resume": "Kiev a lancé une vaste campagne de frappes de drones, fin juin. L'armée ukrainienne a récemment frappé de nombreux entrepôts du géant du e-commerce Wildberries, faisant rentrer la guerre dans la vie d",
+        "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/attaques-de-drones-frappes-sur-les-infrastructures-energetiques-et-civiles-comment-l-ukraine-tente-de-faire-entrer-la-guerre-dans-le-quotidien-des-russes_8152046.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 20 Aug 2026 05:59:23 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Les départements de l'Ardèche, de la Drôme et de l'Isère placés en vigilance orange aux orages jeudi après-midi, la Corse en alerte vendredi matin",
+        "resume": "Cet épisode est \"susceptible de s'accompagner de phénomènes ponctuellement violents (rafales, fortes précipitations) nécessitant par conséquent une attention toute particulière\", précise Météo-France.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/l-ardeche-la-drome-et-l-isere-places-en-vigilance-orange-aux-orages-jeudi-apres-midi-la-corse-en-alerte-vendredi-matin_8154413.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 20 Aug 2026 06:28:27 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Les prix des fruits et légumes n'ont-ils vraiment pas augmenté malgré la sécheresse, comme l'affirme la ministre de l'Agriculture ?",
+        "resume": "Alors que la sécheresse et les fortes chaleurs mettent à mal les cultures, le gouvernement assure qu'aucune flambée généralisée des prix n'est observée et que la grande distribution s'adapte. Les donn",
+        "lien": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-les-prix-des-fruits-et-legumes-n-ont-ils-vraiment-pas-augmente-malgre-la-secheresse-comme-l-affirme-la-ministre-de-l-agriculture_8152010.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 20 Aug 2026 05:57:56 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "François Fillon suspendu de la Légion d'honneur après sa condamnation pour emplois fictifs",
+        "resume": "Selon un décret publié jeudi au Journal officiel, il a aussi été suspendu pour dix ans de l'ordre national du Mérite, dont il est grand'croix, plus d'un an après avoir écopé de quatre ans de prison av",
+        "lien": "https://www.franceinfo.fr/politique/francois-fillon/francois-fillon-suspendu-de-la-legion-d-honneur-apres-sa-condamnation-pour-emplois-fictifs_8154512.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 20 Aug 2026 08:08:37 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Nous sommes en lien avec les autorités du Togo pour qu'ils puissent être libérés au plus tôt\", assure Jean-Noël Barrot à propos des deux réalisateurs français détenus dans le pays",
+        "resume": "Les familles des réalisateurs Gaël Mocaër et Sebastian Perez Pezzani ont également été reçues mercredi par le ministère de l'Europe et des Affaires étrangères.",
+        "lien": "https://www.franceinfo.fr/monde/afrique/togo/nous-sommes-en-lien-avec-les-autorites-du-togo-pour-qu-ils-puissent-etre-liberes-au-plus-tot-assure-jean-noel-barrot-a-propos-des-deux-realisateurs-francais-detenus-dans-le-pays_8154128.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 19 Aug 2026 21:45:03 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Une souricière dans Paris : la rafle du 20 août 1941 restée dans l'ombre de celle du Vél d'Hiv",
+        "resume": "Le 20 août 1941, une rafle d’envergure frappait les juifs parisiens. En cinq jours, 4 230 hommes sont arrêtés par la police française sous les ordres des autorités allemandes. Quatre-vingt-cinq ans ap",
+        "lien": "https://www.france24.com/fr/france/20260820-rafle-paris-aout-1941-oublie-juifs-shoah-seconde-guerre-mondiale",
+        "date": "Thu, 20 Aug 2026 06:14:22 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Nouvelle nuit de bombardements russes meurtriers à Kiev et dans sa région",
+        "resume": "L'Ukraine déplore jeudi au moins neuf morts après des frappes russes nocturnes à Kiev et dans sa région. La capitale russe a pour sa part été visée par 250 drones ukrainiens, selon le maire de Moscou.",
+        "lien": "https://www.france24.com/fr/europe/20260820-nouvelle-nuit-bombardements-russes-meurtriers-kiev-r%C3%A9gion",
+        "date": "Thu, 20 Aug 2026 05:54:24 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "La barbe à papa, invention d'un dentiste",
+        "resume": "Dans les foires, au cirque ou à la fête foraine, la barbe à papa, c'est la confiserie préférée des enfants. Mais saviez-vous que cette célèbre sucrerie a été inventée... par un dentiste ?",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260820-barbe-%C3%A0-papa-invention-dentiste-histoire-sucrerie-confiserie-culture-prime",
+        "date": "Thu, 20 Aug 2026 05:54:20 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Spider-Man : Brand New Day",
+        "date_sortie": "2026-07-29",
+        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
+        "note": 7.9,
+        "affiche": "https://image.tmdb.org/t/p/w300/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg"
+      },
+      {
+        "titre": "L'Odyssée",
+        "date_sortie": "2026-07-15",
+        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
+        "note": 7.982,
+        "affiche": "https://image.tmdb.org/t/p/w300/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg"
+      },
+      {
+        "titre": "La Fin d'Oak Street",
+        "date_sortie": "2026-08-12",
+        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
+        "note": 6.498,
+        "affiche": "https://image.tmdb.org/t/p/w300/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg"
+      },
+      {
+        "titre": "La Pat’ Patrouille : Le film mission Dino",
+        "date_sortie": "2026-08-05",
+        "synopsis": "Lorsqu’une mystérieuse tempête surprend leur navire, la Pat’ Patrouille s’échoue sur une île tropicale encore inexplorée… et peuplée de dinosaures ! Ils y rencontrent Rex, un chiot courageux installé sur l’île depuis des",
+        "note": 7.029,
+        "affiche": "https://image.tmdb.org/t/p/w300/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg"
+      },
+      {
+        "titre": "Insidious : L'Invasion du Lointain",
+        "date_sortie": "2026-08-19",
+        "synopsis": "Gemma, une jeune mère élève sa fille dans la maison de son enfance. Elle découvre qu'elle peut voyager dans le Lointain, ce royaume purgatoire des âmes perdues au cœur de l'univers d'Insidious. Lorsqu'une entité malveill",
+        "note": 5.417,
+        "affiche": "https://image.tmdb.org/t/p/w300/bW8uJOLrtdBnQcQbG9BUQjDgUaT.jpg"
+      },
+      {
+        "titre": "Mutiny",
+        "date_sortie": "2026-08-19",
+        "synopsis": "Après que son patron industriel milliardaire ait été assassiné sous ses yeux, Cole Reed est désigné pour endosser le crime, ce qui le met en fuite alors qu'il s'efforce de découvrir une conspiration internationale.",
+        "note": 7.867,
+        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Midnights in October",
+        "artiste": "Midnights in October",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Formation Assistant(e) de Vie aux Familles",
+        "date_debut": "2026-08-24T07:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "NOZ recrute son futur Prospecteur itinérant (H/F)",
+        "date_debut": "2026-08-25T06:30:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "La Gendarmerie nationale recrute - Réunion d'informations",
+        "date_debut": "2026-08-25T08:00:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Visio Opportunités du moment - Angers Capucins",
+        "date_debut": "2026-08-25T08:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Visio Opportunités du moment - Angers Capucins",
+        "date_debut": "2026-08-25T12:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Goldie B + Pristine Pit + Noï + La Dame",
+        "date_debut": "2026-08-20",
+        "lieu": "Trempo - La Fabrique Ile de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "INTERSTELLAR Ré-imaginer la Terre",
+        "date_debut": "2026-08-20",
+        "lieu": "HAB Galerie (Hangar à Bananes)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le Potager de la Cantine",
+        "date_debut": "2026-08-20",
+        "lieu": "Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Croisière Estuaire Nantes-St Nazaire",
+        "date_debut": "2026-08-20",
+        "lieu": "Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "[Derniers jours] Odyssée de l’oubli - Exposition Anne et Patrick Poirier",
+        "date_debut": "2026-08-20",
+        "lieu": "Musée d'arts de Nantes",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-08-19",
     "news": [
       {
@@ -2551,205 +2750,6 @@
         "titre": "The Art of the Brick - Exposition d’art en Lego",
         "date_debut": "2026-08-07",
         "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Être sûr qu'aucun arbre ne puisse tomber\" : après l'incendie à Fontainebleau, l’abattage des arbres se poursuit pour sécuriser la forêt",
-        "resume": "Repérer, marquer d'une croix, alerter… De nombreux agents forestiers se coordonnent et s'affairent à rendre plus sûr le massif, menacé par un risque de chutes d'arbres sur les routes.",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/reportage-etre-sur-qu-aucun-arbre-ne-puisse-tomber-apres-l-incendie-a-fontainebleau-l-abattage-des-arbres-se-poursuit-pour-securiser-la-foret_8136641.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 06 Aug 2026 08:22:09 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Horizon dégagé, météo... Comment trouver le bon endroit pour observer l'éclipse solaire du 12 août",
-        "resume": "Plusieurs conditions doivent être réunies pour pouvoir regarder la tant attendue éclipse solaire qui aura lieu mercredi soir dans le ciel. Elle sera totale en Espagne et partiellement visible en Franc",
-        "lien": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/horizon-degage-meteo-comment-trouver-le-bon-endroit-pour-observer-l-eclipse-solaire-du-12-aout_8134073.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 06 Aug 2026 05:53:49 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Pourquoi l'Ukraine n'arrive-t-elle plus à abattre les missiles balistiques russes ?",
-        "resume": "La capitale ukrainienne a été frappée par la Russie dans la nuit de mardi à mercredi, faisant 17 morts. L'Ukraine n'a pas abattu un seul missile balistique russe. Le pays fait notamment face à une pén",
-        "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/pourquoi-l-ukraine-n-arrive-plus-a-abattre-les-missiles-balistiques-russes_8135720.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 06 Aug 2026 05:54:21 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Lors d'une conférence de presse clandestine, le FLNC étrille le processus d'autonomie de la Corse",
-        "resume": "Avant les Ghjurnate Internaziunale de Corte qui débutent ce samedi, le FLNC Union des combattants a tenu une conférence de presse lors de laquelle les clandestins ont réaffirmé leur rejet du processus",
-        "lien": "https://france3-regions.franceinfo.fr/corse/lors-d-une-conference-de-presse-clandestine-le-flnc-etrille-le-processus-d-autonomie-de-la-corse-3397447.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 06 Aug 2026 09:00:26 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Redressement judiciaire de Duralex : le Français Cédric Meston, qui a racheté Tupperware France, dépose un dossier de reprise",
-        "resume": "Selon les informations de France Inter, le cofondateur de la start-up HappyVore a déposé une offre de reprise. Un autre repreneur potentiel est sur les rangs, le Français Carlesimo. Duralex vit son ci",
-        "lien": "https://www.franceinfo.fr/economie/entreprises/cedric-meston-qui-a-rachete-tupperware-france-l-an-dernier-depose-un-dossier-de-reprise-pour-duralex_8136770.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 06 Aug 2026 08:26:35 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Présidentielle 2027 : la France en alerte face à la multiplication des ingérences russes",
-        "resume": "Les ingérences russes visant des candidats déclarés ou pressentis la présidentielle se multiplient en France. Visé, Gabriel Attal a, jeudi, accusé Moscou de vouloir \"voler\" l'élection aux Français. Le",
-        "lien": "https://www.france24.com/fr/france/20260806-pr%C3%A9sidentielle-fran%C3%A7aise-2027-les-ing%C3%A9rences-russes-visant-des-candidats-se-multiplient",
-        "date": "Thu, 06 Aug 2026 07:11:14 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "En Ukraine, les régions de Kharkiv et Soumy visées par des frappes russes meurtrières",
-        "resume": "En Ukraine, de nouvelles frappes russes ont fait plusieurs morts jeudi. À Balaklia, une localité de la région de Kharkiv, trois personnes sont mortes après des bombardements sur leurs \"maisons individ",
-        "lien": "https://www.france24.com/fr/europe/20260806-en-ukraine-les-r%C3%A9gions-de-kharkiv-et-soumy-vis%C3%A9es-par-des-frappes-russes-meurtri%C3%A8res",
-        "date": "Thu, 06 Aug 2026 06:13:14 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Ukraine : évacuation massive de familles face aux attaques russes à Kramatorsk",
-        "resume": "Des centaines de familles avec enfants vivant à Kramatorsk, une ville de l'est de l'Ukraine, ont reçu l'ordre d'évacuer en raison de l'intensification des attaques russes, a annoncé mercredi l'adminis",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260806-ukraine-%C3%A9vacuation-massive-de-familles-face-aux-attaques-russes-%C3%A0-kramatorsk",
-        "date": "Thu, 06 Aug 2026 05:23:25 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Spider-Man : Brand New Day",
-        "date_sortie": "2026-07-29",
-        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
-        "note": 7.953,
-        "affiche": "https://image.tmdb.org/t/p/w300/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg"
-      },
-      {
-        "titre": "L'Odyssée",
-        "date_sortie": "2026-07-15",
-        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
-        "note": 7.958,
-        "affiche": "https://image.tmdb.org/t/p/w300/4udI4qTKhPp16slN6QQQw9XzEFY.jpg"
-      },
-      {
-        "titre": "Supergirl",
-        "date_sortie": "2026-07-01",
-        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
-        "note": 6.748,
-        "affiche": "https://image.tmdb.org/t/p/w300/hMEZkdaoqoPAqEgk9Y1mwYnGkPZ.jpg"
-      },
-      {
-        "titre": "On l'appelait Robin des Bois",
-        "date_sortie": "2026-07-01",
-        "synopsis": "Hanté par son passé après une vie de crimes et de violence, Robin des Bois est laissé pour mort à l’issue d’un combat qu’il pensait être le dernier. Recueilli par une femme mystérieuse, il se voit offrir une ultime chanc",
-        "note": 6.503,
-        "affiche": "https://image.tmdb.org/t/p/w300/gGKr2JIML9FEV6Cpos9TIJAQpeE.jpg"
-      },
-      {
-        "titre": "Vaiana, la légende du bout du monde",
-        "date_sortie": "2026-07-08",
-        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
-        "note": 5.895,
-        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
-      },
-      {
-        "titre": "Evil Dead Burn",
-        "date_sortie": "2026-07-08",
-        "synopsis": "Après l’enterrement de son mari, Alice se rend dans la maison isolée de sa belle-famille pour partager un dernier repas à sa mémoire. Mais la réunion familiale bascule dans l’horreur lorsque ses proches se transforment, ",
-        "note": 7.892,
-        "affiche": "https://image.tmdb.org/t/p/w300/2gusfeWILgIfRWQTA9nbXAEyQ0S.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Midnights in October",
-        "artiste": "Midnights in October",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "RECRUTEMENT CHARGE DE CLIENTELE CHEZ INTELCIA",
-        "date_debut": "2026-08-10T07:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Réunion visio pour aider au développement de l'entreprise créée",
-        "date_debut": "2026-08-13T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Découvrez le métier de conducteur de car scolaire (H/F) et venez rencontrer les professionnels du secteur qui recrutent en Maine et Loire",
-        "date_debut": "2026-08-18T07:30:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Les mammifères ailés",
-        "date_debut": "2026-08-18T18:30:00+00:00",
-        "lieu": "Tour de l'horloge, Parc Balzac",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Atelier en visio : Profil de compétences & Organisation des démarches (ODD)",
-        "date_debut": "2026-08-19T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Exposition « L'agroalimentaire, une empreinte nantaise »",
-        "date_debut": "2026-08-06",
-        "lieu": "Maison des Hommes et des Techniques (MHT)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Balades touristiques en vélo-taxi",
-        "date_debut": "2026-08-06",
-        "lieu": "centre-ville",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "INTERSTELLAR Ré-imaginer la Terre",
-        "date_debut": "2026-08-06",
-        "lieu": "HAB Galerie (Hangar à Bananes)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le Potager de la Cantine",
-        "date_debut": "2026-08-06",
-        "lieu": "Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Biodivers'été 2026",
-        "date_debut": "2026-08-06",
-        "lieu": "Parcs et jardins",
         "ville": "Nantes"
       }
     ]
