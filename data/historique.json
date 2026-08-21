@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-08-21",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Des jeunes qui répondent à un effet de meute\" : plongée dans la nébuleuse des \"lookups\", ces moteurs de recherche où finissent les données piratées",
+        "resume": "Ces outils permettent de consulter des données personnelles volées au cours de cyberattaques. Illégaux et montés par des individus en quête de notoriété, de challenge ou d'argent, ils prolifèrent sur ",
+        "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/enquete-franceinfo-des-jeunes-qui-repondent-a-un-effet-de-meute-plongee-dans-la-nebuleuse-des-lookups-ces-moteurs-de-recherche-ou-finissent-les-donnees-piratees_8153933.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 21 Aug 2026 06:00:26 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Le Var et les Alpes-Maritimes toujours en vigilance orange \"orages\" et \"pluie-inondation\" vendredi matin",
+        "resume": "Les deux départements de Corse, concernés jusqu'alors par une alerte orange aux orages violents, ont été rétrogradés en jaune par Météo-France dans son dernier bulletin.",
+        "lien": "https://www.franceinfo.fr/environnement/meteo/alertes-meteo-et-vigilances/la-corse-le-var-et-les-alpes-maritimes-en-vigilance-orange-orages-vendredi-matin-les-deux-departements-du-sud-est-aussi-concernes-par-une-alerte-pluie-inondation_8155757.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 21 Aug 2026 08:36:27 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Je ne peux pas vous dire quel est le bon choix\" : pour leur rentrée politique, les écologistes se divisent sur la question d'un ralliement à gauche pour la présidentielle",
+        "resume": "Face aux pressions de ses troupes, partagées entre le souhait d'un rapprochement avec Jean-Luc Mélenchon et un soutien à Raphaël Glucksmann, la cheffe du parti, Marine Tondelier, temporise et ouvre la",
+        "lien": "https://www.franceinfo.fr/elections/presidentielle/reportage-je-ne-peux-pas-vous-dire-quel-est-le-bon-choix-pour-leur-rentree-politique-les-ecologistes-se-divisent-sur-la-question-d-un-ralliement-a-gauche-pour-la-presidentielle_8154497.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 21 Aug 2026 06:01:39 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Vraiment, je ne veux plus y aller\" : une levée de boucliers contre la tournée de Patrick Bruel à l’automne",
+        "resume": "Patrick Bruel a choisi de remonter sur scène, alors qu’une nouvelle plainte pour tentative de viols s’ajoute à la trentaine déjà déposée contre lui. Le chanteur maintient sa tournée de 35 dates dès le",
+        "lien": "https://www.franceinfo.fr/culture/musique/patrick-bruel/vraiment-je-ne-veux-plus-y-aller-une-levee-de-boucliers-contre-la-tournee-de-patrick-bruel-a-l-automne_8155400.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 20 Aug 2026 21:45:38 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Les patients saluent la première reconnaissance officielle du syndrome de fatigue chronique par l'Assurance-maladie",
+        "resume": "L'Assurance maladie ne relie donc plus l'encéphalomyélite myalgique à un trouble psychiatrique ou psychologique, rapporte vendredi France Inter. Une reconnaissance \"institutionnelle\" qualifiée \"d'étap",
+        "lien": "https://www.franceinfo.fr/sante/les-patients-saluent-la-premiere-reconnaissance-officielle-du-syndrome-de-fatigue-chronique-par-l-assurance-maladie_8155820.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 21 Aug 2026 07:27:54 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Ligue Conférence : Monaco prend une option en Pologne",
+        "resume": "Monaco s’est imposé sur le terrain du Gornik Zabrze (3-2), en barrages aller de la Ligue Conférence. Mika Biereth a ouvert le score pour les Monégasques, avant que Lamine Camara ne double la mise aprè",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20260821-ligue-conf%C3%A9rence-monaco-prend-option-pologne",
+        "date": "Fri, 21 Aug 2026 05:13:34 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Désormais incontournable, le RN entre présidentialisation et refus de l’État de droit (3/3)",
+        "resume": "De la dédiabolisation à la présidentialisation du RN (3/3). Fort de nombreux députés élus à l’Assemblée nationale, le RN influence de plus en plus la vie politique française. Sa participation à la mar",
+        "lien": "https://www.france24.com/fr/france/20260821-france-rassemblement-national-entre-presidentialisation-refus-etat-de-droit-incontournable",
+        "date": "Fri, 21 Aug 2026 05:10:19 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Hong Kong : deux militants de la mémoire de Tiananmen reconnus coupables d'\"incitation à la subversion\"",
+        "resume": "Deux militants prodémocratie et organisateurs de veillées en souvenir de Tiananmen ont été déclarés coupables d'\"incitation à la subversion\" vendredi à Hong Kong, à l'issue d'un procès critiqué par le",
+        "lien": "https://www.france24.com/fr/info-en-continu/20260821-hong-kong-deux-militants-de-la-m%C3%A9moire-de-tiananmen-reconnus-coupables-d-incitation-%C3%A0-la-subversion",
+        "date": "Fri, 21 Aug 2026 03:39:11 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Spider-Man : Brand New Day",
+        "date_sortie": "2026-07-29",
+        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
+        "note": 7.9,
+        "affiche": "https://image.tmdb.org/t/p/w300/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg"
+      },
+      {
+        "titre": "L'Odyssée",
+        "date_sortie": "2026-07-15",
+        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
+        "note": 7.989,
+        "affiche": "https://image.tmdb.org/t/p/w300/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg"
+      },
+      {
+        "titre": "Mutiny",
+        "date_sortie": "2026-08-19",
+        "synopsis": "Après que son patron industriel milliardaire ait été assassiné sous ses yeux, Cole Reed est désigné pour endosser le crime, ce qui le met en fuite alors qu'il s'efforce de découvrir une conspiration internationale.",
+        "note": 7.089,
+        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
+      },
+      {
+        "titre": "La Fin d'Oak Street",
+        "date_sortie": "2026-08-12",
+        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
+        "note": 6.5,
+        "affiche": "https://image.tmdb.org/t/p/w300/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg"
+      },
+      {
+        "titre": "Insidious : L'Invasion du Lointain",
+        "date_sortie": "2026-08-19",
+        "synopsis": "Gemma, une jeune mère élève sa fille dans la maison de son enfance. Elle découvre qu'elle peut voyager dans le Lointain, ce royaume purgatoire des âmes perdues au cœur de l'univers d'Insidious. Lorsqu'une entité malveill",
+        "note": 6.536,
+        "affiche": "https://image.tmdb.org/t/p/w300/bW8uJOLrtdBnQcQbG9BUQjDgUaT.jpg"
+      },
+      {
+        "titre": "La Pat’ Patrouille : Le film mission Dino",
+        "date_sortie": "2026-08-05",
+        "synopsis": "Lorsqu’une mystérieuse tempête surprend leur navire, la Pat’ Patrouille s’échoue sur une île tropicale encore inexplorée… et peuplée de dinosaures ! Ils y rencontrent Rex, un chiot courageux installé sur l’île depuis des",
+        "note": 7.0,
+        "affiche": "https://image.tmdb.org/t/p/w300/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 1",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Formation Assistant(e) de Vie aux Familles",
+        "date_debut": "2026-08-24T07:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "NOZ recrute son futur Prospecteur itinérant (H/F)",
+        "date_debut": "2026-08-25T06:30:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "La Gendarmerie nationale recrute - Réunion d'informations",
+        "date_debut": "2026-08-25T08:00:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Visio Opportunités du moment - Angers Capucins",
+        "date_debut": "2026-08-25T08:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Visio Opportunités du moment - Angers Capucins",
+        "date_debut": "2026-08-25T12:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "House of Banksy - Une expo non autorisée",
+        "date_debut": "2026-08-21",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le Grand Spectacle avec Zoé, Victor, Aziza, Noahm, Camille, Raphaël et Bilal de Claire FRANEK",
+        "date_debut": "2026-08-21",
+        "lieu": "Le Pavillon - Maison de quartier de la Bottière",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "INTERSTELLAR Ré-imaginer la Terre",
+        "date_debut": "2026-08-21",
+        "lieu": "HAB Galerie (Hangar à Bananes)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Croisière Estuaire Nantes-St Nazaire",
+        "date_debut": "2026-08-21",
+        "lieu": "Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le Potager de la Cantine",
+        "date_debut": "2026-08-21",
+        "lieu": "Nantes",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-08-20",
     "news": [
       {
@@ -2551,205 +2750,6 @@
         "titre": "Histoires de street art et graffitis - Circuit des Grues - Visite guidée",
         "date_debut": "2026-08-08",
         "lieu": "Nantes Centre et Quartiers",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-07",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Où et quand l'éclipse du 12 août sera-t-elle la plus impressionnante dans l'Hexagone ?",
-        "resume": "Mercredi 12 août, une éclipse solaire se produira peu avant le coucher du soleil. En France, la lune occultera presque totalement l'astre durant quelques minutes.",
-        "lien": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/carte-ou-et-quand-l-eclipse-du-12-aout-sera-t-elle-la-plus-impressionnante-dans-l-hexagone_8135849.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 07 Aug 2026 05:56:23 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Je veux passer à des actions concrètes\" : les incendies en Gironde leur donnent envie de devenir pompiers volontaires",
-        "resume": "Les feux de forêts, notamment dans le Sud-Ouest, ont été un déclic pour certains, qui veulent devenir sapeurs-pompiers volontaires. Entre envie d'aider et quête de sens, ces futurs engagés racontent.",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/temoignages-je-veux-passer-a-des-actions-concretes-les-incendies-en-gironde-leur-donnent-envie-de-devenir-pompiers-volontaires_8132426.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 07 Aug 2026 08:06:51 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Les prix des carburants en baisse, le litre de SP95 repasse sous les 2 euros",
-        "resume": "Vendredi, l'essence SP95-E10 affiche un prix moyen de 1,98 euro le litre, le gazole se situe à 2,18 euros le litre en moyenne.",
-        "lien": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/carburants-l-essence-repasse-en-dessous-de-2-euros-le-litre-legere-baisse-du-prix-du-gazole_8138042.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 07 Aug 2026 08:33:35 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Storm-1516, Matriochka… Qui se cache derrière les ingérences russes dans la campagne présidentielle, et quel est leur mode opératoire?",
-        "resume": "Trois candidats présumés ou déclarés à l'élection présidentielle de 2027 ont été visés par des réseaux prorusses spécialistes de la désinformation.",
-        "lien": "https://www.franceinfo.fr/monde/russie/storm-1516-matriochka-qui-sont-les-acteurs-de-l-ingerence-russe-et-quel-est-leur-mode-operatoire_8137145.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 07 Aug 2026 07:56:42 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Quotas limitatifs\" pour l'immigration, présence dans les médias de la sphère Bolloré… Gabriel Attal profite-t-il de l'été pour ancrer sa campagne présidentielle à droite ?",
-        "resume": "Le candidat Renaissance à l'élection présidentielle se démultiplie, cet été, pour tenter de prendre les devants sur Edouard Philippe, son rival du bloc central. En distillant des propositions beaucoup",
-        "lien": "https://www.franceinfo.fr/elections/presidentielle/quotas-limitatifs-pour-l-immigration-presence-dans-les-medias-de-la-sphere-bollore-gabriel-attal-profite-t-il-de-l-ete-pour-ancrer-sa-campagne-presidentielle-a-droite_8137157.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 07 Aug 2026 08:17:08 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Fusillade dans un lycée de Bangkok, au moins neuf morts dont le tireur présumé",
-        "resume": "Une fusillade a eu lieu vendredi dans un lycée de Bangkok en Thaïlande. Au moins neuf personnes sont mortes, dont le tireur présumé - un adolescent scolarisé dans l'établissement. Quinze élèves ton ég",
-        "lien": "https://www.france24.com/fr/asie-pacifique/20260807-fusillade-dans-un-lyc%C3%A9e-de-bangkok-au-moins-neuf-morts-dont-le-tireur-pr%C3%A9sum%C3%A9-tha%C3%AFlande",
-        "date": "Fri, 07 Aug 2026 07:03:50 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "\"Sauvez mon petit !\" : l'accueil des enfants espagnols en France pendant la guerre civile (2/4)",
-        "resume": "Il y a 90 ans, la guerre d'Espagne (2/4). Au cours de ce conflit, près de 15 000 enfants originaires de la zone républicaine ont été envoyés en France. Ces \"enfants de la guerre\" ont été placés dans d",
-        "lien": "https://www.france24.com/fr/europe/20260807-guerre-espagne-accueil-refugies-enfants-france-histoire-humanitaire",
-        "date": "Fri, 07 Aug 2026 06:01:07 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Yan Diomandé, l’Ivoirien qui affole les records en rejoignant le Real Madrid",
-        "resume": "Le Real Madrid a officialisé la signature de Yan Diomandé jusqu’en 2033 en provenance de Leipzig. Estimé à 125 millions d’euros, plus 15 millions de bonus, le transfert devient le plus cher de l’histo",
-        "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20260807-yan-diomand%C3%A9-l-ivoirien-qui-affole-les-records-en-rejoignant-le-real-madrid",
-        "date": "Fri, 07 Aug 2026 05:13:11 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Spider-Man : Brand New Day",
-        "date_sortie": "2026-07-29",
-        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
-        "note": 7.926,
-        "affiche": "https://image.tmdb.org/t/p/w300/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg"
-      },
-      {
-        "titre": "L'Odyssée",
-        "date_sortie": "2026-07-15",
-        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
-        "note": 7.966,
-        "affiche": "https://image.tmdb.org/t/p/w300/6dfr9o52w9AVYJSlSA1IBUlLCyU.jpg"
-      },
-      {
-        "titre": "Supergirl",
-        "date_sortie": "2026-07-01",
-        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
-        "note": 6.76,
-        "affiche": "https://image.tmdb.org/t/p/w300/hMEZkdaoqoPAqEgk9Y1mwYnGkPZ.jpg"
-      },
-      {
-        "titre": "On l'appelait Robin des Bois",
-        "date_sortie": "2026-07-01",
-        "synopsis": "Hanté par son passé après une vie de crimes et de violence, Robin des Bois est laissé pour mort à l’issue d’un combat qu’il pensait être le dernier. Recueilli par une femme mystérieuse, il se voit offrir une ultime chanc",
-        "note": 6.5,
-        "affiche": "https://image.tmdb.org/t/p/w300/gGKr2JIML9FEV6Cpos9TIJAQpeE.jpg"
-      },
-      {
-        "titre": "Vaiana, la légende du bout du monde",
-        "date_sortie": "2026-07-08",
-        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
-        "note": 5.942,
-        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
-      },
-      {
-        "titre": "Evil Dead Burn",
-        "date_sortie": "2026-07-08",
-        "synopsis": "Après l’enterrement de son mari, Alice se rend dans la maison isolée de sa belle-famille pour partager un dernier repas à sa mémoire. Mais la réunion familiale bascule dans l’horreur lorsque ses proches se transforment, ",
-        "note": 7.911,
-        "affiche": "https://image.tmdb.org/t/p/w300/2gusfeWILgIfRWQTA9nbXAEyQ0S.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Midnights in October",
-        "artiste": "Midnights in October",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "RECRUTEMENT CHARGE DE CLIENTELE CHEZ INTELCIA",
-        "date_debut": "2026-08-10T07:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Réunion visio pour aider au développement de l'entreprise créée",
-        "date_debut": "2026-08-13T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Découvrez le métier de conducteur de car scolaire (H/F) et venez rencontrer les professionnels du secteur qui recrutent en Maine et Loire",
-        "date_debut": "2026-08-18T07:30:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Les mammifères ailés",
-        "date_debut": "2026-08-18T18:30:00+00:00",
-        "lieu": "Tour de l'horloge, Parc Balzac",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Atelier en visio : Profil de compétences & Organisation des démarches (ODD)",
-        "date_debut": "2026-08-19T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Balades touristiques en vélo-taxi",
-        "date_debut": "2026-08-07",
-        "lieu": "centre-ville",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "House of Banksy - Une expo non autorisée",
-        "date_debut": "2026-08-07",
-        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Odyssée de l’oubli - Exposition Anne et Patrick Poirier",
-        "date_debut": "2026-08-07",
-        "lieu": "Musée d'arts de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Biodivers'été 2026",
-        "date_debut": "2026-08-07",
-        "lieu": "Parcs et jardins",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "The Art of the Brick - Exposition d’art en Lego",
-        "date_debut": "2026-08-07",
-        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
         "ville": "Nantes"
       }
     ]
