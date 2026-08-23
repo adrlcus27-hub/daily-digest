@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-08-23",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "NOS JOURS HEUREUX. \"C'est Noël avant l'heure\" : entre trouvailles et retrouvailles, les plaisirs simples d'une journée dans un vide-greniers estival",
+        "resume": "Notre série \"Nos jours heureux\" explore les moments de bonheur et de joie pendant l'été. Dans cet épisode, le vide-greniers annuel organisé dans le parc du château du Vast (Manche) témoigne du plaisir",
+        "lien": "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-c-est-noel-avant-l-heure-entre-trouvailles-et-retrouvailles-les-plaisirs-simples-d-une-journee-dans-un-vide-greniers-estival_8150783.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 23 Aug 2026 08:05:45 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"On a la sensation que quelque chose nous échappe\" : après le piratage du fisc, syndicats et élus s'interrogent sur les failles de la DGFiP",
+        "resume": "Après le vol des données de près de 700 000 particuliers et professionnels, des employés des finances publiques et des spécialistes de la cybersécurité cherchent à comprendre comment ce piratage a pu ",
+        "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/on-a-la-sensation-que-quelque-chose-nous-echappe-apres-le-piratage-du-fisc-syndicats-et-elus-s-interrogent-sur-les-failles-de-la-dgfip_8156264.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 23 Aug 2026 07:09:44 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"La France ne peut plus se permettre d'ignorer l'Arabie saoudite\" : comment Mohammed ben Salmane, autrefois paria, est redevenu un partenaire de Paris",
+        "resume": "Le prince héritier saoudien débute dimanche une visite officielle de deux jours en France. Huit ans après l'assassinat de Jamal Khashoggi et sa mise au ban, \"MBS\" retrouve les honneurs de la France.",
+        "lien": "https://www.franceinfo.fr/france/la-france-ne-peut-plus-se-permettre-d-ignorer-l-arabie-saoudite-comment-mohammed-ben-salmane-autrefois-paria-est-redevenu-un-partenaire-de-paris_8156534.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 23 Aug 2026 07:10:08 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Sébastien Lecornu appelle les parlementaires à \"adopter un budget\" pour 2027",
+        "resume": "\"Choisir d'attendre l'élection présidentielle pour adopter un budget (...), c'est choisir le désordre\", écrit le Premier ministre dans une lettre adressée aux députés et sénateurs.",
+        "lien": "https://www.franceinfo.fr/economie/budget/sebastien-lecornu-appelle-les-parlementaires-a-adopter-un-budget-pour-2027_8157608.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 22 Aug 2026 20:46:05 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Un séisme de magnitude 5,9 touche les environs de Tokyo, plus de 30 blessés",
+        "resume": "Les autorités ont mis en garde contre un risque accru de glissements de terrain dans la région et de potentielles fortes répliques dans les jours à venir.",
+        "lien": "https://www.franceinfo.fr/monde/japon/un-seisme-de-magnitude-5-9-touche-les-environs-de-tokyo-plus-de-30-blesses_8158037.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 23 Aug 2026 07:38:42 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Guinée, deux ministres considérés comme proche du président limogés",
+        "resume": "En Guinée, le président Mamadi Doumbouya a limogé deux membres du gouvernement. La décision est tombée vendredi soir à la télévision nationale, à travers deux décrets. Les deux ministres limogés étaie",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260822-guin%C3%A9e-deux-ministres-limog%C3%A9s-sur-fond-de-lutte-contre-la-corruption",
+        "date": "Sat, 22 Aug 2026 20:47:12 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Le Togo confirme des poursuites contre deux réalisateurs français détenus",
+        "resume": "Le gouvernement togolais a affirmé samedi que la justice disposait \"d'indices graves et concordants\" à l'encontre de Gaël Mocaër, Sebastian Perez Pezzani et Fred Vedomey, arrêtés le 27 juillet. Selon ",
+        "lien": "https://www.france24.com/fr/afrique/20260822-le-togo-confirme-des-poursuites-contre-deux-r%C3%A9alisateurs-fran%C3%A7ais-d%C3%A9tenus",
+        "date": "Sat, 22 Aug 2026 18:53:04 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "\"Il n'y a plus de zones refuges\" : à quoi pourrait ressembler un été en France en 2050 ?",
+        "resume": "Canicules plus fréquentes et plus longues, nuits tropicales, risque d’incendie accru : le changement climatique va modifier les conditions météorologiques en France dans les prochaines décennies. À l’",
+        "lien": "https://www.france24.com/fr/france/20260822-ete-france-2050-projection-rechauffement-climatique-canicule-pas-de-zones-refuges",
+        "date": "Sat, 22 Aug 2026 16:06:02 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Spider-Man : Brand New Day",
+        "date_sortie": "2026-07-29",
+        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
+        "note": 7.897,
+        "affiche": "https://image.tmdb.org/t/p/w300/yikio8CfJxIA7faZxgvB9FGXy6u.jpg"
+      },
+      {
+        "titre": "L'Odyssée",
+        "date_sortie": "2026-07-15",
+        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
+        "note": 7.992,
+        "affiche": "https://image.tmdb.org/t/p/w300/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg"
+      },
+      {
+        "titre": "Mutiny",
+        "date_sortie": "2026-08-19",
+        "synopsis": "Après que son patron industriel milliardaire ait été assassiné sous ses yeux, Cole Reed est désigné pour endosser le crime, ce qui le met en fuite alors qu'il s'efforce de découvrir une conspiration internationale.",
+        "note": 6.7,
+        "affiche": "https://image.tmdb.org/t/p/w300/gIEti9QOF06w5FcMLMH36JXHxX1.jpg"
+      },
+      {
+        "titre": "La Fin d'Oak Street",
+        "date_sortie": "2026-08-12",
+        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
+        "note": 6.394,
+        "affiche": "https://image.tmdb.org/t/p/w300/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg"
+      },
+      {
+        "titre": "Insidious : L'Invasion du Lointain",
+        "date_sortie": "2026-08-19",
+        "synopsis": "Gemma, une jeune mère élève sa fille dans la maison de son enfance. Elle découvre qu'elle peut voyager dans le Lointain, ce royaume purgatoire des âmes perdues au cœur de l'univers d'Insidious. Lorsqu'une entité malveill",
+        "note": 6.652,
+        "affiche": "https://image.tmdb.org/t/p/w300/bW8uJOLrtdBnQcQbG9BUQjDgUaT.jpg"
+      },
+      {
+        "titre": "La Pat’ Patrouille : Le film mission Dino",
+        "date_sortie": "2026-08-05",
+        "synopsis": "Lorsqu’une mystérieuse tempête surprend leur navire, la Pat’ Patrouille s’échoue sur une île tropicale encore inexplorée… et peuplée de dinosaures ! Ils y rencontrent Rex, un chiot courageux installé sur l’île depuis des",
+        "note": 7.114,
+        "affiche": "https://image.tmdb.org/t/p/w300/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 1",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Formation Assistant(e) de Vie aux Familles",
+        "date_debut": "2026-08-24T07:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "NOZ recrute son futur Prospecteur itinérant (H/F)",
+        "date_debut": "2026-08-25T06:30:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "La Gendarmerie nationale recrute - Réunion d'informations",
+        "date_debut": "2026-08-25T08:00:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Visio Opportunités du moment - Angers Capucins",
+        "date_debut": "2026-08-25T08:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Visio Opportunités du moment - Angers Capucins",
+        "date_debut": "2026-08-25T12:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Dans la peau des collectionneurs - Visite guidée au musée Dobrée",
+        "date_debut": "2026-08-23",
+        "lieu": "Musée Dobrée",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "INTERSTELLAR Ré-imaginer la Terre",
+        "date_debut": "2026-08-23",
+        "lieu": "HAB Galerie (Hangar à Bananes)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Expression(s) Décoloniale(s) #4 - Exposition",
+        "date_debut": "2026-08-23",
+        "lieu": "Château des Ducs de Bretagne -   Musée d'Histoire de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "House of Banksy - Une expo non autorisée",
+        "date_debut": "2026-08-23",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le Voyage permanent - Coeur historique - Visite guidée",
+        "date_debut": "2026-08-23",
+        "lieu": "Nantes (Centre ville)",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-08-22",
     "news": [
       {
@@ -2551,205 +2750,6 @@
         "titre": "Le Potager de la Cantine",
         "date_debut": "2026-08-10",
         "lieu": "Nantes",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-09",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Violences sexuelles sur mineurs : le syndicat des commissaires de la police nationale évoque une \"trahison\" après le courrier de Gérald Darmanin",
-        "resume": "Le ministre de la Justice, Gérald Darmanin, a transmis fin juillet à son homologue de l'Intérieur une note qui détaille les défaillances dans la prise en compte des violences sexuelles faites aux enfa",
-        "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/violences-sexuelles-sur-mineurs-le-syndicat-des-commissaires-de-la-police-nationale-evoque-une-trahison-apres-le-courrier-de-gerald-darmanin_8140187.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 08 Aug 2026 22:48:15 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Tour de France femmes 2026 : qui de Demi Vollering et Kasia Niewiadoma décrochera son deuxième sacre sur les routes de Nice ? La 9e étape en questions",
-        "resume": "Une dernière étape de montagne attend les coureuses, dimanche, avant une arrivée sur la Promenade des Anglais à Nice.",
-        "lien": "https://www.franceinfo.fr/tour-de-france/etape-du-jour/tour-de-france-femmes-2026-qui-de-demi-vollering-et-kasia-niewiadoma-decrochera-son-deuxieme-sacre-sur-les-routes-de-nice-la-9e-etape-en-questions_8137016.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 09 Aug 2026 06:45:02 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"On ne profite pas du spectacle de la même manière\" : observer l'éclipse à 99% plutôt qu'à 100%, c'est le jour et la nuit !",
-        "resume": "\"La bande de centralité\", c'est-à-dire la zone où l'éclipse du 12 août sera visible à 100%, traversera l'Espagne et frôlera la France. Elle sera visible à 99,5% à Biarritz, 96% à Marseille ou encore 9",
-        "lien": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/on-ne-profite-pas-du-spectacle-de-la-meme-maniere-observer-l-eclipse-a-99-plutot-qu-a-100-c-est-le-jour-et-la-nuit_8128433.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 09 Aug 2026 06:51:00 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Huit départements du Sud-Ouest placés en vigilance orange aux orages dimanche, treize autres en alerte orange \"canicule\"",
-        "resume": "Treize départements  du centre-est et du sud-est sont par ailleurs en vigilance orange \"canicule\".",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/huit-departements-du-sud-ouest-de-la-france-hexagonale-passeront-en-vigilance-orange-orage-dimanche-en-fin-d-apres-midi-treize-autres-departements-en-vigilance-orange-canicule_8140418.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 09 Aug 2026 08:27:52 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Devant le manque de moyens et d'effectifs lors des incendies, la France a besoin \"d'un vrai ministre qui gère la sécurité civile\", estime le syndicat Sud Sdis de l'Yonne",
-        "resume": "\"Laurent Nuñez est le premier flic de France, mais on ne peut pas dire qu'il soit le premier sapeur-pompier de France\", regrette le représentant syndical.",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/devant-le-manque-de-moyens-et-d-effectifs-lors-des-incendies-la-france-a-besoin-d-un-vrai-ministre-qui-gere-la-securite-civile-estime-le-syndicat-sud-sdis-de-l-yonne_8140481.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 09 Aug 2026 08:38:22 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Infantino nie les accusations de favoritisme, la Fifa dénonce un effort \"concerté\" pour l'affaiblir",
-        "resume": "La Fédération internationale de football a dénoncé samedi un effort \"concerté et continu\" pour affaiblir son président, Gianni Infantino, visé par des accusations de favoritisme du temps où il était à",
-        "lien": "https://www.france24.com/fr/sports/20260809-infantino-nie-les-accusations-de-favoritisme-la-fifa-d%C3%A9nonce-un-effort-concert%C3%A9-pour-l-affaiblir",
-        "date": "Sun, 09 Aug 2026 05:54:56 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Moyen-Orient en direct : l'Iran pose ses conditions à toute réouverture du détroit d'Ormuz",
-        "resume": "Un haut responsable iranien a posé des conditions drastiques à remplir par les États-Unis avant tout déblocage du détroit d'Ormuz, dans une déclaration rapportée samedi 8 août par des médias iraniens.",
-        "lien": "https://www.france24.com/fr/moyen-orient/20260809-moyen-orient-en-direct-l-iran-pose-ses-conditions-%C3%A0-toute-r%C3%A9ouverture-du-d%C3%A9troit-d-ormuz",
-        "date": "Sun, 09 Aug 2026 05:12:17 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Les autorités congolaises remettent 15 prisonniers aux rebelles de l’AFC/M23",
-        "resume": "En RD Congo, c’est un premier geste de confiance longtemps attendu dans les processus de paix. Les autorités congolaises ont rendu 15 prisonniers aux rebelles de l’AFC/M23. Cette opération, facilitée ",
-        "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260808-les-autorit%C3%A9s-congolaises-remettent-15-prisonniers-aux-rebelles-de-l-afc-m23",
-        "date": "Sat, 08 Aug 2026 20:15:52 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Spider-Man : Brand New Day",
-        "date_sortie": "2026-07-29",
-        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
-        "note": 7.88,
-        "affiche": "https://image.tmdb.org/t/p/w300/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg"
-      },
-      {
-        "titre": "L'Odyssée",
-        "date_sortie": "2026-07-15",
-        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
-        "note": 8.0,
-        "affiche": "https://image.tmdb.org/t/p/w300/6dfr9o52w9AVYJSlSA1IBUlLCyU.jpg"
-      },
-      {
-        "titre": "Supergirl",
-        "date_sortie": "2026-07-01",
-        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
-        "note": 6.749,
-        "affiche": "https://image.tmdb.org/t/p/w300/hMEZkdaoqoPAqEgk9Y1mwYnGkPZ.jpg"
-      },
-      {
-        "titre": "On l'appelait Robin des Bois",
-        "date_sortie": "2026-07-01",
-        "synopsis": "Hanté par son passé après une vie de crimes et de violence, Robin des Bois est laissé pour mort à l’issue d’un combat qu’il pensait être le dernier. Recueilli par une femme mystérieuse, il se voit offrir une ultime chanc",
-        "note": 6.448,
-        "affiche": "https://image.tmdb.org/t/p/w300/gGKr2JIML9FEV6Cpos9TIJAQpeE.jpg"
-      },
-      {
-        "titre": "Vaiana, la légende du bout du monde",
-        "date_sortie": "2026-07-08",
-        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
-        "note": 6.014,
-        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
-      },
-      {
-        "titre": "Evil Dead Burn",
-        "date_sortie": "2026-07-08",
-        "synopsis": "Après l’enterrement de son mari, Alice se rend dans la maison isolée de sa belle-famille pour partager un dernier repas à sa mémoire. Mais la réunion familiale bascule dans l’horreur lorsque ses proches se transforment, ",
-        "note": 7.854,
-        "affiche": "https://image.tmdb.org/t/p/w300/2gusfeWILgIfRWQTA9nbXAEyQ0S.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Midnights in October",
-        "artiste": "Midnights in October",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Meridians",
-        "artiste": "Alasdair Fraser",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Broken Dreams",
-        "artiste": "Siska",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "ЖЗЛ",
-        "artiste": "Lacerate",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "RECRUTEMENT CHARGE DE CLIENTELE CHEZ INTELCIA",
-        "date_debut": "2026-08-10T07:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Réunion visio pour aider au développement de l'entreprise créée",
-        "date_debut": "2026-08-13T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Découvrez le métier de conducteur de car scolaire (H/F) et venez rencontrer les professionnels du secteur qui recrutent en Maine et Loire",
-        "date_debut": "2026-08-18T07:30:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Les mammifères ailés",
-        "date_debut": "2026-08-18T18:30:00+00:00",
-        "lieu": "Tour de l'horloge, Parc Balzac",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Atelier en visio : Profil de compétences & Organisation des démarches (ODD)",
-        "date_debut": "2026-08-19T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Femmes et collections au musée Dobrée - Visite guidée",
-        "date_debut": "2026-08-09",
-        "lieu": "Musée Dobrée",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Histoires de femmes et femmes d'histoire - Visite guidée",
-        "date_debut": "2026-08-09",
-        "lieu": "Nantes (Centre ville)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Balades touristiques en vélo-taxi",
-        "date_debut": "2026-08-09",
-        "lieu": "centre-ville",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "The Art of the Brick - Exposition d’art en Lego",
-        "date_debut": "2026-08-09",
-        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "House of Banksy - Une expo non autorisée",
-        "date_debut": "2026-08-09",
-        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
         "ville": "Nantes"
       }
     ]
