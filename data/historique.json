@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-08-25",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"La moitié du village est détruite\" : une tornade touche la commune de Pomas, dans l'Aude, et fait 39 blessés, selon les autorités",
+        "resume": "Environ 300 habitations ont été endommagées lors de cet épisode météorologique violent, qui s'est produit lundi aux alentours de 17h20, selon la préfecture.",
+        "lien": "https://www.franceinfo.fr/environnement/meteo/une-tornade-touche-la-commune-de-pomas-dans-l-aude-et-endommage-plusieurs-habitations_8160002.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 25 Aug 2026 08:29:40 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Températures records, feux \"hors norme\", sécheresse \"inédite\"... Comment l'été 2026 a mis les Français à l'épreuve du changement climatique",
+        "resume": "Alors que l'été 2026 entre dans sa dernière phase, franceinfo remonte le fil de deux mois où la France a été confrontée à des événements climatiques sans précédent.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/recit-temperatures-records-feux-hors-norme-secheresse-inedite-comment-l-ete-2026-a-mis-les-francais-a-l-epreuve-du-changement-climatique_8156201.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 25 Aug 2026 05:57:01 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Le lendemain, je suis courbaturée de partout\" : le scaphandre vieillissant de Sophie Adenot, avec lequel elle effectue sa deuxième sortie dans l'espace",
+        "resume": "L'astronaute française tente mardi de finir les réparations entamées la semaine dernière dans l'espace. Sophie Adenot est équipée d'un scaphandre de 140 kilos, conçu dans les années 1970, qui l'oblige",
+        "lien": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/le-lendemain-je-suis-courbaturee-de-partout-le-scaphandre-vieillissant-de-sophie-adenot-avec-lequel-elle-effectue-sa-deuxieme-sortie-dans-l-espace_8160029.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 25 Aug 2026 07:35:36 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Il doit nous donner envie\" : comment les élus socialistes accueillent-ils la candidature à la présidentielle de Raphaël Glucksmann ?",
+        "resume": "Le candidat de Place publique se rendra aux universités d'été du PS à Blois en fin de semaine, avec l'objectif de convaincre une majorité de militants de voter pour lui lors de la primaire.",
+        "lien": "https://www.franceinfo.fr/elections/presidentielle/il-doit-nous-donner-envie-comment-les-elus-socialistes-accueillent-ils-la-candidature-a-la-presidentielle-de-raphael-glucksmann_8159336.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 25 Aug 2026 05:58:30 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Un incendie s'est déclaré à proximité d'Ajaccio, \"200 personnes ont évacué spontanément\", selon la préfecture",
+        "resume": "L'incendie s'est déclenché vers 1 heure du matin alors que des vents violents s'abattaient sur la ville depuis 0h45, a constaté une journaliste de l'AFP.",
+        "lien": "https://www.franceinfo.fr/faits-divers/incendie/un-incendie-s-est-declare-a-proximite-d-ajaccio-200-personnes-ont-evacue-spontanement-selon-la-prefecture_8160365.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 25 Aug 2026 06:44:23 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Moyen-Orient en direct : un pétrolier touché par un \"projectile inconnu\" au large d'Oman",
+        "resume": "Un pétrolier a été touché par un \"projectile inconnu\" qui a endommagé sa salle des machines et l'a rendu \"inopérant\" alors qu'il circulait au large d'Oman, a annoncé dans la nuit de lundi à mardi l'ag",
+        "lien": "https://www.france24.com/fr/moyen-orient/20260825-moyen-orient-en-direct-p%C3%A9trolier-touch%C3%A9-oman-iran-%C3%A9tats-unis-trump-isra%C3%ABl",
+        "date": "Tue, 25 Aug 2026 06:25:22 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Deuxième sortie spatiale pour la spationaute Sophie Adenot",
+        "resume": "La Française Sophie Adenot doit sortir mardi pour la deuxième fois à l'extérieur de la Station spatiale internationale (ISS), afin de terminer sa mission restée inachevée il y a une semaine. Elle avai",
+        "lien": "https://www.france24.com/fr/%C3%A9co-tech/20260825-deuxi%C3%A8me-sortie-spatiale-spationaute-sophie-adenot",
+        "date": "Tue, 25 Aug 2026 06:17:37 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Premier League : Chelsea bat Fulham pour la première de Xabi Alonso",
+        "resume": "Pour le premier match du coach Xabi Alonso, Chelsea a battu Fulham (3-2) en Premier League.",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20260825-premier-league-chelsea-bat-fulham-premi%C3%A8re-xabi-alonso",
+        "date": "Tue, 25 Aug 2026 05:17:26 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Spider-Man : Brand New Day",
+        "date_sortie": "2026-07-29",
+        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
+        "note": 7.9,
+        "affiche": "https://image.tmdb.org/t/p/w300/yikio8CfJxIA7faZxgvB9FGXy6u.jpg"
+      },
+      {
+        "titre": "L'Odyssée",
+        "date_sortie": "2026-07-15",
+        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
+        "note": 7.999,
+        "affiche": "https://image.tmdb.org/t/p/w300/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg"
+      },
+      {
+        "titre": "Mutiny",
+        "date_sortie": "2026-08-19",
+        "synopsis": "Après que son patron industriel milliardaire ait été assassiné sous ses yeux, Cole Reed est désigné pour endosser le crime, ce qui le met en fuite alors qu'il s'efforce de découvrir une conspiration internationale.",
+        "note": 6.7,
+        "affiche": "https://image.tmdb.org/t/p/w300/gIEti9QOF06w5FcMLMH36JXHxX1.jpg"
+      },
+      {
+        "titre": "La Fin d'Oak Street",
+        "date_sortie": "2026-08-12",
+        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
+        "note": 6.385,
+        "affiche": "https://image.tmdb.org/t/p/w300/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg"
+      },
+      {
+        "titre": "Insidious : L'Invasion du Lointain",
+        "date_sortie": "2026-08-19",
+        "synopsis": "Gemma, une jeune mère élève sa fille dans la maison de son enfance. Elle découvre qu'elle peut voyager dans le Lointain, ce royaume purgatoire des âmes perdues au cœur de l'univers d'Insidious. Lorsqu'une entité malveill",
+        "note": 6.6,
+        "affiche": "https://image.tmdb.org/t/p/w300/bW8uJOLrtdBnQcQbG9BUQjDgUaT.jpg"
+      },
+      {
+        "titre": "Nightborn",
+        "date_sortie": "2026-07-22",
+        "synopsis": "Rêvant de construire une vie de famille paisible, Saga et son mari Jon s’installent dans la maison où elle a passé une grande partie de son enfance, au cœur de la forêt finlandaise. Mais dès la naissance de leur enfant, ",
+        "note": 6.129,
+        "affiche": "https://image.tmdb.org/t/p/w300/cF1g9qtuRyATaZ75O6zRop2zmfZ.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Midnights in October",
+        "artiste": "Midnights in October",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Meridians",
+        "artiste": "Alasdair Fraser",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Living Free (Live Manchester '75)",
+        "artiste": "Don McLean",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Through Lines",
+        "artiste": "Skye Peterson",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "NOZ recrute son futur Prospecteur itinérant (H/F)",
+        "date_debut": "2026-08-25T06:30:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "La Gendarmerie nationale recrute - Réunion d'informations",
+        "date_debut": "2026-08-25T08:00:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Visio Opportunités du moment - Angers Capucins",
+        "date_debut": "2026-08-25T08:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "La Gendarmerie nationale recrute - Réunion d'informations",
+        "date_debut": "2026-08-25T08:00:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Visio Opportunités du moment - Angers Capucins",
+        "date_debut": "2026-08-25T12:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "La nuit du photographe - Exposition de Djulijan de La Crouée",
+        "date_debut": "2026-08-25",
+        "lieu": "Restaurant Chez Célestine",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le Voyage permanent - Coeur historique - Visite guidée",
+        "date_debut": "2026-08-25",
+        "lieu": "Nantes (Centre ville)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Stages artistiques des vacances d'été 2026 à l'Atelier O Pigmentée",
+        "date_debut": "2026-08-25",
+        "lieu": "Atelier O Pigmentée",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "The Art of the Brick - Exposition d’art en Lego",
+        "date_debut": "2026-08-25",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Vente Solidaire rentrée scolaire",
+        "date_debut": "2026-08-25",
+        "lieu": "Maison de quartier des Haubans",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-08-24",
     "news": [
       {
@@ -2520,205 +2719,6 @@
         "titre": "Croisière Estuaire Nantes-St Nazaire",
         "date_debut": "2026-08-12",
         "lieu": "Nantes",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Pourquoi l'éclipse du 12 août inaugure une rare période de trois éclipses visibles en Europe en trois ans",
-        "resume": "L'éclipse totale du 12 août, qui sera partiellement visible en France, correspond au début de la \"trilogie ibérique\", soit un cycle de trois éclipses majeures observables sur le continent d'ici à 2028",
-        "lien": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/pourquoi-l-eclipse-du-12-aout-inaugure-une-rare-periode-de-trois-eclipses-visibles-en-europe-en-trois-ans_8132984.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 11 Aug 2026 05:54:34 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Canicule : un nouvel épisode de fortes chaleurs s'installe en France ce mardi",
-        "resume": "Météo-France prévoit de placer 24 départements supplémentaires, dont Paris et sa petite couronne, à partir de mercredi midi. L'organsime table sur un \"pic probable de l'épisode vers le milieu de semai",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/en-direct-canicule-un-nouvel-episode-de-fortes-chaleurs-s-installe-en-france_8142731.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 11 Aug 2026 07:40:05 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Le bilan du séisme s'alourdit en Colombie, 132 morts recensés",
-        "resume": "Au moins 570 personnes ont par ailleurs été blessées dans ce puissant séisme survenu lundi.",
-        "lien": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/le-bilan-du-seisme-s-alourdit-en-colombie-132-morts-recenses_8142809.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 11 Aug 2026 08:40:20 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Que va changer la demande obligatoire de consentement au démarchage téléphonique, en vigueur dès mardi ?",
-        "resume": "Les entreprises qui démarchent par téléphone ne pourront plus le faire si elles n'ont pas au préalable recueilli le consentement éclairé des consommateurs, selon un décret paru au Journal officiel.",
-        "lien": "https://www.franceinfo.fr/internet/telephonie/que-va-changer-la-demande-obligatoire-de-consentement-au-demarchage-telephonique-en-vigueur-des-mardi_8138222.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 11 Aug 2026 05:54:01 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"C'est plus facile d'avoir mal aux Europe qu'aux départementaux\"... La résurrection de Margot Chevrier, deux ans après sa grave blessure à la cheville",
-        "resume": "La sauteuse à la perche française s'était blessée aux Mondiaux de Glasgow, peu avant les JO de Paris. Alors que les médecins lui avaient dit qu'elle ne pourrait pas resauter, elle s'aligne mardi soir ",
-        "lien": "https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/c-est-plus-facile-d-avoir-mal-aux-europe-qu-aux-departementaux-la-resurrection-de-margot-chevrier-deux-ans-apres-sa-grave-blessure-a-la-cheville_8141936.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 11 Aug 2026 06:00:02 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "En Colombie, une course contre la montre pour retrouver les survivants du séisme",
-        "resume": "Le compte à rebours est lancé en Colombie pour retrouver les survivants du séisme le plus puissant de la dernière décennie, qui a fait au moins 132 morts, 570 blessés et détruit des dizaines de bâtime",
-        "lien": "https://www.france24.com/fr/am%C3%A9riques/20260811-en-colombie-une-course-contre-la-montre-pour-retrouver-les-survivants-du-s%C3%A9isme",
-        "date": "Tue, 11 Aug 2026 06:54:42 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Cinq ans après leur retour au pouvoir en Afghanistan, les Talibans misent sur la diplomatie",
-        "resume": "Cinq ans après leur retour au pouvoir en Afghanistan, les autorités talibanes ont patiemment tissé des relations avec des pays étrangers, même si elles ne sont officiellement reconnues à ce jour que p",
-        "lien": "https://www.france24.com/fr/asie-pacifique/20260811-afghanistan-comment-le-gouvernement-taliban-tisse-progressivement-des-liens-diplomatiques",
-        "date": "Tue, 11 Aug 2026 06:20:02 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Remplacer Infantino à la tête de la Fifa serait \"une terrible erreur\", défend Trump",
-        "resume": "\"La Fifa commettrait une terrible erreur si, pour quelque raison que ce soit, elle envisageait ne serait-ce qu'un instant de remplacer son président Gianni Infantino\", a défendu Donald Trump lundi soi",
-        "lien": "https://www.france24.com/fr/sports/20260811-remplacer-infantino-%C3%A0-la-t%C3%AAte-de-la-fifa-serait-une-terrible-erreur-d%C3%A9fend-trump",
-        "date": "Tue, 11 Aug 2026 05:25:05 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Spider-Man : Brand New Day",
-        "date_sortie": "2026-07-29",
-        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
-        "note": 7.9,
-        "affiche": "https://image.tmdb.org/t/p/w300/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg"
-      },
-      {
-        "titre": "L'Odyssée",
-        "date_sortie": "2026-07-15",
-        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
-        "note": 7.979,
-        "affiche": "https://image.tmdb.org/t/p/w300/6dfr9o52w9AVYJSlSA1IBUlLCyU.jpg"
-      },
-      {
-        "titre": "Supergirl",
-        "date_sortie": "2026-07-01",
-        "synopsis": "Lorsqu’un ennemi inattendu et impitoyable surgit, Kara Zor-El est forcée, malgré elle, de faire équipe avec un compagnon improbable. Ensemble, ils se lancent dans une épopée cosmique où la vengeance et la justice sont en",
-        "note": 6.7,
-        "affiche": "https://image.tmdb.org/t/p/w300/ptyTrUvaQYkRTj42t6IMeGc0rZy.jpg"
-      },
-      {
-        "titre": "On l'appelait Robin des Bois",
-        "date_sortie": "2026-07-01",
-        "synopsis": "Hanté par son passé après une vie de crimes et de violence, Robin des Bois est laissé pour mort à l’issue d’un combat qu’il pensait être le dernier. Recueilli par une femme mystérieuse, il se voit offrir une ultime chanc",
-        "note": 6.364,
-        "affiche": "https://image.tmdb.org/t/p/w300/gGKr2JIML9FEV6Cpos9TIJAQpeE.jpg"
-      },
-      {
-        "titre": "Evil Dead Burn",
-        "date_sortie": "2026-07-08",
-        "synopsis": "Après l’enterrement de son mari, Alice se rend dans la maison isolée de sa belle-famille pour partager un dernier repas à sa mémoire. Mais la réunion familiale bascule dans l’horreur lorsque ses proches se transforment, ",
-        "note": 7.875,
-        "affiche": "https://image.tmdb.org/t/p/w300/2gusfeWILgIfRWQTA9nbXAEyQ0S.jpg"
-      },
-      {
-        "titre": "Vaiana, la légende du bout du monde",
-        "date_sortie": "2026-07-08",
-        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
-        "note": 6.0,
-        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Midnights in October",
-        "artiste": "Midnights in October",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Réunion visio pour aider au développement de l'entreprise créée",
-        "date_debut": "2026-08-13T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Découvrez le métier de conducteur de car scolaire (H/F) et venez rencontrer les professionnels du secteur qui recrutent en Maine et Loire",
-        "date_debut": "2026-08-18T07:30:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Les mammifères ailés",
-        "date_debut": "2026-08-18T18:30:00+00:00",
-        "lieu": "Tour de l'horloge, Parc Balzac",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Atelier en visio : Profil de compétences & Organisation des démarches (ODD)",
-        "date_debut": "2026-08-19T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Formation Assistant(e) de Vie aux Familles",
-        "date_debut": "2026-08-24T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Expression(s) Décoloniale(s) #4 - Exposition",
-        "date_debut": "2026-08-11",
-        "lieu": "Château des Ducs de Bretagne -   Musée d'Histoire de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "La Cathédrale et son quartier - Visite guidée",
-        "date_debut": "2026-08-11",
-        "lieu": "Cathédrale St-Pierre",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le Potager de la Cantine",
-        "date_debut": "2026-08-11",
-        "lieu": "Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le Voyage permanent - Coeur historique - Visite guidée",
-        "date_debut": "2026-08-11",
-        "lieu": "Nantes (Centre ville)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Balades touristiques en vélo-taxi",
-        "date_debut": "2026-08-11",
-        "lieu": "centre-ville",
         "ville": "Nantes"
       }
     ]
