@@ -1,5 +1,173 @@
 [
   {
+    "date": "2026-08-31",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Crues au Népal : les opérations de secours se poursuivent, des ouvriers d'une centrale électrique toujours bloqués dans un tunnel",
+        "resume": "Les secouristes peinent à accéder à certains chantiers, où des dizaines d'ouvriers sont bloqués depuis la crue survenue mercredi.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/crues-meurtrieres-au-nepal-et-au-tibet/direct-le-bilan-de-la-crue-au-nepal-s-aggrave-a-903-morts-et-4-247-disparus-des-identifications-toujours-en-cours_8170229.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 31 Aug 2026 12:46:08 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Le RN prévoit un référendum sur l’interdiction du port du voile, en cas de victoire à la présidentielle 2027",
+        "resume": "Selon l'entourage de Marine Le Pen, lundi auprès de France Inter, ce référendum serait une façon \"d’enjamber\" le Conseil constitutionnel, qui ne peut pas statuer sur des lois référendaires.",
+        "lien": "https://www.franceinfo.fr/elections/presidentielle/le-rn-prevoit-un-referendum-sur-l-interdiction-du-port-du-voile-en-cas-de-victoire-a-la-presidentielle-2027_8170688.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 31 Aug 2026 13:39:57 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Valérie Pécresse met en garde contre \"la fragmentation\" de la droite lors de la présidentielle 2027, après sa défaite \"douloureusement vécue\" en 2022",
+        "resume": "Face au risque de voir le RN briguer l'Elysée, \"la droite est devant une responsabilité historique\", insiste la présidente LR de la région Île-de-France, invitée lundi du 8.30 franceinfo.",
+        "lien": "https://www.franceinfo.fr/elections/presidentielle/valerie-pecresse-met-en-garde-contre-la-fragmentation-de-la-droite-lors-de-la-presidentielle-2027-apres-sa-defaite-douloureusement-vecue-en-2022_8170487.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 31 Aug 2026 12:08:02 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Un homme soupçonné d'être à l'origine des tirs mortels en marge d'une rave-party en Suisse a été arrêté",
+        "resume": "Une jeune femme est morte et cinq personnes ont été blessées dans la nuit de samedi à dimanche à Aarau, près de Zurich.",
+        "lien": "https://www.franceinfo.fr/faits-divers/un-homme-soupconne-d-etre-a-l-origine-des-tirs-mortels-en-marge-d-une-rave-party-en-suisse-a-ete-arrete_8170664.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 31 Aug 2026 13:32:36 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Mon corps commence à me lâcher\" : après son élimination brutale à l'US Open, Novak Djokovic se rapproche-t-il de la retraite ?",
+        "resume": "Après sa défaillance physique criante, dimanche, la question de l'imminence de la retraite du Serbe de 39 ans se pose.",
+        "lien": "https://www.franceinfo.fr/sports/tennis/novak-djokovic/mon-corps-commence-a-me-lacher-apres-son-elimination-brutale-a-l-us-open-novak-djokovic-se-rapproche-t-il-de-la-retraite_8170496.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 31 Aug 2026 13:11:49 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Présidentielle 2027 : pourquoi Marine Le Pen bénéficie d'un électorat plus stable que ses rivaux",
+        "resume": "Marine Le Pen arrive largement en tête des intentions de vote pour le premier tour de la présidentielle de 2027, selon un sondage Elabe publié samedi. Invité de l'antenne de France 24, le politologue ",
+        "lien": "https://www.france24.com/fr/france/20260831-pr%C3%A9sidentielle-2027-pourquoi-marine-le-pen-b%C3%A9n%C3%A9ficie-%C3%A9lectorat-plus-stable-rivaux",
+        "date": "Mon, 31 Aug 2026 12:38:16 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Niger : des arrestations en cours après la mutinerie contre la junte",
+        "resume": "🇳🇪 Au Niger, des arrestations sont en cours après la mutinerie survenue ce week-end à Niamey. Les autorités affirment avoir repris le contrôle de la situation dès samedi soir et indiquent que la major",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260831-niger-des-arrestation-en-cours-apr%C3%A8s-la-mutinerie-contre-la-junte",
+        "date": "Mon, 31 Aug 2026 12:06:05 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Fusillade lors d'une rave party en Suisse : la police annonce l'arrestation d'un suspect",
+        "resume": "Un Suisse de 43 ans a été arrêté lundi dans le cadre de l'enquête sur les tirs qui ont fait un mort et cinq blessés dans la nuit de samedi à dimanche lors d'une rave party à Aarau, près de Zurich, a a",
+        "lien": "https://www.france24.com/fr/europe/20260831-fusillade-rave-party-suisse-police-annonce-arrestation-suspect-fusillade",
+        "date": "Mon, 31 Aug 2026 11:50:22 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Spider-Man : Brand New Day",
+        "date_sortie": "2026-07-29",
+        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
+        "note": 7.878,
+        "affiche": "https://image.tmdb.org/t/p/w300/pEEI5mMoyZrbapzWC6vB6UmesDW.jpg"
+      },
+      {
+        "titre": "Mutiny",
+        "date_sortie": "2026-08-19",
+        "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il se retrouve piégé à bord d’un porte-cont",
+        "note": 6.3,
+        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
+      },
+      {
+        "titre": "Toxic",
+        "date_sortie": "2026-08-26",
+        "synopsis": "Alors que la domination portugaise s'effondre à Goa, Raya gravit les échelons du monde criminel à travers trahisons et bains de sang pour prendre le contrôle des bas-fonds de la ville, avant de découvrir que le pouvoir e",
+        "note": 7.1,
+        "affiche": "https://image.tmdb.org/t/p/w300/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg"
+      },
+      {
+        "titre": "The Dog Stars",
+        "date_sortie": "2026-08-26",
+        "synopsis": "Dans un futur proche où une pandémie sans nom a décimé la société américaine, Hig, un pilote vit sur une base aérienne abandonnée du Colorado avec son chien et un ex-marine. Lorsqu'une transmission aléatoire passe par la",
+        "note": 6.7,
+        "affiche": "https://image.tmdb.org/t/p/w300/w7c49Qgp3TAUC4hlo0mtgRpLOGG.jpg"
+      },
+      {
+        "titre": "La Fin d'Oak Street",
+        "date_sortie": "2026-08-12",
+        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
+        "note": 6.352,
+        "affiche": "https://image.tmdb.org/t/p/w300/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg"
+      },
+      {
+        "titre": "Insidious : L'Invasion du Lointain",
+        "date_sortie": "2026-08-19",
+        "synopsis": "Gemma, une jeune mère élève sa fille dans la maison de son enfance. Elle découvre qu'elle peut voyager dans le Lointain, ce royaume purgatoire des âmes perdues au cœur de l'univers d'Insidious. Lorsqu'une entité malveill",
+        "note": 6.622,
+        "affiche": "https://image.tmdb.org/t/p/w300/bW8uJOLrtdBnQcQbG9BUQjDgUaT.jpg"
+      }
+    ],
+    "albums": [],
+    "evenements": [
+      {
+        "titre": "Adopter la bonne posture : on n'achète pas tous les jours une ferme !",
+        "date_debut": "2026-08-31T16:30:00+00:00",
+        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Passé recomposé, quand la photographie agite le patrimoine",
+        "date_debut": "2026-09-01T11:00:00+00:00",
+        "lieu": "Collégiale Saint-Martin",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Information sur l'évènement à 'La Place de l'Emploi' : Un Village Itinérant pour Booster Votre Carrière !\" Conseiller AGENCE ROSERAIE",
+        "date_debut": "2026-09-01T11:45:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Angers Capucins: Réunion d'information collective VAE le mercredi 2 septembre de 14 à 16 heures",
+        "date_debut": "2026-09-02T12:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Vitalliance Angers vous ouvre ses portes : découvrez le métier d'auxiliaire de vie",
+        "date_debut": "2026-09-03T08:00:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Le Voyage permanent - Coeur historique - Visite guidée",
+        "date_debut": "2026-08-31",
+        "lieu": "Nantes (Centre ville)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Cours Découvertes Pilates & Stretching Postural – Association Umaneha",
+        "date_debut": "2026-08-31",
+        "lieu": "Dalby Sport-Santé",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "INTERSTELLAR Ré-imaginer la Terre",
+        "date_debut": "2026-08-31",
+        "lieu": "HAB Galerie (Hangar à Bananes)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Terrain d'aventures de Nantes Nord des Ceméa Pays de la loire",
+        "date_debut": "2026-08-31",
+        "lieu": "2 rue Samuel de Champlain",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Expression(s) Décoloniale(s) #4 - Exposition",
+        "date_debut": "2026-08-31",
+        "lieu": "Château des Ducs de Bretagne -   Musée d'Histoire de Nantes",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-08-30",
     "news": [
       {
@@ -2520,174 +2688,6 @@
         "titre": "Balades touristiques en vélo-taxi",
         "date_debut": "2026-08-17",
         "lieu": "centre-ville",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-16",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Quelles sont les limites de notre corps face aux fortes chaleurs prolongées ?",
-        "resume": "Notre corps met en place plusieurs mécanismes pour maintenir sa température autour de 37°C. Mais lorsque les fortes températures persistent, ces défenses peuvent atteindre leur point de rupture et fai",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/quelles-sont-les-limites-de-notre-corps-face-aux-fortes-chaleurs-prolongees_8138318.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 16 Aug 2026 07:10:22 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"La peopolisation ne fabrique pas de la légitimité\" : faire la couverture de \"Paris-Match\" est-il une opération payante pour les politiques ?",
-        "resume": "La dernière une de l'hebdomadaire, qui met en scène Emmanuel Macron et Raphaël Glusckmann durant leurs vacances respectives, a suscité de multiples réactions et controverses. A l'approche de la présid",
-        "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/la-peopolisation-ne-fabrique-pas-de-la-legitimite-faire-la-couverture-de-paris-match-est-il-une-operation-payante-pour-les-politiques_8147498.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 16 Aug 2026 07:09:49 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Incendie dans les Landes : \"la situation evolue plutôt favorablement\", sans reprise majeure cette nuit, selon le préfet",
-        "resume": "La surface parcourue par les flammes a été réévaluée à 1 700 hectares, a également annoncé le préfet du département.",
-        "lien": "https://www.franceinfo.fr/faits-divers/incendie/incendie-dans-les-landes-la-situation-evolue-plutot-favorablement-sans-reprise-majeure-cette-nuit-selon-le-prefet_8149556.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 16 Aug 2026 08:24:53 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"En couple, j'avais tendance à me sacrifier pour l'autre\" : célibataires, ils racontent pourquoi ils ont arrêté de chercher l'amour",
-        "resume": "Plus d'un adulte sur cinq vivait seul en France en 2023. Un choix loin d'être toujours subi. Succession de rendez-vous amoureux décevants, ancienne relation toxique, envie de mieux se connaître seul..",
-        "lien": "https://www.franceinfo.fr/societe/temoignages-en-couple-j-avais-tendance-a-me-sacrifier-pour-l-autre-celibataires-ils-racontent-pourquoi-ils-ont-arrete-de-chercher-l-amour_8143337.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 16 Aug 2026 07:09:09 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "En Espagne, deux femmes meurent dans une inondation, deux bébés sont blessés",
-        "resume": "Les deux enfants ont été soignés pour des contusions.",
-        "lien": "https://www.franceinfo.fr/monde/espagne/en-espagne-deux-femmes-meurent-dans-une-inondation-deux-bebes-sont-blesses_8149529.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 16 Aug 2026 08:04:59 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Séisme en Indonésie : au moins 48 morts, des milliers d'évacués en attente d'aide",
-        "resume": "Au lendemain du puissant séisme qui a secoué l'île indonésienne de Florès, des milliers de personnes évacuées attendent de l'aide, dimanche, poussés hors de chez eux la veille par une forte secousse d",
-        "lien": "https://www.france24.com/fr/asie-pacifique/20260816-s%C3%A9isme-en-indon%C3%A9sie-au-moins-48-morts-des-milliers-d-%C3%A9vacu%C3%A9s-en-attente-d-aide",
-        "date": "Sun, 16 Aug 2026 06:28:56 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "De 80 à 2 700 hectares brûlés en 24 h : la Belgique face à l'un des pires feux de son histoire",
-        "resume": "La Belgique combat l'un des pires incendies de son histoire. Le brasier ravageait, samedi encore, les Fagnes, une grande réserve boisée du pays, prisée des randonneurs et proche de l'Allemagne. De 80 ",
-        "lien": "https://www.france24.com/fr/europe/20260816-de-80-%C3%A0-2-700-hectares-br%C3%BBl%C3%A9s-en-24-h-la-belgique-face-%C3%A0-un-des-pires-incendies-de-son-histoire",
-        "date": "Sun, 16 Aug 2026 05:59:10 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "La Colombie demande à Trump de suspendre les droits de douane après le séisme meurtrier",
-        "resume": "Le président de la Colombie, Abelardo de la Espriella, tout juste entré en fonction, a demandé samedi à Donald Trump une suspension des droits de douanes pour aider la reconstruction, après le tremble",
-        "lien": "https://www.france24.com/fr/am%C3%A9riques/20260816-la-colombie-demande-%C3%A0-trump-de-suspendre-les-droits-de-douane-apr%C3%A8s-le-s%C3%A9isme-meurtrier",
-        "date": "Sun, 16 Aug 2026 05:43:26 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Spider-Man : Brand New Day",
-        "date_sortie": "2026-07-29",
-        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
-        "note": 7.89,
-        "affiche": "https://image.tmdb.org/t/p/w300/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg"
-      },
-      {
-        "titre": "L'Odyssée",
-        "date_sortie": "2026-07-15",
-        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
-        "note": 8.0,
-        "affiche": "https://image.tmdb.org/t/p/w300/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg"
-      },
-      {
-        "titre": "Evil Dead Burn",
-        "date_sortie": "2026-07-08",
-        "synopsis": "Après l’enterrement de son mari, Alice se rend dans la maison isolée de sa belle-famille pour partager un dernier repas à sa mémoire. Mais la réunion familiale bascule dans l’horreur lorsque ses proches se transforment, ",
-        "note": 7.914,
-        "affiche": "https://image.tmdb.org/t/p/w300/2gusfeWILgIfRWQTA9nbXAEyQ0S.jpg"
-      },
-      {
-        "titre": "Vaiana, la légende du bout du monde",
-        "date_sortie": "2026-07-08",
-        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
-        "note": 6.0,
-        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
-      },
-      {
-        "titre": "La Fin d'Oak Street",
-        "date_sortie": "2026-08-12",
-        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
-        "note": 6.798,
-        "affiche": "https://image.tmdb.org/t/p/w300/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg"
-      },
-      {
-        "titre": "Matrix",
-        "date_sortie": "1999-06-23",
-        "synopsis": "Programmeur anonyme dans un service administratif le jour, Thomas Anderson devient Neo la nuit venue. Sous ce pseudonyme, il est l'un des pirates les plus recherchés du cyber‐espace. À cheval entre deux mondes, Neo est a",
-        "note": 8.255,
-        "affiche": "https://image.tmdb.org/t/p/w300/pEoqbqtLc4CcwDUDqxmEDSWpWTZ.jpg"
-      }
-    ],
-    "albums": [],
-    "evenements": [
-      {
-        "titre": "Découvrez le métier de conducteur de car scolaire (H/F) et venez rencontrer les professionnels du secteur qui recrutent en Maine et Loire",
-        "date_debut": "2026-08-18T07:30:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Les mammifères ailés",
-        "date_debut": "2026-08-18T18:30:00+00:00",
-        "lieu": "Tour de l'horloge, Parc Balzac",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Atelier en visio : Profil de compétences & Organisation des démarches (ODD)",
-        "date_debut": "2026-08-19T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Formation Assistant(e) de Vie aux Familles",
-        "date_debut": "2026-08-24T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "NOZ recrute son futur Prospecteur itinérant (H/F)",
-        "date_debut": "2026-08-25T06:30:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Exposition « L'agroalimentaire, une empreinte nantaise »",
-        "date_debut": "2026-08-16",
-        "lieu": "Maison des Hommes et des Techniques (MHT)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "INTERSTELLAR Ré-imaginer la Terre",
-        "date_debut": "2026-08-16",
-        "lieu": "HAB Galerie (Hangar à Bananes)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le Grand Spectacle avec Zoé, Victor, Aziza, Noahm, Camille, Raphaël et Bilal de Claire FRANEK",
-        "date_debut": "2026-08-16",
-        "lieu": "Le Pavillon - Maison de quartier de la Bottière",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "House of Banksy - Une expo non autorisée",
-        "date_debut": "2026-08-16",
-        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Femmes et collections au musée Dobrée - Visite guidée",
-        "date_debut": "2026-08-16",
-        "lieu": "Musée Dobrée",
         "ville": "Nantes"
       }
     ]
