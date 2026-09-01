@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-09-01",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Rentrée scolaire 2026 : les téléphones portables et les réseaux sociaux \"enlèvent l'attention des élèves\", défend Emmanuel Macron",
+        "resume": "Le président se trouve mardi dans un lycèe de Lozère, en compagnie du ministre de l'Education nationale, notamment pour discuter de l'interdiction du téléphone portable, une des nouveautés de ce retou",
+        "lien": "https://www.franceinfo.fr/france/rentree/direct-rentree-des-classes-plus-de-11-millions-d-eleves-de-retour-dans-leurs-etablissements-sans-telephone-portable_8171747.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 01 Sep 2026 12:15:53 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Nous entrons dans un monde de la rareté\", prévient le patron de Coopérative U après la sécheresse de cet été",
+        "resume": "Les rendements sont en baisse cette année, \"moins 30% sur la salade\" par exemple, indique Dominique Schelcher, mardi sur France Inter, alors que les fruits et légumes sont aussi de plus petits calibre",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/nous-entrons-dans-un-monde-de-la-rarete-previent-le-patron-de-cooperative-u-apres-la-secheresse-de-cet-ete_8171858.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 01 Sep 2026 11:02:01 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Un point de bascule\" : comment la flambée des prix des carburants a accéléré les ventes de voitures électriques en France",
+        "resume": "Les conséquences du conflit au Moyen-Orient ont dopé un marché de l'électrique qui profite également de politiques publiques favorables et de tarifs plus abordables.",
+        "lien": "https://www.franceinfo.fr/economie/automobile/un-point-de-bascule-comment-la-flambee-des-prix-des-carburants-a-accelere-les-ventes-de-voitures-electriques-en-france_8165441.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 01 Sep 2026 12:34:18 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Crues dévastatrices dans l'Himalaya : des militants tibétains accusent la Chine de sous-estimer le bilan des inondations",
+        "resume": "Les médias d'Etat chinois font état de 16 morts et de 546 disparus, mais des ONG s'inquiètent d'un nombre de victimes beaucoup plus élevé.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/crues-meurtrieres-au-nepal-et-au-tibet/direct-crues-dans-l-himalaya-le-bilan-depasse-les-1-000-morts-au-nepal-et-en-chine-plus-de-4-000-personnes-portees-disparues_8171645.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 01 Sep 2026 11:38:56 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Troisième sortie dans l'espace de Sophie Adenot : suivez la nouvelle mission menée par l'astronaute hors de l'ISS à partir de 14h30",
+        "resume": "La Française va diriger mardi une sortie extravéhiculaire 100% féminine. Elle est accompagnée de l'astronaute américaine Jessica Meir, qui a participé, en 2019, à la première sortie spatiale effectuée",
+        "lien": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/direct-troisieme-sortie-dans-l-espace-de-sophie-adenot-suivez-la-nouvelle-mission-menee-par-l-astronaute-hors-de-l-iss-a-partir-de-14h30_8171849.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 01 Sep 2026 12:17:22 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Ebola : début de la vaccination en RDC, son efficacité reste à évaluer",
+        "resume": "En RDC, la campagne de vaccination contre Ebola a débuté à Kisangani, l’une des six provinces touchées. Mais le vaccin cible la souche Zaïre, et non la souche Bundibugyo à l’origine de l’épidémie actu",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260901-ebola-d%C3%A9but-de-la-vaccination-en-rdc-son-efficacit%C3%A9-reste-%C3%A0-%C3%A9valuer",
+        "date": "Tue, 01 Sep 2026 10:57:36 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Street art : 500 000 personnes à la chasse au trésor des mosaïques d'Invader",
+        "resume": "Depuis la fin des années 1990, le street artist anonyme Invader parsème les rues des grandes métropoles de ses célèbres mosaïques inspirées du jeu vidéo \"Space Invaders\". Une œuvre désormais à l'origi",
+        "lien": "https://www.france24.com/fr/culture/20260901-street-art-invader-500-000-personnes-chasse-tr%C3%A9sor-mosa%C3%AFques-exposition-petit-palais-paris",
+        "date": "Tue, 01 Sep 2026 10:31:30 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Le festival américain Burning Man accueille la tour Eiffel cassée du Vendéen Philippe Maindron",
+        "resume": "Créée par l’artiste vendéen Philippe Maindron, cette tour Eiffel brisée, déjà repérée sur la côte atlantique, va changer de décor. Elle sera l’une des attractions françaises du Burning Man, grand rend",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260901-le-festival-am%C3%A9ricain-burning-man-accueille-la-tour-eiffel-cass%C3%A9e-du-vend%C3%A9en-philippe-maindron",
+        "date": "Tue, 01 Sep 2026 09:59:37 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Spider-Man : Brand New Day",
+        "date_sortie": "2026-07-29",
+        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
+        "note": 7.9,
+        "affiche": "https://image.tmdb.org/t/p/w300/pEEI5mMoyZrbapzWC6vB6UmesDW.jpg"
+      },
+      {
+        "titre": "Mutiny",
+        "date_sortie": "2026-08-19",
+        "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il se retrouve piégé à bord d’un porte-cont",
+        "note": 6.348,
+        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
+      },
+      {
+        "titre": "Toxic",
+        "date_sortie": "2026-08-26",
+        "synopsis": "Alors que la domination portugaise s'effondre à Goa, Raya gravit les échelons du monde criminel à travers trahisons et bains de sang pour prendre le contrôle des bas-fonds de la ville, avant de découvrir que le pouvoir e",
+        "note": 7.2,
+        "affiche": "https://image.tmdb.org/t/p/w300/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg"
+      },
+      {
+        "titre": "The Dog Stars",
+        "date_sortie": "2026-08-26",
+        "synopsis": "Dans un futur proche où une pandémie sans nom a décimé la société américaine, Hig, un pilote vit sur une base aérienne abandonnée du Colorado avec son chien et un ex-marine. Lorsqu'une transmission aléatoire passe par la",
+        "note": 6.8,
+        "affiche": "https://image.tmdb.org/t/p/w300/w7c49Qgp3TAUC4hlo0mtgRpLOGG.jpg"
+      },
+      {
+        "titre": "Insidious : L'Invasion du Lointain",
+        "date_sortie": "2026-08-19",
+        "synopsis": "Gemma, une jeune mère élève sa fille dans la maison de son enfance. Elle découvre qu'elle peut voyager dans le Lointain, ce royaume purgatoire des âmes perdues au cœur de l'univers d'Insidious. Lorsqu'une entité malveill",
+        "note": 6.609,
+        "affiche": "https://image.tmdb.org/t/p/w300/bW8uJOLrtdBnQcQbG9BUQjDgUaT.jpg"
+      },
+      {
+        "titre": "La Fin d'Oak Street",
+        "date_sortie": "2026-08-12",
+        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
+        "note": 6.353,
+        "affiche": "https://image.tmdb.org/t/p/w300/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 1",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Passé recomposé, quand la photographie agite le patrimoine",
+        "date_debut": "2026-09-01T11:00:00+00:00",
+        "lieu": "Collégiale Saint-Martin",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Information sur l'évènement à 'La Place de l'Emploi' : Un Village Itinérant pour Booster Votre Carrière !\" Conseiller AGENCE ROSERAIE",
+        "date_debut": "2026-09-01T11:45:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Angers Capucins: Réunion d'information collective VAE le mercredi 2 septembre de 14 à 16 heures",
+        "date_debut": "2026-09-02T12:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Vitalliance Angers vous ouvre ses portes : découvrez le métier d'auxiliaire de vie",
+        "date_debut": "2026-09-03T08:00:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Information sur l'évènement à 'La Place de l'Emploi' : Un Village Itinérant pour Booster Votre Carrière !\"",
+        "date_debut": "2026-09-04T07:30:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "House of Banksy - Une expo non autorisée",
+        "date_debut": "2026-09-01",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Aulnay-sous-amiante : une lutte populaire contre l’indifférence",
+        "date_debut": "2026-09-01",
+        "lieu": "Maison des Hommes et des Techniques (MHT)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "INTERSTELLAR Ré-imaginer la Terre",
+        "date_debut": "2026-09-01",
+        "lieu": "HAB Galerie (Hangar à Bananes)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition « Chroniques Charognardes »à La Monstrueuse Galerie",
+        "date_debut": "2026-09-01",
+        "lieu": "Monstrueuse Galerie (La)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Don du sang — Maison du don, Nantes",
+        "date_debut": "2026-09-01",
+        "lieu": "Maison du don",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-08-31",
     "news": [
       {
@@ -2489,205 +2688,6 @@
         "titre": "Croisière Estuaire Nantes-St Nazaire",
         "date_debut": "2026-08-18",
         "lieu": "Nantes",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-17",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Incendie dans les Landes : le feu est \"fixé\", 250 évacués autorisés à rentrer chez eux, annonce la préfecture",
-        "resume": "Depuis jeudi, l'incendie a ravagé quelque 1 700 hectares de pinèdes, entraînant l'évacuation de 650 habitants.",
-        "lien": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-le-premier-ministre-sebastien-lecornu-et-plusieurs-ministres-attendus-en-gironde-le-feu-contenu-mais-pas-fixe-dans-les-landes_8150471.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 17 Aug 2026 08:35:53 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Seuls six départements du Sud-Est encore maintenus en vigilance orange \"canicule\"",
-        "resume": "Le risque orageux est également moindre, aucun département n'étant en vigilance orange orages lundi.",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/seuls-six-departements-du-sud-est-maintenus-en-vigilance-orange-canicule-lundi-a-partir-de-6-heures_8150288.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 17 Aug 2026 08:11:30 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Les cartons de Léon Marchand, l'émergence de Mary-Ambre Moluh, le retour des relais... Le bilan de la France aux championnats d'Europe de natation",
-        "resume": "Avec onze médailles, dont quatre en or, l'équipe de France termine à la quatrième place du classement des championnats d'Europe de natation, à Saint-Denis.",
-        "lien": "https://www.franceinfo.fr/sports/natation/championnats-d-europe-de-natation/les-cartons-de-leon-marchand-l-emergence-de-mary-ambre-moluh-le-retour-des-relais-le-bilan-de-la-france-aux-championnats-d-europe-de-natation_8150345.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 17 Aug 2026 06:00:10 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"On a failli être satellisés pour l'éternité\" : imprévus dangereux, émerveillement céleste et épreuve physique... Des astronautes racontent les coulisses des sorties spatiales",
-        "resume": "Les sorties extravéhiculaires représentent \"la mission dans la mission\" se souvient auprès de franceinfo Jean-Loup Chrétien, le premier Français et premier Européen à en avoir réalisé une, en 1988.",
-        "lien": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/mission-epsilon/on-a-failli-etre-satellises-pour-l-eternite-imprevus-dangereux-emerveillement-celeste-et-epreuve-physique-des-astronautes-racontent-les-coulisses-des-sorties-spatiales_7989083.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 17 Aug 2026 05:58:40 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Qui se cache derrière le piratage hors norme du fisc français ?",
-        "resume": "Le Premier ministre, Sébastien Lecornu, présidera lundi 17 août une cellule de crise au sujet du piratage de grande ampleur qui a visé la plateforme des impôts. Les données fiscales de 678 000 particu",
-        "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/qui-se-cache-derriere-le-piratage-hors-norme-du-fisc-francais_8150246.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 16 Aug 2026 20:27:06 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Alvin Junior Mak, étoile montante de la mode franco-congolaise propulsé par le Mondial",
-        "resume": "Innovation africaine (3/3). Styliste franco-congolais, Alvin Junior Mak a marqué de son empreinte le Mondial de football en concevant le très remarqué costume de l'équipe de la République du Congo. Un",
-        "lien": "https://www.france24.com/fr/afrique/20260817-alvin-junior-mak-%C3%A9toile-montante-mode-franco-congolaise-propuls%C3%A9-mondial",
-        "date": "Mon, 17 Aug 2026 05:58:28 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Trophée des champions : à 10 contre 11, Lens fait tomber le PSG",
-        "resume": "Le RC Lens a remporté le trophée des champions face au Paris Saint-Germain (1-0). Sous les yeux de Zinédine Zidane, les lensois ont tenu une heure en infériorité numérique.",
-        "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20260817-troph%C3%A9e-des-champions-%C3%A0-10-contre-11-lens-fait-tomber-le-psg",
-        "date": "Mon, 17 Aug 2026 05:50:59 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "L'actrice américaine Hayden Panettiere, star de \"Heroes\", meurt à l'âge de 36 ans",
-        "resume": "L'actrice américaine Hayden Panettiere, connue pour ses rôles dans les séries télévisées \"Heroes\" et \"Nashville\", est morte à l'âge de 36 ans. Son décès a été annoncé par des médias dans la nuit de di",
-        "lien": "https://www.france24.com/fr/am%C3%A9riques/20260817-l-actrice-am%C3%A9ricaine-hayden-panettiere-ic%C3%B4ne-de-la-s%C3%A9rie-heroes-meurt-%C3%A0-l-%C3%A2ge-de-36-ans",
-        "date": "Mon, 17 Aug 2026 05:39:08 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Spider-Man : Brand New Day",
-        "date_sortie": "2026-07-29",
-        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
-        "note": 7.879,
-        "affiche": "https://image.tmdb.org/t/p/w300/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg"
-      },
-      {
-        "titre": "L'Odyssée",
-        "date_sortie": "2026-07-15",
-        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
-        "note": 7.992,
-        "affiche": "https://image.tmdb.org/t/p/w300/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg"
-      },
-      {
-        "titre": "Evil Dead Burn",
-        "date_sortie": "2026-07-08",
-        "synopsis": "Après l’enterrement de son mari, Alice se rend dans la maison isolée de sa belle-famille pour partager un dernier repas à sa mémoire. Mais la réunion familiale bascule dans l’horreur lorsque ses proches se transforment, ",
-        "note": 7.9,
-        "affiche": "https://image.tmdb.org/t/p/w300/2gusfeWILgIfRWQTA9nbXAEyQ0S.jpg"
-      },
-      {
-        "titre": "La Fin d'Oak Street",
-        "date_sortie": "2026-08-12",
-        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
-        "note": 6.725,
-        "affiche": "https://image.tmdb.org/t/p/w300/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg"
-      },
-      {
-        "titre": "Vaiana, la légende du bout du monde",
-        "date_sortie": "2026-07-08",
-        "synopsis": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. ",
-        "note": 6.061,
-        "affiche": "https://image.tmdb.org/t/p/w300/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg"
-      },
-      {
-        "titre": "Matrix",
-        "date_sortie": "1999-06-23",
-        "synopsis": "Programmeur anonyme dans un service administratif le jour, Thomas Anderson devient Neo la nuit venue. Sous ce pseudonyme, il est l'un des pirates les plus recherchés du cyber‐espace. À cheval entre deux mondes, Neo est a",
-        "note": 8.255,
-        "affiche": "https://image.tmdb.org/t/p/w300/pEoqbqtLc4CcwDUDqxmEDSWpWTZ.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Midnights in October",
-        "artiste": "Midnights in October",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Meridians",
-        "artiste": "Alasdair Fraser",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Broken Dreams",
-        "artiste": "Siska",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "ЖЗЛ",
-        "artiste": "Lacerate",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Découvrez le métier de conducteur de car scolaire (H/F) et venez rencontrer les professionnels du secteur qui recrutent en Maine et Loire",
-        "date_debut": "2026-08-18T07:30:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Les mammifères ailés",
-        "date_debut": "2026-08-18T18:30:00+00:00",
-        "lieu": "Tour de l'horloge, Parc Balzac",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Atelier en visio : Profil de compétences & Organisation des démarches (ODD)",
-        "date_debut": "2026-08-19T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Formation Assistant(e) de Vie aux Familles",
-        "date_debut": "2026-08-24T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "NOZ recrute son futur Prospecteur itinérant (H/F)",
-        "date_debut": "2026-08-25T06:30:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "INTERSTELLAR Ré-imaginer la Terre",
-        "date_debut": "2026-08-17",
-        "lieu": "HAB Galerie (Hangar à Bananes)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Expression(s) Décoloniale(s) #4 - Exposition",
-        "date_debut": "2026-08-17",
-        "lieu": "Château des Ducs de Bretagne -   Musée d'Histoire de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Exposition « L'agroalimentaire, une empreinte nantaise »",
-        "date_debut": "2026-08-17",
-        "lieu": "Maison des Hommes et des Techniques (MHT)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Cours d'été pilates et stretching postural - Umaneha",
-        "date_debut": "2026-08-17",
-        "lieu": "Dalby Sport-Santé",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Balades touristiques en vélo-taxi",
-        "date_debut": "2026-08-17",
-        "lieu": "centre-ville",
         "ville": "Nantes"
       }
     ]
