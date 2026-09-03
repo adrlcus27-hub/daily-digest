@@ -1,5 +1,152 @@
 [
   {
+    "date": "2026-09-03",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Le Premier ministre espagnol, Pedro Sánchez, nie une implication du Maroc dans la crise de Ceuta",
+        "resume": "Devant les députés jeudi, le chef du gouvernement a toutefois fermement revendiqué la souveraineté espagnole sur l'enclave.",
+        "lien": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/le-premier-ministre-espagnol-pedro-sanchez-nie-une-implication-du-maroc-dans-la-crise-de-ceuta_8175278.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 03 Sep 2026 12:27:22 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "La Russie prépare \"activement\" des actions de sabotage contre le Danemark, selon les services de renseignement du royaume",
+        "resume": "Dès 2024, les renseignements avaient signalé que la menace russe contre le Danemark, pays soutien de l'Ukraine, s'était renforcée.",
+        "lien": "https://www.franceinfo.fr/monde/russie/la-russie-prepare-activement-des-actions-de-sabotage-contre-le-danemark-selon-les-services-de-renseignement-du-royaume_8175137.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 03 Sep 2026 12:01:52 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Annuler une partie de la dette française est \"une proposition fantaisiste\", selon le Prix Nobel d'économie Jean Tirole",
+        "resume": "Jean Tirole estime jeudi sur France Inter qu'une annulation, dans le meilleur des cas, \"ne changerait rien\" et, dans le pire des cas, serait \"contraire aux règlements\" européens et signifierait que la",
+        "lien": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/annuler-une-partie-de-la-dette-francaise-est-une-proposition-fantaisiste-selon-le-prix-nobel-d-economie-jean-tirole_8175131.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 03 Sep 2026 11:32:51 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Le phénomène \"El Niño prend sous nos yeux une ampleur exceptionnelle\", faisant craindre des catastrophes climatiques extrêmes, alerte l'ONU",
+        "resume": "Le phénomène climatique El Niño gagne en puissance et va perturber le climat à travers la planète. Les produits originaires de ces régions risquent d'augmenter dans l'Hexagone.",
+        "lien": "https://www.franceinfo.fr/environnement/crise-climatique/el-nino-et-les-consequences-de-la-tempete-attendues-en-france_8174222.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 03 Sep 2026 08:31:45 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Guerre au Moyen-Orient : l'Iran attaque à nouveau des bases militaires américaines au Koweit, Donald Trump menace de frapper \"à tout moment\"",
+        "resume": "Après un mois d'accalmie, les hostilités ont repris dimanche dans un scénario qui se répète depuis le début de la guerre déclenchée fin février et toujours sans issue diplomatique.",
+        "lien": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-iran-attaque-a-nouveau-des-bases-militaires-americaines-au-koweit-donald-trump-menace-de-frapper-a-tout-moment_8174660.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 03 Sep 2026 06:23:46 +0200"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Spider-Man : Brand New Day",
+        "date_sortie": "2026-07-29",
+        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
+        "note": 7.877,
+        "affiche": "https://image.tmdb.org/t/p/w300/pEEI5mMoyZrbapzWC6vB6UmesDW.jpg"
+      },
+      {
+        "titre": "Mutiny",
+        "date_sortie": "2026-08-19",
+        "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il se retrouve piégé à bord d’un porte-cont",
+        "note": 6.35,
+        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
+      },
+      {
+        "titre": "Toxic",
+        "date_sortie": "2026-08-26",
+        "synopsis": "Alors que la domination portugaise s'effondre à Goa, Raya gravit les échelons du monde criminel à travers trahisons et bains de sang pour prendre le contrôle des bas-fonds de la ville, avant de découvrir que le pouvoir e",
+        "note": 7.618,
+        "affiche": "https://image.tmdb.org/t/p/w300/5RTd3YCLWbEhbe9OXRuNX3pbT5U.jpg"
+      },
+      {
+        "titre": "The Dog Stars",
+        "date_sortie": "2026-08-26",
+        "synopsis": "Dans un futur proche où une pandémie sans nom a décimé la société américaine, Hig, un pilote vit sur une base aérienne abandonnée du Colorado avec son chien et un ex-marine. Lorsqu'une transmission aléatoire passe par la",
+        "note": 6.7,
+        "affiche": "https://image.tmdb.org/t/p/w300/w7c49Qgp3TAUC4hlo0mtgRpLOGG.jpg"
+      },
+      {
+        "titre": "La Fin d'Oak Street",
+        "date_sortie": "2026-08-12",
+        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
+        "note": 6.35,
+        "affiche": "https://image.tmdb.org/t/p/w300/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg"
+      },
+      {
+        "titre": "Insidious : L'Invasion du Lointain",
+        "date_sortie": "2026-08-19",
+        "synopsis": "Gemma, une jeune mère élève sa fille dans la maison de son enfance. Elle découvre qu'elle peut voyager dans le Lointain, ce royaume purgatoire des âmes perdues au cœur de l'univers d'Insidious. Lorsqu'une entité malveill",
+        "note": 6.6,
+        "affiche": "https://image.tmdb.org/t/p/w300/bW8uJOLrtdBnQcQbG9BUQjDgUaT.jpg"
+      }
+    ],
+    "albums": [],
+    "evenements": [
+      {
+        "titre": "Vitalliance Angers vous ouvre ses portes : découvrez le métier d'auxiliaire de vie",
+        "date_debut": "2026-09-03T08:00:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Information sur l'évènement à 'La Place de l'Emploi' : Un Village Itinérant pour Booster Votre Carrière !\"",
+        "date_debut": "2026-09-04T07:30:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "L'INDUSTRIE Automobile et Aéronautique RECRUTE",
+        "date_debut": "2026-09-07T12:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Information sur l'évènement à 'La Place de l'Emploi' : Un Village Itinérant pour Booster Votre Carrière !\" Conseiller AGENCE ROSERAIE",
+        "date_debut": "2026-09-08T11:45:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Gendarmerie",
+        "date_debut": "2026-09-09T08:00:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Balades touristiques en vélo-taxi",
+        "date_debut": "2026-09-03",
+        "lieu": "centre-ville",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition Le Muséum au fil du temps",
+        "date_debut": "2026-09-03",
+        "lieu": "Place de la Monnaie",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Tonus OPENING - Campus du Warehouse",
+        "date_debut": "2026-09-03",
+        "lieu": "Warehouse",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "INTERSTELLAR Ré-imaginer la Terre",
+        "date_debut": "2026-09-03",
+        "lieu": "HAB Galerie (Hangar à Bananes)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Nantes Films & Séries Festival de la Butte",
+        "date_debut": "2026-09-03",
+        "lieu": "Butte Sainte-Anne Nantes",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-09-02",
     "news": [
       {
@@ -2489,205 +2636,6 @@
         "titre": "[Derniers jours] Odyssée de l’oubli - Exposition Anne et Patrick Poirier",
         "date_debut": "2026-08-20",
         "lieu": "Musée d'arts de Nantes",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-19",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "La loi créant un droit à l'aide à mourir a été promulguée par Emmanuel Macron et publiée au Journal officiel",
-        "resume": "Avant que les premiers malades puissent avoir recours au dispositif créé par le texte, adopté définitivement au Parlement mi-juillet, le gouvernement devra publier les décrets d'application nécessaire",
-        "lien": "https://www.franceinfo.fr/societe/euthanasie/la-loi-sur-l-aide-a-mourir-a-ete-promulguee-par-emmanuel-macron-macron-et-publiee-au-journal-officiel_8153051.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 19 Aug 2026 06:33:16 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Rassurer\", \"expliquer\"… Les appels de contribuables concernés par le piratage de leurs données affluent au fisc",
-        "resume": "Depuis lundi, les victimes \"sont informées individuellement par la DGFiP, par courriel ou par courrier, des données susceptibles d’avoir été consultées ou extraites et, le cas échéant, des mesures de ",
-        "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/rassurer-expliquer-les-appels-de-contribuables-concernes-par-le-piratage-de-leurs-donnees-affluent-au-fisc_8153108.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 19 Aug 2026 08:12:15 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"On va avoir un changement net\" : après la baisse des températures, que nous réserve la météo pour la fin de l'été ?",
-        "resume": "Après plusieurs épisodes caniculaires, la France connaît enfin un répit, avec la fin de la vigilance orange \"canicule\" sur l'ensemble des départements. Mais il est encore trop tôt pour dire si nous so",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/on-va-avoir-un-changement-net-apres-la-baisse-des-temperatures-que-nous-reserve-la-meteo-pour-la-fin-de-l-ete_8152022.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 19 Aug 2026 06:01:41 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"C'est le chantier de fond de la rentrée\" : comment Sébastien Lecornu prépare le budget 2027, le dernier avant l'élection présidentielle",
-        "resume": "Avant la présentation du projet de loi de finances, le 30 septembre, le Premier ministre cherche la formule magique pour trouver des économies sans risquer d'être renversé.",
-        "lien": "https://www.franceinfo.fr/economie/impots/c-est-le-chantier-de-fond-de-la-rentree-comment-sebastien-lecornu-prepare-le-budget-2027-le-dernier-avant-l-election-presidentielle_8150600.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 19 Aug 2026 06:00:48 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Patrick Bruel visé par une nouvelle plainte pour \"tentative de viol\"",
-        "resume": "Cette plainte pour \"tentative de viol\" contre Patrick Bruel a été déposée \"cet été\", précise, mercredi sur France Inter, Myriam Guedj-Benayoun, avocate de plusieurs plaignantes dans cette affaire.",
-        "lien": "https://www.franceinfo.fr/culture/musique/patrick-bruel/affaire-de-violences-sexuelles/info-radio-france-patrick-bruel-vise-par-une-nouvelle-plainte-pour-tentative-de-viol_8153165.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 19 Aug 2026 08:01:02 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "En Ukraine, l'ex-ministre Fedorov appelle à des élections malgré la guerre avec la Russie",
-        "resume": "L'ancien ministre ukrainien ⁠de la Défense, Mykhaïlo ​Fedorov, a appelé mardi soir à la tenued'élections. Un scrutin que la guerre avec la Russie rend complexe, mais qu'il juge indispensable afin de \"",
-        "lien": "https://www.france24.com/fr/europe/20260819-ukraine-ex-ministre-d%C3%A9fense-appelle-%C3%A0-%C3%A9lections-malgr%C3%A9-guerre-russie-mykha%C3%AFlo-fedorov",
-        "date": "Wed, 19 Aug 2026 06:22:51 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Ligue des champions : tout reste à faire entre Lyon et Fenerbahçe",
-        "resume": "L’Olympique Lyonnais et Fenerbahçe se sont quittés sur un match nul (1-1) en barrage aller de ligue des champions. Le match retour aura lieu le mercredi 26 août à Lyon.",
-        "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20260819-ligue-des-champions-tout-reste-%C3%A0-faire-entre-lyon-et-fenerbah%C3%A7e",
-        "date": "Wed, 19 Aug 2026 05:00:02 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Les exercices militaires entre la Corée du Sud et les États-Unis écourtés, un revers pour Séoul",
-        "resume": "Un revers pour la Corée du Sud, alliée historique des États-Unis. Les exercices militaires conjoints entre Séoul et Washington, censés prendre fin le 27 août, se termineront vendredi. En cause : les c",
-        "lien": "https://www.france24.com/fr/asie-pacifique/20260819-les-exercices-militaires-entre-s%C3%A9oul-et-washington-seront-%C3%A9court%C3%A9s-de-pr%C3%A8s-d-une-semaine",
-        "date": "Wed, 19 Aug 2026 03:33:10 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Spider-Man : Brand New Day",
-        "date_sortie": "2026-07-29",
-        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
-        "note": 7.882,
-        "affiche": "https://image.tmdb.org/t/p/w300/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg"
-      },
-      {
-        "titre": "L'Odyssée",
-        "date_sortie": "2026-07-15",
-        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
-        "note": 8.0,
-        "affiche": "https://image.tmdb.org/t/p/w300/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg"
-      },
-      {
-        "titre": "La Fin d'Oak Street",
-        "date_sortie": "2026-08-12",
-        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
-        "note": 6.635,
-        "affiche": "https://image.tmdb.org/t/p/w300/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg"
-      },
-      {
-        "titre": "La Pat’ Patrouille : Le film mission Dino",
-        "date_sortie": "2026-08-05",
-        "synopsis": "Lorsqu’une mystérieuse tempête surprend leur navire, la Pat’ Patrouille s’échoue sur une île tropicale encore inexplorée… et peuplée de dinosaures ! Ils y rencontrent Rex, un chiot courageux installé sur l’île depuis des",
-        "note": 7.016,
-        "affiche": "https://image.tmdb.org/t/p/w300/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg"
-      },
-      {
-        "titre": "Mutiny",
-        "date_sortie": "2026-08-19",
-        "synopsis": "Après que son patron industriel milliardaire ait été assassiné sous ses yeux, Cole Reed est désigné pour endosser le crime, ce qui le met en fuite alors qu'il s'efforce de découvrir une conspiration internationale.",
-        "note": 9.75,
-        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
-      },
-      {
-        "titre": "Juste pour une Nuit",
-        "date_sortie": "2026-08-12",
-        "synopsis": "Un homme et une femme se démènent pour trouver quelqu'un avec qui coucher la seule nuit de l'année où les relations sexuelles avant le mariage sont légales dans leur société.",
-        "note": 6.833,
-        "affiche": "https://image.tmdb.org/t/p/w300/ynL7Ng0bLYJ3RZuxAqkE95QBVOL.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Midnights in October",
-        "artiste": "Midnights in October",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Atelier en visio : Profil de compétences & Organisation des démarches (ODD)",
-        "date_debut": "2026-08-19T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Formation Assistant(e) de Vie aux Familles",
-        "date_debut": "2026-08-24T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "NOZ recrute son futur Prospecteur itinérant (H/F)",
-        "date_debut": "2026-08-25T06:30:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "La Gendarmerie nationale recrute - Réunion d'informations",
-        "date_debut": "2026-08-25T08:00:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Visio Opportunités du moment - Angers Capucins",
-        "date_debut": "2026-08-25T08:00:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "[Derniers jours] Odyssée de l’oubli - Exposition Anne et Patrick Poirier",
-        "date_debut": "2026-08-19",
-        "lieu": "Musée d'arts de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "The Art of the Brick - Exposition d’art en Lego",
-        "date_debut": "2026-08-19",
-        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Exposition « L'agroalimentaire, une empreinte nantaise »",
-        "date_debut": "2026-08-19",
-        "lieu": "Maison des Hommes et des Techniques (MHT)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Point d'Information Nantes Solidaire",
-        "date_debut": "2026-08-19",
-        "lieu": "Espace Départemental des Solidarités Cassin",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Terrain d'aventures de Nantes Nord des Ceméa Pays de la loire",
-        "date_debut": "2026-08-19",
-        "lieu": "2 rue Samuel de Champlain",
         "ville": "Nantes"
       }
     ]
