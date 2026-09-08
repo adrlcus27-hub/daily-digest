@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-09-08",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Benyamin Nétanyahou dans la tourmente après la publication d'un article selon lequel il aurait été informé de l'attaque du 7-Octobre",
+        "resume": "Selon le journal \"Haaretz\", le Premier ministre israélien, informé d'une attaque en préparation, n'a pas transmis l'information. Cette enquête a provoqué une avalanche de critiques de la part de ses o",
+        "lien": "https://www.franceinfo.fr/monde/israel/benyamin-netanyahou-critique-apres-la-publication-d-un-article-le-disant-informe-de-l-attaque-du-7-octobre_8182916.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 08 Sep 2026 11:51:51 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Les résultats français à l'enquête Pisa sont \"préoccupants\" mais \"pas une surprise\" selon le ministre de l'Education nationale",
+        "resume": "Les résultats des élèves français à l'enquête internationale Pisa de 2025 sont les plus bas jamais mesurés depuis la création de ce classement en 2000. La France se maintient toutefois dans la moyenne",
+        "lien": "https://www.franceinfo.fr/societe/education/les-resultats-francais-a-l-enquete-pisa-sont-preoccupants-mais-pas-une-surprise-selon-le-ministre-de-l-education-nationale_8182796.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 08 Sep 2026 10:54:27 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Quatre tableaux volés, dont deux retrouvés dans le jardin, neuf millions d'euros de préjudice… Ce que l'on sait du cambriolage au musée Renoir de Cagnes-sur-Mer",
+        "resume": "Les voleurs ont pénétré par effraction dans la dernière demeure du peintre impressionniste peu avant 6 heures, et ont réussi à prendre la fuite. Une enquête est ouverte.",
+        "lien": "https://www.franceinfo.fr/faits-divers/quatre-tableaux-voles-dont-deux-retrouves-dans-le-jardin-neuf-millions-d-euros-de-prejudice-ce-que-l-on-sait-du-cambriolage-au-musee-renoir-de-cagnes-sur-mer_8182817.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 08 Sep 2026 12:22:14 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Présidentielle 2027 : les détails de la charte envoyée par Hervé Morin aux candidats de la droite et du centre pour l'organisation d'une primaire",
+        "resume": "Le président de la région Normandie appelle officiellement Edouard Philippe, Bruno Retailleau, Gabriel Attal et David Lisnard à se départager via une primaire, dans le but de réduire la \"dispersion\" d",
+        "lien": "https://www.franceinfo.fr/elections/presidentielle/info-franceinfo-presidentielle-2027-les-details-de-la-charte-envoyee-par-herve-morin-aux-candidats-de-la-droite-et-du-centre-pour-l-organisation-d-une-primaire_8182712.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 08 Sep 2026 11:06:44 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Pourquoi la France, dans le sillage de l'Union africaine, soutient-elle l'utilisation d'une nouvelle carte du monde, représentant la taille des continents de façon plus juste ?",
+        "resume": "La représentation la plus répandue, appelée projection de Mercator, agrandit artificiellement certains territoires et en rétrécit d'autres. \"Les déformations finissent par s'installer dans les percept",
+        "lien": "https://www.franceinfo.fr/monde/onu/pourquoi-la-france-dans-le-sillage-de-l-union-africaine-soutient-elle-l-utilisation-d-une-nouvelle-carte-du-monde-representant-la-taille-des-continents-de-facon-plus-juste_8182739.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 08 Sep 2026 12:10:33 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "France : les pompiers se mobilisent après un été aux incendies virulents",
+        "resume": "Suite aux incendies intenses et violents de cet été, les pompiers se mobilisent pour obtenir plus de moyens financiers, matériels et humains. Chaque année, les équipes couvrent 5 millions d'interventi",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260908-france-les-pompiers-se-mobilisent-apr%C3%A8s-un-%C3%A9t%C3%A9-aux-incendies-virulents",
+        "date": "Tue, 08 Sep 2026 10:04:42 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Immigration : naufrage meurtrier, ouverture du procès des passeurs présumés",
+        "resume": "Ouverture du procès de 14 passeurs poursuivis pour leur implication présumée dans la mort de 31 personnes migrantes, dont un enfant, au cours de la nuit du 24 novembre 2021 dans la Manche.",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260908-immigration-naufrage-meurtrier-ouverture-du-proc%C3%A8s-des-passeurs-pr%C3%A9sum%C3%A9s",
+        "date": "Tue, 08 Sep 2026 09:56:51 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "En grève, les pompiers français en appellent à l'État : \"On est traités comme du bétail !\"",
+        "resume": "En première ligne depuis juin face aux mégafeux subis par plusieurs régions de France, tout en continuant d'assurer au quotidien les secours à la personne – et jusqu'à des missions qui ne leur incombe",
+        "lien": "https://www.france24.com/fr/france/20260908-gr%C3%A8ve-pompiers-france-appel-%C3%A0-%C3%A9tat-on-est-trait%C3%A9s-comme-du-b%C3%A9tail",
+        "date": "Tue, 08 Sep 2026 09:51:46 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Spider-Man : Brand New Day",
+        "date_sortie": "2026-07-29",
+        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
+        "note": 7.865,
+        "affiche": "https://image.tmdb.org/t/p/w300/pEEI5mMoyZrbapzWC6vB6UmesDW.jpg"
+      },
+      {
+        "titre": "Mutiny",
+        "date_sortie": "2026-08-19",
+        "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il se retrouve piégé à bord d’un porte-cont",
+        "note": 6.379,
+        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
+      },
+      {
+        "titre": "Toxic",
+        "date_sortie": "2026-08-26",
+        "synopsis": "Alors que la domination portugaise s'effondre à Goa, Raya gravit les échelons du monde criminel à travers trahisons et bains de sang pour prendre le contrôle des bas-fonds de la ville, avant de découvrir que le pouvoir e",
+        "note": 8.0,
+        "affiche": "https://image.tmdb.org/t/p/w300/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg"
+      },
+      {
+        "titre": "The Dog Stars",
+        "date_sortie": "2026-08-26",
+        "synopsis": "Dans un futur proche où une pandémie sans nom a décimé la société américaine, Hig, un pilote vit sur une base aérienne abandonnée du Colorado avec son chien et un ex-marine. Lorsqu'une transmission aléatoire passe par la",
+        "note": 6.7,
+        "affiche": "https://image.tmdb.org/t/p/w300/w7c49Qgp3TAUC4hlo0mtgRpLOGG.jpg"
+      },
+      {
+        "titre": "La Fin d'Oak Street",
+        "date_sortie": "2026-08-12",
+        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
+        "note": 6.355,
+        "affiche": "https://image.tmdb.org/t/p/w300/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg"
+      },
+      {
+        "titre": "Prison On Fire",
+        "date_sortie": "2026-09-01",
+        "synopsis": "Deux amis enfermés en prison vont devenir des frères ennemis, et se lancer dans un combat sans limites...",
+        "note": 7.0,
+        "affiche": "https://image.tmdb.org/t/p/w300/ywFyD2t6QylShE8ARjVuftS9iD4.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Midnights in October",
+        "artiste": "Midnights in October",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Meridians",
+        "artiste": "Alasdair Fraser",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Vile No More",
+        "artiste": "Cruel Honey",
+        "date_sortie": "2026-09-04"
+      },
+      {
+        "titre": "Living Free (Live Manchester '75)",
+        "artiste": "Don McLean",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Information sur l'évènement à 'La Place de l'Emploi' : Un Village Itinérant pour Booster Votre Carrière !\" Conseiller AGENCE ROSERAIE",
+        "date_debut": "2026-09-08T11:45:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Gendarmerie",
+        "date_debut": "2026-09-09T08:00:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Gendarmerie",
+        "date_debut": "2026-09-09T12:00:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "réunion d'information création reprise entreprise en hôtellerie restauration avec accompagnement CCI Angers",
+        "date_debut": "2026-09-10T07:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Lancez votre carrière avec un contrat de professionnalisation en Arboriculture, Horticulture et Paysage via ELIORESO",
+        "date_debut": "2026-09-10T07:30:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Biodivers'été 2026",
+        "date_debut": "2026-09-08",
+        "lieu": "Parcs et jardins",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Balades touristiques en vélo-taxi",
+        "date_debut": "2026-09-08",
+        "lieu": "centre-ville",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Permanence « Point Conseil Budget »",
+        "date_debut": "2026-09-08",
+        "lieu": "Maison de quartier Bottière",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Maïeutique | Exposition de peintures et d'objets d'art | Nadia Barbotin | Art contemporain",
+        "date_debut": "2026-09-08",
+        "lieu": "Galerie Morphose",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "House of Banksy - Une expo non autorisée",
+        "date_debut": "2026-09-08",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-09-07",
     "news": [
       {
@@ -2437,174 +2636,6 @@
         "titre": "Vente Solidaire rentrée scolaire",
         "date_debut": "2026-08-25",
         "lieu": "Maison de quartier des Haubans",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Présidentielle 2027 : le sénateur écologiste Yannick Jadot soutient Raphaël Glucksmann \"sans hésitation\", estimant qu'il \"peut gagner cette élection\"",
-        "resume": "Raphaël Glucksmann a officiellement annoncé sa candidature à la présidentielle. L'écologiste Yannick Jadot dit être \"convaincu\" que le leader de Place publique \"est le candidat le mieux placé\".",
-        "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-senateur-ecologiste-yannick-jadot-soutient-raphael-glucksmann-sans-hesitation-estimant-qu-il-peut-gagner-cette-election_8159192.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 24 Aug 2026 08:30:37 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Guerre en Ukraine : quels sont les enjeux de la nouvelle réunion de la coalition des volontaires",
-        "resume": "Dans un contexte d'intensification des frappes, les principaux soutiens de Kiev échangeront lundi à la mi-journée. Emmanuel Macron a déjà annoncé samedi l'envoi de nouveaux missiles intercepteurs pour",
-        "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-quels-sont-les-enjeux-de-la-nouvelle-reunion-de-la-coalition-des-volontaires_8157416.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 24 Aug 2026 06:01:12 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Le géant du prêt-à-porter Shein va entrer en Bourse à Hong Kong le 1er septembre",
-        "resume": "L'entreprise d'ultra-fast fashion veut utiliser les fonds levés lors de son introduction en Bourse pour financer ses capacités technologiques et renforcer encore sa présence internationale.",
-        "lien": "https://www.franceinfo.fr/economie/entreprises/shein/le-geant-du-pret-a-porter-shein-va-entrer-en-bourse-a-hong-kong-le-1er-septembre_8159165.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 24 Aug 2026 07:52:07 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"On se retrouve dedans sans forcément s'en rendre compte\" : les effets dévastateurs de l'addiction à la kétamine chez les jeunes inquiètent les spécialistes",
-        "resume": "Longtemps consommée dans les seuls espaces festifs, notamment dans les soirées techno, la poudre blanche prend de l'ampleur dans la jeune génération, toutes classes sociales confondues, avec des consé",
-        "lien": "https://www.franceinfo.fr/sante/drogue-addictions/on-se-retrouve-dedans-sans-forcement-s-en-rendre-compte-les-effets-devastateurs-de-l-addiction-a-la-ketamine-chez-les-jeunes-inquietent-les-specialistes_8125583.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 24 Aug 2026 06:02:06 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Seize départements placés en vigilance orange aux orages à partir de lundi après-midi",
-        "resume": "Des \"orages virulents\", d'abord attendus \"sur une large partie sud-ouest du pays\", gagneront ensuite le Massif central et le Sud-Est, prévient Météo-France.",
-        "lien": "https://www.franceinfo.fr/environnement/meteo/seize-departements-places-en-vigilance-orange-aux-orages-a-partir-de-lundi-apres-midi_8159069.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 24 Aug 2026 06:37:24 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Ligue 1 : Ferran Torres sauve le Paris Saint-Germain face à Rennes",
-        "resume": "Le Paris Saint-Germain a arraché le match nul sur la pelouse de Rennes (2-2) pour la première journée de Ligue 1. Entré après la pause, Ferran Torres, nouvelle recrue parisienne, a sauvé le match du P",
-        "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20260824-ligue-1-ferran-torres-sauve-paris-saint-germain-rennes",
-        "date": "Mon, 24 Aug 2026 05:21:39 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Présidence de la Fifa : le patron de l'UEFA Ceferin ne sera pas candidat face à Infantino",
-        "resume": "Le président de l'UEFA, Aleksander Ceferin, a annoncé dans un podcast qu'il ne serait pas candidat lors de la prochaine élection pour la présidence de la Fifa. \"Nous aurons un candidat contre lui\", a-",
-        "lien": "https://www.france24.com/fr/sports/20260824-aleksander-ceferin-ne-candidatera-pas-%C3%A0-la-pr%C3%A9sidence-de-la-fifa-face-%C3%A0-gianni-infantino",
-        "date": "Mon, 24 Aug 2026 04:13:14 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Le géant de l'ultra-fast-fashion Shein va entrer en Bourse à Hong Kong",
-        "resume": "Après des tentatives avortées à New York et à Londres, Shein sera coté à la Bourse de Hong Kong à partir du 1er septembre, ce qui devrait lui permettre de lever jusqu'à 1,5 milliard d'euros. Le géant ",
-        "lien": "https://www.france24.com/fr/%C3%A9co-tech/20260824-le-g%C3%A9ant-de-l-ultra-fast-fashion-shein-est-sur-le-point-d-entrer-en-bourse",
-        "date": "Mon, 24 Aug 2026 01:59:09 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Spider-Man : Brand New Day",
-        "date_sortie": "2026-07-29",
-        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
-        "note": 7.902,
-        "affiche": "https://image.tmdb.org/t/p/w300/yikio8CfJxIA7faZxgvB9FGXy6u.jpg"
-      },
-      {
-        "titre": "L'Odyssée",
-        "date_sortie": "2026-07-15",
-        "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
-        "note": 7.999,
-        "affiche": "https://image.tmdb.org/t/p/w300/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg"
-      },
-      {
-        "titre": "Mutiny",
-        "date_sortie": "2026-08-19",
-        "synopsis": "Après que son patron industriel milliardaire ait été assassiné sous ses yeux, Cole Reed est désigné pour endosser le crime, ce qui le met en fuite alors qu'il s'efforce de découvrir une conspiration internationale.",
-        "note": 6.6,
-        "affiche": "https://image.tmdb.org/t/p/w300/gIEti9QOF06w5FcMLMH36JXHxX1.jpg"
-      },
-      {
-        "titre": "La Fin d'Oak Street",
-        "date_sortie": "2026-08-12",
-        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
-        "note": 6.386,
-        "affiche": "https://image.tmdb.org/t/p/w300/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg"
-      },
-      {
-        "titre": "Insidious : L'Invasion du Lointain",
-        "date_sortie": "2026-08-19",
-        "synopsis": "Gemma, une jeune mère élève sa fille dans la maison de son enfance. Elle découvre qu'elle peut voyager dans le Lointain, ce royaume purgatoire des âmes perdues au cœur de l'univers d'Insidious. Lorsqu'une entité malveill",
-        "note": 6.67,
-        "affiche": "https://image.tmdb.org/t/p/w300/bW8uJOLrtdBnQcQbG9BUQjDgUaT.jpg"
-      },
-      {
-        "titre": "Nightborn",
-        "date_sortie": "2026-07-22",
-        "synopsis": "Rêvant de construire une vie de famille paisible, Saga et son mari Jon s’installent dans la maison où elle a passé une grande partie de son enfance, au cœur de la forêt finlandaise. Mais dès la naissance de leur enfant, ",
-        "note": 6.129,
-        "affiche": "https://image.tmdb.org/t/p/w300/cF1g9qtuRyATaZ75O6zRop2zmfZ.jpg"
-      }
-    ],
-    "albums": [],
-    "evenements": [
-      {
-        "titre": "Formation Assistant(e) de Vie aux Familles",
-        "date_debut": "2026-08-24T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "NOZ recrute son futur Prospecteur itinérant (H/F)",
-        "date_debut": "2026-08-25T06:30:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "La Gendarmerie nationale recrute - Réunion d'informations",
-        "date_debut": "2026-08-25T08:00:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Visio Opportunités du moment - Angers Capucins",
-        "date_debut": "2026-08-25T08:00:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "La Gendarmerie nationale recrute - Réunion d'informations",
-        "date_debut": "2026-08-25T08:00:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "INTERSTELLAR Ré-imaginer la Terre",
-        "date_debut": "2026-08-24",
-        "lieu": "HAB Galerie (Hangar à Bananes)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Expression(s) Décoloniale(s) #4 - Exposition",
-        "date_debut": "2026-08-24",
-        "lieu": "Château des Ducs de Bretagne -   Musée d'Histoire de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Initiation à la peinture digitale : donnez vie à vos idées sur écran !",
-        "date_debut": "2026-08-24",
-        "lieu": "Atelier Le Coquillage et l’Oreille",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Festival Les Rendez-vous de l'Erdre - Jazz et Belle plaisance",
-        "date_debut": "2026-08-24",
-        "lieu": "Nantes Centre et Quartiers",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Terrain d'aventures Dervallières",
-        "date_debut": "2026-08-24",
-        "lieu": "Plaine Lorrain",
         "ville": "Nantes"
       }
     ]
