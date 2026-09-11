@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-09-11",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Elle fait pâle figure à côté de ses voisins\" : pourquoi l'économie française tourne-t-elle à ce point au ralenti ?",
+        "resume": "Les prévisions de croissance pour la France en 2026 ont été revues à la baisse. D'après l'Insee, notre économie devrait connaître en moyenne annuelle une progression \"trois fois moins\" importante que ",
+        "lien": "https://www.franceinfo.fr/economie/croissance/elle-fait-pale-figure-a-cote-de-ses-voisins-pourquoi-l-economie-francaise-tourne-t-elle-a-ce-point-au-ralenti_8187803.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 11 Sep 2026 11:25:55 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Il y a plein d'histoires méconnues\" : vingt-cinq ans après le 11-Septembre, transmettre le souvenir aux nouvelles générations est devenu \"une mission\"",
+        "resume": "Un quart de siècle après les attaques terroristes à New York, près d'un tiers de la population de la ville n'était pas né en 2001. À Ground Zero, une guide qui a vécu ces attentats témoigne auprès des",
+        "lien": "https://www.franceinfo.fr/monde/usa/attentats-du-11-septembre-2001/reportage-il-y-a-plein-d-histoires-meconnues-vingt-cinq-ans-apres-le-11-septembre-transmettre-le-souvenir-aux-nouvelles-generations-est-devenu-une-mission_8187236.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 11 Sep 2026 10:04:46 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Démissions en série, retrait de la ville de Nice, retard... Retour sur deux ans de tourmente au sein du Comité d'organisation des Jeux des Alpes 2030",
+        "resume": "Après une vague de démissions en début d'année, provoquant une crise de gouvernance, la période de calme suivante fut de courte durée pour les membres du Cojop, de nouveau dans l'œil du cyclone depuis",
+        "lien": "https://www.franceinfo.fr/les-jeux-olympiques/alpes-francaises-2030/demissions-en-serie-retrait-de-la-ville-de-nice-retard-retour-sur-deux-ans-de-tourmente-au-sein-du-comite-d-organisation-des-jeux-des-alpes-2030_8119034.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 11 Sep 2026 09:01:44 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Quatre personnes sont mortes dans des échanges de frappes respectives entre la Russie et l'Ukraine",
+        "resume": "Les deux pays sont engagés depuis plusieurs mois dans une nette escalade des frappes à longue portée.",
+        "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/quatre-personnes-sont-mortes-dans-des-echanges-de-frappes-respectives-en-la-russie-et-l-ukraine_8187827.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 11 Sep 2026 12:06:04 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"On peut considérer que le tableau a été spolié deux fois\" : l'une des toiles volées de Renoir faisait l'objet d'une demande de restitution",
+        "resume": "Les deux toiles dérobées au musée Renoir de Cagnes-sur-Mer demeurent introuvables. L'une d'elles, \"Jeune femme au puits\", fait l'objet d'une demande de restitution, depuis 2025, par les héritiers par ",
+        "lien": "https://www.franceinfo.fr/culture/on-peut-considerer-que-le-tableau-a-ete-spolie-deux-fois-l-une-des-toiles-volees-de-renoir-faisait-l-objet-d-une-demande-de-restitution_8188031.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 11 Sep 2026 12:14:53 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Népal, face à l'urgence",
+        "resume": "Le 26 août, après 8 h 30. Un glissement de terrain provoque l'effondrement d'un glacier sur la face nord du Langtang Lirung, un sommet himalayen situé à la frontière entre le Népal et la Chine. En que",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/reporters/20260911-n%C3%A9pal-apr%C3%A8s-l-urgence",
+        "date": "Fri, 11 Sep 2026 09:58:52 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Les victimes invisibles du 11 septembre 2001: l'air toxique cause plus de 9 400 morts",
+        "resume": "Les victimes invisibles des attentats du 11 septembre 2001 sont les milliers de travailleurs décédés ou malades en raison de leur exposition à l'air toxique provoqué par l'effondrement des deux tours.",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260911-les-victimes-invisibles-du-11-septembre-2001-l-air-toxique-cause-plus-de-9-400-morts",
+        "date": "Fri, 11 Sep 2026 09:40:49 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Inde : Vladimir Poutine et Xi Jinping au sommet des Brics",
+        "resume": "Le président russe Vladimir Poutine est arrivé vendredi 11 septembre en Inde pour participer au sommet du bloc diplomatique des Brics. Le Kremlin a été convoqué ce week-end en pleines turbulences géop",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260911-inde-vladimir-poutine-et-xi-jinping-au-sommet-des-brics",
+        "date": "Fri, 11 Sep 2026 09:32:59 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Mutiny",
+        "date_sortie": "2026-08-19",
+        "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il se retrouve piégé à bord d’un porte-cont",
+        "note": 6.43,
+        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
+      },
+      {
+        "titre": "Toxic",
+        "date_sortie": "2026-08-26",
+        "synopsis": "Alors que la domination portugaise s'effondre à Goa, Raya gravit les échelons du monde criminel à travers trahisons et bains de sang pour prendre le contrôle des bas-fonds de la ville, avant de découvrir que le pouvoir e",
+        "note": 7.944,
+        "affiche": "https://image.tmdb.org/t/p/w300/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg"
+      },
+      {
+        "titre": "Juste pour une Nuit",
+        "date_sortie": "2026-08-12",
+        "synopsis": "Quand Owen, qui vient de se faire larguer, rencontre Allie, qui croit encore au grand amour, l'étincelle est immédiate. Cependant, une série de maladresses et de mésaventures séparent les deux seuls célibataires de la vi",
+        "note": 6.8,
+        "affiche": "https://image.tmdb.org/t/p/w300/9ix7kr4DTKSmnBmvugvkRQJb1KO.jpg"
+      },
+      {
+        "titre": "La Fin d'Oak Street",
+        "date_sortie": "2026-08-12",
+        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
+        "note": 6.34,
+        "affiche": "https://image.tmdb.org/t/p/w300/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg"
+      },
+      {
+        "titre": "Les Ensorceleuses 2",
+        "date_sortie": "2026-09-09",
+        "synopsis": "Une famille de sorcières multigénérationnelle, maudite à être sans amour pendant des siècles, tente de briser le sort en affrontant de sombres secrets et en se sacrifiant les uns pour les autres.",
+        "note": 6.4,
+        "affiche": "https://image.tmdb.org/t/p/w300/1fnNv1AOzbUG4gvL4AbenUfIlJp.jpg"
+      },
+      {
+        "titre": "The Dog Stars",
+        "date_sortie": "2026-08-26",
+        "synopsis": "Dans un futur proche où une pandémie sans nom a décimé la société américaine, Hig, un pilote vit sur une base aérienne abandonnée du Colorado avec son chien et un ex-marine. Lorsqu'une transmission aléatoire passe par la",
+        "note": 6.624,
+        "affiche": "https://image.tmdb.org/t/p/w300/w7c49Qgp3TAUC4hlo0mtgRpLOGG.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "Vile No More",
+        "artiste": "Cruel Honey",
+        "date_sortie": "2026-09-04"
+      },
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Atelier découverte des circuits courts",
+        "date_debut": "2026-09-11T08:00:00+00:00",
+        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "MENCO Angers recrute ! Venez nous rencontrer à notre Job Dating",
+        "date_debut": "2026-09-14T06:30:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Déplacements et mobilités: découvrez, échangez et informez-vous",
+        "date_debut": "2026-09-14T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Déplacements et mobilités: découvrez, échangez et informez-vous",
+        "date_debut": "2026-09-14T08:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Déplacements et mobilités: découvrez, échangez et informez-vous",
+        "date_debut": "2026-09-14T09:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Balades touristiques en vélo-taxi",
+        "date_debut": "2026-09-11",
+        "lieu": "centre-ville",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition Le Muséum au fil du temps",
+        "date_debut": "2026-09-11",
+        "lieu": "Place de la Monnaie",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Rideau rue des Carmélites : programme de clôture du Cinématographe",
+        "date_debut": "2026-09-11",
+        "lieu": "Cinématographe (Le)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "What the funk ! Jam 4",
+        "date_debut": "2026-09-11",
+        "lieu": "Nantes Centre et Quartiers",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Mlle Redge - Ma scène",
+        "date_debut": "2026-09-11",
+        "lieu": "les variétés",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-09-10",
     "news": [
       {
@@ -2468,174 +2667,6 @@
         "titre": "INTERSTELLAR Ré-imaginer la Terre",
         "date_debut": "2026-08-29",
         "lieu": "HAB Galerie (Hangar à Bananes)",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-28",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Présidentielle 2027 : François Hollande refuse encore de participer à la primaire social-démocrate et table sur \"un moment de vérité en décembre\"",
-        "resume": "Le candidat de Place publique, Raphaël Glucksmann, qui compte participer à la primaire, est aussi présent à Blois pour la rentrée des socialistes.",
-        "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-le-parti-socialiste-fait-sa-rentree-politique-a-blois-avec-en-ligne-de-mire-la-primaire-de-la-gauche_8166293.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 28 Aug 2026 18:36:14 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Ce que l'on sait des personnes portées disparues dans la coulée de boue au Népal et au Tibet, pays par pays",
-        "resume": "Au Népal, plus de 500 touristes de nationalités étrangères sont toujours portés disparus, selon les chiffres communiqués vendredi. En Chine, au moins 260 étrangers sont recherchés.",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/crues-meurtrieres-au-nepal-et-au-tibet/ce-que-l-on-sait-des-personnes-portees-disparues-dans-la-coulee-de-boue-au-nepal-et-au-tibet-pays-par-pays_8166224.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 28 Aug 2026 17:54:12 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "On vous résume l'affaire qui implique le député LFI Sébastien Delogu, poursuivi pour \"outrage\" envers des policiers marseillais",
-        "resume": "Le parlementaire est convoqué en novembre pour des faits \"d'outrage sur personne dépositaire de l'autorité publique\". De son côté, le député de La France insoumise a porté plainte contre X pour injure",
-        "lien": "https://www.franceinfo.fr/faits-divers/police/on-vous-resume-l-affaire-qui-implique-le-depute-lfi-sebastien-delogu-poursuivi-pour-outrage-envers-des-policiers-marseillais_8166260.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 28 Aug 2026 17:28:24 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Les sapeurs-pompiers professionnels annoncent déposer un préavis de grève du 8 septembre au 20 octobre",
-        "resume": "Après un été marqué par les incendies, l'intersyndicale compte maintenir \"la pression\" sur le gouvernement pour obtenir davantage de moyens.",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/les-sapeurs-pompiers-professionnels-annoncent-deposer-un-preavis-de-greve-du-8-septembre-au-20-octobre_8166761.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 28 Aug 2026 17:02:59 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Le coût des grands incendies de cet été en Gironde, dans les Landes et dans le Var évalué à un demi-milliard d'euros par France Assureurs",
-        "resume": "Ce premier bilan, établi à partir des sinistres signalés jusqu'à la mi-août, fait état d'environ 25 000 sinistres.",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/le-cout-des-grands-incendies-de-cet-ete-en-gironde-dans-les-landes-et-dans-le-var-evalue-a-un-demi-milliard-d-euros-par-france-assureurs_8166653.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 28 Aug 2026 15:56:07 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Un meurtre anti-chrétien en Syrie ? Confusion autour d'un acte de \"vengeance\" instrumentalisé",
-        "resume": "Le 15 août 2026, un chrétien syrien du nom de Nader Boulos Tannous a été tué à Homs. Israël, mais aussi des pays européens comme la Grèce et Chypre, ont aussitôt dénoncé un acte antichrétien. Les auto",
-        "lien": "https://www.france24.com/fr/moyen-orient/20260828-syrie-homs-meurtre-anti-chr%C3%A9tien-confusion-vengeance-instrumentalis%C3%A9-israel",
-        "date": "Fri, 28 Aug 2026 17:46:49 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "🔴 En direct - Crue au Népal-Tibet : le Quai d’Orsay confirme la disparition de quatre Français",
-        "resume": "",
-        "lien": "https://www.france24.com/fr/asie-pacifique/20260828-en-direct-nepal-tibet-chine-crue-meurtriere-nouvelles-coulees-boue-redoutees-aide-humanitaire-touristes",
-        "date": "Fri, 28 Aug 2026 17:06:17 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Sénégal : la Cour suprême maintient le flou sur la date des élections locales",
-        "resume": "🇸🇳 Au Sénégal, toujours pas de date pour les élections municipales et locales. La Cour suprême a rejeté, ce jeudi, le recours d'une partie de l’opposition et de la société civile, qui lui demandait de",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260828-s%C3%A9n%C3%A9gal-la-cour-supr%C3%AAme-maintient-le-flou-sur-la-date-des-%C3%A9lections-locales",
-        "date": "Fri, 28 Aug 2026 16:24:34 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Spider-Man : Brand New Day",
-        "date_sortie": "2026-07-29",
-        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
-        "note": 7.886,
-        "affiche": "https://image.tmdb.org/t/p/w300/yikio8CfJxIA7faZxgvB9FGXy6u.jpg"
-      },
-      {
-        "titre": "Mutiny",
-        "date_sortie": "2026-08-19",
-        "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il se retrouve piégé à bord d’un porte-cont",
-        "note": 6.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
-      },
-      {
-        "titre": "Toxic",
-        "date_sortie": "2026-08-26",
-        "synopsis": "Alors que la domination portugaise s'effondre à Goa, Raya gravit les échelons du monde criminel à travers trahisons et bains de sang pour prendre le contrôle des bas-fonds de la ville, avant de découvrir que le pouvoir e",
-        "note": 5.9,
-        "affiche": "https://image.tmdb.org/t/p/w300/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg"
-      },
-      {
-        "titre": "La Fin d'Oak Street",
-        "date_sortie": "2026-08-12",
-        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
-        "note": 6.36,
-        "affiche": "https://image.tmdb.org/t/p/w300/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg"
-      },
-      {
-        "titre": "Insidious : L'Invasion du Lointain",
-        "date_sortie": "2026-08-19",
-        "synopsis": "Gemma, une jeune mère élève sa fille dans la maison de son enfance. Elle découvre qu'elle peut voyager dans le Lointain, ce royaume purgatoire des âmes perdues au cœur de l'univers d'Insidious. Lorsqu'une entité malveill",
-        "note": 6.5,
-        "affiche": "https://image.tmdb.org/t/p/w300/bW8uJOLrtdBnQcQbG9BUQjDgUaT.jpg"
-      },
-      {
-        "titre": "The Dog Stars",
-        "date_sortie": "2026-08-26",
-        "synopsis": "Dans un futur proche où une pandémie sans nom a décimé la société américaine, Hig, un pilote vit sur une base aérienne abandonnée du Colorado avec son chien et un ex-marine. Lorsqu'une transmission aléatoire passe par la",
-        "note": 7.17,
-        "affiche": "https://image.tmdb.org/t/p/w300/w7c49Qgp3TAUC4hlo0mtgRpLOGG.jpg"
-      }
-    ],
-    "albums": [],
-    "evenements": [
-      {
-        "titre": "Adopter la bonne posture : on n'achète pas tous les jours une ferme !",
-        "date_debut": "2026-08-31T16:30:00+00:00",
-        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Passé recomposé, quand la photographie agite le patrimoine",
-        "date_debut": "2026-09-01T11:00:00+00:00",
-        "lieu": "Collégiale Saint-Martin",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Information sur l'évènement à 'La Place de l'Emploi' : Un Village Itinérant pour Booster Votre Carrière !\" Conseiller AGENCE ROSERAIE",
-        "date_debut": "2026-09-01T11:45:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Angers Capucins: Réunion d'information collective VAE le mercredi 2 septembre de 14 à 16 heures",
-        "date_debut": "2026-09-02T12:00:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Vitalliance Angers vous ouvre ses portes : découvrez le métier d'auxiliaire de vie",
-        "date_debut": "2026-09-03T08:00:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "INTERSTELLAR Ré-imaginer la Terre",
-        "date_debut": "2026-08-28",
-        "lieu": "HAB Galerie (Hangar à Bananes)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Expression(s) Décoloniale(s) #4 - Exposition",
-        "date_debut": "2026-08-28",
-        "lieu": "Château des Ducs de Bretagne -   Musée d'Histoire de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le Voyage permanent - Coeur historique - Visite guidée",
-        "date_debut": "2026-08-28",
-        "lieu": "Nantes (Centre ville)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Balades touristiques en vélo-taxi",
-        "date_debut": "2026-08-28",
-        "lieu": "centre-ville",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le Potager de la Cantine",
-        "date_debut": "2026-08-28",
-        "lieu": "Nantes",
         "ville": "Nantes"
       }
     ]
