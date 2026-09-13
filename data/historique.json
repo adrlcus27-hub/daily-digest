@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-09-13",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Il faudrait peut-être un peu plus de peps\" : à Nogent-sur-Marne, Bruno Retailleau cherche à faire décoller sa campagne",
+        "resume": "À la peine dans les sondages, Bruno Retailleau cherche un nouvel élan auprès des jeunes de son parti et veut se démarquer de ses adversaires.",
+        "lien": "https://www.franceinfo.fr/elections/presidentielle/il-faudrait-peut-etre-un-peu-plus-de-peps-a-nogent-sur-marne-bruno-retailleau-cherche-a-faire-decoller-sa-campagne_8190503.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 13 Sep 2026 09:55:42 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Déraillement d'un TER en Seine-Maritime : \"On est passé à côté d'une catastrophe très grave\", assure le syndicat SUD-Rail",
+        "resume": "\"Il aurait pu y avoir des morts.\" Après le déraillement d'un TER vendredi soir en Seine-Maritime, le secrétaire fédéral de SUD-Rail Fabien Villedieu estime que l'accident aurait pu avoir des conséquen",
+        "lien": "https://www.franceinfo.fr/faits-divers/deraillement-d-un-ter-en-seine-maritime-on-est-passe-a-cote-d-une-catastrophe-tres-grave-assure-le-syndicat-sud-rail_8190494.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 13 Sep 2026 09:08:52 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Je vais bien\" : Céline Dion émue, résiliente et ambitieuse, rassure son public lors de son retour sur scène",
+        "resume": "\"On ne change pas\" en ouverture, \"S'il suffisait d'aimer\" en ultime rappel... L'artiste québécoise a maté le mal dont elle souffre pour offrir un show flamboyant à une Arena comblée.",
+        "lien": "https://www.franceinfo.fr/culture/musique/celine-dion/je-vais-bien-celine-dion-emue-resiliente-et-ambitieuse-rassure-son-public-lors-de-son-grand-retour-sur-scene-pres-de-paris_8189744.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 13 Sep 2026 11:11:48 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Guerre en Ukraine : le Kremlin n'exclut pas une reprise des négociations trilatérales avec Kiev en octobre",
+        "resume": "C'est ce qu'a déclaré dimanche à des journalistes russes Dmitri Peskov, cité par les agences russes Ria Novosti et Tass.",
+        "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-kremlin-n-exclut-pas-une-reprise-des-negociations-trilaterales-avec-kiev-en-octobre_8190662.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 13 Sep 2026 12:40:59 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"L'opportunité d'écrire l'histoire du sport français\" : Gabby Williams et l'équipe de France peuvent-elles renverser les Américaines pour leur première finale mondiale ?",
+        "resume": "Tombeuses de l'Allemagne en demies, les Bleues vont jouer leur première finale de Coupe du monde, dimanche. Elles y retrouveront les Etats-Unis, qui les avaient privées de l'or olympique à Paris, en 2",
+        "lien": "https://www.franceinfo.fr/sports/basket/l-opportunite-d-ecrire-l-histoire-du-sport-francais-gabby-williams-et-l-equipe-de-france-peuvent-elles-renverser-les-americaines-pour-leur-premiere-finale-mondiale_8188259.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 13 Sep 2026 09:11:58 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Mondial de basket : les Françaises veulent détrôner la Team USA en finale",
+        "resume": "Après leur victoire samedi face à l'Allemagne, hôte du tournoi, les Bleues doivent disputer dimanche soir la finale de la Coupe du monde, une première dans l'histoire du basket français. Face à la Tea",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20260913-basket-fran%C3%A7aises-veulent-d%C3%A9tr%C3%B4ner-team-usa-finale-mondial",
+        "date": "Sun, 13 Sep 2026 09:34:01 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Le Sénégal accueille la flamme olympique des Jeux de la Jeunesse",
+        "resume": "A sept semaines du coup d'envoi des Jeux de la Jeunesse (JOJ), le Sénégal a accueilli samedi en grande pompe la flamme olympique pour ce premier événement olympique organisé sur le continent africain,",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260913-le-s%C3%A9n%C3%A9gal-accueille-la-flamme-olympique-des-jeux-de-la-jeunesse",
+        "date": "Sun, 13 Sep 2026 09:28:15 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "BRICS : le sommet du sud global dominé par le conflit au Moyen-Orient",
+        "resume": "Alban Alvarez, notre correspondant à New Delhi, décrypte le sommet.",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260913-brics-le-sommet-du-sud-global-domin%C3%A9-par-le-conflit-au-moyen-orient",
+        "date": "Sun, 13 Sep 2026 09:11:11 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Mutiny",
+        "date_sortie": "2026-08-19",
+        "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il se retrouve piégé à bord d’un porte-cont",
+        "note": 6.4,
+        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
+      },
+      {
+        "titre": "La Fin d'Oak Street",
+        "date_sortie": "2026-08-12",
+        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
+        "note": 6.348,
+        "affiche": "https://image.tmdb.org/t/p/w300/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg"
+      },
+      {
+        "titre": "Juste pour une Nuit",
+        "date_sortie": "2026-08-12",
+        "synopsis": "Quand Owen, qui vient de se faire larguer, rencontre Allie, qui croit encore au grand amour, l'étincelle est immédiate. Cependant, une série de maladresses et de mésaventures séparent les deux seuls célibataires de la vi",
+        "note": 6.705,
+        "affiche": "https://image.tmdb.org/t/p/w300/9ix7kr4DTKSmnBmvugvkRQJb1KO.jpg"
+      },
+      {
+        "titre": "Les Ensorceleuses 2",
+        "date_sortie": "2026-09-09",
+        "synopsis": "Une famille de sorcières multigénérationnelle, maudite à être sans amour pendant des siècles, tente de briser le sort en affrontant de sombres secrets et en se sacrifiant les uns pour les autres.",
+        "note": 6.3,
+        "affiche": "https://image.tmdb.org/t/p/w300/1fnNv1AOzbUG4gvL4AbenUfIlJp.jpg"
+      },
+      {
+        "titre": "Toxic",
+        "date_sortie": "2026-08-26",
+        "synopsis": "Alors que la domination portugaise s'effondre à Goa, Raya gravit les échelons du monde criminel à travers trahisons et bains de sang pour prendre le contrôle des bas-fonds de la ville, avant de découvrir que le pouvoir e",
+        "note": 8.0,
+        "affiche": "https://image.tmdb.org/t/p/w300/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg"
+      },
+      {
+        "titre": "La Pat’ Patrouille : Le film mission Dino",
+        "date_sortie": "2026-08-05",
+        "synopsis": "Lorsqu’une mystérieuse tempête surprend leur navire, la Pat’ Patrouille s’échoue sur une île tropicale encore inexplorée… et peuplée de dinosaures ! Ils y rencontrent Rex, un chiot courageux installé sur l’île depuis des",
+        "note": 7.299,
+        "affiche": "https://image.tmdb.org/t/p/w300/tincY2hhSGkpGncWMDUfrwku6Q2.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 1",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "MENCO Angers recrute ! Venez nous rencontrer à notre Job Dating",
+        "date_debut": "2026-09-14T06:30:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Déplacements et mobilités: découvrez, échangez et informez-vous",
+        "date_debut": "2026-09-14T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Déplacements et mobilités: découvrez, échangez et informez-vous",
+        "date_debut": "2026-09-14T08:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Déplacements et mobilités: découvrez, échangez et informez-vous",
+        "date_debut": "2026-09-14T09:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Présentation offre de service Cadres",
+        "date_debut": "2026-09-14T12:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Biodivers'été 2026",
+        "date_debut": "2026-09-13",
+        "lieu": "Parcs et jardins",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Balades touristiques en vélo-taxi",
+        "date_debut": "2026-09-13",
+        "lieu": "centre-ville",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Décryptages - Enfance(s), grandir quelque part - EXPOSITION",
+        "date_debut": "2026-09-13",
+        "lieu": "Cosmopolis",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Balades touristiques en vélo-taxi",
+        "date_debut": "2026-09-13",
+        "lieu": "centre-ville",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "House of Banksy - Une expo non autorisée",
+        "date_debut": "2026-09-13",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-09-12",
     "news": [
       {
@@ -2468,205 +2667,6 @@
         "titre": "Expression(s) Décoloniale(s) #4 - Exposition",
         "date_debut": "2026-08-31",
         "lieu": "Château des Ducs de Bretagne -   Musée d'Histoire de Nantes",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-30",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "L'Islande dit \"non\" à une reprise des négociations d'adhésion à l'Union européenne",
-        "resume": "C'est un coup dur pour l'UE, qui aurait vu d'un bon œil une candidature de cette riche île de l'Atlantique Nord et semblait prête à des compromis pour faciliter son intégration.",
-        "lien": "https://www.franceinfo.fr/monde/europe/union-europeenne/referendum-sur-l-union-europeenne-en-islande-le-non-en-avance-de-cinq-points-alors-que-le-depouillement-touche-a-sa-fin_8169350.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 30 Aug 2026 11:47:46 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Deux marins disparus après le naufrage d'un bateau de pêche français de Saint-Brieuc au large de Plymouth en Angleterre",
-        "resume": "Un bateau de pêche français a émis un signal de détresse samedi soir. Une importante opération de recherche a été lancée.",
-        "lien": "https://www.franceinfo.fr/faits-divers/deux-marins-disparus-apres-le-naufrage-d-un-bateau-de-peche-francais-au-large-de-plymouth-en-angleterre_8169353.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 30 Aug 2026 11:47:45 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Présidentielle 2027 : Olivier Faure va annoncer sa candidature à la primaire de la gauche, Edouard Philippe attendu chez Gérald Darmanin à Tourcoing",
-        "resume": "Selon les informations de France Télévisions, le premier secrétaire du Parti socialiste doit officiellement se prononcer \"dans les prochaines heures\".",
-        "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-olivier-faure-sur-le-point-d-annoncer-sa-candidature-a-blois-edouard-philippe-attendu-chez-gerald-darmanin-a-tourcoing_8169221.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 30 Aug 2026 10:51:34 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Crues meurtrières au Népal et au Tibet : un nouveau bilan fait état de 752 morts et plus de 3 000 disparus, les opérations de secours compliquées par la montée des eaux",
-        "resume": "Les autorités népalaises ont appelé les secouristes à la \"prudence\", en raison de la montée des eaux et de fortes pluies.",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/crues-meurtrieres-au-nepal-et-au-tibet/direct-crues-meurtrieres-au-nepal-et-au-tibet-le-bilan-grimpe-a-au-moins-750-morts-et-plus-de-3-000-disparus-les-operations-de-secours-compliquees-par-la-montee-des-eaux_8169179.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 30 Aug 2026 12:03:03 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Guerre en Iran : le secteur pétrolier bénéficie-t-il de la crise qui se prolonge dans le détroit d'Ormuz ?",
-        "resume": "Six mois après le début du conflit entre les Etats-Unis et l'Iran, exportateurs et importateurs de pétrole se sont adaptés au blocus du passage maritime. Non sans conséquences sur le marché de l'or no",
-        "lien": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/guerre-en-iran-le-secteur-petrolier-beneficie-t-il-de-la-crise-qui-se-prolonge-dans-le-detroit-d-ormuz_8165009.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 30 Aug 2026 06:54:56 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Etats-Unis : déportation des personnes en situation irrégulière vers le Cameroun",
-        "resume": "Depuis son retour au pouvoir, Donald Trump a fait du départ des personnes en situation irrégulière du territoire américain une priorité. Mais lorsque leur expulsion vers leur pays d’origine s’avère di",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260830-etats-unis-d%C3%A9portation-des-personnes-en-situation-irr%C3%A9guli%C3%A8re-vers-le-cameroun",
-        "date": "Sun, 30 Aug 2026 11:03:20 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Japon : des \"frigos humains\" pour soulager les employés des canicules",
-        "resume": "Zoom sur les \"frigos humains\" japonais pour soulager les employés des canicules.",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260830-japon-des-frigos-humains-pour-soulager-les-employ%C3%A9s-des-canicules",
-        "date": "Sun, 30 Aug 2026 10:57:44 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Des méduses bloquent les filets de pêche en France suite aux vagues de chaleur",
-        "resume": "Après les fortes vagues de chaleur en France, des méduses bloquent les filets de pêche en France.",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260830-des-m%C3%A9duses-bloquent-les-filets-de-p%C3%AAche-en-france-suite-aux-vagues-de-chaleur",
-        "date": "Sun, 30 Aug 2026 10:39:20 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Spider-Man : Brand New Day",
-        "date_sortie": "2026-07-29",
-        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
-        "note": 7.886,
-        "affiche": "https://image.tmdb.org/t/p/w300/yikio8CfJxIA7faZxgvB9FGXy6u.jpg"
-      },
-      {
-        "titre": "Mutiny",
-        "date_sortie": "2026-08-19",
-        "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il se retrouve piégé à bord d’un porte-cont",
-        "note": 6.352,
-        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
-      },
-      {
-        "titre": "The Dog Stars",
-        "date_sortie": "2026-08-26",
-        "synopsis": "Dans un futur proche où une pandémie sans nom a décimé la société américaine, Hig, un pilote vit sur une base aérienne abandonnée du Colorado avec son chien et un ex-marine. Lorsqu'une transmission aléatoire passe par la",
-        "note": 7.0,
-        "affiche": "https://image.tmdb.org/t/p/w300/w7c49Qgp3TAUC4hlo0mtgRpLOGG.jpg"
-      },
-      {
-        "titre": "La Fin d'Oak Street",
-        "date_sortie": "2026-08-12",
-        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
-        "note": 6.3,
-        "affiche": "https://image.tmdb.org/t/p/w300/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg"
-      },
-      {
-        "titre": "Insidious : L'Invasion du Lointain",
-        "date_sortie": "2026-08-19",
-        "synopsis": "Gemma, une jeune mère élève sa fille dans la maison de son enfance. Elle découvre qu'elle peut voyager dans le Lointain, ce royaume purgatoire des âmes perdues au cœur de l'univers d'Insidious. Lorsqu'une entité malveill",
-        "note": 6.5,
-        "affiche": "https://image.tmdb.org/t/p/w300/bW8uJOLrtdBnQcQbG9BUQjDgUaT.jpg"
-      },
-      {
-        "titre": "Nightborn",
-        "date_sortie": "2026-07-22",
-        "synopsis": "Rêvant de construire une vie de famille paisible, Saga et son mari Jon s’installent dans la maison où elle a passé une grande partie de son enfance, au cœur de la forêt finlandaise. Mais dès la naissance de leur enfant, ",
-        "note": 6.074,
-        "affiche": "https://image.tmdb.org/t/p/w300/cF1g9qtuRyATaZ75O6zRop2zmfZ.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Midnights in October",
-        "artiste": "Midnights in October",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Adopter la bonne posture : on n'achète pas tous les jours une ferme !",
-        "date_debut": "2026-08-31T16:30:00+00:00",
-        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Passé recomposé, quand la photographie agite le patrimoine",
-        "date_debut": "2026-09-01T11:00:00+00:00",
-        "lieu": "Collégiale Saint-Martin",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Information sur l'évènement à 'La Place de l'Emploi' : Un Village Itinérant pour Booster Votre Carrière !\" Conseiller AGENCE ROSERAIE",
-        "date_debut": "2026-09-01T11:45:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Angers Capucins: Réunion d'information collective VAE le mercredi 2 septembre de 14 à 16 heures",
-        "date_debut": "2026-09-02T12:00:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Vitalliance Angers vous ouvre ses portes : découvrez le métier d'auxiliaire de vie",
-        "date_debut": "2026-09-03T08:00:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "INTERSTELLAR Ré-imaginer la Terre",
-        "date_debut": "2026-08-30",
-        "lieu": "HAB Galerie (Hangar à Bananes)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Biodivers'été 2026",
-        "date_debut": "2026-08-30",
-        "lieu": "Parcs et jardins",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Expression(s) Décoloniale(s) #4 - Exposition",
-        "date_debut": "2026-08-30",
-        "lieu": "Château des Ducs de Bretagne -   Musée d'Histoire de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Croisière Estuaire Nantes-St Nazaire",
-        "date_debut": "2026-08-30",
-        "lieu": "Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "House of Banksy - Une expo non autorisée",
-        "date_debut": "2026-08-30",
-        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
         "ville": "Nantes"
       }
     ]
