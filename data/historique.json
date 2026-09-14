@@ -1,5 +1,173 @@
 [
   {
+    "date": "2026-09-14",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Une ONG accuse Israël d'\"éliminer\" la possibilité d'une nation palestinienne en Cisjordanie occupée",
+        "resume": "L'ONG de défense des droits humains B'Tselem affirme que cet objectif s'appuie sur \"la violence et l'intimidation, les restrictions de mouvement, l'étouffement économique, la destruction sociale et po",
+        "lien": "https://www.franceinfo.fr/monde/palestine/une-ong-accuse-israel-d-eliminer-la-possibilite-d-une-nation-palestinienne-en-cisjordanie-occupee_8191793.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 14 Sep 2026 12:37:03 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Ce que l'on sait de la frappe de drone russe contre un train en Ukraine près de la frontière avec la Pologne",
+        "resume": "Selon la compagnie ferroviaire ukrainienne, \"il est très probable\" que l'attaque russe ait visé un autre train qui transportait \"des conseillers à la sécurité et des anciens dirigeants européens dont ",
+        "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ce-que-l-on-sait-de-la-frappe-de-drone-russe-contre-un-train-en-ukraine-pres-de-la-frontiere-avec-la-pologne_8191496.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 14 Sep 2026 10:56:16 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Policiers, salariés du secteur de l'énergie, inaction climatique... Qui se mobilise (et pourquoi) mardi 15 septembre ?",
+        "resume": "Dans un contexte budgétaire contraint, de nombreuses professions ont prévu de manifester à Paris.",
+        "lien": "https://www.franceinfo.fr/economie/greve/policiers-salaries-du-secteur-de-l-energie-inaction-climatique-qui-se-mobilise-et-pourquoi-mardi-15-septembre_8190821.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 14 Sep 2026 06:03:40 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Une vidéo montre un policier jetant un SDF à terre à Carcassonne, l'IGPN saisie et une enquête ouverte",
+        "resume": "Les faits remontent au 21 juin, jour de la Fête de la musique. La vidéo du policier qui jette l'homme à terre a été diffusée samedi sur X par un député de La France insoumise.",
+        "lien": "https://www.franceinfo.fr/faits-divers/police/l-igpn-saisie-et-une-enquete-ouverte-pour-violences-volontaires-apres-la-diffusion-d-une-video-qui-montre-un-policier-jeter-a-terre-un-sdf-a-carcassonne_8191814.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 14 Sep 2026 13:01:57 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Plus que quelques jours pour désigner les illustrations des nouveaux billets en euros",
+        "resume": "Entre le visage de personnalités historiques ou un aperçu du patrimoine écologique de l'Union sur les futurs billets européens, que choisiriez-vous ? La consultation en ligne lancée par la Banque cent",
+        "lien": "https://www.franceinfo.fr/monde/europe/plus-que-quelques-jours-pour-designer-les-illustrations-des-nouveaux-billets-en-euros_8190977.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 14 Sep 2026 12:17:00 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Attentat de Trèbes et Carcassonne : le procès en appel s'ouvre à Paris",
+        "resume": "La petite amie du terroriste qui avait tué quatre personnes en 2018, dont le gendarme Arnaud Beltrame, est rejugée à partir de lundi aux côtés d'un ami de l'assaillant. Le parquet national antiterrori",
+        "lien": "https://www.france24.com/fr/france/20260914-attentat-tr%C3%A8bes-carcassonne-proc%C3%A8s-en-appel-s-ouvre-%C3%A0-paris-terrorisme",
+        "date": "Mon, 14 Sep 2026 11:23:53 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Guerre en Ukraine : la Russie frappe à 800 mètres de la Pologne",
+        "resume": "L'Ukraine et la Pologne ont dénoncé, dimanche 13 septembre, des frappes russes qui ont endommagé un train à destination de Varsovie tout près de la frontière polonaise, où un autre convoi transportant",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260914-guerre-en-ukraine-la-russie-frappe-%C3%A0-800-m%C3%A8tres-de-la-pologne",
+        "date": "Mon, 14 Sep 2026 10:54:33 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Législatives en Suède : la droite et la gauche au coude-à-coude",
+        "resume": "En Suède, les résultats officiels des législatives seront confirmés mercredi 16 septembre, quand toutes les voix des Suédois de l'étranger et des personnes ayant voté par anticipation auront été compt",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260914-l%C3%A9gislatives-en-su%C3%A8de-la-droite-et-la-gauche-au-coude-%C3%A0-coude",
+        "date": "Mon, 14 Sep 2026 10:54:09 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Mutiny",
+        "date_sortie": "2026-08-19",
+        "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il se retrouve piégé à bord d’un porte-cont",
+        "note": 6.425,
+        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
+      },
+      {
+        "titre": "La Fin d'Oak Street",
+        "date_sortie": "2026-08-12",
+        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
+        "note": 6.4,
+        "affiche": "https://image.tmdb.org/t/p/w300/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg"
+      },
+      {
+        "titre": "Juste pour une Nuit",
+        "date_sortie": "2026-08-12",
+        "synopsis": "Quand Owen, qui vient de se faire larguer, rencontre Allie, qui croit encore au grand amour, l'étincelle est immédiate. Cependant, une série de maladresses et de mésaventures séparent les deux seuls célibataires de la vi",
+        "note": 6.623,
+        "affiche": "https://image.tmdb.org/t/p/w300/9ix7kr4DTKSmnBmvugvkRQJb1KO.jpg"
+      },
+      {
+        "titre": "Les Ensorceleuses 2",
+        "date_sortie": "2026-09-09",
+        "synopsis": "Une famille de sorcières multigénérationnelle, maudite à être sans amour pendant des siècles, tente de briser le sort en affrontant de sombres secrets et en se sacrifiant les uns pour les autres.",
+        "note": 5.952,
+        "affiche": "https://image.tmdb.org/t/p/w300/1fnNv1AOzbUG4gvL4AbenUfIlJp.jpg"
+      },
+      {
+        "titre": "La Pat’ Patrouille : Le film mission Dino",
+        "date_sortie": "2026-08-05",
+        "synopsis": "Lorsqu’une mystérieuse tempête surprend leur navire, la Pat’ Patrouille s’échoue sur une île tropicale encore inexplorée… et peuplée de dinosaures ! Ils y rencontrent Rex, un chiot courageux installé sur l’île depuis des",
+        "note": 7.33,
+        "affiche": "https://image.tmdb.org/t/p/w300/tincY2hhSGkpGncWMDUfrwku6Q2.jpg"
+      },
+      {
+        "titre": "Toxic",
+        "date_sortie": "2026-08-26",
+        "synopsis": "Alors que la domination portugaise s'effondre à Goa, Raya gravit les échelons du monde criminel à travers trahisons et bains de sang pour prendre le contrôle des bas-fonds de la ville, avant de découvrir que le pouvoir e",
+        "note": 8.0,
+        "affiche": "https://image.tmdb.org/t/p/w300/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg"
+      }
+    ],
+    "albums": [],
+    "evenements": [
+      {
+        "titre": "MENCO Angers recrute ! Venez nous rencontrer à notre Job Dating",
+        "date_debut": "2026-09-14T06:30:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Déplacements et mobilités: découvrez, échangez et informez-vous",
+        "date_debut": "2026-09-14T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Déplacements et mobilités: découvrez, échangez et informez-vous",
+        "date_debut": "2026-09-14T08:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Déplacements et mobilités: découvrez, échangez et informez-vous",
+        "date_debut": "2026-09-14T09:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Présentation offre de service Cadres",
+        "date_debut": "2026-09-14T12:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Décryptages - Enfance(s), grandir quelque part - EXPOSITION",
+        "date_debut": "2026-09-14",
+        "lieu": "Cosmopolis",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le Voyage permanent - Coeur historique - Visite guidée",
+        "date_debut": "2026-09-14",
+        "lieu": "Nantes (Centre ville)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Biodivers'été 2026",
+        "date_debut": "2026-09-14",
+        "lieu": "Parcs et jardins",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "The Art of the Brick - Exposition d’art en Lego",
+        "date_debut": "2026-09-14",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "House of Banksy - Une expo non autorisée",
+        "date_debut": "2026-09-14",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-09-13",
     "news": [
       {
@@ -2499,174 +2667,6 @@
         "titre": "Don du sang — Maison du don, Nantes",
         "date_debut": "2026-09-01",
         "lieu": "Maison du don",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-31",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Crues au Népal : les opérations de secours se poursuivent, des ouvriers d'une centrale électrique toujours bloqués dans un tunnel",
-        "resume": "Les secouristes peinent à accéder à certains chantiers, où des dizaines d'ouvriers sont bloqués depuis la crue survenue mercredi.",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/crues-meurtrieres-au-nepal-et-au-tibet/direct-le-bilan-de-la-crue-au-nepal-s-aggrave-a-903-morts-et-4-247-disparus-des-identifications-toujours-en-cours_8170229.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 31 Aug 2026 12:46:08 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Le RN prévoit un référendum sur l’interdiction du port du voile, en cas de victoire à la présidentielle 2027",
-        "resume": "Selon l'entourage de Marine Le Pen, lundi auprès de France Inter, ce référendum serait une façon \"d’enjamber\" le Conseil constitutionnel, qui ne peut pas statuer sur des lois référendaires.",
-        "lien": "https://www.franceinfo.fr/elections/presidentielle/le-rn-prevoit-un-referendum-sur-l-interdiction-du-port-du-voile-en-cas-de-victoire-a-la-presidentielle-2027_8170688.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 31 Aug 2026 13:39:57 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Valérie Pécresse met en garde contre \"la fragmentation\" de la droite lors de la présidentielle 2027, après sa défaite \"douloureusement vécue\" en 2022",
-        "resume": "Face au risque de voir le RN briguer l'Elysée, \"la droite est devant une responsabilité historique\", insiste la présidente LR de la région Île-de-France, invitée lundi du 8.30 franceinfo.",
-        "lien": "https://www.franceinfo.fr/elections/presidentielle/valerie-pecresse-met-en-garde-contre-la-fragmentation-de-la-droite-lors-de-la-presidentielle-2027-apres-sa-defaite-douloureusement-vecue-en-2022_8170487.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 31 Aug 2026 12:08:02 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Un homme soupçonné d'être à l'origine des tirs mortels en marge d'une rave-party en Suisse a été arrêté",
-        "resume": "Une jeune femme est morte et cinq personnes ont été blessées dans la nuit de samedi à dimanche à Aarau, près de Zurich.",
-        "lien": "https://www.franceinfo.fr/faits-divers/un-homme-soupconne-d-etre-a-l-origine-des-tirs-mortels-en-marge-d-une-rave-party-en-suisse-a-ete-arrete_8170664.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 31 Aug 2026 13:32:36 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Mon corps commence à me lâcher\" : après son élimination brutale à l'US Open, Novak Djokovic se rapproche-t-il de la retraite ?",
-        "resume": "Après sa défaillance physique criante, dimanche, la question de l'imminence de la retraite du Serbe de 39 ans se pose.",
-        "lien": "https://www.franceinfo.fr/sports/tennis/novak-djokovic/mon-corps-commence-a-me-lacher-apres-son-elimination-brutale-a-l-us-open-novak-djokovic-se-rapproche-t-il-de-la-retraite_8170496.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 31 Aug 2026 13:11:49 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Présidentielle 2027 : pourquoi Marine Le Pen bénéficie d'un électorat plus stable que ses rivaux",
-        "resume": "Marine Le Pen arrive largement en tête des intentions de vote pour le premier tour de la présidentielle de 2027, selon un sondage Elabe publié samedi. Invité de l'antenne de France 24, le politologue ",
-        "lien": "https://www.france24.com/fr/france/20260831-pr%C3%A9sidentielle-2027-pourquoi-marine-le-pen-b%C3%A9n%C3%A9ficie-%C3%A9lectorat-plus-stable-rivaux",
-        "date": "Mon, 31 Aug 2026 12:38:16 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Niger : des arrestations en cours après la mutinerie contre la junte",
-        "resume": "🇳🇪 Au Niger, des arrestations sont en cours après la mutinerie survenue ce week-end à Niamey. Les autorités affirment avoir repris le contrôle de la situation dès samedi soir et indiquent que la major",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260831-niger-des-arrestation-en-cours-apr%C3%A8s-la-mutinerie-contre-la-junte",
-        "date": "Mon, 31 Aug 2026 12:06:05 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Fusillade lors d'une rave party en Suisse : la police annonce l'arrestation d'un suspect",
-        "resume": "Un Suisse de 43 ans a été arrêté lundi dans le cadre de l'enquête sur les tirs qui ont fait un mort et cinq blessés dans la nuit de samedi à dimanche lors d'une rave party à Aarau, près de Zurich, a a",
-        "lien": "https://www.france24.com/fr/europe/20260831-fusillade-rave-party-suisse-police-annonce-arrestation-suspect-fusillade",
-        "date": "Mon, 31 Aug 2026 11:50:22 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Spider-Man : Brand New Day",
-        "date_sortie": "2026-07-29",
-        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
-        "note": 7.878,
-        "affiche": "https://image.tmdb.org/t/p/w300/pEEI5mMoyZrbapzWC6vB6UmesDW.jpg"
-      },
-      {
-        "titre": "Mutiny",
-        "date_sortie": "2026-08-19",
-        "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il se retrouve piégé à bord d’un porte-cont",
-        "note": 6.3,
-        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
-      },
-      {
-        "titre": "Toxic",
-        "date_sortie": "2026-08-26",
-        "synopsis": "Alors que la domination portugaise s'effondre à Goa, Raya gravit les échelons du monde criminel à travers trahisons et bains de sang pour prendre le contrôle des bas-fonds de la ville, avant de découvrir que le pouvoir e",
-        "note": 7.1,
-        "affiche": "https://image.tmdb.org/t/p/w300/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg"
-      },
-      {
-        "titre": "The Dog Stars",
-        "date_sortie": "2026-08-26",
-        "synopsis": "Dans un futur proche où une pandémie sans nom a décimé la société américaine, Hig, un pilote vit sur une base aérienne abandonnée du Colorado avec son chien et un ex-marine. Lorsqu'une transmission aléatoire passe par la",
-        "note": 6.7,
-        "affiche": "https://image.tmdb.org/t/p/w300/w7c49Qgp3TAUC4hlo0mtgRpLOGG.jpg"
-      },
-      {
-        "titre": "La Fin d'Oak Street",
-        "date_sortie": "2026-08-12",
-        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
-        "note": 6.352,
-        "affiche": "https://image.tmdb.org/t/p/w300/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg"
-      },
-      {
-        "titre": "Insidious : L'Invasion du Lointain",
-        "date_sortie": "2026-08-19",
-        "synopsis": "Gemma, une jeune mère élève sa fille dans la maison de son enfance. Elle découvre qu'elle peut voyager dans le Lointain, ce royaume purgatoire des âmes perdues au cœur de l'univers d'Insidious. Lorsqu'une entité malveill",
-        "note": 6.622,
-        "affiche": "https://image.tmdb.org/t/p/w300/bW8uJOLrtdBnQcQbG9BUQjDgUaT.jpg"
-      }
-    ],
-    "albums": [],
-    "evenements": [
-      {
-        "titre": "Adopter la bonne posture : on n'achète pas tous les jours une ferme !",
-        "date_debut": "2026-08-31T16:30:00+00:00",
-        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Passé recomposé, quand la photographie agite le patrimoine",
-        "date_debut": "2026-09-01T11:00:00+00:00",
-        "lieu": "Collégiale Saint-Martin",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Information sur l'évènement à 'La Place de l'Emploi' : Un Village Itinérant pour Booster Votre Carrière !\" Conseiller AGENCE ROSERAIE",
-        "date_debut": "2026-09-01T11:45:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Angers Capucins: Réunion d'information collective VAE le mercredi 2 septembre de 14 à 16 heures",
-        "date_debut": "2026-09-02T12:00:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Vitalliance Angers vous ouvre ses portes : découvrez le métier d'auxiliaire de vie",
-        "date_debut": "2026-09-03T08:00:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Le Voyage permanent - Coeur historique - Visite guidée",
-        "date_debut": "2026-08-31",
-        "lieu": "Nantes (Centre ville)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Cours Découvertes Pilates & Stretching Postural – Association Umaneha",
-        "date_debut": "2026-08-31",
-        "lieu": "Dalby Sport-Santé",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "INTERSTELLAR Ré-imaginer la Terre",
-        "date_debut": "2026-08-31",
-        "lieu": "HAB Galerie (Hangar à Bananes)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Terrain d'aventures de Nantes Nord des Ceméa Pays de la loire",
-        "date_debut": "2026-08-31",
-        "lieu": "2 rue Samuel de Champlain",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Expression(s) Décoloniale(s) #4 - Exposition",
-        "date_debut": "2026-08-31",
-        "lieu": "Château des Ducs de Bretagne -   Musée d'Histoire de Nantes",
         "ville": "Nantes"
       }
     ]
