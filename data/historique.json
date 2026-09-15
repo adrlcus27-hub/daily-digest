@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-09-15",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Le ministre de l'Economie ouvre la porte à de nouvelles aides ciblées mais écarte une baisse des taxes sur les carburants",
+        "resume": "\"On a montré depuis le mois d'avril qu'on était capable d'adapter les dispositifs au plus près, et on continuera évidemment à le faire, si c'est nécessaire\", a déclaré Roland Lescure.",
+        "lien": "https://www.franceinfo.fr/economie/automobile/essence/le-ministre-de-l-economie-ouvre-la-porte-a-de-nouvelles-aides-ciblees-mais-ecarte-une-baisse-des-taxes-sur-les-carburants_8193362.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 15 Sep 2026 12:52:10 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Prix des carburants, \"surcharge administrative\", répartition des quotas… Pourquoi les marins-pêcheurs se mobilisent-ils ?",
+        "resume": "Plusieurs d'entre eux ont bloqué le dépôt pétrolier de Fos-sur-Mer, dans les Bouches-du-Rhône, mardi matin. Des actions avaient déjà eu lieu lundi dans l'Hérault et les Pyrénées-Orientales. La ministr",
+        "lien": "https://www.franceinfo.fr/economie/greve/prix-des-carburants-surcharge-administrative-repartition-des-quotas-pourquoi-les-marins-pecheurs-se-mobilisent-ils_8193026.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 15 Sep 2026 11:01:47 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Mobilisations en France : les policiers manifestent à Paris, les électriciens et gaziers prévoient une grève \"très suivie\"",
+        "resume": "Les pêcheurs ont bloqué mardi matin un dépôt pétrolier afin de protester contre la hausse des prix du carburant et la dégradation de leurs conditions de travail.",
+        "lien": "https://www.franceinfo.fr/economie/greve/direct-mobilisations-en-france-les-pecheurs-bloquent-un-depot-petrolier-a-fos-sur-mer-des-policiers-s-appretent-a-manifester-a-paris_8193098.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 15 Sep 2026 12:34:32 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Je dois gagner 30 ou 40 euros par plein\" : face à la flambée des carburants, les Français se ruent dans les stations-service d’Andorre",
+        "resume": "Dans la principauté d'Andorre, le litre de gazole revient à 1,66 euro et 1,63 pour le SP 95. Du coup, les stations-service du Pas de la Case, à la frontière avec la France, voient le défilé des client",
+        "lien": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-je-dois-gagner-30-ou-40-euros-par-plein-face-a-la-flambee-des-carburants-les-francais-se-ruent-en-andorre-pour-faire-le-plein_8171429.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 15 Sep 2026 08:10:56 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Marine Tondelier appelle à \"décarboner l'activité portuaire\" afin de \"soutenir les pêcheurs\" qui \"crèvent avec l'augmentation du carburant\"",
+        "resume": "La candidate à l'élection présidentielle présentait mardi ses propositions concernant les littoraux, mers et océans. Des mesures qui concernent notamment les pêcheurs, victimes de la concurrence étran",
+        "lien": "https://www.franceinfo.fr/politique/eelv/marine-tondelier-appelle-a-decarboner-l-activite-portuaire-afin-de-soutenir-les-pecheurs-qui-crevent-avec-l-augmentation-du-carburant_8193245.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 15 Sep 2026 10:47:53 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Canada–États-Unis : l’escalade commerciale pousse Ottawa à changer de cap",
+        "resume": "Une nouvelle série de droits de douane américains frappe des produits canadiens. Face à une guerre commerciale qui s’intensifie, Ottawa cherche à réduire sa dépendance aux États-Unis en se rapprochant",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260915-canada%E2%80%93%C3%A9tats-unis-l-escalade-commerciale-pousse-ottawa-%C3%A0-changer-de-cap",
+        "date": "Tue, 15 Sep 2026 07:42:51 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Mbappé, Yamal, Dembélé, Kane ? La campagne pour le Ballon d'or bat son plein",
+        "resume": "À deux semaines de la clôture des votes pour le Ballon d’Or, les principaux candidats au titre de meilleur joueur de l'année font campagne.",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20260915-mbapp%C3%A9-yamal-demb%C3%A9l%C3%A9-kane-la-campagne-pour-le-ballon-d-or-bat-son-plein",
+        "date": "Tue, 15 Sep 2026 07:39:28 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "L'Ukraine prendra des \"mesures de désescalade\" si la Russie fait de même, affirme Zelensky",
+        "resume": "Le président Volodymyr Zelensky a affirmé lundi que l'Ukraine était prête à prendre des \"mesures de désescalade\" si la Russie en faisait de même, sans confirmer l'affirmation de Donald Trump selon laq",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260915-l-ukraine-prendra-des-mesures-de-d%C3%A9sescalade-si-la-russie-fait-de-m%C3%AAme-affirme-zelensky",
+        "date": "Tue, 15 Sep 2026 07:22:39 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Mutiny",
+        "date_sortie": "2026-08-19",
+        "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il se retrouve piégé à bord d’un porte-cont",
+        "note": 6.441,
+        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
+      },
+      {
+        "titre": "La Fin d'Oak Street",
+        "date_sortie": "2026-08-12",
+        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
+        "note": 6.48,
+        "affiche": "https://image.tmdb.org/t/p/w300/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg"
+      },
+      {
+        "titre": "La Pat’ Patrouille : Le film mission Dino",
+        "date_sortie": "2026-08-05",
+        "synopsis": "Lorsqu’une mystérieuse tempête surprend leur navire, la Pat’ Patrouille s’échoue sur une île tropicale encore inexplorée… et peuplée de dinosaures ! Ils y rencontrent Rex, un chiot courageux installé sur l’île depuis des",
+        "note": 7.554,
+        "affiche": "https://image.tmdb.org/t/p/w300/tincY2hhSGkpGncWMDUfrwku6Q2.jpg"
+      },
+      {
+        "titre": "Les Ensorceleuses 2",
+        "date_sortie": "2026-09-09",
+        "synopsis": "Une famille de sorcières multigénérationnelle, maudite à être sans amour pendant des siècles, tente de briser le sort en affrontant de sombres secrets et en se sacrifiant les uns pour les autres.",
+        "note": 6.1,
+        "affiche": "https://image.tmdb.org/t/p/w300/1fnNv1AOzbUG4gvL4AbenUfIlJp.jpg"
+      },
+      {
+        "titre": "Juste pour une Nuit",
+        "date_sortie": "2026-08-12",
+        "synopsis": "Quand Owen, qui vient de se faire larguer, rencontre Allie, qui croit encore au grand amour, l'étincelle est immédiate. Cependant, une série de maladresses et de mésaventures séparent les deux seuls célibataires de la vi",
+        "note": 6.6,
+        "affiche": "https://image.tmdb.org/t/p/w300/9ix7kr4DTKSmnBmvugvkRQJb1KO.jpg"
+      },
+      {
+        "titre": "Resident Evil",
+        "date_sortie": "2026-09-16",
+        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
+        "note": 9.2,
+        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Midnights in October",
+        "artiste": "Midnights in October",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Matinale création d'entreprise (pour les porteurs de projet ou début de création) Angers Balzac",
+        "date_debut": "2026-09-15T07:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Matinée création d'entreprise - Angers Capucins",
+        "date_debut": "2026-09-15T07:30:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Informez-vous sur les métiers du transport et de la logistique avec l'AFT",
+        "date_debut": "2026-09-15T07:45:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "La place de l'emploi #2 : un village d'opportunités à Angers",
+        "date_debut": "2026-09-15T11:15:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "La place de l'emploi #2 : un village d'opportunités à Angers",
+        "date_debut": "2026-09-15T11:45:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Exposition Le Muséum au fil du temps",
+        "date_debut": "2026-09-15",
+        "lieu": "Place de la Monnaie",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Cours de Théâtre à Nantes – Saison 2026-2027",
+        "date_debut": "2026-09-15",
+        "lieu": "ASC Bonne Garde, Pirmil",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Décryptages - Enfance(s), grandir quelque part - EXPOSITION",
+        "date_debut": "2026-09-15",
+        "lieu": "Cosmopolis",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Expression(s) Décoloniale(s) #4 - Exposition",
+        "date_debut": "2026-09-15",
+        "lieu": "Château des Ducs de Bretagne -   Musée d'Histoire de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Biodivers'été 2026",
+        "date_debut": "2026-09-15",
+        "lieu": "Parcs et jardins",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-09-14",
     "news": [
       {
@@ -2468,205 +2667,6 @@
         "titre": "Portes ouvertes de l'école de samba Flor Carioca",
         "date_debut": "2026-09-02",
         "lieu": "Salle des Variétés - ASC Bonne Garde",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Rentrée scolaire 2026 : les téléphones portables et les réseaux sociaux \"enlèvent l'attention des élèves\", défend Emmanuel Macron",
-        "resume": "Le président se trouve mardi dans un lycèe de Lozère, en compagnie du ministre de l'Education nationale, notamment pour discuter de l'interdiction du téléphone portable, une des nouveautés de ce retou",
-        "lien": "https://www.franceinfo.fr/france/rentree/direct-rentree-des-classes-plus-de-11-millions-d-eleves-de-retour-dans-leurs-etablissements-sans-telephone-portable_8171747.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 01 Sep 2026 12:15:53 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Nous entrons dans un monde de la rareté\", prévient le patron de Coopérative U après la sécheresse de cet été",
-        "resume": "Les rendements sont en baisse cette année, \"moins 30% sur la salade\" par exemple, indique Dominique Schelcher, mardi sur France Inter, alors que les fruits et légumes sont aussi de plus petits calibre",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/nous-entrons-dans-un-monde-de-la-rarete-previent-le-patron-de-cooperative-u-apres-la-secheresse-de-cet-ete_8171858.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 01 Sep 2026 11:02:01 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Un point de bascule\" : comment la flambée des prix des carburants a accéléré les ventes de voitures électriques en France",
-        "resume": "Les conséquences du conflit au Moyen-Orient ont dopé un marché de l'électrique qui profite également de politiques publiques favorables et de tarifs plus abordables.",
-        "lien": "https://www.franceinfo.fr/economie/automobile/un-point-de-bascule-comment-la-flambee-des-prix-des-carburants-a-accelere-les-ventes-de-voitures-electriques-en-france_8165441.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 01 Sep 2026 12:34:18 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Crues dévastatrices dans l'Himalaya : des militants tibétains accusent la Chine de sous-estimer le bilan des inondations",
-        "resume": "Les médias d'Etat chinois font état de 16 morts et de 546 disparus, mais des ONG s'inquiètent d'un nombre de victimes beaucoup plus élevé.",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/crues-meurtrieres-au-nepal-et-au-tibet/direct-crues-dans-l-himalaya-le-bilan-depasse-les-1-000-morts-au-nepal-et-en-chine-plus-de-4-000-personnes-portees-disparues_8171645.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 01 Sep 2026 11:38:56 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Troisième sortie dans l'espace de Sophie Adenot : suivez la nouvelle mission menée par l'astronaute hors de l'ISS à partir de 14h30",
-        "resume": "La Française va diriger mardi une sortie extravéhiculaire 100% féminine. Elle est accompagnée de l'astronaute américaine Jessica Meir, qui a participé, en 2019, à la première sortie spatiale effectuée",
-        "lien": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/direct-troisieme-sortie-dans-l-espace-de-sophie-adenot-suivez-la-nouvelle-mission-menee-par-l-astronaute-hors-de-l-iss-a-partir-de-14h30_8171849.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 01 Sep 2026 12:17:22 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Ebola : début de la vaccination en RDC, son efficacité reste à évaluer",
-        "resume": "En RDC, la campagne de vaccination contre Ebola a débuté à Kisangani, l’une des six provinces touchées. Mais le vaccin cible la souche Zaïre, et non la souche Bundibugyo à l’origine de l’épidémie actu",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260901-ebola-d%C3%A9but-de-la-vaccination-en-rdc-son-efficacit%C3%A9-reste-%C3%A0-%C3%A9valuer",
-        "date": "Tue, 01 Sep 2026 10:57:36 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Street art : 500 000 personnes à la chasse au trésor des mosaïques d'Invader",
-        "resume": "Depuis la fin des années 1990, le street artist anonyme Invader parsème les rues des grandes métropoles de ses célèbres mosaïques inspirées du jeu vidéo \"Space Invaders\". Une œuvre désormais à l'origi",
-        "lien": "https://www.france24.com/fr/culture/20260901-street-art-invader-500-000-personnes-chasse-tr%C3%A9sor-mosa%C3%AFques-exposition-petit-palais-paris",
-        "date": "Tue, 01 Sep 2026 10:31:30 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Le festival américain Burning Man accueille la tour Eiffel cassée du Vendéen Philippe Maindron",
-        "resume": "Créée par l’artiste vendéen Philippe Maindron, cette tour Eiffel brisée, déjà repérée sur la côte atlantique, va changer de décor. Elle sera l’une des attractions françaises du Burning Man, grand rend",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260901-le-festival-am%C3%A9ricain-burning-man-accueille-la-tour-eiffel-cass%C3%A9e-du-vend%C3%A9en-philippe-maindron",
-        "date": "Tue, 01 Sep 2026 09:59:37 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Spider-Man : Brand New Day",
-        "date_sortie": "2026-07-29",
-        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
-        "note": 7.9,
-        "affiche": "https://image.tmdb.org/t/p/w300/pEEI5mMoyZrbapzWC6vB6UmesDW.jpg"
-      },
-      {
-        "titre": "Mutiny",
-        "date_sortie": "2026-08-19",
-        "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il se retrouve piégé à bord d’un porte-cont",
-        "note": 6.348,
-        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
-      },
-      {
-        "titre": "Toxic",
-        "date_sortie": "2026-08-26",
-        "synopsis": "Alors que la domination portugaise s'effondre à Goa, Raya gravit les échelons du monde criminel à travers trahisons et bains de sang pour prendre le contrôle des bas-fonds de la ville, avant de découvrir que le pouvoir e",
-        "note": 7.2,
-        "affiche": "https://image.tmdb.org/t/p/w300/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg"
-      },
-      {
-        "titre": "The Dog Stars",
-        "date_sortie": "2026-08-26",
-        "synopsis": "Dans un futur proche où une pandémie sans nom a décimé la société américaine, Hig, un pilote vit sur une base aérienne abandonnée du Colorado avec son chien et un ex-marine. Lorsqu'une transmission aléatoire passe par la",
-        "note": 6.8,
-        "affiche": "https://image.tmdb.org/t/p/w300/w7c49Qgp3TAUC4hlo0mtgRpLOGG.jpg"
-      },
-      {
-        "titre": "Insidious : L'Invasion du Lointain",
-        "date_sortie": "2026-08-19",
-        "synopsis": "Gemma, une jeune mère élève sa fille dans la maison de son enfance. Elle découvre qu'elle peut voyager dans le Lointain, ce royaume purgatoire des âmes perdues au cœur de l'univers d'Insidious. Lorsqu'une entité malveill",
-        "note": 6.609,
-        "affiche": "https://image.tmdb.org/t/p/w300/bW8uJOLrtdBnQcQbG9BUQjDgUaT.jpg"
-      },
-      {
-        "titre": "La Fin d'Oak Street",
-        "date_sortie": "2026-08-12",
-        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
-        "note": 6.353,
-        "affiche": "https://image.tmdb.org/t/p/w300/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 1",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Passé recomposé, quand la photographie agite le patrimoine",
-        "date_debut": "2026-09-01T11:00:00+00:00",
-        "lieu": "Collégiale Saint-Martin",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Information sur l'évènement à 'La Place de l'Emploi' : Un Village Itinérant pour Booster Votre Carrière !\" Conseiller AGENCE ROSERAIE",
-        "date_debut": "2026-09-01T11:45:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Angers Capucins: Réunion d'information collective VAE le mercredi 2 septembre de 14 à 16 heures",
-        "date_debut": "2026-09-02T12:00:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Vitalliance Angers vous ouvre ses portes : découvrez le métier d'auxiliaire de vie",
-        "date_debut": "2026-09-03T08:00:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Information sur l'évènement à 'La Place de l'Emploi' : Un Village Itinérant pour Booster Votre Carrière !\"",
-        "date_debut": "2026-09-04T07:30:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "House of Banksy - Une expo non autorisée",
-        "date_debut": "2026-09-01",
-        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Aulnay-sous-amiante : une lutte populaire contre l’indifférence",
-        "date_debut": "2026-09-01",
-        "lieu": "Maison des Hommes et des Techniques (MHT)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "INTERSTELLAR Ré-imaginer la Terre",
-        "date_debut": "2026-09-01",
-        "lieu": "HAB Galerie (Hangar à Bananes)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Exposition « Chroniques Charognardes »à La Monstrueuse Galerie",
-        "date_debut": "2026-09-01",
-        "lieu": "Monstrueuse Galerie (La)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Don du sang — Maison du don, Nantes",
-        "date_debut": "2026-09-01",
-        "lieu": "Maison du don",
         "ville": "Nantes"
       }
     ]
