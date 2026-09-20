@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-09-20",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Le prix du gazole à près de 2,41 euros en moyenne dimanche établit un nouveau record en France",
+        "resume": "Selon les calculs de l'AFP à partir des données publiques, le prix de ce carburant bat le record de samedi. Le gouvernement doit se réunir lundi pour trouver des solutions à cette crise.",
+        "lien": "https://www.franceinfo.fr/economie/automobile/essence/le-prix-du-gazole-a-pres-de-2-41-euros-en-moyenne-etablit-un-nouveau-record-en-france-dimanche_8201594.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 20 Sep 2026 11:44:33 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Inquiétude sincère ou intérêt économique ? Pourquoi les géants de l'IA réclament plus de régulation du secteur",
+        "resume": "Des chercheurs et grandes entreprises de l'intelligence artificielle affirment que le développement de cette technologie fait courir un risque énorme à l'humanité, et demandent une forme de régulation",
+        "lien": "https://www.franceinfo.fr/internet/intelligence-artificielle/inquietude-sincere-ou-interet-economique-pourquoi-les-geants-de-l-ia-reclament-plus-de-regulation-du-secteur_8197724.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 20 Sep 2026 06:55:43 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Plus de 2 000 personnes mobilisées à Rennes contre le projet de loi sur la présomption d'usage légitime des armes à feu",
+        "resume": "Après des jets de projectiles contre du mobilier urbain ainsi que sur des CRS, cinq personnes ont été interpellées, indique la police.",
+        "lien": "https://www.franceinfo.fr/faits-divers/police/plus-de-2-000-personnes-mobilisees-a-rennes-contre-le-projet-de-loi-sur-la-presomption-d-usage-legitime-des-armes-a-feu_8201000.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 19 Sep 2026 20:20:03 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Saint-Pierre-et-Miquelon est \"français\" déclare Emmanuel Macron à son arrivée dans l'archipel en réponse à Donald Trump",
+        "resume": "Face au président américain, le locataire de l'Elysée a tenu à réaffirmer que la France est une puissance régionale.",
+        "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/saint-pierre-et-miquelon-est-francais-repond-emmanuel-macron-a-donald-trump-a-son-arrivee-dans-l-archipel_8201387.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 20 Sep 2026 07:27:12 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Présidentielle : Jérome Guedj juge que le PS \"est allé vite en besogne\" en suspendant Philippe Brun de la primaire",
+        "resume": "Candidat à la primaire sociale-démocrate, le député de l'Essonne qualifie d'\"extrêmement violente\" la mise à l'écart de l'élu, accusé de violence par une ancienne collaboratrice.",
+        "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-jerome-guedj-juge-que-le-ps-est-alle-vite-en-besogne-en-suspendant-philippe-brun-de-la-primaire_8201483.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 20 Sep 2026 11:29:14 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Législatives en Russie : Moscou accuse Kiev de perturber le vote",
+        "resume": "La Russie a subi ce dimanche 20 septembre une attaque massive de drones ukrainiens, dénoncée par les autorités comme visant à \"perturber\" le déroulement des législatives qui devraient sans surprise se",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260920-l%C3%A9gislatives-en-russie-moscou-accuse-kiev-de-perturber-le-vote",
+        "date": "Sun, 20 Sep 2026 10:12:16 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Le procès de six Français présumés jihadistes s'ouvre en Irak",
+        "resume": "Six ressortissants français soupçonnés d'appartenir à l'organisation État islamique (EI) sont jugés à partir de dimanche au tribunal de Bagdad, en Irak, où ils risquent la peine de mort. Les prisons i",
+        "lien": "https://www.france24.com/fr/france/20260920-le-proc%C3%A8s-de-six-fran%C3%A7ais-presumes-jihadistes-s-ouvre-en-irak",
+        "date": "Sun, 20 Sep 2026 10:06:17 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Nigeria : au moins 49 personnes mortes, de l'alcool frelaté pourrait être en cause",
+        "resume": "Dans l’État d’Ondo, au Nigeria, au moins 49 personnes sont mortes et une centaine d’autres ont été blessées après avoir consommé de l’alcool qui contiendrait du méthanol. Selon les autorités locales, ",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260920-nigeria-au-moins-49-personnes-mortes-de-l-alcool-frelat%C3%A9-pourrait-%C3%AAtre-en-cause",
+        "date": "Sun, 20 Sep 2026 09:59:11 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Resident Evil",
+        "date_sortie": "2026-09-16",
+        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
+        "note": 7.296,
+        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
+      },
+      {
+        "titre": "La Fin d'Oak Street",
+        "date_sortie": "2026-08-12",
+        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
+        "note": 6.962,
+        "affiche": "https://image.tmdb.org/t/p/w300/sLFjeadRka39hPaLhia8OjGANlc.jpg"
+      },
+      {
+        "titre": "Mutiny",
+        "date_sortie": "2026-08-19",
+        "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il se retrouve piégé à bord d’un porte-cont",
+        "note": 6.4,
+        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
+      },
+      {
+        "titre": "Avengers : Endgame",
+        "date_sortie": "2019-04-24",
+        "synopsis": "Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de doigts qui a pulvéri",
+        "note": 8.243,
+        "affiche": "https://image.tmdb.org/t/p/w300/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg"
+      },
+      {
+        "titre": "Les Ensorceleuses 2",
+        "date_sortie": "2026-09-09",
+        "synopsis": "Une famille de sorcières multigénérationnelle, maudite à être sans amour pendant des siècles, tente de briser le sort en affrontant de sombres secrets et en se sacrifiant les uns pour les autres.",
+        "note": 6.015,
+        "affiche": "https://image.tmdb.org/t/p/w300/1fnNv1AOzbUG4gvL4AbenUfIlJp.jpg"
+      },
+      {
+        "titre": "Oklahoma Honey",
+        "date_sortie": "2026-08-19",
+        "synopsis": "Au cœur des terres reculées de l’Oklahoma rural, Amziah King, personnage charismatique au talent musical hors du commun, veille sur une bande de marginaux passionnés de bluegrass tout en supervisant la plus importante ex",
+        "note": 6.7,
+        "affiche": "https://image.tmdb.org/t/p/w300/6YCH9yUVO9Fh23WIOORl6JmCpOo.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Complete Orchestral Works, Vol. 3",
+        "artiste": "Maurice Ravel",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Angers Loire Greeters : Balade dans le quartier Saint-Serge",
+        "date_debut": "2026-09-20T08:00:00+00:00",
+        "lieu": "Place Mitterand",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Visite libre du jardin botanique de la faculté de santé d'Angers",
+        "date_debut": "2026-09-20T08:00:00+00:00",
+        "lieu": "Faculté de Santé Département Pharmacie",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Patrimoine Numérique : L'Herbier et le Jardin Botanique de la Faculté de Santé s'exposent",
+        "date_debut": "2026-09-20T08:00:00+00:00",
+        "lieu": "Faculté de Santé Département Pharmacie",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Sous nos nez",
+        "date_debut": "2026-09-20T08:00:00+00:00",
+        "lieu": "Maison de l'environnement",
+        "ville": "Angers"
+      },
+      {
+        "titre": "À la découverte des oiseaux",
+        "date_debut": "2026-09-20T08:30:00+00:00",
+        "lieu": "Maison de l'environnement",
+        "ville": "Angers"
+      },
+      {
+        "titre": "House of Banksy - Une expo non autorisée",
+        "date_debut": "2026-09-20",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition Le Muséum au fil du temps",
+        "date_debut": "2026-09-20",
+        "lieu": "Place de la Monnaie",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Décryptages - Enfance(s), grandir quelque part - EXPOSITION",
+        "date_debut": "2026-09-20",
+        "lieu": "Cosmopolis",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le livre d’artiste concours et exposition – Musée de l'imprimerie",
+        "date_debut": "2026-09-20",
+        "lieu": "Musée-atelier de l'imprimerie de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "The Art of the Brick - Exposition d’art en Lego",
+        "date_debut": "2026-09-20",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-09-19",
     "news": [
       {
@@ -2520,205 +2719,6 @@
         "titre": "Ateliers découvertes de Biodanza",
         "date_debut": "2026-09-07",
         "lieu": "Pôle associatif Dupleix Barbinais",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-06",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Il y a une extrapolation du déclin économique\" : comment l'extrême droite allemande est arrivée aux portes du pouvoir en Saxe-Anhalt",
-        "resume": "L'AfD part favori pour les élections régionales dans ce Land, dimanche. Le parti pourrait même, pour la première fois, être en mesure de gouverner seul.",
-        "lien": "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 06 Sep 2026 09:21:53 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Jordan Bardella tente de désamorcer les polémiques, après son déplacement au Royaume-Uni",
-        "resume": "Au lendemain de son déplacement au Royaume-Uni, Jordan Bardella a répondu aux critiques sur l’accord migratoire, l’Ukraine et sa stratégie avec Marine Le Pen.",
-        "lien": "https://www.franceinfo.fr/politique/front-national/jordan-bardella-tente-de-desamorcer-les-polemiques-apres-son-deplacement-au-royaume-uni_8179535.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 06 Sep 2026 09:50:18 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Du repêchage des qualifications à une deuxième semaine en Grand Chelem, le parcours fou d'Arthur Gea à l'US Open",
-        "resume": "Qualifié pour la première fois de sa carrière en huitièmes de finale d'un tournoi du Grand Chelem, Arthur Gea est désormais le dernier Français encore engagé à New York.",
-        "lien": "https://www.franceinfo.fr/sports/tennis/us-open/du-repechage-des-qualifications-a-une-deuxieme-semaine-en-grand-chelem-le-parcours-fou-d-arthur-gea-a-l-us-open_8179565.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 06 Sep 2026 12:06:09 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Ça ne m'atteint pas, je suis juste un petit peu triste\" : Flavie Flament réagit aux propos de Mimie Mathy défendant Patrick Bruel",
-        "resume": "Sur RTL, l'héroïne de la série \"Joséphine ange gardien\" avait estimé que le chanteur avait été \"plus harcelé que harceleur\".",
-        "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/video-apres-que-mimi-mathy-a-defendu-patrick-bruel-flavie-flament-estomaquee-par-ces-femmes-qui-portent-en-elles-le-poids-du-monde-d-hier_8179580.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 06 Sep 2026 11:52:30 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "L'Iran réplique après les frappes américaines sur trois de ses pétroliers dans le détroit d'Ormuz",
-        "resume": "L'Iran continue de bloquer le détroit d'Ormuz, tandis que les Etats-Unis imposent pour leur part un blocus sur les ports iraniens.",
-        "lien": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-replique-apres-les-frappes-americaines-sur-trois-de-ses-petroliers-dans-le-detroit-d-ormuz_8179538.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 06 Sep 2026 11:31:15 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Cinq ans après le coup d'État en Guinée, quel bilan pour la junte ?",
-        "resume": "Le 5 septembre 2021, Mamadi Doumbouya et ses forces spéciales renversaient le président Alpha Condé. Le militaire promettait alors une “refondation” de l’État et un retour du pouvoir aux civils. Cinq ",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260906-cinq-ans-apr%C3%A8s-le-coup-d-%C3%A9tat-en-guin%C3%A9e-quel-bilan-pour-la-junte",
-        "date": "Sun, 06 Sep 2026 09:56:01 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Mutinerie au Niger du 29 août : \"les puissances étrangères\" accusées",
-        "resume": "Près d’une semaine après la mutinerie qui a secoué le Niger, les autorités de Niamey accusent la France et ses “valets africains” d’être responsables de la tentative de coup d’État du 29 août dernier.",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260906-mutinerie-au-niger-du-29-ao%C3%BBt-les-puissances-%C3%A9trang%C3%A8res-accus%C3%A9es",
-        "date": "Sun, 06 Sep 2026 09:52:55 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Éruption volcanique en Indonésie : l'aéroport de Jakarta suspend ses vols",
-        "resume": "Les autorités indonésiennes ont suspendu les activités de l'aéroport international de Jakarta après l'éruption du volcan Anak Krakatoa, situé à plus de 150 kilomètres de la capitale, affectant plus de",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260906-%C3%A9ruption-volcanique-en-indon%C3%A9sie-l-a%C3%A9roport-de-jakarta-suspend-ses-vols",
-        "date": "Sun, 06 Sep 2026 09:41:13 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Spider-Man : Brand New Day",
-        "date_sortie": "2026-07-29",
-        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
-        "note": 7.866,
-        "affiche": "https://image.tmdb.org/t/p/w300/pEEI5mMoyZrbapzWC6vB6UmesDW.jpg"
-      },
-      {
-        "titre": "Mutiny",
-        "date_sortie": "2026-08-19",
-        "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il se retrouve piégé à bord d’un porte-cont",
-        "note": 6.385,
-        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
-      },
-      {
-        "titre": "Toxic",
-        "date_sortie": "2026-08-26",
-        "synopsis": "Alors que la domination portugaise s'effondre à Goa, Raya gravit les échelons du monde criminel à travers trahisons et bains de sang pour prendre le contrôle des bas-fonds de la ville, avant de découvrir que le pouvoir e",
-        "note": 8.0,
-        "affiche": "https://image.tmdb.org/t/p/w300/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg"
-      },
-      {
-        "titre": "The Dog Stars",
-        "date_sortie": "2026-08-26",
-        "synopsis": "Dans un futur proche où une pandémie sans nom a décimé la société américaine, Hig, un pilote vit sur une base aérienne abandonnée du Colorado avec son chien et un ex-marine. Lorsqu'une transmission aléatoire passe par la",
-        "note": 6.722,
-        "affiche": "https://image.tmdb.org/t/p/w300/w7c49Qgp3TAUC4hlo0mtgRpLOGG.jpg"
-      },
-      {
-        "titre": "La Fin d'Oak Street",
-        "date_sortie": "2026-08-12",
-        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
-        "note": 6.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg"
-      },
-      {
-        "titre": "I Want Your Sex",
-        "date_sortie": "2026-07-29",
-        "synopsis": "Lorsque le jeune et innocent Elliot décroche un emploi de rêve auprès d'Erika Tracy, artiste de renom, icône et provocatrice, ses fantasmes deviennent réalité : Erika fait de lui sa muse. Mais Elliot se retrouve vite dép",
-        "note": 6.13,
-        "affiche": "https://image.tmdb.org/t/p/w300/z4iVSwpZUSmIxilSfgvciDJROdX.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Midnights in October",
-        "artiste": "Midnights in October",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "L'INDUSTRIE Automobile et Aéronautique RECRUTE",
-        "date_debut": "2026-09-07T12:00:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Information sur l'évènement à 'La Place de l'Emploi' : Un Village Itinérant pour Booster Votre Carrière !\" Conseiller AGENCE ROSERAIE",
-        "date_debut": "2026-09-08T11:45:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Gendarmerie",
-        "date_debut": "2026-09-09T08:00:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Gendarmerie",
-        "date_debut": "2026-09-09T12:00:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "réunion d'information création reprise entreprise en hôtellerie restauration avec accompagnement CCI Angers",
-        "date_debut": "2026-09-10T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "INTERSTELLAR Ré-imaginer la Terre",
-        "date_debut": "2026-09-06",
-        "lieu": "HAB Galerie (Hangar à Bananes)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le Voyage permanent - Coeur historique - Visite guidée",
-        "date_debut": "2026-09-06",
-        "lieu": "Nantes (Centre ville)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "1er dimanche du mois : entrée gratuite au musée Jules Verne",
-        "date_debut": "2026-09-06",
-        "lieu": "Musée Jules Verne",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Balades touristiques en vélo-taxi",
-        "date_debut": "2026-09-06",
-        "lieu": "centre-ville",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "The Art of the Brick - Exposition d’art en Lego",
-        "date_debut": "2026-09-06",
-        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
         "ville": "Nantes"
       }
     ]
