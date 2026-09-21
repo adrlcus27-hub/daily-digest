@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-09-21",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Quelles sont les pistes d'aides étudiées par le gouvernement lundi face à la flambée des prix des carburants ?",
+        "resume": "L'exécutif cherche à renforcer sa réponse à la crise énergétique alors que les prix à la pompe atteignent des niveaux records. Mais plusieurs arbitrages doivent encore être rendus par le gouvernement,",
+        "lien": "https://www.franceinfo.fr/economie/automobile/essence/quelles-sont-les-pistes-d-aides-etudiees-par-le-gouvernement-lundi-face-a-la-flambee-des-prix-des-carburants_8201810.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 21 Sep 2026 06:04:25 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Procès de Rachida Dati : l'interrogatoire de l'ancienne ministre, jugée pour corruption et trafic d'influence, se poursuit",
+        "resume": "Elle est questionnée par le tribunal correctionnel de Paris, lundi après-midi, après un premier interrogatoire de trois heures jeudi soir, au cours duquel elle a martelé avoir \"exercé comme avocate\" p",
+        "lien": "https://www.franceinfo.fr/politique/rachida-dati/direct-l-interrogatoire-de-rachida-dati-lors-de-son-proces-pour-corruption-et-trafic-d-influence-se-poursuit-ce-lundi_8202833.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 21 Sep 2026 12:46:37 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"J'assume cette responsabilité\" : après les récentes défaites électorales, quel avenir pour le chancelier allemand Friedrich Merz ?",
+        "resume": "Après la victoire de l'AFD aux élections régionales et la percée de la gauche radicale à Berlin, le parti du gouvernement est en déclin. Le parti d'extrême droite appelle à la démission du chancelier,",
+        "lien": "https://www.franceinfo.fr/monde/europe/allemagne/j-assume-cette-responsabilite-apres-les-recentes-defaites-electorales-quel-avenir-pour-le-chancelier-allemand-friedrich-merz_8202602.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 21 Sep 2026 11:43:03 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Budget 2027 : croissance, dette, déficit, chômage… Quelle est la situation économique de la France ?",
+        "resume": "A quelques mois de la présidentielle, les discussions budgétaires s'ouvrent dans un contexte économique morose en France, où tous les indicateurs virent au rouge.",
+        "lien": "https://www.franceinfo.fr/economie/deficit/budget-2027-croissance-dette-deficit-chomage-quelle-est-la-situation-economique-de-la-france_8181551.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 21 Sep 2026 12:35:18 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Crise au Moyen-Orient, guerre en Ukraine, IA… Quels sont les enjeux de l'Assemblée générale des Nations unies, qui s'ouvre mardi ?",
+        "resume": "Les dirigeants du monde entier sont attendus à New York, à partir de mardi, dans le cadre de la 81e session de l'Assemblée générale de l'ONU. De nombreux entretiens bilatéraux doivent se tenir en para",
+        "lien": "https://www.franceinfo.fr/monde/onu/crise-au-moyen-orient-guerre-en-ukraine-ia-quels-sont-les-enjeux-de-l-assemblee-generale-des-nations-unies-qui-s-ouvre-mardi_8202521.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 21 Sep 2026 11:31:40 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Russie : attaque massive de drones ukrainiens sur Moscou",
+        "resume": "Le parti de Vladimir Poutine a remporté sans surprise une large majorité aux législatives de dimanche, marquées par des piratages informatiques et des attaques de drones ukrainiens auxquelles Moscou a",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260921-russie-attaque-massive-de-drones-ukrainiens-sur-moscou",
+        "date": "Mon, 21 Sep 2026 11:37:05 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Deportation Project : Ce que révèle l'enquête au Cameroun",
+        "resume": "France 24 a enquêté avec Forbidden Stories sur la situation de plusieurs migrants africains accueillis dans un centre de Yaoundé, après leur expulsion par l'administration Trump, en vertu d'un accord ",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260921-deportation-project-ce-que-r%C3%A9v%C3%A8le-l-enqu%C3%AAte-au-cameroun",
+        "date": "Mon, 21 Sep 2026 11:20:10 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "France - États-Unis : rencontre entre Donald Trump et Emmanuel Macron à New York",
+        "resume": "Donald Trump rencontrera son homologue français Emmanuel Macron lundi 21 septembre dans l'après-midi. Les deux dirigeants discuteront à New York, où ils doivent aussi participer à l'Assemblée générale",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260921-france-%C3%A9tats-unis-rencontre-entre-donald-trump-et-emmanuel-macron-%C3%A0-new-york",
+        "date": "Mon, 21 Sep 2026 10:48:32 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Resident Evil",
+        "date_sortie": "2026-09-16",
+        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
+        "note": 7.387,
+        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
+      },
+      {
+        "titre": "La fin d'Oak Street",
+        "date_sortie": "2026-08-12",
+        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
+        "note": 7.006,
+        "affiche": "https://image.tmdb.org/t/p/w300/yZINaQysj32K2DS2EW4Iy1bK4Bm.jpg"
+      },
+      {
+        "titre": "Mutiny",
+        "date_sortie": "2026-08-19",
+        "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il se retrouve piégé à bord d’un porte-cont",
+        "note": 6.432,
+        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
+      },
+      {
+        "titre": "Avengers : Endgame",
+        "date_sortie": "2019-04-24",
+        "synopsis": "Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de doigts qui a pulvéri",
+        "note": 8.244,
+        "affiche": "https://image.tmdb.org/t/p/w300/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg"
+      },
+      {
+        "titre": "Les Ensorceleuses 2",
+        "date_sortie": "2026-09-09",
+        "synopsis": "Une famille de sorcières multigénérationnelle, maudite à être sans amour pendant des siècles, tente de briser le sort en affrontant de sombres secrets et en se sacrifiant les uns pour les autres.",
+        "note": 6.11,
+        "affiche": "https://image.tmdb.org/t/p/w300/1fnNv1AOzbUG4gvL4AbenUfIlJp.jpg"
+      },
+      {
+        "titre": "Teenage Sex and Death at Camp Miasma",
+        "date_sortie": "2026-09-17",
+        "synopsis": "Un cinéaste queer est embauché pour diriger un nouvel épisode d'une franchise Slasher de longue date. Le réalisateur se fixe sur la perspective de lancer la «dernière fille» du film original, et les deux femmes entrent d",
+        "note": 6.48,
+        "affiche": "https://image.tmdb.org/t/p/w300/a5JvHUONtF8RyLL6M5nTlqqMJVE.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Young & Cursed (Original Motion Picture Soundtrack)",
+        "artiste": "Patrick O'Malley",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Warehouse 10 Volume 15",
+        "artiste": "Dave Matthews Band",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Warehouse 2026: 7.16.2025 Allianz Amphitheater At Riverfront, Richmond, VA",
+        "artiste": "Dave Matthews Band",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Time Machine",
+        "artiste": "The Jungle",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Flare",
+        "artiste": "ASML",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Recrutement de manutentionnaires H/F pour une entreprise leader dans le transport et la logistique",
+        "date_debut": "2026-09-21T07:00:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Recrutement McDonald's à Saint Georges sur Loire : venez participer à la méthode de recrutement par simulation",
+        "date_debut": "2026-09-21T07:00:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Atelier : Je booste mon CV avec l'aide de l'IA",
+        "date_debut": "2026-09-21T07:30:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Atelier : Je prépare mon entretien avec l'IA pour convaincre les recruteurs",
+        "date_debut": "2026-09-21T09:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Recrutement McDonald's à Saint Georges sur Loire : venez participer à la méthode de recrutement par simulation",
+        "date_debut": "2026-09-21T11:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "House of Banksy - Une expo non autorisée",
+        "date_debut": "2026-09-21",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Décryptages - Enfance(s), grandir quelque part - EXPOSITION",
+        "date_debut": "2026-09-21",
+        "lieu": "Cosmopolis",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le Voyage permanent - Coeur historique - Visite guidée",
+        "date_debut": "2026-09-21",
+        "lieu": "Nantes (Centre ville)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le livre d’artiste concours et exposition – Musée de l'imprimerie",
+        "date_debut": "2026-09-21",
+        "lieu": "Musée-atelier de l'imprimerie de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Don du sang — Maison du don, Nantes",
+        "date_debut": "2026-09-21",
+        "lieu": "Maison du don",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-09-20",
     "news": [
       {
@@ -2520,205 +2719,6 @@
         "titre": "House of Banksy - Une expo non autorisée",
         "date_debut": "2026-09-08",
         "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-07",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Sympathisants du GUD, passé militaire, culte viriliste… Qui sont les accusés jugés pour l'assassinat de l'ex-rugbyman Federico Martin Aramburu à Paris ?",
-        "resume": "Le procès s'ouvre lundi devant la cour d'assises de Paris. Sur le banc des accusés figure notamment Loïk Le Priol, un militant d'ultradroite déjà connu de la justice.",
-        "lien": "https://www.franceinfo.fr/faits-divers/assassinat-du-rugbyman-federico-martin-aramburu/sympathisants-du-gud-passe-militaire-culte-viriliste-qui-sont-les-accuses-juges-pour-l-assassinat-de-l-ex-rugbyman-federico-martin-aramburu-a-paris_8163830.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 07 Sep 2026 10:56:11 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Après sa victoire électorale en Saxe-Anhalt, le parti d'extrême droite allemand AfD affirme avoir lancé des discussions pour un gouvernement régional",
-        "resume": "Ce parti a remporté les élections dimanche dans une région de l'est de l'Allemagne, alors que jamais une région allemande n'avait été dirigée par l'extrême droite depuis 1945.",
-        "lien": "https://www.franceinfo.fr/monde/europe/allemagne/apres-sa-victoire-electorale-le-parti-d-extreme-droite-allemande-afd-affirme-avoir-lance-des-discussions-pour-un-gouvernement-regional-en-saxe-anhalt_8180813.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 07 Sep 2026 12:05:34 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "La France et la Corée du Sud vont investir un milliard d'euros sur cinq ans pour soutenir \"la filière de l'image\"",
-        "resume": "Lors de l'ouverture du sommet international Lumière, lundi, dans les Alpes-Maritimes, Emmanuel Macron a appelé à un nouveau \"multilatéralisme\" pour soutenir le cinéma, menacé par l'IA et les plateform",
-        "lien": "https://www.franceinfo.fr/culture/cinema/la-france-et-la-coree-du-sud-vont-investir-un-milliard-d-euros-sur-cinq-ans-pour-soutenir-la-filiere-de-l-image_8180753.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 07 Sep 2026 13:09:00 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Pas candidat à ce stade\", François Hollande assure ne pas vouloir \"entraver qui que ce soit\" pour l'élection présidentielle 2027",
-        "resume": "\"J'ai déjà été président de la République, (…) ma seule détermination est qu'il puisse y avoir une solution pour le pays au deuxième tour de l'élection\", affirme l'ancien chef de l'Etat socialiste.",
-        "lien": "https://www.franceinfo.fr/politique/francois-hollande/francois-hollande-sur-france-2/je-ne-vais-pas-entraver-qui-que-ce-soit-pour-l-election-presidentielle-2027-assure-francois-hollande_8180591.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 07 Sep 2026 09:49:03 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Après les pourparlers avec les émissaires américains, le Kremlin dit \"ne pas exclure\" une reprise des négociations entre Moscou, Kiev et Washington",
-        "resume": "Le porte-parole de la présidence russe, Dmitri Peskov, précise qu'il est \"encore trop tôt pour parler du lieu et des dates précises\".",
-        "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/apres-les-pourparlers-avec-les-emissaires-americains-le-kremlin-dit-ne-pas-exclure-une-reprise-des-negociations-entre-moscou-kiev-et-washington_8180915.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 07 Sep 2026 13:01:24 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Tchad : plus de 75 000 nouveaux déplacés interne dus à Boko Haram",
-        "resume": "🇹🇩 Plus de 75 000 personnes auraient été déplacées dans la province du Lac Tchad, selon l’OIM. En cause : la résurgence des attaques attribuées à Boko Haram. Notre correspondant a suivi les équipes de",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260907-tchad-plus-de-75-000-nouveaux-d%C3%A9plac%C3%A9s-interne-dus-%C3%A0-boko-haram",
-        "date": "Mon, 07 Sep 2026 11:21:15 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Sommet Lumière : le cinéma mondial réunit à Saint-Paul-de-Vence pour un \"Davos du 7ème art\"",
-        "resume": "Le président français Emmanuel Macron et son homologue sud-coréen Lee Jae-myung réunissent à Saint-Paul-de-Vence plus de 200 responsables du cinéma et de l'image. Financement, concurrence des réseaux ",
-        "lien": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260907-sommet-lumi%C3%A8re-le-cin%C3%A9ma-mondial-r%C3%A9unit-%C3%A0-saint-paul-de-vence-pour-un-davos-du-7%C3%A8me-art",
-        "date": "Mon, 07 Sep 2026 10:56:49 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Concerts de Céline Dion : hausse impressionnante des réservations de billets de train",
-        "resume": "Céline Dion revient sur scène pour une série de seize concerts en à peine plus d'un mois sur Paris. Après six ans loin de la scène, les fans, venus du monde entier, sont déjà au rendez-vous dans la ca",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260907-concerts-de-c%C3%A9line-dion-hausse-impressionnante-des-r%C3%A9servations-de-billets-de-train",
-        "date": "Mon, 07 Sep 2026 10:49:36 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Spider-Man : Brand New Day",
-        "date_sortie": "2026-07-29",
-        "synopsis": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre enti",
-        "note": 7.865,
-        "affiche": "https://image.tmdb.org/t/p/w300/pEEI5mMoyZrbapzWC6vB6UmesDW.jpg"
-      },
-      {
-        "titre": "Mutiny",
-        "date_sortie": "2026-08-19",
-        "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il se retrouve piégé à bord d’un porte-cont",
-        "note": 6.364,
-        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
-      },
-      {
-        "titre": "Toxic",
-        "date_sortie": "2026-08-26",
-        "synopsis": "Alors que la domination portugaise s'effondre à Goa, Raya gravit les échelons du monde criminel à travers trahisons et bains de sang pour prendre le contrôle des bas-fonds de la ville, avant de découvrir que le pouvoir e",
-        "note": 8.0,
-        "affiche": "https://image.tmdb.org/t/p/w300/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg"
-      },
-      {
-        "titre": "The Dog Stars",
-        "date_sortie": "2026-08-26",
-        "synopsis": "Dans un futur proche où une pandémie sans nom a décimé la société américaine, Hig, un pilote vit sur une base aérienne abandonnée du Colorado avec son chien et un ex-marine. Lorsqu'une transmission aléatoire passe par la",
-        "note": 6.685,
-        "affiche": "https://image.tmdb.org/t/p/w300/w7c49Qgp3TAUC4hlo0mtgRpLOGG.jpg"
-      },
-      {
-        "titre": "La Fin d'Oak Street",
-        "date_sortie": "2026-08-12",
-        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
-        "note": 6.359,
-        "affiche": "https://image.tmdb.org/t/p/w300/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg"
-      },
-      {
-        "titre": "Prison On Fire",
-        "date_sortie": "2026-09-01",
-        "synopsis": "Deux amis enfermés en prison vont devenir des frères ennemis, et se lancer dans un combat sans limites...",
-        "note": 7.0,
-        "affiche": "https://image.tmdb.org/t/p/w300/ywFyD2t6QylShE8ARjVuftS9iD4.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Midnights in October",
-        "artiste": "Midnights in October",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Meridians",
-        "artiste": "Alasdair Fraser",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Vile No More",
-        "artiste": "Cruel Honey",
-        "date_sortie": "2026-09-04"
-      },
-      {
-        "titre": "Living Free (Live Manchester '75)",
-        "artiste": "Don McLean",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "L'INDUSTRIE Automobile et Aéronautique RECRUTE",
-        "date_debut": "2026-09-07T12:00:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Information sur l'évènement à 'La Place de l'Emploi' : Un Village Itinérant pour Booster Votre Carrière !\" Conseiller AGENCE ROSERAIE",
-        "date_debut": "2026-09-08T11:45:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Gendarmerie",
-        "date_debut": "2026-09-09T08:00:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Gendarmerie",
-        "date_debut": "2026-09-09T12:00:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "réunion d'information création reprise entreprise en hôtellerie restauration avec accompagnement CCI Angers",
-        "date_debut": "2026-09-10T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Balades touristiques en vélo-taxi",
-        "date_debut": "2026-09-07",
-        "lieu": "centre-ville",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "The Art of the Brick - Exposition d’art en Lego",
-        "date_debut": "2026-09-07",
-        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Balades touristiques en vélo-taxi",
-        "date_debut": "2026-09-07",
-        "lieu": "centre-ville",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Balades touristiques en vélo-taxi",
-        "date_debut": "2026-09-07",
-        "lieu": "centre-ville",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Ateliers découvertes de Biodanza",
-        "date_debut": "2026-09-07",
-        "lieu": "Pôle associatif Dupleix Barbinais",
         "ville": "Nantes"
       }
     ]
