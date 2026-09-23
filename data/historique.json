@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-09-23",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Seuls 800 millions d'euros réclamés par les Français éligibles aux aides aux carburants sur les 1,4 milliard d'euros provisionnés par l'Etat",
+        "resume": "Le gouvernement a annoncé mardi un élargissement de l'aide aux grands rouleurs qui ne devrait donc pas alourdir la facture car il reste de l’argent non consommé.",
+        "lien": "https://www.franceinfo.fr/economie/automobile/essence/seuls-800-millions-d-euros-reclames-par-les-francais-eligibles-aux-aides-aux-carburants-sur-les-1-4-milliard-d-euros-provisionnes-par-l-etat_8206172.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 23 Sep 2026 11:39:33 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Sébastien Lecornu propose aux députés socialistes de bâtir un nouveau \"compromis\" sur le budget 2027",
+        "resume": "Dans un courrier au groupe PS, le Premier ministre ajoute que le gouvernement \"ne se mêlera pas de la campagne présidentielle\" et que \"le désaccord n'interdit pas d'agir ensemble lorsque l'intérêt du ",
+        "lien": "https://www.franceinfo.fr/economie/budget/sebastien-lecornu-propose-aux-deputes-socialistes-de-batir-un-nouveau-compromis-sur-le-budget_8206019.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 23 Sep 2026 10:55:20 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "L'Azerbaïdjan accorde une grâce présidentielle au Français Martin Ryan, emprisonné pour \"espionnage\"",
+        "resume": "Un autre citoyen français, l'homme d'affaires Anass Derraz, reste lui emprisonné. Il a été condamné à 12 ans de prison en novembre 2025, pour avoir accepté un pot-de-vin d'un oligarque russe.",
+        "lien": "https://www.franceinfo.fr/monde/l-azerbaidjan-accorde-une-grace-presidentielle-au-francais-martin-ryan-emprisonne-pour-espionnage_8206082.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 23 Sep 2026 11:42:17 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Les infractions pour des \"atteintes à la probité\" dans la police ont augmenté de 45% en un an, selon l'IGPN",
+        "resume": "L'IGPN a dévoilé son rapport annuel auquel France Inter et franceinfo ont eu accès. Parmi ces \"atteintes à la probité\" constatées lors des \"235 enquêtes\" menées sur 2025, la police des polices a notam",
+        "lien": "https://www.franceinfo.fr/faits-divers/police/les-infractions-pour-des-atteintes-a-la-probite-dans-la-police-ont-augmente-de-45-en-un-an-selon-l-igpn_8206157.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 23 Sep 2026 11:27:35 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "L'écrivain Thélyson Orélien a-t-il utilisé l'intelligence artificielle pour écrire son premier roman \"C'était ça ou mourir\" ?",
+        "resume": "Un compte X affirme avoir soumis plusieurs extraits de l'ouvrage à un logiciel de détection d'IA. Quels sont les résultats ?",
+        "lien": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/l-ecrivain-thelyson-orelien-a-t-il-utilise-l-intelligence-artificielle-pour-ecrire-son-premier-roman-c-etait-ca-ou-mourir_8183894.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 23 Sep 2026 07:06:29 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Cisjordanie occupée : passe d'armes entre Macron et Netanyahu",
+        "resume": "À la tribune des Nations unies, le président français Emmanuel #Macron a dénoncé l’inaction face à la situation humanitaire à Gaza et les violations en #Cisjordanie occupée. Des propos vivement critiq",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260923-cisjordanie-occup%C3%A9e-passe-d-armes-entre-macron-et-netanyahu",
+        "date": "Wed, 23 Sep 2026 10:03:40 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "En direct : le président iranien attendu à l'ONU, sur fond de possibles négociations avec Trump",
+        "resume": "Le président iranien Massoud Pezeshkian est à New York où il doit s'exprimer mercredi à la tribune des Nations unies, à l'occasion de l'Assemblée générale annuelle de l'organisation. Un discours parti",
+        "lien": "https://www.france24.com/fr/am%C3%A9riques/20260923-en-direct-assembl%C3%A9e-g%C3%A9n%C3%A9rale-onu-iran-pezeshkian-trump-zelensky-ia",
+        "date": "Wed, 23 Sep 2026 09:50:48 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Sanctions américaines : l’Iran menacé de blocus aérien",
+        "resume": "Les États-Unis veulent isoler le secteur aérien iranien du reste du monde. Une offensive spectaculaire contre le régime mais dont les premières victimes pourraient être les 93 millions d’Iraniens.",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260923-sanctions-am%C3%A9ricaines-l-iran-menac%C3%A9-de-blocus-a%C3%A9rien",
+        "date": "Wed, 23 Sep 2026 09:48:36 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Resident Evil",
+        "date_sortie": "2026-09-16",
+        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
+        "note": 7.309,
+        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
+      },
+      {
+        "titre": "Mutiny",
+        "date_sortie": "2026-08-19",
+        "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il se retrouve piégé à bord d’un porte-cont",
+        "note": 6.4,
+        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
+      },
+      {
+        "titre": "Teenage Sex and Death at Camp Miasma",
+        "date_sortie": "2026-09-17",
+        "synopsis": "Un cinéaste queer est embauché pour diriger un nouvel épisode d'une franchise Slasher de longue date. Le réalisateur se fixe sur la perspective de lancer la «dernière fille» du film original, et les deux femmes entrent d",
+        "note": 6.5,
+        "affiche": "https://image.tmdb.org/t/p/w300/a5JvHUONtF8RyLL6M5nTlqqMJVE.jpg"
+      },
+      {
+        "titre": "Avengers : Endgame",
+        "date_sortie": "2019-04-24",
+        "synopsis": "Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de doigts qui a pulvéri",
+        "note": 8.244,
+        "affiche": "https://image.tmdb.org/t/p/w300/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg"
+      },
+      {
+        "titre": "Heart of the Beast",
+        "date_sortie": "2026-09-23",
+        "synopsis": "Après un terrible crash d’avion, James Belmont (Brad Pitt), ancien des forces spéciales, se retrouve perdu au cœur de l’Alaska avec son chien Odin, depuis toujours à ses côtés. Livrés à eux-mêmes dans une nature aussi ma",
+        "note": 7.8,
+        "affiche": "https://image.tmdb.org/t/p/w300/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg"
+      },
+      {
+        "titre": "Les Ensorceleuses 2",
+        "date_sortie": "2026-09-09",
+        "synopsis": "Une famille de sorcières multigénérationnelle, maudite à être sans amour pendant des siècles, tente de briser le sort en affrontant de sombres secrets et en se sacrifiant les uns pour les autres.",
+        "note": 6.175,
+        "affiche": "https://image.tmdb.org/t/p/w300/1fnNv1AOzbUG4gvL4AbenUfIlJp.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 1",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Cartophote / La Traversée photographique",
+        "date_debut": "2026-09-23T12:00:00+00:00",
+        "lieu": "Galerie Dityvon",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Métiers du Numérique : Les Armées recrutent",
+        "date_debut": "2026-09-24T07:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Rendez-vous découverte s'installer en Agriculture biologique en Vendée",
+        "date_debut": "2026-09-25T08:00:00+00:00",
+        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Rendez-vous découverte s'installer en Agriculture biologique en Maine-et-Loire",
+        "date_debut": "2026-09-25T12:00:00+00:00",
+        "lieu": "Chambre d’agriculture Pays de la Loire, Angers (49)",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Till l'Espiègle",
+        "date_debut": "2026-09-27T15:00:00+00:00",
+        "lieu": "Centre de Congrès d'Angers",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Pause-café",
+        "date_debut": "2026-09-23",
+        "lieu": "RIG Malville",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "INTERSTELLAR Ré-imaginer la Terre",
+        "date_debut": "2026-09-23",
+        "lieu": "HAB Galerie (Hangar à Bananes)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "LACRIMA",
+        "date_debut": "2026-09-23",
+        "lieu": "Mixt, salle Super",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Artothèque – L’art entre dans nos maisons !",
+        "date_debut": "2026-09-23",
+        "lieu": "Médiathèque Ormédo - Orvault",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Décryptages - Enfance(s), grandir quelque part - EXPOSITION",
+        "date_debut": "2026-09-23",
+        "lieu": "Cosmopolis",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-09-22",
     "news": [
       {
@@ -2520,205 +2719,6 @@
         "titre": "permanence jardinage potager paysage nourricier Prairie d'amont",
         "date_debut": "2026-09-10",
         "lieu": "Cours de la Prairie d’Amont",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-09",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Benyamin Nétanyahou averti d'un projet d'attaque du Hamas avant le 7-Octobre ? On vous résume les révélations du journal \"Haaretz\" et les réactions en Israël",
-        "resume": "D'après l'extrait d'un livre-enquête publié par le quotidien israélien, le chef du gouvernement avait été alerté en septembre 2023 de menaces du groupe islamiste palestinien, relayées par le président",
-        "lien": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/benyamin-netanyahou-averti-d-un-projet-d-attaque-du-hamas-avant-le-7-octobre-on-vous-resume-les-revelations-du-journal-haaretz-et-les-reactions-en-israel_8184335.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 09 Sep 2026 12:11:11 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"La contribution exceptionnelle des très grandes entreprises diminuera\" dans le budget 2027, promet Sébastien Lecornu aux entrepreneurs",
-        "resume": "Le Premier ministre a également assuré, dans une lettre adressée aux chefs d'entreprise, qu'un \"pacte Papin\" serait créé afin de \"faciliter la reprise de nos entreprises\", notamment via la transmissio",
-        "lien": "https://www.franceinfo.fr/economie/la-contribution-exceptionnelle-des-tres-grandes-entreprises-diminuera-dans-le-budget-2027-promet-sebastien-lecornu-aux-entrepreneurs_8184530.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 09 Sep 2026 12:21:38 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Elles jouent avec nos vies\" : Anthropic et OpenAI \"croient sincèrement\" que l'IA \"pourrait tous nous tuer\", attaque un chercheur en intelligence artificielle",
-        "resume": "Anthropic et sa rivale OpenAI \"foncent tout droit vers une superintelligence capable de s'améliorer elle-même\", dénonce Jacob Coxon, passé par les deux start-up américaines.",
-        "lien": "https://www.franceinfo.fr/internet/intelligence-artificielle/elles-jouent-avec-nos-vies-anthropic-et-openai-croient-sincerement-que-l-ia-pourrait-tous-nous-tuer-attaque-un-chercheur-en-ia_8184491.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 09 Sep 2026 12:45:00 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Guerre au Moyen-Orient : plusieurs navires sont en feu dans le Golfe, selon l'agence maritime britannique",
-        "resume": "L'Iran a annoncé plus tôt mercredi avoir pris pour cible une vingtaine de bateaux tentant d'emprunter le détroit d'Ormuz.",
-        "lien": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-teheran-attaque-une-base-militaire-des-etats-unis-en-jordanie-et-une-vingtaine-de-bateaux-apres-des-frappes-americaines-contre-des-petroliers_8184188.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 09 Sep 2026 12:31:21 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Un policier municipal de Carcassonne, membre du service d'ordre du RN, exclu du parti après la diffusion d'une vidéo dans laquelle il profère des propos racistes et misogynes",
-        "resume": "Publiés par le quotidien \"Midi libre\", ces propos ont été enregistrés par la caméra piéton du policier sans qu'il s'en rende compte, lors d'une patrouille effectuée en novembre 2025.",
-        "lien": "https://www.franceinfo.fr/politique/front-national/le-rn-sous-le-feu-des-critiques-apres-des-revelations-sur-les-propos-racistes-d-un-membre-de-son-service-de-securite_8184308.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 09 Sep 2026 11:43:19 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Une frappe russe à la frontière moldave, des drones ukrainiens ciblent une base militaire en mer Noire",
-        "resume": "L'Ukraine a été visée mercredi par une attaque de drones russes qui a fait au moins deux morts et plusieurs blessés près de la frontière moldave. De son côté, Moscou a dit avoir abattu près de 600 dro",
-        "lien": "https://www.france24.com/fr/europe/20260909-frappe-russe-fronti%C3%A8re-moldave-deux-morts-russie-abat-596-drones-ukrainiens",
-        "date": "Wed, 09 Sep 2026 10:22:20 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Donald Trump et Vladimir Poutine échangent au téléphone à propos de l'Ukraine",
-        "resume": "Quelques heures après le bruit des bombes à Kiev, Vladimir Poutine et Donald Trump se sont entretenus au téléphone. Le Kremlin a salué une conversation d’une \"extrême franchise\" à propos de l'Ukraine.",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260909-donald-trump-et-vladimir-poutine-%C3%A9changent-au-t%C3%A9l%C3%A9phone-%C3%A0-propos-de-l-ukraine",
-        "date": "Wed, 09 Sep 2026 10:18:24 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Éliminatoires de la CAN 2027 : des sélections contraintes à l'exil faute de stade",
-        "resume": "Dans un peu plus de deux semaines, l'Afrique lance les éliminatoires de la CAN 2027, où 48 sélections se disputent un billet pour le Kenya, l'Ouganda et la Tanzanie. Mais selon la CAF, 14 pays ne disp",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260909-%C3%A9liminatoires-de-la-can-2027-des-s%C3%A9lections-contraintes-%C3%A0-l-exil-faute-de-stade",
-        "date": "Wed, 09 Sep 2026 10:16:01 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Mutiny",
-        "date_sortie": "2026-08-19",
-        "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il se retrouve piégé à bord d’un porte-cont",
-        "note": 6.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
-      },
-      {
-        "titre": "Toxic",
-        "date_sortie": "2026-08-26",
-        "synopsis": "Alors que la domination portugaise s'effondre à Goa, Raya gravit les échelons du monde criminel à travers trahisons et bains de sang pour prendre le contrôle des bas-fonds de la ville, avant de découvrir que le pouvoir e",
-        "note": 7.9,
-        "affiche": "https://image.tmdb.org/t/p/w300/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg"
-      },
-      {
-        "titre": "The Dog Stars",
-        "date_sortie": "2026-08-26",
-        "synopsis": "Dans un futur proche où une pandémie sans nom a décimé la société américaine, Hig, un pilote vit sur une base aérienne abandonnée du Colorado avec son chien et un ex-marine. Lorsqu'une transmission aléatoire passe par la",
-        "note": 6.7,
-        "affiche": "https://image.tmdb.org/t/p/w300/w7c49Qgp3TAUC4hlo0mtgRpLOGG.jpg"
-      },
-      {
-        "titre": "La Fin d'Oak Street",
-        "date_sortie": "2026-08-12",
-        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
-        "note": 6.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg"
-      },
-      {
-        "titre": "Insidious : L'Invasion du Lointain",
-        "date_sortie": "2026-08-19",
-        "synopsis": "Gemma, une jeune mère élève sa fille dans la maison de son enfance. Elle découvre qu'elle peut voyager dans le Lointain, ce royaume purgatoire des âmes perdues au cœur de l'univers d'Insidious. Lorsqu'une entité malveill",
-        "note": 6.512,
-        "affiche": "https://image.tmdb.org/t/p/w300/bW8uJOLrtdBnQcQbG9BUQjDgUaT.jpg"
-      },
-      {
-        "titre": "Prison On Fire",
-        "date_sortie": "2026-09-01",
-        "synopsis": "Deux amis enfermés en prison vont devenir des frères ennemis, et se lancer dans un combat sans limites...",
-        "note": 7.0,
-        "affiche": "https://image.tmdb.org/t/p/w300/ywFyD2t6QylShE8ARjVuftS9iD4.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Midnights in October",
-        "artiste": "Midnights in October",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Gendarmerie",
-        "date_debut": "2026-09-09T08:00:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Gendarmerie",
-        "date_debut": "2026-09-09T12:00:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "réunion d'information création reprise entreprise en hôtellerie restauration avec accompagnement CCI Angers",
-        "date_debut": "2026-09-10T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Lancez votre carrière avec un contrat de professionnalisation en Arboriculture, Horticulture et Paysage via ELIORESO",
-        "date_debut": "2026-09-10T07:30:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Webinaire - Présentation du BPREA à distance",
-        "date_debut": "2026-09-10T10:00:00+00:00",
-        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Pause-café",
-        "date_debut": "2026-09-09",
-        "lieu": "RIG Malville",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le Voyage permanent - Coeur historique - Visite guidée",
-        "date_debut": "2026-09-09",
-        "lieu": "Nantes (Centre ville)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "House of Banksy - Une expo non autorisée",
-        "date_debut": "2026-09-09",
-        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Festival Impressions mutantes 2026",
-        "date_debut": "2026-09-09",
-        "lieu": "Grand Huit - Collectif Bonus",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "INTERSTELLAR Ré-imaginer la Terre",
-        "date_debut": "2026-09-09",
-        "lieu": "HAB Galerie (Hangar à Bananes)",
         "ville": "Nantes"
       }
     ]
