@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-09-24",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"La Russie continuera de nous tester\" : l'intensification de la guerre hybride menée par Moscou oblige les pays européens à réagir",
+        "resume": "La Russie multiplie les opérations en Europe, allant de l'incursion de drones, aux cyberattaques et aux tentatives de sabotage. Un cap a été franchi en août avec la découverte de drones explosifs à l'",
+        "lien": "https://www.franceinfo.fr/monde/russie/la-russie-continuera-de-nous-tester-l-intensification-de-la-guerre-hybride-menee-par-moscou-oblige-les-pays-europeens-a-reagir_8204696.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 24 Sep 2026 11:53:50 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "L'Iran menace d'étendre le conflit au Moyen-Orient \"jusqu'à l'océan Indien\" en cas de nouvelles attaques américaines",
+        "resume": "Les houthis du Yémen ont également menacé les Etats-Unis de représailles en cas d'intervention en soutien de l'Arabie saoudite.",
+        "lien": "https://www.franceinfo.fr/monde/conflit-israel-iran/l-iran-menace-d-etendre-le-conflit-au-moyen-orient-jusqu-a-l-ocean-indien-en-cas-de-nouvelles-attaques-americaines_8207777.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 24 Sep 2026 11:48:34 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "L'enfant handicapé qui a agressé une enseignante en Essonne va être accueilli dans un établissement spécialisé, promet le ministre de l'Education nationale",
+        "resume": "Cet élève avait reçu une \"notification\" de la Maison départementale des personnes handicapées en ce sens, mais avait été scolarisé à l'école en attendant de pouvoir être accueilli dans l'un de ces éta",
+        "lien": "https://www.franceinfo.fr/faits-divers/l-enfant-handicape-qui-a-agresse-une-enseignante-en-essonne-va-etre-accueilli-dans-un-etablissement-specialise-promet-le-ministre-de-l-education_8207819.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 24 Sep 2026 12:16:16 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Une attaque au couteau fait cinq blessés en Pologne, un ressortissant ukrainien interpellé",
+        "resume": "L'attaque s'est produite jeudi matin au dans l'enceinte de l'abbaye de Jaroslaw, dans l'est de la Pologne.",
+        "lien": "https://www.franceinfo.fr/monde/europe/une-attaque-au-couteau-fait-cinq-blesses-en-pologne-un-ressortissant-ukrainien-interpelle_8207891.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 24 Sep 2026 12:47:12 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"La joie des catholiques est aussi la nôtre\" : comment les autres cultes vont s'associer à la visite du pape en France",
+        "resume": "La venue de Léon XIV suscite un espoir parmi les représentants des principales confessions du pays. Ensemble, ils ont rédigé un texte qui sera signé par le souverain pontife, lundi à Metz.",
+        "lien": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/la-joie-des-catholiques-est-aussi-la-notre-comment-les-autres-cultes-vont-s-associer-a-la-visite-du-pape-en-france_8203265.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 24 Sep 2026 09:06:35 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "L'Église catholique fait vendre du Made in France pour la venue du pape Léon XIV",
+        "resume": "Entre les bougies, les chapelets et autres médailles, les marchands des souvenirs se frottent les mains à l'occasion de la visite de Léon XIV. L'Église catholique a donné officiellement ses consignes ",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260924-l-%C3%A9glise-catholique-fait-vendre-du-made-in-france-pour-la-venue-du-pape-l%C3%A9on-xiv",
+        "date": "Thu, 24 Sep 2026 10:38:17 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Brésil : des pluies torrentielles s'abattent sur Rio",
+        "resume": "Rio de Janeiro vit son mois de septembre le plus pluvieux jamais enregistré, a indiqué mercredi 23 septembre le système d'alertes local, tandis que le phénomène climatique El Niño menace d'être sévère",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260924-br%C3%A9sil-des-pluies-torrentielles-s-abattent-sur-rio",
+        "date": "Thu, 24 Sep 2026 10:32:44 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Léon XIV en France : pourquoi les intégristes français scrutent la visite du pape",
+        "resume": "L’excommunication de la Fraternité sacerdotale Saint-Pie X place le pape Léon XIV face à une équation délicate en France, où cette communauté intégriste est bien implantée, avec une centaine de lieux ",
+        "lien": "https://www.france24.com/fr/france/20260924-l%C3%A9on-xiv-france-pourquoi-int%C3%A9gristes-fran%C3%A7ais-scrutent-visite-pape",
+        "date": "Thu, 24 Sep 2026 10:27:28 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Resident Evil",
+        "date_sortie": "2026-09-16",
+        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
+        "note": 7.294,
+        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
+      },
+      {
+        "titre": "Mutiny",
+        "date_sortie": "2026-08-19",
+        "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il se retrouve piégé à bord d’un porte-cont",
+        "note": 6.419,
+        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
+      },
+      {
+        "titre": "Teenage Sex and Death at Camp Miasma",
+        "date_sortie": "2026-09-17",
+        "synopsis": "Un cinéaste queer est embauché pour diriger un nouvel épisode d'une franchise Slasher de longue date. Le réalisateur se fixe sur la perspective de lancer la «dernière fille» du film original, et les deux femmes entrent d",
+        "note": 6.382,
+        "affiche": "https://image.tmdb.org/t/p/w300/a5JvHUONtF8RyLL6M5nTlqqMJVE.jpg"
+      },
+      {
+        "titre": "Avengers : Endgame",
+        "date_sortie": "2019-04-24",
+        "synopsis": "Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de doigts qui a pulvéri",
+        "note": 8.244,
+        "affiche": "https://image.tmdb.org/t/p/w300/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg"
+      },
+      {
+        "titre": "Heart of the Beast",
+        "date_sortie": "2026-09-23",
+        "synopsis": "Après un terrible crash d’avion, James Belmont (Brad Pitt), ancien des forces spéciales, se retrouve perdu au cœur de l’Alaska avec son chien Odin, depuis toujours à ses côtés. Livrés à eux-mêmes dans une nature aussi ma",
+        "note": 7.712,
+        "affiche": "https://image.tmdb.org/t/p/w300/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg"
+      },
+      {
+        "titre": "Les Ensorceleuses 2",
+        "date_sortie": "2026-09-09",
+        "synopsis": "Une famille de sorcières multigénérationnelle, maudite à être sans amour pendant des siècles, tente de briser le sort en affrontant de sombres secrets et en se sacrifiant les uns pour les autres.",
+        "note": 6.175,
+        "affiche": "https://image.tmdb.org/t/p/w300/1fnNv1AOzbUG4gvL4AbenUfIlJp.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Young & Cursed (Original Motion Picture Soundtrack)",
+        "artiste": "Patrick O'Malley",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Warehouse 10 Volume 15",
+        "artiste": "Dave Matthews Band",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Warehouse 2026: 7.16.2025 Allianz Amphitheater At Riverfront, Richmond, VA",
+        "artiste": "Dave Matthews Band",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Time Machine",
+        "artiste": "The Jungle",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Flare",
+        "artiste": "ASML",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Métiers du Numérique : Les Armées recrutent",
+        "date_debut": "2026-09-24T07:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Rendez-vous découverte s'installer en Agriculture biologique en Vendée",
+        "date_debut": "2026-09-25T08:00:00+00:00",
+        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Rendez-vous découverte s'installer en Agriculture biologique en Maine-et-Loire",
+        "date_debut": "2026-09-25T12:00:00+00:00",
+        "lieu": "Chambre d’agriculture Pays de la Loire, Angers (49)",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Till l'Espiègle",
+        "date_debut": "2026-09-27T15:00:00+00:00",
+        "lieu": "Centre de Congrès d'Angers",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Découverte des Métiers de la Métallurgie : Plongez dans l'Univers Industriel avec l'UIMM",
+        "date_debut": "2026-09-28T12:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "permanence jardinage potager paysage nourricier Prairie d'amont",
+        "date_debut": "2026-09-24",
+        "lieu": "Cours de la Prairie d’Amont",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le monde fantastique des Adultes",
+        "date_debut": "2026-09-24",
+        "lieu": "TNT - Terrain Neutre Théâtre",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition d'Edouard Prulhière : Variable(s) pictural",
+        "date_debut": "2026-09-24",
+        "lieu": "Ateliers MilleFeuilles",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Les jeudis de paille",
+        "date_debut": "2026-09-24",
+        "lieu": "Le 20 mille",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition Le Muséum au fil du temps",
+        "date_debut": "2026-09-24",
+        "lieu": "Place de la Monnaie",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-09-23",
     "news": [
       {
@@ -2520,205 +2719,6 @@
         "titre": "Mlle Redge - Ma scène",
         "date_debut": "2026-09-11",
         "lieu": "les variétés",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-10",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"C'est du déni climatique\" : lors d'un débat présidentiel, plusieurs candidats ou leurs représentants s'accordent sur l'urgence d'agir, sans s'entendre sur les solutions",
-        "resume": "Marine Tondelier, Olivier Faure, François-Xavier Bellamy, Aurore Lalucq, Ian Brossat, Christophe Béchu, Jean-Philippe Tanguy et Agnès Pannier-Runacher étaient les invités de BFMTV, mercredi.",
-        "lien": "https://www.franceinfo.fr/elections/presidentielle/c-est-du-deni-climatique-lors-d-un-debat-presidentiel-plusieurs-candidats-ou-leurs-representants-s-accordent-sur-l-urgence-d-agir-sans-s-entendre-sur-les-solutions_8185442.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 10 Sep 2026 10:58:04 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"C'est comme si Trump était sur le bulletin\" : le président américain fait de son nom l'enjeu des midterms",
-        "resume": "À Dallas, Donald Trump a placé sa présidence au cœur de la première journée de la Convention républicaine consacrée aux élections de mi-mandat. Pour mobiliser son camp, il va jusqu'à promettre 5 000 d",
-        "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/reportage-c-est-comme-si-trump-etait-sur-le-bulletin-le-president-americain-fait-de-son-nom-l-enjeu-des-midterms_8185946.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 10 Sep 2026 11:20:41 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Emmanuel Macron appelle l'Europe à développer ses propres \"vols habités\" dans l'espace",
-        "resume": "Le président français a notamment dit souhaiter une première \"capsule européenne habitée dans dix ans\", lors du sommet international sur l'espace à Paris, jeudi.",
-        "lien": "https://www.franceinfo.fr/sciences/espace/emmanuel-macron-appelle-l-europe-a-developper-ses-propres-vols-habites-dans-l-espace_8186105.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 10 Sep 2026 11:33:12 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Le ministre de l'Intérieur \"déplore\" l'annulation d'un concert de Barbara Butch à Amiens, malgré \"les garanties de sécurité\" apportées",
-        "resume": "\"La défense de la liberté d'expression ne doit souffrir d’aucun renoncement\", a réagi Laurent Nuñez.",
-        "lien": "https://www.franceinfo.fr/culture/le-ministre-de-l-interieur-deplore-l-annulation-d-un-concert-de-barbara-butch-a-amiens-malgre-les-garanties-de-securite-apportees_8186219.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 10 Sep 2026 12:36:32 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Des archéologues découvrent \"la plus ancienne trace de consommation de plantes psychoactives\" chez des humains, il y a près de 25 000 ans",
-        "resume": "Des squelettes de cueilleurs retrouvés en Indonésie présentaient des dents abîmées portant des traces d'une substance psychoactive appelée arécoline. Des éléments compatibles avec la consommation de n",
-        "lien": "https://www.franceinfo.fr/sciences/des-archeologues-decouvrent-la-plus-ancienne-trace-de-consommation-de-plantes-psychoactives-chez-des-humains-il-y-a-pres-de-25-000-ans_8186111.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 10 Sep 2026 12:22:29 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Royaume-Uni : la tapisserie de Bayeux ouvre au public, Londres en pleine \"tapestry-mania\"",
-        "resume": "Les visiteurs découvrent la tapisserie de Bayeux à partir de ce jeudi 10 septembre au British Museum à Londres. Une exposition qui suscite un engouement exceptionnel au Royaume-Uni, presque mille ans ",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260910-royaume-uni-la-tapisserie-de-bayeux-ouvre-au-public-londres-en-pleine-tapestry-mania",
-        "date": "Thu, 10 Sep 2026 10:38:15 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Changement climatique : la chaleur a atteint des niveaux jamais enregistrés cet été",
-        "resume": "La chaleur a atteint des niveaux jamais vus cet été sur la planète, a constaté, jeudi 10 septembre, le service météorologique européen Copernicus. Août a été le mois le plus chaud jamais mesuré à l'éc",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260910-changement-climatique-la-chaleur-a-atteint-des-niveaux-jamais-enregistr%C3%A9s-cet-%C3%A9t%C3%A9",
-        "date": "Thu, 10 Sep 2026 10:31:58 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "🔴 Crise à la Fifa : la Fédération française retire son soutien à Gianni Infantino (médias)",
-        "resume": "",
-        "lien": "https://www.france24.com/fr/sports/20260910-football-fifa-fff-diallo-l%C3%A2che-gianni-infantino-scandale",
-        "date": "Thu, 10 Sep 2026 09:51:38 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Mutiny",
-        "date_sortie": "2026-08-19",
-        "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il se retrouve piégé à bord d’un porte-cont",
-        "note": 6.355,
-        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
-      },
-      {
-        "titre": "Toxic",
-        "date_sortie": "2026-08-26",
-        "synopsis": "Alors que la domination portugaise s'effondre à Goa, Raya gravit les échelons du monde criminel à travers trahisons et bains de sang pour prendre le contrôle des bas-fonds de la ville, avant de découvrir que le pouvoir e",
-        "note": 7.944,
-        "affiche": "https://image.tmdb.org/t/p/w300/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg"
-      },
-      {
-        "titre": "Juste pour une Nuit",
-        "date_sortie": "2026-08-12",
-        "synopsis": "Quand Owen, qui vient de se faire larguer, rencontre Allie, qui croit encore au grand amour, l'étincelle est immédiate. Cependant, une série de maladresses et de mésaventures séparent les deux seuls célibataires de la vi",
-        "note": 6.822,
-        "affiche": "https://image.tmdb.org/t/p/w300/9ix7kr4DTKSmnBmvugvkRQJb1KO.jpg"
-      },
-      {
-        "titre": "Prison On Fire",
-        "date_sortie": "2026-09-01",
-        "synopsis": "Deux amis enfermés en prison vont devenir des frères ennemis, et se lancer dans un combat sans limites...",
-        "note": 7.0,
-        "affiche": "https://image.tmdb.org/t/p/w300/ywFyD2t6QylShE8ARjVuftS9iD4.jpg"
-      },
-      {
-        "titre": "La Fin d'Oak Street",
-        "date_sortie": "2026-08-12",
-        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
-        "note": 6.351,
-        "affiche": "https://image.tmdb.org/t/p/w300/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg"
-      },
-      {
-        "titre": "The Dog Stars",
-        "date_sortie": "2026-08-26",
-        "synopsis": "Dans un futur proche où une pandémie sans nom a décimé la société américaine, Hig, un pilote vit sur une base aérienne abandonnée du Colorado avec son chien et un ex-marine. Lorsqu'une transmission aléatoire passe par la",
-        "note": 6.638,
-        "affiche": "https://image.tmdb.org/t/p/w300/w7c49Qgp3TAUC4hlo0mtgRpLOGG.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Midnights in October",
-        "artiste": "Midnights in October",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "réunion d'information création reprise entreprise en hôtellerie restauration avec accompagnement CCI Angers",
-        "date_debut": "2026-09-10T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Lancez votre carrière avec un contrat de professionnalisation en Arboriculture, Horticulture et Paysage via ELIORESO",
-        "date_debut": "2026-09-10T07:30:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Webinaire - Présentation du BPREA à distance",
-        "date_debut": "2026-09-10T10:00:00+00:00",
-        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Atelier découverte des circuits courts",
-        "date_debut": "2026-09-11T08:00:00+00:00",
-        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "MENCO Angers recrute ! Venez nous rencontrer à notre Job Dating",
-        "date_debut": "2026-09-14T06:30:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Décryptages - Enfance(s), grandir quelque part - EXPOSITION",
-        "date_debut": "2026-09-10",
-        "lieu": "Cosmopolis",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Tonus Crazy Jungle - Intégration des BTS",
-        "date_debut": "2026-09-10",
-        "lieu": "Warehouse",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Point d'Information Nantes Solidaire",
-        "date_debut": "2026-09-10",
-        "lieu": "Maison de santé Nantes nord",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Atelier couture et arts du fil",
-        "date_debut": "2026-09-10",
-        "lieu": "Centre socioculturel des Bourderies",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "permanence jardinage potager paysage nourricier Prairie d'amont",
-        "date_debut": "2026-09-10",
-        "lieu": "Cours de la Prairie d’Amont",
         "ville": "Nantes"
       }
     ]
