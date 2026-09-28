@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-09-28",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Blocus dans des lycées : Jean-Luc Mélenchon accuse le gouvernement d'ordonner la \"répression\" du mouvement avec \"un arrière-goût raciste\", Sébastien Lecornu dénonce une \"insulte\"",
+        "resume": "La mobilisation des élèves, notamment contre le manque de moyens, s'intensifie dans plusieurs lycées de France, et notamment d'Ile-de-France. Les ministres de l'Intérieur et de l'Education nationale o",
+        "lien": "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/lycee/blocus-des-lycees-jean-luc-melenchon-denonce-la-repression-du-gouvernement-sebastien-lecornu-regrette-une-surenchere-irresponsable-de-lfi_8213258.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 28 Sep 2026 14:42:35 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Procès de Rachida Dati : le parquet requiert contre l'ancienne ministre quatre ans d'emprisonnement, dont deux ans aménageables, et cinq ans d'inéligibilité avec effet immédiat",
+        "resume": "Par ailleurs, le Parquet national financier (PNF) a requis quatre ans de prison contre Carlos Ghosn, en fuite au Liban, avec maintien du mandat d'arrêt.",
+        "lien": "https://www.franceinfo.fr/politique/rachida-dati/direct-proces-de-rachida-dati-suivez-le-dernier-jour-d-audience-et-les-requisitions-du-parquet-national-financier_8209622.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 28 Sep 2026 14:26:40 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Visite du pape à Metz : Léon XIV déplore le retour de la guerre en Europe et appelle à \"sacrifier certaines positions pour le bien supérieur de la paix\" sur le continent",
+        "resume": "Avant la prise de parole du souverain pontife américain, Emmanuel Macron a appelé l'Europe à retrouver le \"courage de ses pères fondateurs\" et à ne pas céder au \"repli\" et au \"retour des nationalismes",
+        "lien": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/direct-visite-du-pape-a-metz-dialogue-interreligieux-discours-sur-l-europe-derniere-messe-suivez-la-derniere-journee-du-voyage-de-leon-xiv_8203175.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 28 Sep 2026 14:01:09 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Contacts avec les parties intimes, sécurité à la maison, agressions sexuelles : ce que contiennent les questionnaires qui seront distribués aux élèves de l'école primaire au lycée",
+        "resume": "Ces questionnaires seront proposés aux élèves à partir de début novembre, après les vacances. Si un élève s'identifie et fait état de violences, \"il sera immédiatement recontacté\", assure le ministre ",
+        "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/info-radio-france-contacts-avec-les-parties-intimes-securite-a-la-maison-agressions-sexuelles-ce-que-contiennent-les-questionnaires-qui-seront-distribues-aux-eleves-de-l-ecole-primaire-au-lycee_8213339.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 28 Sep 2026 13:29:23 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "La droite conserve sa majorité, le RN obtient un groupe, un premier élu LFI… Ce qu'il faut retenir des résultats des sénatoriales",
+        "resume": "Environ la moitié des sièges étaient renouvelés dimanche. Les équilibres politiques n'ont pas été bouleversés, mais le RN dépasse la barre des dix sénateurs, tandis que LFI parvient à faire élire l'un",
+        "lien": "https://www.franceinfo.fr/elections/senatoriales/la-droite-conserve-sa-majorite-le-rn-obtient-un-groupe-un-premier-elu-lfi-ce-qu-il-faut-retenir-des-resultats-des-elections-senatoriales-2026_8212337.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 28 Sep 2026 10:45:53 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Élections sénatoriales en France : le RN débarque en force à la chambre haute",
+        "resume": "Le Rassemblement national frappe un grand coup: en formant un groupe parlementaire au Sénat pour la première fois dimanche, le parti lepéniste a obtenu un succès significatif en pleine campagne présid",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260928-%C3%A9lections-s%C3%A9natoriales-en-france-le-rn-d%C3%A9barque-en-force-%C3%A0-la-chambre-haute",
+        "date": "Mon, 28 Sep 2026 12:51:07 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Léon XIV en France : une déambulation papale est prévue dans les rues de Metz",
+        "resume": "Une déambulation papale est prévue dans les rues de Metz cet après-midi avant une messe en la cathédrale Saint-Etienne en présence d'Emmanuel Macron, qui n'avait pas assisté aux autres offices célébré",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260928-l%C3%A9on-xiv-en-france-une-d%C3%A9ambulation-papale-est-pr%C3%A9vue-dans-les-rues-de-metz",
+        "date": "Mon, 28 Sep 2026 12:50:33 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "JOJ Dakar 2026 : retrouvez les calendriers des Jeux olympiques de la jeunesse",
+        "resume": "Destinés aux athlètes âgés de moins de 17 ans, les Jeux olympiques de la jeunesse (JOJ) 2026 auront lieu à Dakar du 31 octobre au 13 novembre. Il s'agit de la première compétition olympique jamais org",
+        "lien": "https://www.france24.com/fr/afrique/20260928-joj-de-dakar-retrouvez-les-calendriers-des-jeux-olympiques-de-la-jeunesse",
+        "date": "Mon, 28 Sep 2026 12:37:47 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Resident Evil",
+        "date_sortie": "2026-09-16",
+        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
+        "note": 7.332,
+        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
+      },
+      {
+        "titre": "Mutiny",
+        "date_sortie": "2026-08-19",
+        "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il se retrouve piégé à bord d’un porte-cont",
+        "note": 7.278,
+        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
+      },
+      {
+        "titre": "Heart of the Beast",
+        "date_sortie": "2026-09-23",
+        "synopsis": "Après un terrible crash d’avion, James Belmont (Brad Pitt), ancien des forces spéciales, se retrouve perdu au cœur de l’Alaska avec son chien Odin, depuis toujours à ses côtés. Livrés à eux-mêmes dans une nature aussi ma",
+        "note": 7.7,
+        "affiche": "https://image.tmdb.org/t/p/w300/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg"
+      },
+      {
+        "titre": "Avengers : Endgame",
+        "date_sortie": "2019-04-24",
+        "synopsis": "Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de doigts qui a pulvéri",
+        "note": 8.245,
+        "affiche": "https://image.tmdb.org/t/p/w300/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg"
+      },
+      {
+        "titre": "Teenage Sex and Death at Camp Miasma",
+        "date_sortie": "2026-09-17",
+        "synopsis": "Un cinéaste queer est embauché pour diriger un nouvel épisode d'une franchise Slasher de longue date. Le réalisateur se fixe sur la perspective de lancer la «dernière fille» du film original, et les deux femmes entrent d",
+        "note": 6.33,
+        "affiche": "https://image.tmdb.org/t/p/w300/a5JvHUONtF8RyLL6M5nTlqqMJVE.jpg"
+      },
+      {
+        "titre": "Primetime",
+        "date_sortie": "2026-09-23",
+        "synopsis": "Chris Hansen présente l'émission policière « To Catch a Predator ». Diffusée sur NBC Dateline, cette émission tente de filmer des pédophiles présumés avec l'aide des forces de l'ordre et d'une équipe d'appâts se faisant ",
+        "note": 7.1,
+        "affiche": "https://image.tmdb.org/t/p/w300/rhF8JALH8wrxKtXSCAB7a09tWsc.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Complete Orchestral Works, Vol. 3",
+        "artiste": "Maurice Ravel",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Découverte des Métiers de la Métallurgie : Plongez dans l'Univers Industriel avec l'UIMM",
+        "date_debut": "2026-09-28T12:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Visio Opportunités du moment - Angers Capucins",
+        "date_debut": "2026-09-29T12:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Rendez-vous Angers Emploi",
+        "date_debut": "2026-09-29T12:00:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Mon projet de formation- les étapes, les financements, la rémunération - Pour les demandeurs d'emploi d'ANGERS CAPUCINS:",
+        "date_debut": "2026-09-29T12:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Boostez votre recherche d'emploi avec les outils numériques de France Travail",
+        "date_debut": "2026-09-29T12:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "House of Banksy - Une expo non autorisée",
+        "date_debut": "2026-09-28",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le livre d’artiste concours et exposition – Musée de l'imprimerie",
+        "date_debut": "2026-09-28",
+        "lieu": "Musée-atelier de l'imprimerie de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "The Art of the Brick - Exposition d’art en Lego",
+        "date_debut": "2026-09-28",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Comptines et tintamarre",
+        "date_debut": "2026-09-28",
+        "lieu": "Espace Anne Sylvestre",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Concertation square du Zest - Bottière",
+        "date_debut": "2026-09-28",
+        "lieu": "square du Zest",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-09-27",
     "news": [
       {
@@ -2551,174 +2750,6 @@
         "titre": "Biodivers'été 2026",
         "date_debut": "2026-09-15",
         "lieu": "Parcs et jardins",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-14",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Une ONG accuse Israël d'\"éliminer\" la possibilité d'une nation palestinienne en Cisjordanie occupée",
-        "resume": "L'ONG de défense des droits humains B'Tselem affirme que cet objectif s'appuie sur \"la violence et l'intimidation, les restrictions de mouvement, l'étouffement économique, la destruction sociale et po",
-        "lien": "https://www.franceinfo.fr/monde/palestine/une-ong-accuse-israel-d-eliminer-la-possibilite-d-une-nation-palestinienne-en-cisjordanie-occupee_8191793.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 14 Sep 2026 12:37:03 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Ce que l'on sait de la frappe de drone russe contre un train en Ukraine près de la frontière avec la Pologne",
-        "resume": "Selon la compagnie ferroviaire ukrainienne, \"il est très probable\" que l'attaque russe ait visé un autre train qui transportait \"des conseillers à la sécurité et des anciens dirigeants européens dont ",
-        "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ce-que-l-on-sait-de-la-frappe-de-drone-russe-contre-un-train-en-ukraine-pres-de-la-frontiere-avec-la-pologne_8191496.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 14 Sep 2026 10:56:16 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Policiers, salariés du secteur de l'énergie, inaction climatique... Qui se mobilise (et pourquoi) mardi 15 septembre ?",
-        "resume": "Dans un contexte budgétaire contraint, de nombreuses professions ont prévu de manifester à Paris.",
-        "lien": "https://www.franceinfo.fr/economie/greve/policiers-salaries-du-secteur-de-l-energie-inaction-climatique-qui-se-mobilise-et-pourquoi-mardi-15-septembre_8190821.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 14 Sep 2026 06:03:40 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Une vidéo montre un policier jetant un SDF à terre à Carcassonne, l'IGPN saisie et une enquête ouverte",
-        "resume": "Les faits remontent au 21 juin, jour de la Fête de la musique. La vidéo du policier qui jette l'homme à terre a été diffusée samedi sur X par un député de La France insoumise.",
-        "lien": "https://www.franceinfo.fr/faits-divers/police/l-igpn-saisie-et-une-enquete-ouverte-pour-violences-volontaires-apres-la-diffusion-d-une-video-qui-montre-un-policier-jeter-a-terre-un-sdf-a-carcassonne_8191814.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 14 Sep 2026 13:01:57 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Plus que quelques jours pour désigner les illustrations des nouveaux billets en euros",
-        "resume": "Entre le visage de personnalités historiques ou un aperçu du patrimoine écologique de l'Union sur les futurs billets européens, que choisiriez-vous ? La consultation en ligne lancée par la Banque cent",
-        "lien": "https://www.franceinfo.fr/monde/europe/plus-que-quelques-jours-pour-designer-les-illustrations-des-nouveaux-billets-en-euros_8190977.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 14 Sep 2026 12:17:00 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Attentat de Trèbes et Carcassonne : le procès en appel s'ouvre à Paris",
-        "resume": "La petite amie du terroriste qui avait tué quatre personnes en 2018, dont le gendarme Arnaud Beltrame, est rejugée à partir de lundi aux côtés d'un ami de l'assaillant. Le parquet national antiterrori",
-        "lien": "https://www.france24.com/fr/france/20260914-attentat-tr%C3%A8bes-carcassonne-proc%C3%A8s-en-appel-s-ouvre-%C3%A0-paris-terrorisme",
-        "date": "Mon, 14 Sep 2026 11:23:53 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Guerre en Ukraine : la Russie frappe à 800 mètres de la Pologne",
-        "resume": "L'Ukraine et la Pologne ont dénoncé, dimanche 13 septembre, des frappes russes qui ont endommagé un train à destination de Varsovie tout près de la frontière polonaise, où un autre convoi transportant",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260914-guerre-en-ukraine-la-russie-frappe-%C3%A0-800-m%C3%A8tres-de-la-pologne",
-        "date": "Mon, 14 Sep 2026 10:54:33 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Législatives en Suède : la droite et la gauche au coude-à-coude",
-        "resume": "En Suède, les résultats officiels des législatives seront confirmés mercredi 16 septembre, quand toutes les voix des Suédois de l'étranger et des personnes ayant voté par anticipation auront été compt",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260914-l%C3%A9gislatives-en-su%C3%A8de-la-droite-et-la-gauche-au-coude-%C3%A0-coude",
-        "date": "Mon, 14 Sep 2026 10:54:09 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Mutiny",
-        "date_sortie": "2026-08-19",
-        "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il se retrouve piégé à bord d’un porte-cont",
-        "note": 6.425,
-        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
-      },
-      {
-        "titre": "La Fin d'Oak Street",
-        "date_sortie": "2026-08-12",
-        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
-        "note": 6.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg"
-      },
-      {
-        "titre": "Juste pour une Nuit",
-        "date_sortie": "2026-08-12",
-        "synopsis": "Quand Owen, qui vient de se faire larguer, rencontre Allie, qui croit encore au grand amour, l'étincelle est immédiate. Cependant, une série de maladresses et de mésaventures séparent les deux seuls célibataires de la vi",
-        "note": 6.623,
-        "affiche": "https://image.tmdb.org/t/p/w300/9ix7kr4DTKSmnBmvugvkRQJb1KO.jpg"
-      },
-      {
-        "titre": "Les Ensorceleuses 2",
-        "date_sortie": "2026-09-09",
-        "synopsis": "Une famille de sorcières multigénérationnelle, maudite à être sans amour pendant des siècles, tente de briser le sort en affrontant de sombres secrets et en se sacrifiant les uns pour les autres.",
-        "note": 5.952,
-        "affiche": "https://image.tmdb.org/t/p/w300/1fnNv1AOzbUG4gvL4AbenUfIlJp.jpg"
-      },
-      {
-        "titre": "La Pat’ Patrouille : Le film mission Dino",
-        "date_sortie": "2026-08-05",
-        "synopsis": "Lorsqu’une mystérieuse tempête surprend leur navire, la Pat’ Patrouille s’échoue sur une île tropicale encore inexplorée… et peuplée de dinosaures ! Ils y rencontrent Rex, un chiot courageux installé sur l’île depuis des",
-        "note": 7.33,
-        "affiche": "https://image.tmdb.org/t/p/w300/tincY2hhSGkpGncWMDUfrwku6Q2.jpg"
-      },
-      {
-        "titre": "Toxic",
-        "date_sortie": "2026-08-26",
-        "synopsis": "Alors que la domination portugaise s'effondre à Goa, Raya gravit les échelons du monde criminel à travers trahisons et bains de sang pour prendre le contrôle des bas-fonds de la ville, avant de découvrir que le pouvoir e",
-        "note": 8.0,
-        "affiche": "https://image.tmdb.org/t/p/w300/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg"
-      }
-    ],
-    "albums": [],
-    "evenements": [
-      {
-        "titre": "MENCO Angers recrute ! Venez nous rencontrer à notre Job Dating",
-        "date_debut": "2026-09-14T06:30:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Déplacements et mobilités: découvrez, échangez et informez-vous",
-        "date_debut": "2026-09-14T07:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Déplacements et mobilités: découvrez, échangez et informez-vous",
-        "date_debut": "2026-09-14T08:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Déplacements et mobilités: découvrez, échangez et informez-vous",
-        "date_debut": "2026-09-14T09:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Présentation offre de service Cadres",
-        "date_debut": "2026-09-14T12:00:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Décryptages - Enfance(s), grandir quelque part - EXPOSITION",
-        "date_debut": "2026-09-14",
-        "lieu": "Cosmopolis",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le Voyage permanent - Coeur historique - Visite guidée",
-        "date_debut": "2026-09-14",
-        "lieu": "Nantes (Centre ville)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Biodivers'été 2026",
-        "date_debut": "2026-09-14",
-        "lieu": "Parcs et jardins",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "The Art of the Brick - Exposition d’art en Lego",
-        "date_debut": "2026-09-14",
-        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "House of Banksy - Une expo non autorisée",
-        "date_debut": "2026-09-14",
-        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
         "ville": "Nantes"
       }
     ]
