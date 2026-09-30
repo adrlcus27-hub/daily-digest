@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-09-30",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Vigilance rouge \"pluie-inondation\" : 200 mm de pluie sont déjà tombés en vingt-quatre heures, annonce la préfecture de l'Hérault",
+        "resume": "Les deux départements sont placés en vigilance rouge en raison d'un \"épisode méditerranéen exceptionnel\".",
+        "lien": "https://www.franceinfo.fr/environnement/meteo/direct-intemperies-dans-le-gard-et-l-herault-une-partie-des-etablissements-scolaires-fermes-et-les-transports-en-commun-interrompus-annoncent-les-prefectures_8215718.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 30 Sep 2026 12:38:17 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Un ministre israélien évoque la piste \"terroriste\" après l'atterrissage en urgence d'un vol Dubai - Tel Aviv en Arabie saoudite",
+        "resume": "Le vol de la compagnie Flydubai en direction de Tel-Aviv a été dérouté mercredi. Selon la presse israélienne, le copilote a cherché à précipiter l’avion au sol.",
+        "lien": "https://www.franceinfo.fr/economie/aeronautique/un-bagarre-entre-pilotes-en-plein-vol-a-l-origine-d-un-atterrissage-d-urgence-en-arabie-saoudite_8216290.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 30 Sep 2026 13:44:12 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Changement de système, passage à 60 ou à 65 ans, capitalisation... Que proposent les principaux candidats à l'élection présidentielle pour les retraites ?",
+        "resume": "A quelques mois du premier tour de la présidentielle, les candidats se positionnent sur le dossier des retraites. A gauche, tout le monde s'accorde sur une suppression de la réforme Borne. A droite, l",
+        "lien": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/changement-de-systeme-passage-a-60-ou-a-65-ans-capitalisation-que-proposent-les-principaux-candidats-a-l-election-presidentielle-pour-les-retraites_8215784.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 30 Sep 2026 12:50:14 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Affaire Jubillar : de nouvelles fouilles menées dans le Tarn, deux jours avant la reconstitution du meurtre",
+        "resume": "Ces fouilles ont lieu mercredi dans certains champs sur le secteur de Mailhoc, \"qui n'avaient pas encore fait l'objet de vérifications\", précise la gendarmerie.",
+        "lien": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/affaire-jubillar-de-nouvelles-fouilles-menees-dans-le-tarn-deux-jours-avant-la-reconstitution-du-meurtre_8216263.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 30 Sep 2026 13:10:46 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "La justice reconnaît comme \"crime contre l'humanité\" les rafles menées en 1943 à Marseille",
+        "resume": "L'enquête judiciaire ouverte en 2019 n'a toutefois pas permis d'identifier des responsables encore vivants impliqués dans ces opérations, a expliqué le procureur national antiterroriste.",
+        "lien": "https://www.franceinfo.fr/societe/seconde-guerre-mondiale/la-justice-reconnait-comme-crime-contre-l-humanite-les-rafles-menees-en-1943-a-marseille_8216224.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 30 Sep 2026 12:54:57 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Propos antisémites attribués à Jordan Bardella : le RN fait bloc",
+        "resume": "Jordan Bardella est accusé par le journal Mediapart de propos et d'écrits antisémites. Le président du Rassemblement national (RN) contre-attaque en déclarant que l'objectif est de \"l’abattre politiqu",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/face-%C3%A0-face/20260930-propos-antis%C3%A9mites-attribu%C3%A9s-%C3%A0-jordan-bardella-le-rn-fait-bloc",
+        "date": "Wed, 30 Sep 2026 11:38:45 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "🔴 En direct : avion dérouté, pilotes blessés, ce que l'on sait du vol FZ 1073 à destination de Tel-Aviv",
+        "resume": "",
+        "lien": "https://www.france24.com/fr/moyen-orient/20260930-avion-flydubai-destination-tel-aviv-contraint-atterrir-duba%C3%AF-pilotes",
+        "date": "Wed, 30 Sep 2026 11:17:30 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Mali : Amnesty International accable l'armée et les forces paramilitaires russes Wagner",
+        "resume": "Au Mali, Amnesty international accuse l'armée et les paramilitaires russes de \"crimes de guerre\". Des membres des Forces armées maliennes (Fama) et du groupe paramilitaire russe Wagner ont commis \"des",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260930-mali-amnesty-international-accable-l-arm%C3%A9e-et-les-forces-paramilitaires-russes-wagner",
+        "date": "Wed, 30 Sep 2026 11:10:23 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Resident Evil",
+        "date_sortie": "2026-09-16",
+        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
+        "note": 7.3,
+        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
+      },
+      {
+        "titre": "Heart of the Beast",
+        "date_sortie": "2026-09-23",
+        "synopsis": "Après un terrible crash d’avion, James Belmont (Brad Pitt), ancien des forces spéciales, se retrouve perdu au cœur de l’Alaska avec son chien Odin, depuis toujours à ses côtés. Livrés à eux-mêmes dans une nature aussi ma",
+        "note": 7.633,
+        "affiche": "https://image.tmdb.org/t/p/w300/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg"
+      },
+      {
+        "titre": "Digger",
+        "date_sortie": "2026-09-28",
+        "synopsis": "L’homme le plus puissant du monde se lance dans une mission frénétique pour prouver qu’il est le sauveur de l’humanité avant que le désastre qu’il a déclenché ne détruise tout.",
+        "note": 7.3,
+        "affiche": "https://image.tmdb.org/t/p/w300/9BzF32t0U7mOnpzmQ0dyFKv4uZT.jpg"
+      },
+      {
+        "titre": "Avengers : Endgame",
+        "date_sortie": "2019-04-24",
+        "synopsis": "Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de doigts qui a pulvéri",
+        "note": 8.245,
+        "affiche": "https://image.tmdb.org/t/p/w300/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg"
+      },
+      {
+        "titre": "Teenage Sex and Death at Camp Miasma",
+        "date_sortie": "2026-09-17",
+        "synopsis": "Un cinéaste queer est embauché pour diriger un nouvel épisode d'une franchise Slasher de longue date. Le réalisateur se fixe sur la perspective de lancer la «dernière fille» du film original, et les deux femmes entrent d",
+        "note": 6.328,
+        "affiche": "https://image.tmdb.org/t/p/w300/a5JvHUONtF8RyLL6M5nTlqqMJVE.jpg"
+      },
+      {
+        "titre": "Primetime",
+        "date_sortie": "2026-09-23",
+        "synopsis": "Chris Hansen présente l'émission policière « To Catch a Predator ». Diffusée sur NBC Dateline, cette émission tente de filmer des pédophiles présumés avec l'aide des forces de l'ordre et d'une équipe d'appâts se faisant ",
+        "note": 7.1,
+        "affiche": "https://image.tmdb.org/t/p/w300/rhF8JALH8wrxKtXSCAB7a09tWsc.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Complete Orchestral Works, Vol. 3",
+        "artiste": "Maurice Ravel",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Réunion d'informations métiers, recrutements et concours Centre des Finances Publiques",
+        "date_debut": "2026-09-30T07:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Comité Régional Sports pour Tous Pays de-la-Loire Tous en Forme !",
+        "date_debut": "2026-09-30T07:30:00+00:00",
+        "lieu": "Salle des Maulévries, 5 square Gaston Allard",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Recrutement de manutentionnaires H/F pour une entreprise leader dans le transport et la logistique",
+        "date_debut": "2026-10-01T06:30:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Plongez dans l'univers des assistants de vie (H/F) et décrochez votre futur emploi !",
+        "date_debut": "2026-10-01T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Cartophote / La Traversée Photographique",
+        "date_debut": "2026-10-01T08:00:00+00:00",
+        "lieu": "Galerie Dityvon",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Les Rendez-vous à la ferme",
+        "date_debut": "2026-09-30",
+        "lieu": "Parc de la Chantrerie",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le livre d’artiste concours et exposition – Musée de l'imprimerie",
+        "date_debut": "2026-09-30",
+        "lieu": "Musée-atelier de l'imprimerie de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "La Nuit je mens",
+        "date_debut": "2026-09-30",
+        "lieu": "Ecole des Beaux-Arts Nantes St-Nazaire",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Programme de sensibilisation aux discriminations · Magma'Nantes #10",
+        "date_debut": "2026-09-30",
+        "lieu": "Open Lande",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Pause-café",
+        "date_debut": "2026-09-30",
+        "lieu": "RIG Malville",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-09-29",
     "news": [
       {
@@ -2520,205 +2719,6 @@
         "titre": "Les Petits Déj' Lunaires",
         "date_debut": "2026-09-17",
         "lieu": "Pôle associatif Désiré Colombe",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-16",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Le député Philippe Brun exclu de la primaire du PS et de ses alliés après des accusations de \"violence\", l'intéressé évoque sa \"stupeur\"",
-        "resume": "Le député de l'Eure a par ailleurs été \"suspendu à titre conservatoire\" du parti à la rose. \"J'ignore ce qui m'est reproché\", a-t-il réagi.",
-        "lien": "https://www.franceinfo.fr/elections/presidentielle/le-depute-socialiste-philippe-brun-exclu-de-la-primaire-de-la-gauche-apres-des-accusations-de-violence-l-interesse-evoque-sa-stupeur_8195156.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 16 Sep 2026 12:48:58 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Ursula von der Leyen propose que l'Union européenne interdise les réseaux sociaux aux enfants de moins de 13 ans",
-        "resume": "Elle propose aussi que les adolescents entre 13 et 15 ans ne disposent que \"de mini-comptes, installés et surveillés par leurs parents, avec des fonctionnalités restreintes et une durée d'utilisation ",
-        "lien": "https://www.franceinfo.fr/internet/reseaux-sociaux/ursula-von-der-leyen-propose-que-l-union-europeenne-interdise-les-reseaux-sociaux-aux-enfants-de-moins-de-13-ans_8195216.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 16 Sep 2026 11:37:57 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Violences sexuelles dans le périscolaire : le maire de Paris, Emmanuel Grégoire, reconnaît \"des dysfonctionnements et des failles\" et exprime ses \"profonds regrets\"",
-        "resume": "L'élu socialiste, visé comme sa prédécesseure Anne Hidalgo par des investigations pénales à la suite des plaintes de plusieurs familles, était entendu mercredi matin devant la chambre haute du Parleme",
-        "lien": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/violences-sexuelles-dans-le-periscolaire-le-maire-de-paris-emmanuel-gregoire-reconnait-des-dysfonctionnements-et-des-failles-et-exprime-ses-profonds-regrets_8195102.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 16 Sep 2026 12:00:52 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Une opération de communication\" : le rescapé du 13-Novembre Arthur Dénouveaux n'ira pas à la réunion organisée en vue d'une possible libération du logisticien des attentats",
-        "resume": "La justice belge organise une réunion mercredi pour informer les victimes de la possible libération de Mohamed Bakkali, condamné en France. Le rescapé du Bataclan Arthur Dénouveaux affirme sur francei",
-        "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attaques-du-13-novembre-a-paris/proces-des-attentats-du-13-novembre-2015/une-operation-de-communication-le-rescape-du-13-novembre-arthur-denouveaux-n-ira-pas-a-la-reunion-organisee-par-la-justice-belge-sur-la-possible-liberation-du-logisticien-des-attentats_8195018.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 16 Sep 2026 09:29:25 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Six questions sur le procès pour corruption de Rachida Dati et Carlos Ghosn, ex-PDG de Renault",
-        "resume": "L'ancienne ministre, qui a perçu 900 000 euros d'honoraires de Renault-Nissan, comparaît à partir de mercredi devant le tribunal correctionnel de Paris, dans un retentissant procès pour corruption et ",
-        "lien": "https://www.franceinfo.fr/politique/rachida-dati/six-questions-sur-le-proces-pour-corruption-de-rachida-dati-et-carlos-ghosn-ex-pdg-de-renault_8193776.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 16 Sep 2026 08:47:58 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "L'enseignement supérieur s'empare de la sécurité économique : l'ère de la souveraineté",
-        "resume": "Le mot souveraineté s'est imposé partout : dans l'armement, le numérique et l'agriculture. Il gagne désormais les amphithéâtres, où les grandes écoles emboîtent le pas aux universités. Mais que recouv",
-        "lien": "http://www.france24.com/fr/%C3%A9missions/aux-avant-postes/20260916-l-enseignement-sup%C3%A9rieur-s-empare-de-la-s%C3%A9curit%C3%A9-%C3%A9conomique-l-%C3%A8re-de-la-souverainet%C3%A9",
-        "date": "Wed, 16 Sep 2026 10:27:33 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Quatre ans après la mort de Mahsa Amini, Amnesty accuse l’Iran de \"crimes contre l’humanité\"",
-        "resume": "Dans un rapport de plus de 1 000 pages, Amnesty International documente des homicides, tortures, viols et disparitions forcées perpétrés par les autorités iraniennes, y compris sur des enfants, depuis",
-        "lien": "http://www.france24.com/fr/asie-pacifique/20260916-quatre-ans-apr%C3%A8s-mort-mahsa-amini-amnesty-accuse-iran-crimes-contre-humanit%C3%A9",
-        "date": "Wed, 16 Sep 2026 10:07:13 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "États-Unis : cinq agents russes présumés inculpés pour des projets d'assassinats et d'attentats",
-        "resume": "La justice américaine a inculpé cinq agents russes présumés, soupçonnés d'avoir agi au sein d'un réseau mondial chargé de \"recruter des citoyens américains et des ressortissants étrangers pour commett",
-        "lien": "http://www.france24.com/fr/am%C3%A9riques/20260916-%C3%A9tats-unis-cinq-agents-russie-pr%C3%A9sum%C3%A9s-inculp%C3%A9s-projets-assassinats-et-attentats",
-        "date": "Wed, 16 Sep 2026 09:58:50 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "La Fin d'Oak Street",
-        "date_sortie": "2026-08-12",
-        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
-        "note": 6.752,
-        "affiche": "https://image.tmdb.org/t/p/w300/sLFjeadRka39hPaLhia8OjGANlc.jpg"
-      },
-      {
-        "titre": "Mutiny",
-        "date_sortie": "2026-08-19",
-        "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il se retrouve piégé à bord d’un porte-cont",
-        "note": 6.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
-      },
-      {
-        "titre": "Resident Evil",
-        "date_sortie": "2026-09-16",
-        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
-        "note": 8.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
-      },
-      {
-        "titre": "Les Ensorceleuses 2",
-        "date_sortie": "2026-09-09",
-        "synopsis": "Une famille de sorcières multigénérationnelle, maudite à être sans amour pendant des siècles, tente de briser le sort en affrontant de sombres secrets et en se sacrifiant les uns pour les autres.",
-        "note": 6.1,
-        "affiche": "https://image.tmdb.org/t/p/w300/1fnNv1AOzbUG4gvL4AbenUfIlJp.jpg"
-      },
-      {
-        "titre": "Juste pour une Nuit",
-        "date_sortie": "2026-08-12",
-        "synopsis": "Quand Owen, qui vient de se faire larguer, rencontre Allie, qui croit encore au grand amour, l'étincelle est immédiate. Cependant, une série de maladresses et de mésaventures séparent les deux seuls célibataires de la vi",
-        "note": 6.6,
-        "affiche": "https://image.tmdb.org/t/p/w300/9ix7kr4DTKSmnBmvugvkRQJb1KO.jpg"
-      },
-      {
-        "titre": "Avengers : Endgame",
-        "date_sortie": "2019-04-24",
-        "synopsis": "Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de doigts qui a pulvéri",
-        "note": 8.243,
-        "affiche": "https://image.tmdb.org/t/p/w300/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Midnights in October",
-        "artiste": "Midnights in October",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Meridians",
-        "artiste": "Alasdair Fraser",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Living Free (Live Manchester '75)",
-        "artiste": "Don McLean",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Through Lines",
-        "artiste": "Skye Peterson",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Négociateur Immobilier Indépendant",
-        "date_debut": "2026-09-16T07:00:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Atelier en visio : Profil de compétences & Organisation des démarches (ODD)",
-        "date_debut": "2026-09-16T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Réunion d'information Pass Entreprendre pour session du 05 octobre au 13 novembre 2026",
-        "date_debut": "2026-09-17T07:00:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "SHIVA recrute des employé(e)s de maison (ménage-repassage) secteur Angers // Chalonnes sur Loire",
-        "date_debut": "2026-09-17T07:00:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Découverte des métiers agricoles - Maine-et-Loire (49)",
-        "date_debut": "2026-09-17T07:00:00+00:00",
-        "lieu": "Elioreso Anefa, Angers (49)",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Exposition Le Muséum au fil du temps",
-        "date_debut": "2026-09-16",
-        "lieu": "Place de la Monnaie",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Vers un autre monde - Exposition de projets de fin d'études en architecture",
-        "date_debut": "2026-09-16",
-        "lieu": "École nationale supérieure d’architecture - ensa",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le Voyage permanent - Coeur historique - Visite guidée",
-        "date_debut": "2026-09-16",
-        "lieu": "Nantes (Centre ville)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Exposition « Ombres et Lumières »",
-        "date_debut": "2026-09-16",
-        "lieu": "Manufacture des Tabacs",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Les petit·e·s couturier·ère·s du mercredi",
-        "date_debut": "2026-09-16",
-        "lieu": "Le 20 mille",
         "ville": "Nantes"
       }
     ]
