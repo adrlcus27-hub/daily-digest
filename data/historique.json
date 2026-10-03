@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-10-03",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Un mineur de 15 ans interpellé après l'agression d'une femme avec un spray inflammable, en marge du mouvement lycéen à Marseille",
+        "resume": "La femme essayait de s'interposer face à un groupe qui tentait de fracasser un abribus, avant qu'une personne au visage masqué n'actionne un spray et un briquet.",
+        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/un-mineur-de-15-ans-interpelle-apres-l-agression-d-une-femme-avec-un-spray-inflammable-en-marge-du-mouvement-lyceen-a-marseille_8221051.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 03 Oct 2026 12:34:19 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "La surpopulation carcérale atteint un nouveau record en France, avec 90 020 détenus au 1er septembre",
+        "resume": "Plus de 8 300 matelas ont été posés au sol pour compenser le manque de lits. La France est l'une des pires élèves en Europe en matière de densité carcérale.",
+        "lien": "https://www.franceinfo.fr/societe/prisons/la-surpopulation-carcerale-atteint-un-nouveau-record-en-france-avec-90-020-detenus-au-1er-septembre_8220991.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 03 Oct 2026 11:33:10 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Le copilote du vol FlyDubai qui a agressé son commandant de bord planifiait un \"acte terroriste\", affirme le procureur général des Emirats arabes unis",
+        "resume": "Sans attendre les conclusions de l'enquête, le Premier ministre israélien Benyamin Nétanyahou a dénoncé une \"tentative d'attentat terroriste jihadiste\".",
+        "lien": "https://www.franceinfo.fr/faits-divers/le-copilote-du-vol-flydubai-qui-a-agresse-son-commandant-de-bord-planifiait-un-acte-terroriste-affirme-le-procureur-general-des-emirats-arabes-unis_8220901.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 03 Oct 2026 09:04:21 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "En Allemagne, une \"journée de l'Unité\" qui ne masque pas les disparités entre l'Est et l'Ouest, 36 ans après la réunification",
+        "resume": "La sous-représentation dans les postes à responsabilité, les écarts de patrimoine et le sentiment de partir avec moins d’atouts nourrissent le discours électoral de l'AfD.",
+        "lien": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-une-journee-de-l-unite-qui-ne-masque-pas-les-disparites-entre-l-est-et-l-ouest-36-ans-apres-la-reunification_8220964.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 03 Oct 2026 11:48:37 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "L'Aude n'est plus en vigilance orange \"pluie-inondation\", l'Hérault reste concerné",
+        "resume": "L'Hérault et le Gard ont déjà été touchés par un \"épisode méditerranéen exceptionnel\" mercredi.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/l-aude-rejoint-l-herault-en-vigilance-orange-pluie-inondation_8220910.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 03 Oct 2026 12:15:34 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Pour son grand retour au Stade de France, Zinédine Zidane concède le nul contre l'Italie",
+        "resume": "Attendu par un stade plein à craquer pour sa première à domicile en tant que sélectionneur de l'équipe de France, \"Zizou\" retrouvait l'Italie, contre qui il avait terminé sa carrière de joueur en 2006",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261003-grand-retour-stade-de-france-zin%C3%A9dine-zidane-concede-nul-contre-italie-football-bleus-manchester",
+        "date": "Sat, 03 Oct 2026 09:52:44 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Vol flydubai : l'enquête établit que le copilote planifiait un \"acte terroriste\"",
+        "resume": "L'enquête sur l'attaque dans un vol de flydubai a établi que le copilote avait utilisé la hache de secours du cockpit pour attaquer le pilote, parlant d'un \"acte terroriste\", a rapporté samedi un médi",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261003-vol-flydubai-l-enqu%C3%AAte-%C3%A9tablit-que-le-copilote-planifiait-un-acte-terroriste",
+        "date": "Sat, 03 Oct 2026 09:43:50 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Présidentielle au Brésil : Lula et Bolsonaro au coude-à-coude",
+        "resume": "Les Brésiliens votent dimanche pour le premier tour de l'élection présidentielle. Le président de gauche Luiz Inacio Lula da Silva, 80 ans, brigue un quatrième mandat non consécutif. Il a pour princip",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261003-pr%C3%A9sidentielle-au-br%C3%A9sil-lula-et-bolsonaro-au-coude-%C3%A0-coude",
+        "date": "Sat, 03 Oct 2026 09:34:23 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Resident Evil",
+        "date_sortie": "2026-09-16",
+        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
+        "note": 7.316,
+        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
+      },
+      {
+        "titre": "Digger",
+        "date_sortie": "2026-09-28",
+        "synopsis": "L’homme le plus puissant du monde se lance dans une mission frénétique pour prouver qu’il est le sauveur de l’humanité avant que le désastre qu’il a déclenché ne détruise tout.",
+        "note": 7.485,
+        "affiche": "https://image.tmdb.org/t/p/w300/9BzF32t0U7mOnpzmQ0dyFKv4uZT.jpg"
+      },
+      {
+        "titre": "Heart of the Beast",
+        "date_sortie": "2026-09-23",
+        "synopsis": "Après un terrible crash d’avion, James Belmont (Brad Pitt), ancien des forces spéciales, se retrouve perdu au cœur de l’Alaska avec son chien Odin, depuis toujours à ses côtés. Livrés à eux-mêmes dans une nature aussi ma",
+        "note": 7.567,
+        "affiche": "https://image.tmdb.org/t/p/w300/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg"
+      },
+      {
+        "titre": "Verity",
+        "date_sortie": "2026-09-30",
+        "synopsis": "Lorsqu’un accident affecte les capacités de l’autrice de bestsellers, Verity Crawford, à achever son œuvre, une écrivaine solitaire, Lowen Ashleigh, qui peine à joindre les deux bouts est engagée pour lui prêter sa plume",
+        "note": 6.6,
+        "affiche": "https://image.tmdb.org/t/p/w300/zLCjFOyjvKqYdkQYYAyTtfJ5mpk.jpg"
+      },
+      {
+        "titre": "Avengers : Endgame",
+        "date_sortie": "2019-04-24",
+        "synopsis": "Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de doigts qui a pulvéri",
+        "note": 8.246,
+        "affiche": "https://image.tmdb.org/t/p/w300/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg"
+      },
+      {
+        "titre": "Primetime",
+        "date_sortie": "2026-09-23",
+        "synopsis": "Chris Hansen présente l'émission policière « To Catch a Predator ». Diffusée sur NBC Dateline, cette émission tente de filmer des pédophiles présumés avec l'aide des forces de l'ordre et d'une équipe d'appâts se faisant ",
+        "note": 7.007,
+        "affiche": "https://image.tmdb.org/t/p/w300/rhF8JALH8wrxKtXSCAB7a09tWsc.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Complete Orchestral Works, Vol. 3",
+        "artiste": "Maurice Ravel",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Café littéraire",
+        "date_debut": "2026-10-03T08:00:00+00:00",
+        "lieu": "Bibliothèque Des Justices",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Heure du conte - les petites oreilles",
+        "date_debut": "2026-10-03T08:30:00+00:00",
+        "lieu": "Bibliothèque Annie Fratellini",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Heure du conte",
+        "date_debut": "2026-10-03T08:30:00+00:00",
+        "lieu": "Bibliothèque Belle-beille",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Heure du conte",
+        "date_debut": "2026-10-03T08:30:00+00:00",
+        "lieu": "Bibliothèque Saint-Éloi - 49100 ANGERS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Heure du conte",
+        "date_debut": "2026-10-03T08:30:00+00:00",
+        "lieu": "Bibliothèque - Ludothèque Monplaisir - 49000 ANGERS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Marché de la création",
+        "date_debut": "2026-10-03",
+        "lieu": "dans le jardin de Charlotte Coing-Roy",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "IMPRO CONTENDERS - Saison 4",
+        "date_debut": "2026-10-03",
+        "lieu": "Mystère Comedy Club",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "The Art of the Brick - Exposition d’art en Lego",
+        "date_debut": "2026-10-03",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Aux arbres, les sentinelles de Pierre Kurczewski",
+        "date_debut": "2026-10-03",
+        "lieu": "Galerie RDV",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "L'Été indien aux Nefs 2026",
+        "date_debut": "2026-10-03",
+        "lieu": "Nefs / Machines de l'Ile",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-10-02",
     "news": [
       {
@@ -2551,205 +2750,6 @@
         "titre": "The Art of the Brick - Exposition d’art en Lego",
         "date_debut": "2026-09-20",
         "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-19",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Il faut se réveiller collectivement\" : à Marseille, d'anciens Gilets jaunes espèrent la reprise du mouvement",
-        "resume": "Alors que les appels à la mobilisation se multiplient sur les réseaux sociaux, d’anciens manifestants marseillais appellent à remettre la chasuble et à se mobiliser pacifiquement.",
-        "lien": "https://www.franceinfo.fr/economie/transports/gilets-jaunes/il-faut-se-reveiller-collectivement-a-marseille-d-anciens-gilets-jaunes-esperent-la-reprise-du-mouvement_8200379.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 19 Sep 2026 09:19:45 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Donald Trump annonce  avoir obtenu un \"contrôle permanent\" sur la sécurité du Groenland",
-        "resume": "Les Etats-Unis vont \"immédiatement lancer le processus de développement d'une importante présence militaire\" au Groenland, a annoncé le président américain.",
-        "lien": "https://www.franceinfo.fr/monde/groenland/donald-trump-annonce-avoir-obtenu-un-controle-permanent-sur-la-securite-du-groenland_8199956.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 19 Sep 2026 10:46:35 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Pour le budget 2027, \"on demande un petit effort à tout le monde\", souligne le ministre du Logement pour justifier le gel des APL",
-        "resume": "Vincent Jeanbrun était l'invité du \"8h30 franceinfo\", samedi 19 septembre 2026. Il répondait aux questions de Camille Girerd et Benjamin Recouvreur.",
-        "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/pour-le-budget-2027-on-demande-un-petit-effort-a-tout-le-monde-souligne-le-ministre-du-logement-pour-justifier-le-gel-des-apl_8178035.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 19 Sep 2026 10:31:39 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Taxe foncière et taxe d'habitation sur les résidences secondaires… Visualisez l'évolution des impôts locaux en 2026 dans votre commune",
-        "resume": "Alors que les derniers avis de taxe foncière sont envoyés samedi, franceinfo fait le point sur l'évolution des impôts locaux en 2026, commune par commune.",
-        "lien": "https://www.franceinfo.fr/economie/impots/cartes-taxe-fonciere-et-taxe-d-habitation-sur-les-residences-secondaires-visualisez-l-evolution-des-impots-locaux-en-2026-dans-votre-commune_8198636.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 19 Sep 2026 06:56:37 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Rivières, forêts, montagnes… Et si vous visitiez des sites naturels pour les Journées européennes du patrimoine 2026 ?",
-        "resume": "De nombreuses associations, comme la Ligue de protection des oiseaux, font découvrir la biodiversité présente partout en France afin de la \"célébrer\" mais aussi de la \"préserver\".",
-        "lien": "https://www.franceinfo.fr/culture/patrimoine/journees-du-patrimoine/rivieres-forets-montagnes-et-si-vous-visitiez-des-sites-naturels-pour-les-journees-europeennes-du-patrimoine-2026_8197109.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 19 Sep 2026 06:56:15 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "L'Arabie saoudite assure que la Mecque a été attaquée, les Houthis protestent",
-        "resume": "Au moins 112 000 personnes ont été déplacées au Yémen et près de 3 000 autres se sont réfugiées à Djibouti, depuis la reprise des combats début septembre entre rebelles pro-iraniens Houthis et forces ",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260919-l-arabie-saoudite-assure-que-la-mecque-a-%C3%A9t%C3%A9-attaqu%C3%A9e-les-houthis-protestent",
-        "date": "Sat, 19 Sep 2026 09:57:52 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Trump veut empêcher CNN et d'autres médias de venir à la Maison Blanche",
-        "resume": "Donald Trump, intensifiant de manière spectaculaire sa guerre contre les médias, a annoncé vendredi interdire l'accès à la Maison Blanche aux chaînes de télévision CNN et MSNOW (anciennement MSNBC) ai",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260919-trump-veut-emp%C3%AAcher-cnn-et-d-autres-m%C3%A9dias-de-venir-%C3%A0-la-maison-blanche",
-        "date": "Sat, 19 Sep 2026 09:51:41 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "L'Allemagne réduit les taxes sur le carburant avant un dimanche électoral crucial",
-        "resume": "Berlin a annoncé, vendredi, des mesures d'allègements du prix du carburant, quelques jours après que le chancelier Friedrich Merz s'est engagé a faire un geste pour les consommateurs touchés par la fl",
-        "lien": "https://www.france24.com/fr/europe/20260919-l-allemagne-r%C3%A9duit-les-taxes-sur-le-carburant-avant-un-dimanche-%C3%A9lectoral-crucial",
-        "date": "Sat, 19 Sep 2026 09:50:38 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "La Fin d'Oak Street",
-        "date_sortie": "2026-08-12",
-        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
-        "note": 6.944,
-        "affiche": "https://image.tmdb.org/t/p/w300/sLFjeadRka39hPaLhia8OjGANlc.jpg"
-      },
-      {
-        "titre": "Resident Evil",
-        "date_sortie": "2026-09-16",
-        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
-        "note": 7.6,
-        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
-      },
-      {
-        "titre": "Mutiny",
-        "date_sortie": "2026-08-19",
-        "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il se retrouve piégé à bord d’un porte-cont",
-        "note": 6.439,
-        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
-      },
-      {
-        "titre": "Avengers : Endgame",
-        "date_sortie": "2019-04-24",
-        "synopsis": "Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de doigts qui a pulvéri",
-        "note": 8.243,
-        "affiche": "https://image.tmdb.org/t/p/w300/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg"
-      },
-      {
-        "titre": "Les Ensorceleuses 2",
-        "date_sortie": "2026-09-09",
-        "synopsis": "Une famille de sorcières multigénérationnelle, maudite à être sans amour pendant des siècles, tente de briser le sort en affrontant de sombres secrets et en se sacrifiant les uns pour les autres.",
-        "note": 6.0,
-        "affiche": "https://image.tmdb.org/t/p/w300/1fnNv1AOzbUG4gvL4AbenUfIlJp.jpg"
-      },
-      {
-        "titre": "Juste pour une Nuit",
-        "date_sortie": "2026-08-12",
-        "synopsis": "Quand Owen, qui vient de se faire larguer, rencontre Allie, qui croit encore au grand amour, l'étincelle est immédiate. Cependant, une série de maladresses et de mésaventures séparent les deux seuls célibataires de la vi",
-        "note": 6.5,
-        "affiche": "https://image.tmdb.org/t/p/w300/9ix7kr4DTKSmnBmvugvkRQJb1KO.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Young & Cursed (Original Motion Picture Soundtrack)",
-        "artiste": "Patrick O'Malley",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Warehouse 10 Volume 15",
-        "artiste": "Dave Matthews Band",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Warehouse 2026: 7.16.2025 Allianz Amphitheater At Riverfront, Richmond, VA",
-        "artiste": "Dave Matthews Band",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Time Machine",
-        "artiste": "The Jungle",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Flare",
-        "artiste": "ASML",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Observation depuis la cour du Logis d'Ardanne",
-        "date_debut": "2026-09-19T07:00:00+00:00",
-        "lieu": "Logis d'Ardanne",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Découvrir une église, vivez une expérience spirituelle",
-        "date_debut": "2026-09-19T07:00:00+00:00",
-        "lieu": "12 RUE SAUMUROISE  49000 ANGERS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Visitez la succursale de la Banque de France d'Angers",
-        "date_debut": "2026-09-19T07:30:00+00:00",
-        "lieu": "Banque de France Angers",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Découvrir une église, vivez une expérience spirituelle",
-        "date_debut": "2026-09-19T07:30:00+00:00",
-        "lieu": "Eglise St Léonard angers",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Visite guidée par un référent de la paroisse St Jean-Paul II.",
-        "date_debut": "2026-09-19T07:30:00+00:00",
-        "lieu": "12 RUE SAUMUROISE  49000 ANGERS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Raconte-moi Bottière Pin-Sec",
-        "date_debut": "2026-09-19",
-        "lieu": "Parc du Pin Sec / Square Dunant",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Floorball - Séance d'essais",
-        "date_debut": "2026-09-19",
-        "lieu": "gymnase Gobelets Ripossière",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Matinées de jeu et d'éveil Toiles",
-        "date_debut": "2026-09-19",
-        "lieu": "Crèche associative Toiles",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Journées du Patrimoine, remontons le temps - Portes ouvertes de l'ancien presbytère",
-        "date_debut": "2026-09-19",
-        "lieu": "ancien presbytère",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Visite du musée des Sapeurs-Pompiers",
-        "date_debut": "2026-09-19",
-        "lieu": "Musée des sapeurs-pompiers de Loire-Atlantique",
         "ville": "Nantes"
       }
     ]
