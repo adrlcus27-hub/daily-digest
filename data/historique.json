@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-10-04",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Mobilisation lycéenne : 400 à 500 établissements totalement ou partiellement fermés lundi, 24 ont été \"incendiés ou saccagés\", affirme le ministre de l'Education nationale",
+        "resume": "Entre 400 et 500 lycées seront totalement ou \"partiellement\" fermés lundi, anticipe Edouard Geffray.",
+        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-blocage-des-lycees-il-n-y-a-pas-que-la-france-insoumise-qui-nous-a-soutenus-rappelle-un-representant-des-lyceens-qui-denonce-une-volonte-d-infantiliser-le-mouvement_8221975.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 04 Oct 2026 13:43:29 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Une base d'extrême droite, avec aussi des gens racisés\" : qu'est-ce que la \"génération Alain Soral\", à laquelle Jordan Bardella est accusé d'avoir appartenu ?",
+        "resume": "Le nom de l'idéologue franco-suisse est réapparu dans la foulée de l'enquête de Mediapart sur les propos antisémites que le patron du RN est accusé d'avoir tenus. Avec sa chaîne YouTube et son site Eg",
+        "lien": "https://www.franceinfo.fr/politique/jordan-bardella/une-base-d-extreme-droite-avec-aussi-des-gens-racises-qu-est-ce-que-la-generation-alain-soral-a-laquelle-jordan-bardella-est-accuse-d-avoir-appartenu_8219485.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 04 Oct 2026 06:57:25 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Viol en réunion d'une étudiante à Cornell : le président de l''université américaine annonce une enquête externe",
+        "resume": "Une jeune femme avait déclaré en 2024 avoir été violée par sept étudiants, mais sa plainte n'avait pas été suivie de poursuites. L'affaire est perçue comme un symbole de la culture masculiniste régnan",
+        "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/viol-en-reunion-d-une-etudiante-a-l-universite-americaine-cornell-le-president-de-l-etablissement-annonce-une-enquete-externe_8221993.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 04 Oct 2026 11:11:48 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Des pluies torrentielles en Espagne font deux morts dans la province de Barcelone, en état d'alerte",
+        "resume": "Au moins une personne est également portée disparue, selon les pompiers de Catalogne. L'événement météorologique doit prendre fin dimanche.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/des-pluies-torrentielles-en-espagne-font-deux-morts-dans-la-province-de-barcelone-en-etat-d-alerte_8222065.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 04 Oct 2026 11:22:06 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Maintien à gauche ou retour de l'extrême droite, scandales, craintes d'ingérences… Au Brésil, une élection présidentielle sous haute tension",
+        "resume": "Le premier tour du scrutin se tient dimanche au Brésil, avant un potentiel second tour le 25 octobre. Le président sortant, Lula, y affronte l'élu d'extrême droite Flavio Bolsonaro, fils de l'ancien p",
+        "lien": "https://www.franceinfo.fr/monde/bresil/maintien-a-gauche-ou-retour-de-l-extreme-droite-scandales-craintes-d-ingerences-au-bresil-une-election-presidentielle-sous-haute-tension_8216027.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 04 Oct 2026 10:14:38 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Brésil : \"plus de chances que les deux candidats soient au coude-à-coude au premier tour\"",
+        "resume": "Frédéric Louault, directeur du Centre d'études des Amériques à l'Université libre de Bruxelles, était l'invité de l'antenne de France 24 ce dimanche 4 octobre. Il revient sur l'élection présidentielle",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261004-br%C3%A9sil-plus-de-chances-que-les-deux-candidats-soient-au-coude-%C3%A0-coude-au-premier-tour",
+        "date": "Sun, 04 Oct 2026 11:35:57 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Présidentielle au Brésil : ouverture des bureaux de vote",
+        "resume": "Les Brésiliens ont commencé à voter dimanche au premier tour de l'élection présidentielle opposant le président sortant de gauche Lula au sénateur d'extrême droite Flavio Bolsonaro, fils de l'ancien p",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261004-pr%C3%A9sidentielle-au-br%C3%A9sil-ouverture-des-bureaux-de-vote",
+        "date": "Sun, 04 Oct 2026 11:17:39 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Ligue des nations : un match Irlande-Israël sous tension",
+        "resume": "L'Irlande affronte Israël dimanche en match de Ligue des nations, un match sous tension. Le match aller avait été remporté par l'Irlande (3-0), les joueurs irlandais arboraient un brassard noir et ils",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261004-ligue-des-nations-un-match-irlande-isra%C3%ABl-sous-tension",
+        "date": "Sun, 04 Oct 2026 10:57:59 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Resident Evil",
+        "date_sortie": "2026-09-16",
+        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
+        "note": 7.3,
+        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
+      },
+      {
+        "titre": "Digger",
+        "date_sortie": "2026-09-28",
+        "synopsis": "L’homme le plus puissant du monde se lance dans une mission frénétique pour prouver qu’il est le sauveur de l’humanité avant que le désastre qu’il a déclenché ne détruise tout.",
+        "note": 7.416,
+        "affiche": "https://image.tmdb.org/t/p/w300/9BzF32t0U7mOnpzmQ0dyFKv4uZT.jpg"
+      },
+      {
+        "titre": "Heart of the Beast",
+        "date_sortie": "2026-09-23",
+        "synopsis": "Après un terrible crash d’avion, James Belmont (Brad Pitt), ancien des forces spéciales, se retrouve perdu au cœur de l’Alaska avec son chien Odin, depuis toujours à ses côtés. Livrés à eux-mêmes dans une nature aussi ma",
+        "note": 7.533,
+        "affiche": "https://image.tmdb.org/t/p/w300/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg"
+      },
+      {
+        "titre": "Verity",
+        "date_sortie": "2026-09-30",
+        "synopsis": "Lorsqu’un accident affecte les capacités de l’autrice de bestsellers, Verity Crawford, à achever son œuvre, une écrivaine solitaire, Lowen Ashleigh, qui peine à joindre les deux bouts est engagée pour lui prêter sa plume",
+        "note": 6.6,
+        "affiche": "https://image.tmdb.org/t/p/w300/zLCjFOyjvKqYdkQYYAyTtfJ5mpk.jpg"
+      },
+      {
+        "titre": "Avengers : Endgame",
+        "date_sortie": "2019-04-24",
+        "synopsis": "Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de doigts qui a pulvéri",
+        "note": 8.245,
+        "affiche": "https://image.tmdb.org/t/p/w300/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg"
+      },
+      {
+        "titre": "Primetime",
+        "date_sortie": "2026-09-23",
+        "synopsis": "Chris Hansen présente l'émission policière « To Catch a Predator ». Diffusée sur NBC Dateline, cette émission tente de filmer des pédophiles présumés avec l'aide des forces de l'ordre et d'une équipe d'appâts se faisant ",
+        "note": 6.982,
+        "affiche": "https://image.tmdb.org/t/p/w300/rhF8JALH8wrxKtXSCAB7a09tWsc.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 1",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Les grands standards de la chanson française",
+        "date_debut": "2026-10-04T15:00:00+00:00",
+        "lieu": "Centre de Congrès d'Angers",
+        "ville": "Angers"
+      },
+      {
+        "titre": "REUNION PUIS ENTRETIENS INDIVIDUELS DE RECRUTEMENT AVEC l'AGENCE D'INTERIM ACTUAL - METIERS DU BATIMENT",
+        "date_debut": "2026-10-06T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Randstad Inhouse Bouvet recrute !",
+        "date_debut": "2026-10-06T07:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "REUNION PUIS ENTRETIENS INDIVIDUELS DE RECRUTEMENT AVEC l'AGENCE D'INTERIM ACTUAL - METIERS DU BATIMENT",
+        "date_debut": "2026-10-06T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Participez à la visite du chantier des Jardins d'Amytis et échangez avec les professionnels du BTP",
+        "date_debut": "2026-10-06T08:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Décryptages - Enfance(s), grandir quelque part - EXPOSITION",
+        "date_debut": "2026-10-04",
+        "lieu": "Cosmopolis",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Les Rendez-vous à la ferme",
+        "date_debut": "2026-10-04",
+        "lieu": "Parc de la Chantrerie",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "La Nuit je mens",
+        "date_debut": "2026-10-04",
+        "lieu": "Ecole des Beaux-Arts Nantes St-Nazaire",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Les Rendez-vous à la ferme",
+        "date_debut": "2026-10-04",
+        "lieu": "Parc de la Chantrerie",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Musée gratuit tous les 1ers dimanches du mois",
+        "date_debut": "2026-10-04",
+        "lieu": "Musée d'arts de Nantes",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-10-03",
     "news": [
       {
@@ -2551,205 +2750,6 @@
         "titre": "Don du sang — Maison du don, Nantes",
         "date_debut": "2026-09-21",
         "lieu": "Maison du don",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-20",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Le prix du gazole à près de 2,41 euros en moyenne dimanche établit un nouveau record en France",
-        "resume": "Selon les calculs de l'AFP à partir des données publiques, le prix de ce carburant bat le record de samedi. Le gouvernement doit se réunir lundi pour trouver des solutions à cette crise.",
-        "lien": "https://www.franceinfo.fr/economie/automobile/essence/le-prix-du-gazole-a-pres-de-2-41-euros-en-moyenne-etablit-un-nouveau-record-en-france-dimanche_8201594.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 20 Sep 2026 11:44:33 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Inquiétude sincère ou intérêt économique ? Pourquoi les géants de l'IA réclament plus de régulation du secteur",
-        "resume": "Des chercheurs et grandes entreprises de l'intelligence artificielle affirment que le développement de cette technologie fait courir un risque énorme à l'humanité, et demandent une forme de régulation",
-        "lien": "https://www.franceinfo.fr/internet/intelligence-artificielle/inquietude-sincere-ou-interet-economique-pourquoi-les-geants-de-l-ia-reclament-plus-de-regulation-du-secteur_8197724.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 20 Sep 2026 06:55:43 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Plus de 2 000 personnes mobilisées à Rennes contre le projet de loi sur la présomption d'usage légitime des armes à feu",
-        "resume": "Après des jets de projectiles contre du mobilier urbain ainsi que sur des CRS, cinq personnes ont été interpellées, indique la police.",
-        "lien": "https://www.franceinfo.fr/faits-divers/police/plus-de-2-000-personnes-mobilisees-a-rennes-contre-le-projet-de-loi-sur-la-presomption-d-usage-legitime-des-armes-a-feu_8201000.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 19 Sep 2026 20:20:03 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Saint-Pierre-et-Miquelon est \"français\" déclare Emmanuel Macron à son arrivée dans l'archipel en réponse à Donald Trump",
-        "resume": "Face au président américain, le locataire de l'Elysée a tenu à réaffirmer que la France est une puissance régionale.",
-        "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/saint-pierre-et-miquelon-est-francais-repond-emmanuel-macron-a-donald-trump-a-son-arrivee-dans-l-archipel_8201387.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 20 Sep 2026 07:27:12 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Présidentielle : Jérome Guedj juge que le PS \"est allé vite en besogne\" en suspendant Philippe Brun de la primaire",
-        "resume": "Candidat à la primaire sociale-démocrate, le député de l'Essonne qualifie d'\"extrêmement violente\" la mise à l'écart de l'élu, accusé de violence par une ancienne collaboratrice.",
-        "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-jerome-guedj-juge-que-le-ps-est-alle-vite-en-besogne-en-suspendant-philippe-brun-de-la-primaire_8201483.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 20 Sep 2026 11:29:14 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Législatives en Russie : Moscou accuse Kiev de perturber le vote",
-        "resume": "La Russie a subi ce dimanche 20 septembre une attaque massive de drones ukrainiens, dénoncée par les autorités comme visant à \"perturber\" le déroulement des législatives qui devraient sans surprise se",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260920-l%C3%A9gislatives-en-russie-moscou-accuse-kiev-de-perturber-le-vote",
-        "date": "Sun, 20 Sep 2026 10:12:16 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Le procès de six Français présumés jihadistes s'ouvre en Irak",
-        "resume": "Six ressortissants français soupçonnés d'appartenir à l'organisation État islamique (EI) sont jugés à partir de dimanche au tribunal de Bagdad, en Irak, où ils risquent la peine de mort. Les prisons i",
-        "lien": "https://www.france24.com/fr/france/20260920-le-proc%C3%A8s-de-six-fran%C3%A7ais-presumes-jihadistes-s-ouvre-en-irak",
-        "date": "Sun, 20 Sep 2026 10:06:17 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Nigeria : au moins 49 personnes mortes, de l'alcool frelaté pourrait être en cause",
-        "resume": "Dans l’État d’Ondo, au Nigeria, au moins 49 personnes sont mortes et une centaine d’autres ont été blessées après avoir consommé de l’alcool qui contiendrait du méthanol. Selon les autorités locales, ",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260920-nigeria-au-moins-49-personnes-mortes-de-l-alcool-frelat%C3%A9-pourrait-%C3%AAtre-en-cause",
-        "date": "Sun, 20 Sep 2026 09:59:11 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Resident Evil",
-        "date_sortie": "2026-09-16",
-        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
-        "note": 7.296,
-        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
-      },
-      {
-        "titre": "La Fin d'Oak Street",
-        "date_sortie": "2026-08-12",
-        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
-        "note": 6.962,
-        "affiche": "https://image.tmdb.org/t/p/w300/sLFjeadRka39hPaLhia8OjGANlc.jpg"
-      },
-      {
-        "titre": "Mutiny",
-        "date_sortie": "2026-08-19",
-        "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il se retrouve piégé à bord d’un porte-cont",
-        "note": 6.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
-      },
-      {
-        "titre": "Avengers : Endgame",
-        "date_sortie": "2019-04-24",
-        "synopsis": "Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de doigts qui a pulvéri",
-        "note": 8.243,
-        "affiche": "https://image.tmdb.org/t/p/w300/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg"
-      },
-      {
-        "titre": "Les Ensorceleuses 2",
-        "date_sortie": "2026-09-09",
-        "synopsis": "Une famille de sorcières multigénérationnelle, maudite à être sans amour pendant des siècles, tente de briser le sort en affrontant de sombres secrets et en se sacrifiant les uns pour les autres.",
-        "note": 6.015,
-        "affiche": "https://image.tmdb.org/t/p/w300/1fnNv1AOzbUG4gvL4AbenUfIlJp.jpg"
-      },
-      {
-        "titre": "Oklahoma Honey",
-        "date_sortie": "2026-08-19",
-        "synopsis": "Au cœur des terres reculées de l’Oklahoma rural, Amziah King, personnage charismatique au talent musical hors du commun, veille sur une bande de marginaux passionnés de bluegrass tout en supervisant la plus importante ex",
-        "note": 6.7,
-        "affiche": "https://image.tmdb.org/t/p/w300/6YCH9yUVO9Fh23WIOORl6JmCpOo.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Complete Orchestral Works, Vol. 3",
-        "artiste": "Maurice Ravel",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Angers Loire Greeters : Balade dans le quartier Saint-Serge",
-        "date_debut": "2026-09-20T08:00:00+00:00",
-        "lieu": "Place Mitterand",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Visite libre du jardin botanique de la faculté de santé d'Angers",
-        "date_debut": "2026-09-20T08:00:00+00:00",
-        "lieu": "Faculté de Santé Département Pharmacie",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Patrimoine Numérique : L'Herbier et le Jardin Botanique de la Faculté de Santé s'exposent",
-        "date_debut": "2026-09-20T08:00:00+00:00",
-        "lieu": "Faculté de Santé Département Pharmacie",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Sous nos nez",
-        "date_debut": "2026-09-20T08:00:00+00:00",
-        "lieu": "Maison de l'environnement",
-        "ville": "Angers"
-      },
-      {
-        "titre": "À la découverte des oiseaux",
-        "date_debut": "2026-09-20T08:30:00+00:00",
-        "lieu": "Maison de l'environnement",
-        "ville": "Angers"
-      },
-      {
-        "titre": "House of Banksy - Une expo non autorisée",
-        "date_debut": "2026-09-20",
-        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Exposition Le Muséum au fil du temps",
-        "date_debut": "2026-09-20",
-        "lieu": "Place de la Monnaie",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Décryptages - Enfance(s), grandir quelque part - EXPOSITION",
-        "date_debut": "2026-09-20",
-        "lieu": "Cosmopolis",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le livre d’artiste concours et exposition – Musée de l'imprimerie",
-        "date_debut": "2026-09-20",
-        "lieu": "Musée-atelier de l'imprimerie de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "The Art of the Brick - Exposition d’art en Lego",
-        "date_debut": "2026-09-20",
-        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
         "ville": "Nantes"
       }
     ]
