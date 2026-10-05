@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-10-05",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Un adolescent de 15 ans a eu \"la main arrachée\" par une grenade près d'un lycée de Lens, une enquête de l'IGPN ouverte",
+        "resume": "L'élève est scolarisé en seconde au lycée professionnel Auguste-Béhal de Lens, dans le Pas-de-Calais.",
+        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/un-adolescent-de-15-ans-a-eu-la-main-arrachee-par-une-grenade-a-lens-une-enquete-de-l-igpn-ouverte-annonce-le-procureur-de-bethune_8223337.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 05 Oct 2026 13:50:17 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Blocages des lycées : le ministre de l'Education, Edouard Geffray, apporte son \"soutien\" aux personnels et dénonce des violences \"inacceptables\"",
+        "resume": "Le ministre de l'Education nationale a visité un lycée des Yvelines, une semaine après le début du mouvement lycéen.",
+        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-cours-totalement-ou-partiellement-suspendus-dans-400-a-500-etablissements-lundi_8222821.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 05 Oct 2026 14:22:08 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Amélioration des locaux, remplacement des profs... Quels sont les cinq chantiers lancés par Sébastien Lecornu pour répondre à la colère des lycéens ?",
+        "resume": "Le Premier ministre a déclaré dimanche que \"le dialogue doit produire des changements visibles dans les lycées\". Il promet des décisions \"avant la fin du mois\".",
+        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/amelioration-des-locaux-remplacement-des-profs-quels-sont-les-cinq-chantiers-lances-par-sebastien-lecornu-pour-repondre-a-la-colere-des-lyceens_8222902.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 05 Oct 2026 12:17:11 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Un mineur de 17 ans placé en garde à vue à Aix-en-Provence, soupçonné d'avoir blessé une passante à l'œil avec une pierre en marge du blocage d'un lycée",
+        "resume": "L'auteur présumé du jet de pierre a pu être identifié en recoupant des images de vidéosurveillance, des témoignages et des investigations techniques.",
+        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/un-mineur-de-17-ans-en-garde-a-vue-a-aix-en-provence-soupconne-d-avoir-blesse-une-passante-a-l-il-avec-une-pierre_8223385.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 05 Oct 2026 15:01:36 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Manifestations, grève, blocages... Que faut-il attendre de l'\"acte trois\" de la mobilisation lycéenne et étudiante de mardi ?",
+        "resume": "Les lycéens mobilisés demandent davantage de moyens pour l'Education nationale et dénoncent notamment la pression de Parcoursup, les professeurs non remplacés, les bâtiments délabrés ou encore des emp",
+        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/manifestations-greve-blocages-que-faut-il-attendre-de-l-acte-trois-de-la-mobilisation-lyceenne-et-etudiante-de-mardi_8223094.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 05 Oct 2026 14:36:30 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Dena Mwana : elle chante le gospel à travers le monde",
+        "resume": "Chanteuse de gospel d’origine congolaise, Dena Mwana place sa foi au cœur de sa musique. Elle inspire des milliers de personnes, dont certaines lui témoignent de la façon dont ses chansons les accompa",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261005-dena-mwana-chante-gospel-%C3%A0-travers-le-monde-z%C3%A9nith-paris",
+        "date": "Mon, 05 Oct 2026 13:21:41 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Duel Lula-Bolsonaro au Brésil : un air de déjà-vu ? Parlons-en avec A. Fléchet, T. Zicman de Barros",
+        "resume": "Dixième puissance mondiale, le Brésil est un rare îlot progressiste dans une Amérique latine largement acquise à la cause trumpienne. Le bolsonarisme semble pourtant de retour : quatre ans après la te",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20261005-duel-lula-bolsonaro-au-br%C3%A9sil-un-air-de-d%C3%A9j%C3%A0-vu-parlons-en-avec-a-fl%C3%A9chet-t-zicman-de-barros",
+        "date": "Mon, 05 Oct 2026 12:26:51 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Sénégal : Cheikh Hamidou Kane, auteur de \"Laventure ambiguë\" est mort à 98 ans",
+        "resume": "🇸🇳 L’écrivain sénégalais Cheikh Hamidou Kane est mort à Dakar à 98 ans. Auteur du célèbre ouvrage \"L'aventure ambiguë\", publié en 1961, il laisse une œuvre majeure de la littérature africaine, traduit",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261005-s%C3%A9n%C3%A9gal-cheikh-hamidou-kane-auteur-de-laventure-ambigu%C3%AB-est-mort-%C3%A0-98-ans",
+        "date": "Mon, 05 Oct 2026 12:10:38 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Resident Evil",
+        "date_sortie": "2026-09-16",
+        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
+        "note": 7.3,
+        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
+      },
+      {
+        "titre": "Digger",
+        "date_sortie": "2026-09-28",
+        "synopsis": "L’homme le plus puissant du monde se lance dans une mission frénétique pour prouver qu’il est le sauveur de l’humanité avant que le désastre qu’il a déclenché ne détruise tout.",
+        "note": 7.5,
+        "affiche": "https://image.tmdb.org/t/p/w300/9BzF32t0U7mOnpzmQ0dyFKv4uZT.jpg"
+      },
+      {
+        "titre": "Verity",
+        "date_sortie": "2026-09-30",
+        "synopsis": "Lorsqu’un accident affecte les capacités de l’autrice de bestsellers, Verity Crawford, à achever son œuvre, une écrivaine solitaire, Lowen Ashleigh, qui peine à joindre les deux bouts est engagée pour lui prêter sa plume",
+        "note": 6.7,
+        "affiche": "https://image.tmdb.org/t/p/w300/zLCjFOyjvKqYdkQYYAyTtfJ5mpk.jpg"
+      },
+      {
+        "titre": "Heart of the Beast",
+        "date_sortie": "2026-09-23",
+        "synopsis": "Après un terrible crash d’avion, James Belmont (Brad Pitt), ancien des forces spéciales, se retrouve perdu au cœur de l’Alaska avec son chien Odin, depuis toujours à ses côtés. Livrés à eux-mêmes dans une nature aussi ma",
+        "note": 7.532,
+        "affiche": "https://image.tmdb.org/t/p/w300/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg"
+      },
+      {
+        "titre": "Avengers : Endgame",
+        "date_sortie": "2019-04-24",
+        "synopsis": "Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de doigts qui a pulvéri",
+        "note": 8.245,
+        "affiche": "https://image.tmdb.org/t/p/w300/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg"
+      },
+      {
+        "titre": "Primetime",
+        "date_sortie": "2026-09-23",
+        "synopsis": "Chris Hansen présente l'émission policière « To Catch a Predator ». Diffusée sur NBC Dateline, cette émission tente de filmer des pédophiles présumés avec l'aide des forces de l'ordre et d'une équipe d'appâts se faisant ",
+        "note": 6.888,
+        "affiche": "https://image.tmdb.org/t/p/w300/rhF8JALH8wrxKtXSCAB7a09tWsc.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Complete Orchestral Works, Vol. 3",
+        "artiste": "Maurice Ravel",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "REUNION PUIS ENTRETIENS INDIVIDUELS DE RECRUTEMENT AVEC l'AGENCE D'INTERIM ACTUAL - METIERS DU BATIMENT",
+        "date_debut": "2026-10-06T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Randstad Inhouse Bouvet recrute !",
+        "date_debut": "2026-10-06T07:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "REUNION PUIS ENTRETIENS INDIVIDUELS DE RECRUTEMENT AVEC l'AGENCE D'INTERIM ACTUAL - METIERS DU BATIMENT",
+        "date_debut": "2026-10-06T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Participez à la visite du chantier des Jardins d'Amytis et échangez avec les professionnels du BTP",
+        "date_debut": "2026-10-06T08:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "REUNION PUIS ENTRETIENS INDIVIDUELS DE RECRUTEMENT AVEC l'AGENCE D'INTERIM ACTUAL - METIERS DU BATIMENT",
+        "date_debut": "2026-10-06T09:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Les lundis imprimés – cycle enfants",
+        "date_debut": "2026-10-05",
+        "lieu": "Le 20 mille",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition Le Muséum au fil du temps",
+        "date_debut": "2026-10-05",
+        "lieu": "Place de la Monnaie",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Don du sang — Maison du don, Nantes",
+        "date_debut": "2026-10-05",
+        "lieu": "Maison du don",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Semaine de la Santé Mentale",
+        "date_debut": "2026-10-05",
+        "lieu": "UCPA Sport Station Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "House of Banksy - Une expo non autorisée",
+        "date_debut": "2026-10-05",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-10-04",
     "news": [
       {
@@ -2551,205 +2750,6 @@
         "titre": "Les mardis lino",
         "date_debut": "2026-09-22",
         "lieu": "Le 20 mille",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-21",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Quelles sont les pistes d'aides étudiées par le gouvernement lundi face à la flambée des prix des carburants ?",
-        "resume": "L'exécutif cherche à renforcer sa réponse à la crise énergétique alors que les prix à la pompe atteignent des niveaux records. Mais plusieurs arbitrages doivent encore être rendus par le gouvernement,",
-        "lien": "https://www.franceinfo.fr/economie/automobile/essence/quelles-sont-les-pistes-d-aides-etudiees-par-le-gouvernement-lundi-face-a-la-flambee-des-prix-des-carburants_8201810.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 21 Sep 2026 06:04:25 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Procès de Rachida Dati : l'interrogatoire de l'ancienne ministre, jugée pour corruption et trafic d'influence, se poursuit",
-        "resume": "Elle est questionnée par le tribunal correctionnel de Paris, lundi après-midi, après un premier interrogatoire de trois heures jeudi soir, au cours duquel elle a martelé avoir \"exercé comme avocate\" p",
-        "lien": "https://www.franceinfo.fr/politique/rachida-dati/direct-l-interrogatoire-de-rachida-dati-lors-de-son-proces-pour-corruption-et-trafic-d-influence-se-poursuit-ce-lundi_8202833.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 21 Sep 2026 12:46:37 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"J'assume cette responsabilité\" : après les récentes défaites électorales, quel avenir pour le chancelier allemand Friedrich Merz ?",
-        "resume": "Après la victoire de l'AFD aux élections régionales et la percée de la gauche radicale à Berlin, le parti du gouvernement est en déclin. Le parti d'extrême droite appelle à la démission du chancelier,",
-        "lien": "https://www.franceinfo.fr/monde/europe/allemagne/j-assume-cette-responsabilite-apres-les-recentes-defaites-electorales-quel-avenir-pour-le-chancelier-allemand-friedrich-merz_8202602.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 21 Sep 2026 11:43:03 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Budget 2027 : croissance, dette, déficit, chômage… Quelle est la situation économique de la France ?",
-        "resume": "A quelques mois de la présidentielle, les discussions budgétaires s'ouvrent dans un contexte économique morose en France, où tous les indicateurs virent au rouge.",
-        "lien": "https://www.franceinfo.fr/economie/deficit/budget-2027-croissance-dette-deficit-chomage-quelle-est-la-situation-economique-de-la-france_8181551.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 21 Sep 2026 12:35:18 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Crise au Moyen-Orient, guerre en Ukraine, IA… Quels sont les enjeux de l'Assemblée générale des Nations unies, qui s'ouvre mardi ?",
-        "resume": "Les dirigeants du monde entier sont attendus à New York, à partir de mardi, dans le cadre de la 81e session de l'Assemblée générale de l'ONU. De nombreux entretiens bilatéraux doivent se tenir en para",
-        "lien": "https://www.franceinfo.fr/monde/onu/crise-au-moyen-orient-guerre-en-ukraine-ia-quels-sont-les-enjeux-de-l-assemblee-generale-des-nations-unies-qui-s-ouvre-mardi_8202521.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 21 Sep 2026 11:31:40 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Russie : attaque massive de drones ukrainiens sur Moscou",
-        "resume": "Le parti de Vladimir Poutine a remporté sans surprise une large majorité aux législatives de dimanche, marquées par des piratages informatiques et des attaques de drones ukrainiens auxquelles Moscou a",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260921-russie-attaque-massive-de-drones-ukrainiens-sur-moscou",
-        "date": "Mon, 21 Sep 2026 11:37:05 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Deportation Project : Ce que révèle l'enquête au Cameroun",
-        "resume": "France 24 a enquêté avec Forbidden Stories sur la situation de plusieurs migrants africains accueillis dans un centre de Yaoundé, après leur expulsion par l'administration Trump, en vertu d'un accord ",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260921-deportation-project-ce-que-r%C3%A9v%C3%A8le-l-enqu%C3%AAte-au-cameroun",
-        "date": "Mon, 21 Sep 2026 11:20:10 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "France - États-Unis : rencontre entre Donald Trump et Emmanuel Macron à New York",
-        "resume": "Donald Trump rencontrera son homologue français Emmanuel Macron lundi 21 septembre dans l'après-midi. Les deux dirigeants discuteront à New York, où ils doivent aussi participer à l'Assemblée générale",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260921-france-%C3%A9tats-unis-rencontre-entre-donald-trump-et-emmanuel-macron-%C3%A0-new-york",
-        "date": "Mon, 21 Sep 2026 10:48:32 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Resident Evil",
-        "date_sortie": "2026-09-16",
-        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
-        "note": 7.387,
-        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
-      },
-      {
-        "titre": "La fin d'Oak Street",
-        "date_sortie": "2026-08-12",
-        "synopsis": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra",
-        "note": 7.006,
-        "affiche": "https://image.tmdb.org/t/p/w300/yZINaQysj32K2DS2EW4Iy1bK4Bm.jpg"
-      },
-      {
-        "titre": "Mutiny",
-        "date_sortie": "2026-08-19",
-        "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il se retrouve piégé à bord d’un porte-cont",
-        "note": 6.432,
-        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
-      },
-      {
-        "titre": "Avengers : Endgame",
-        "date_sortie": "2019-04-24",
-        "synopsis": "Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de doigts qui a pulvéri",
-        "note": 8.244,
-        "affiche": "https://image.tmdb.org/t/p/w300/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg"
-      },
-      {
-        "titre": "Les Ensorceleuses 2",
-        "date_sortie": "2026-09-09",
-        "synopsis": "Une famille de sorcières multigénérationnelle, maudite à être sans amour pendant des siècles, tente de briser le sort en affrontant de sombres secrets et en se sacrifiant les uns pour les autres.",
-        "note": 6.11,
-        "affiche": "https://image.tmdb.org/t/p/w300/1fnNv1AOzbUG4gvL4AbenUfIlJp.jpg"
-      },
-      {
-        "titre": "Teenage Sex and Death at Camp Miasma",
-        "date_sortie": "2026-09-17",
-        "synopsis": "Un cinéaste queer est embauché pour diriger un nouvel épisode d'une franchise Slasher de longue date. Le réalisateur se fixe sur la perspective de lancer la «dernière fille» du film original, et les deux femmes entrent d",
-        "note": 6.48,
-        "affiche": "https://image.tmdb.org/t/p/w300/a5JvHUONtF8RyLL6M5nTlqqMJVE.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Young & Cursed (Original Motion Picture Soundtrack)",
-        "artiste": "Patrick O'Malley",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Warehouse 10 Volume 15",
-        "artiste": "Dave Matthews Band",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Warehouse 2026: 7.16.2025 Allianz Amphitheater At Riverfront, Richmond, VA",
-        "artiste": "Dave Matthews Band",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Time Machine",
-        "artiste": "The Jungle",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Flare",
-        "artiste": "ASML",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Recrutement de manutentionnaires H/F pour une entreprise leader dans le transport et la logistique",
-        "date_debut": "2026-09-21T07:00:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Recrutement McDonald's à Saint Georges sur Loire : venez participer à la méthode de recrutement par simulation",
-        "date_debut": "2026-09-21T07:00:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Atelier : Je booste mon CV avec l'aide de l'IA",
-        "date_debut": "2026-09-21T07:30:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Atelier : Je prépare mon entretien avec l'IA pour convaincre les recruteurs",
-        "date_debut": "2026-09-21T09:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Recrutement McDonald's à Saint Georges sur Loire : venez participer à la méthode de recrutement par simulation",
-        "date_debut": "2026-09-21T11:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "House of Banksy - Une expo non autorisée",
-        "date_debut": "2026-09-21",
-        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Décryptages - Enfance(s), grandir quelque part - EXPOSITION",
-        "date_debut": "2026-09-21",
-        "lieu": "Cosmopolis",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le Voyage permanent - Coeur historique - Visite guidée",
-        "date_debut": "2026-09-21",
-        "lieu": "Nantes (Centre ville)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le livre d’artiste concours et exposition – Musée de l'imprimerie",
-        "date_debut": "2026-09-21",
-        "lieu": "Musée-atelier de l'imprimerie de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Don du sang — Maison du don, Nantes",
-        "date_debut": "2026-09-21",
-        "lieu": "Maison du don",
         "ville": "Nantes"
       }
     ]
