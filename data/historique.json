@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-10-13",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Mobilisation lycéenne : \"Chaque jour, la mobilisation s'élargit\", assure Sophie Binet depuis le cortège parisien",
+        "resume": "Les lycéens manifestent à nouveau mardi, à quelques jours des vacances scolaires de la Toussaint.",
+        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-lyceens-de-nouveau-dans-la-rue-pour-un-acte-5-du-mouvement_8234260.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 13 Oct 2026 14:55:10 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Le Parquet antiterroriste se saisit de l'enquête au lendemain des tirs dans un collège à Aubagne",
+        "resume": "Les premières investigations réalisées mettent en évidence \"la probable adhésion\" de l'adolescent à la mouvance True Crime Community, \"un écosystème de communautés numérique qui glorifie les auteurs d",
+        "lien": "https://www.franceinfo.fr/faits-divers/le-parquet-antiterroriste-se-saisit-de-l-enquete-au-lendemain-des-tirs-dans-un-college-a-aubagne_8235544.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 13 Oct 2026 14:27:21 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Un piratage \"pas si sophistiqué que ça\" : ce que l'on sait de la cyberattaque qui a fait monter en température les frigos de supermarchés",
+        "resume": "Dans la nuit de dimanche à lundi, des hackers ont pris le contrôle des thermostats de plusieurs centaines de supermarchés. Ils ont ainsi pu, à distance, changer les températures des réfrigérateurs et ",
+        "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/un-piratage-pas-si-sophistique-que-ca-ce-que-l-on-sait-de-la-cyberattaque-qui-a-fait-monter-en-temperature-les-frigos-de-supermarches_8235061.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 13 Oct 2026 12:01:13 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Des ordres d'évacuations émis en Arabie saoudite et au Yémen après les frappes houthies sur le royaume",
+        "resume": "L'Arabie saoudite est secouée par des alertes depuis plusieurs jours, alors que les rebelles houthis du Yémen voisin ont intensifié leurs frappes contre les infrastructures civiles, notamment l'aéropo",
+        "lien": "https://www.franceinfo.fr/monde/moyen-orient/des-ordres-d-evacuations-emis-en-arabie-saoudite-et-au-yemen-apres-les-frappes-houthies-sur-le-royaume_8235616.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 13 Oct 2026 15:26:21 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Budget 2027 : Jean-Philippe Tanguy annonce que le Rassemblement national \"ne votera pas la motion de rejet des socialistes\"",
+        "resume": "L'examen du budget 2027 va démarrer dans la soirée avec la partie dédiée aux recettes de l'Etat. Les députés socialistes ont d'ores et déjà annoncé qu'ils déposeront une motion de rejet.",
+        "lien": "https://www.franceinfo.fr/economie/budget/direct-budget-2027-le-projet-de-loi-de-finances-arrive-dans-l-hemicycle-mardi-en-fin-de-journee_8235388.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 13 Oct 2026 14:41:13 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "🔴 Arabie saoudite : l'ambassade de France déconseille de se rendre à Riyad, Jeddah et Dammam",
+        "resume": "",
+        "lien": "https://www.france24.com/fr/moyen-orient/20261013-arabie-saoudite-ambassade-france-d%C3%A9conseille-rendre-riyad-jeddah-dammam",
+        "date": "Tue, 13 Oct 2026 13:01:30 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "France : Acte V du mouvement des lycéens",
+        "resume": "Devant le lycée Turgot à Paris, l’ambiance est festive et joyeuse. Mais l’objectif est de faire entendre leurs revendications.",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261013-france-acte-v-du-mouvement-des-lyc%C3%A9ens",
+        "date": "Tue, 13 Oct 2026 12:57:01 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Arabie saoudite : l'ambassade de France déconseille de se rendre à Riyad, Jeddah et Dammam",
+        "resume": "L'ambassade de France en Arabie saoudite a déconseillé mardi à ses ressortissants de se rendre à Riyad, Jeddah et Dammam. Dans une publication Instagram, elle recommande de ne pas \"se rendre ou d'effe",
+        "lien": "https://www.france24.com/fr/moyen-orient/20261013-arabie-saoudite-ambassade-france-d%C3%A9conseille-rendre-riyad-jeddah-dammam",
+        "date": "Tue, 13 Oct 2026 12:56:22 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Resident Evil",
+        "date_sortie": "2026-09-16",
+        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
+        "note": 7.313,
+        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
+      },
+      {
+        "titre": "Malfaisante",
+        "date_sortie": "2026-10-14",
+        "synopsis": "Une famille est la cible d'une entité qu'elle appelle « l'autre maman ».",
+        "note": 5.947,
+        "affiche": "https://image.tmdb.org/t/p/w300/wAofwsldMDNAIzGSEfMJMoUn1KB.jpg"
+      },
+      {
+        "titre": "Digger",
+        "date_sortie": "2026-09-28",
+        "synopsis": "L’homme le plus puissant du monde se lance dans une mission frénétique pour prouver qu’il est le sauveur de l’humanité avant que le désastre qu’il a déclenché ne détruise tout.",
+        "note": 7.5,
+        "affiche": "https://image.tmdb.org/t/p/w300/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg"
+      },
+      {
+        "titre": "Avengers : Endgame",
+        "date_sortie": "2019-04-24",
+        "synopsis": "Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de doigts qui a pulvéri",
+        "note": 8.246,
+        "affiche": "https://image.tmdb.org/t/p/w300/qXekTarZKRrVfnBwhS6xevt6BGU.jpg"
+      },
+      {
+        "titre": "Verity",
+        "date_sortie": "2026-09-30",
+        "synopsis": "Lorsqu’un accident affecte les capacités de l’autrice de bestsellers, Verity Crawford, à achever son œuvre, une écrivaine solitaire, Lowen Ashleigh, qui peine à joindre les deux bouts est engagée pour lui prêter sa plume",
+        "note": 6.375,
+        "affiche": "https://image.tmdb.org/t/p/w300/zLCjFOyjvKqYdkQYYAyTtfJ5mpk.jpg"
+      },
+      {
+        "titre": "Heart of the Beast",
+        "date_sortie": "2026-09-23",
+        "synopsis": "Après un terrible crash d’avion, James Belmont (Brad Pitt), ancien des forces spéciales, se retrouve perdu au cœur de l’Alaska avec son chien Odin, depuis toujours à ses côtés. Livrés à eux-mêmes dans une nature aussi ma",
+        "note": 7.453,
+        "affiche": "https://image.tmdb.org/t/p/w300/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Complete Orchestral Works, Vol. 3",
+        "artiste": "Maurice Ravel",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Recrutement Magasin ACTION Employé polyvalent H/F",
+        "date_debut": "2026-10-13T06:00:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Rencontre interprofessionelle - Ouvrons les métiers de la fabrique de la ville à plus de diversité",
+        "date_debut": "2026-10-13T11:30:00+00:00",
+        "lieu": "Université d'Angers - SUIO-IP La Passerelle",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Handiss'pensables Découverte du secteur et des métiers du médico-social / découverte des métiers, formations & rencontres employeurs",
+        "date_debut": "2026-10-13T12:00:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "ETTIC Job Week / Job Dating Médico-social",
+        "date_debut": "2026-10-13T12:00:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Réunion visio pour le développement de l'entreprise",
+        "date_debut": "2026-10-13T12:00:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Epicerie solidaire \"Le Comptoir d'Halvêque\"",
+        "date_debut": "2026-10-13",
+        "lieu": "salle des 4 carrés",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "House of Banksy - Une expo non autorisée",
+        "date_debut": "2026-10-13",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "The Art of the Brick - Exposition d’art en Lego",
+        "date_debut": "2026-10-13",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Sombre et Lumière | Exposition de peintures et d'objets d'art | Art contemporain | Cyril Maisonnave, Cordiforme, Rackdamn Art",
+        "date_debut": "2026-10-13",
+        "lieu": "Galerie Morphose",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Valorisation d’ouvrages autour de la santé mentale par la Bibliothèque Edre-Batignolles",
+        "date_debut": "2026-10-13",
+        "lieu": "Maison de quartier Bottière",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-10-12",
     "news": [
       {
@@ -2582,174 +2781,6 @@
         "titre": "Pause-café",
         "date_debut": "2026-09-30",
         "lieu": "RIG Malville",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-29",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Ecrits antisémites attribués à Jordan Bardella : \"On ne va pas se laisser faire\", lance Marine Le Pen, qui entend \"contre-attaquer\" face à Mediapart",
-        "resume": "Mediapart a publié lundi des messages antisémites datant de 2013 attribués à l'actuel président du RN. Il a annoncé avoir déposé plainte pour diffamation.",
-        "lien": "https://www.franceinfo.fr/politique/jordan-bardella/direct-propos-antisemites-attribues-a-jordan-bardella-on-assiste-a-la-machine-a-fabriquer-des-boules-puantes-affirme-le-vice-president-du-groupe-rn-a-l-assemblee-nationale_8214344.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 29 Sep 2026 13:44:39 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Mobilisation dans la fonction publique : avant le départ de la manifestation à Paris, Jean-Luc Mélenchon se dit \"fier d'être aux portes des lycées\"",
-        "resume": "La CGT, FO, la CFDT, UNSA, la FSU, Solidaires, CFE-CGC et la FA-FP réclament une revalorisation des salaires des fonctionnaires et des \"moyens budgétaires à la hauteur\" des missions des services publi",
-        "lien": "https://www.franceinfo.fr/economie/greve/direct-greve-dans-la-fonction-publique-plus-de-170-manifestations-attendues-dans-toute-la-france-ce-mardi_8214257.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 29 Sep 2026 14:08:37 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "En Espagne, comment Maricarmen Abascal, expulsée à 87 ans, est devenue le symbole de la crise du logement",
-        "resume": "Les images de Maricarmen Abascal, expulsée sur une civière de son appartement madrilène, mercredi, ont déclenché un grand mouvement de protestation contre la hausse du coût du logement et les expulsio",
-        "lien": "https://www.franceinfo.fr/monde/espagne/en-espagne-comment-maricarmen-abascal-87-ans-est-devenue-le-symbole-de-la-crise-du-logement_8213075.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 29 Sep 2026 05:58:49 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "De la Corse au Sud-Ouest en passant par la Lorraine, la France subit un déficit de pluie \"alarmant\" au mois de septembre",
-        "resume": "En septembre, la totalité des stations automatiques de Météo-France affichent un nombre de jours de pluie inférieur aux normales. Et les précipitations annoncées mercredi et jeudi ne suffiront pas à e",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/carte-de-la-corse-au-sud-ouest-en-passant-par-la-lorraine-la-france-subit-un-deficit-de-pluie-alarmant-au-mois-de-septembre_8213168.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 29 Sep 2026 13:34:13 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "L'Estonie accuse la Russie d'être à l'origine d'un incendie chez un fabricant de drones",
-        "resume": "Emmanuel Macron, qui s'est alarmé d'une \"dangereuse fuite en avant\", a dénoncé \"la multiplication de ces actes hostiles\". Mais le Kremlin a rejeté toute responsabilité dans cet incendie, parlant de \"d",
-        "lien": "https://www.franceinfo.fr/monde/russie/l-estonie-accuse-la-russie-d-avoir-commandite-un-incendie-chez-un-fabricant-de-drones-une-dangereuse-fuite-en-avant-selon-emmanuel-macron_8214803.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 29 Sep 2026 13:58:07 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Ethiopie : les combats s'intensifient entre le TPLF et l'armée fédérale au Tigré",
-        "resume": "🇪🇹 En Éthiopie, la tension monte au Tigré où plusieurs groupes rebelles alliés appellent à renverser le gouvernement d’Abiy Ahmed. Le TPLF affirme avoir frappé une importante base militaire. Le gouver",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260929-ethiopie-les-combats-s-intensifient-entre-le-tplf-et-l-arm%C3%A9e-f%C3%A9d%C3%A9rale-au-tigr%C3%A9",
-        "date": "Tue, 29 Sep 2026 11:53:40 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Propos antisémites : Jordan Bardella dément les révélations de Mediapart",
-        "resume": "Le média d'investigation #Mediapart a publié lundi des propos antisémites attribués à Jordan #Bardella, évoquant par ailleurs dans son enquête sa fascination pour l’idéologue Alain Soral. Le président",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20260929-propos-antis%C3%A9mites-jordan-bardella-d%C3%A9ment-les-r%C3%A9v%C3%A9lations-de-mediapart",
-        "date": "Tue, 29 Sep 2026 11:22:11 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Accusations d'antisémitisme : le Rassemblement national lance sa contre-attaque",
-        "resume": "Le président du Rassemblement national, Jordan Bardella, et la candidate du parti à l'élection présidentielle, Marine Le Pen, ont lancé leur contre-attaque au lendemain des révélations de Mediapart fa",
-        "lien": "https://www.france24.com/fr/france/20260929-france-accusations-antisemitisme-rassemblement-national-lance-contre-attaque-jordan-bardella-marine-le-pen",
-        "date": "Tue, 29 Sep 2026 10:27:09 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Resident Evil",
-        "date_sortie": "2026-09-16",
-        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
-        "note": 7.3,
-        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
-      },
-      {
-        "titre": "Mutiny",
-        "date_sortie": "2026-08-19",
-        "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il se retrouve piégé à bord d’un porte-cont",
-        "note": 7.328,
-        "affiche": "https://image.tmdb.org/t/p/w300/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg"
-      },
-      {
-        "titre": "Heart of the Beast",
-        "date_sortie": "2026-09-23",
-        "synopsis": "Après un terrible crash d’avion, James Belmont (Brad Pitt), ancien des forces spéciales, se retrouve perdu au cœur de l’Alaska avec son chien Odin, depuis toujours à ses côtés. Livrés à eux-mêmes dans une nature aussi ma",
-        "note": 7.7,
-        "affiche": "https://image.tmdb.org/t/p/w300/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg"
-      },
-      {
-        "titre": "Avengers : Endgame",
-        "date_sortie": "2019-04-24",
-        "synopsis": "Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de doigts qui a pulvéri",
-        "note": 8.245,
-        "affiche": "https://image.tmdb.org/t/p/w300/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg"
-      },
-      {
-        "titre": "Teenage Sex and Death at Camp Miasma",
-        "date_sortie": "2026-09-17",
-        "synopsis": "Un cinéaste queer est embauché pour diriger un nouvel épisode d'une franchise Slasher de longue date. Le réalisateur se fixe sur la perspective de lancer la «dernière fille» du film original, et les deux femmes entrent d",
-        "note": 6.36,
-        "affiche": "https://image.tmdb.org/t/p/w300/a5JvHUONtF8RyLL6M5nTlqqMJVE.jpg"
-      },
-      {
-        "titre": "Primetime",
-        "date_sortie": "2026-09-23",
-        "synopsis": "Chris Hansen présente l'émission policière « To Catch a Predator ». Diffusée sur NBC Dateline, cette émission tente de filmer des pédophiles présumés avec l'aide des forces de l'ordre et d'une équipe d'appâts se faisant ",
-        "note": 7.167,
-        "affiche": "https://image.tmdb.org/t/p/w300/rhF8JALH8wrxKtXSCAB7a09tWsc.jpg"
-      }
-    ],
-    "albums": [],
-    "evenements": [
-      {
-        "titre": "Visio Opportunités du moment - Angers Capucins",
-        "date_debut": "2026-09-29T12:00:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Rendez-vous Angers Emploi",
-        "date_debut": "2026-09-29T12:00:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Mon projet de formation- les étapes, les financements, la rémunération - Pour les demandeurs d'emploi d'ANGERS CAPUCINS:",
-        "date_debut": "2026-09-29T12:00:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Boostez votre recherche d'emploi avec les outils numériques de France Travail",
-        "date_debut": "2026-09-29T12:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "La guerre de Vendée en Anjou",
-        "date_debut": "2026-09-29T16:00:00+00:00",
-        "lieu": "Archives départementales de Maine-et-Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Epicerie solidaire \"Le Comptoir d'Halvêque\"",
-        "date_debut": "2026-09-29",
-        "lieu": "salle des 4 carrés",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Exposition Le Muséum au fil du temps",
-        "date_debut": "2026-09-29",
-        "lieu": "Place de la Monnaie",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Expression(s) Décoloniale(s) #4 - Exposition",
-        "date_debut": "2026-09-29",
-        "lieu": "Château des Ducs de Bretagne -   Musée d'Histoire de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Les mardis dans les mailles",
-        "date_debut": "2026-09-29",
-        "lieu": "Le 20 mille",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Croisière Estuaire Nantes-St Nazaire",
-        "date_debut": "2026-09-29",
-        "lieu": "Nantes",
         "ville": "Nantes"
       }
     ]
