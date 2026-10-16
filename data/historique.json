@@ -1,5 +1,173 @@
 [
   {
+    "date": "2026-10-16",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Mobilisation du 17 octobre : comment les gilets jaunes tentent de structurer le mouvement, relancé par la colère lycéenne",
+        "resume": "Lycéens, agriculteurs, pompiers, soignants et retraités sont appelés à se mobiliser samedi pour dénoncer \"la vie chère\". Un millier d'actions est prévu dans toute la France. Les gilets jaunes sont à p",
+        "lien": "https://www.franceinfo.fr/economie/transports/gilets-jaunes/mobilisation-du-17-octobre-comment-les-gilets-jaunes-tentent-de-structurer-le-mouvement-relance-par-la-colere-lyceenne_8238922.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 16 Oct 2026 09:02:06 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Menottes, \"coups de pied et de matraque\", insultes... Des lycéens et leurs parents dénoncent les conditions des gardes à vue et \"des intimidations\"",
+        "resume": "Depuis le début du mouvement lycéen, 6 800 mineurs ont été placés en garde à vue. Un chiffre inédit en France. En Île-de-France, plusieurs adolescents racontent ce qu'ils ont vécu, entre colère, traum",
+        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/temoignages-menottes-coups-de-pied-et-de-matraque-insultes-des-lyceens-et-leurs-parents-denoncent-des-gardes-a-vue-abusives_8239624.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 16 Oct 2026 08:46:26 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Vous pouvez compter sur nous\" : l'UE réaffirme son soutien à l'Ukraine après les attaques de Donald Trump contre Volodymyr Zelensky",
+        "resume": "Le président ukrainien est en visite à Bruxelles pour un sommet des Vingt-Sept.",
+        "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ce-n-est-pas-le-moment-de-cesser-d-aider-l-ukraine-previent-l-union-europeenne_8239888.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 16 Oct 2026 11:11:55 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Globalement, c'est une grande réussite\" : la Région Occitanie mise sur le salariat des médecins pour lutter contre les déserts médicaux",
+        "resume": "Alors que six millions de Français n'ont pas de médecin traitant, les collectivités locales testent des solutions pour lutter contre les déserts médicaux, comme le salariat de médecins de campagne en ",
+        "lien": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-le-salariat-des-medecins-une-experience-reussie-en-occitanie-pour-contrer-les-deserts-medicaux_8219020.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 16 Oct 2026 07:11:36 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Vous allez hériter du bureau mais aussi d'un budget\" : le ministre Roland Lescure se montre confiant après avoir rencontré plusieurs partis politiques",
+        "resume": "\"Nous nous en sortirons et nous aurons ce budget\", a assuré le ministre de l'Economie et des Finances à Bloomberg.",
+        "lien": "https://www.franceinfo.fr/economie/budget/vous-allez-heriter-du-bureau-mais-aussi-d-un-budget-le-ministre-roland-lescure-se-montre-confiant-apres-avoir-rencontre-plusieurs-partis_8239882.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 16 Oct 2026 11:15:43 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Midterms : \"le début de la fin du trumpisme\" ?",
+        "resume": "À moins de 20 jours des élections de mi-mandat aux États-Unis, Donald Trump multiplie les meetings pour mobiliser son électorat. Le président américain joue-t-il son avenir politique dans ce scrutin ?",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261016-midterms-le-d%C3%A9but-de-la-fin-du-trumpisme",
+        "date": "Fri, 16 Oct 2026 10:22:54 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "France : les lycéens se préparent à la mobilisation du 17 octobre, rejoints par d’autres organismes",
+        "resume": "En France, les représentants des lycéens et des syndicats étudiants ont rencontré jeudi soir le ministre de l’Éducation nationale, mais jugent les échanges décevants. Depuis près d’un mois, ils se mob",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261016-france-les-lyc%C3%A9ens-se-pr%C3%A9parent-%C3%A0-la-mobilisation-du-17-octobre-rejoints-par-d-autres-organismes",
+        "date": "Fri, 16 Oct 2026 10:09:10 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "RD Congo : des perquisitions en Belgique visant l’entourage de Félix Tshisekedi",
+        "resume": "Le parquet fédéral belge a mené plusieurs perquisitions à Bruxelles et dans ses environs, dans des résidences appartenant à des membres de la famille de Félix Tshisekedi, le président de la République",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261016-rd-congo-des-perquisitions-en-belgique-visant-l-entourage-de-f%C3%A9lix-tshisekedi",
+        "date": "Fri, 16 Oct 2026 10:05:40 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Resident Evil",
+        "date_sortie": "2026-09-16",
+        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
+        "note": 7.334,
+        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
+      },
+      {
+        "titre": "Les Ensorceleuses 2",
+        "date_sortie": "2026-09-09",
+        "synopsis": "Une famille de sorcières multigénérationnelle, maudite à être sans amour pendant des siècles, tente de briser le sort en affrontant de sombres secrets et en se sacrifiant les uns pour les autres.",
+        "note": 6.672,
+        "affiche": "https://image.tmdb.org/t/p/w300/qU6bErj56ebypPwA7zaiTfKzemA.jpg"
+      },
+      {
+        "titre": "Malfaisante",
+        "date_sortie": "2026-10-14",
+        "synopsis": "Une famille est la cible d'une entité qu'elle appelle « l'autre maman ».",
+        "note": 5.888,
+        "affiche": "https://image.tmdb.org/t/p/w300/wAofwsldMDNAIzGSEfMJMoUn1KB.jpg"
+      },
+      {
+        "titre": "Digger",
+        "date_sortie": "2026-09-28",
+        "synopsis": "L’homme le plus puissant du monde se lance dans une mission frénétique pour prouver qu’il est le sauveur de l’humanité avant que le désastre qu’il a déclenché ne détruise tout.",
+        "note": 7.503,
+        "affiche": "https://image.tmdb.org/t/p/w300/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg"
+      },
+      {
+        "titre": "Street Fighter",
+        "date_sortie": "2026-10-13",
+        "synopsis": "En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affrontement brutal où se mê",
+        "note": 6.419,
+        "affiche": "https://image.tmdb.org/t/p/w300/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"
+      },
+      {
+        "titre": "Heart of the Beast",
+        "date_sortie": "2026-09-23",
+        "synopsis": "Après un terrible crash d’avion, James Belmont (Brad Pitt), ancien des forces spéciales, se retrouve perdu au cœur de l’Alaska avec son chien Odin, depuis toujours à ses côtés. Livrés à eux-mêmes dans une nature aussi ma",
+        "note": 7.414,
+        "affiche": "https://image.tmdb.org/t/p/w300/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg"
+      }
+    ],
+    "albums": [],
+    "evenements": [
+      {
+        "titre": "Réunion d'informations sur les GEIQ",
+        "date_debut": "2026-10-16T07:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "PARCOURS PÉDAGOGIQUE À LA MATP",
+        "date_debut": "2026-10-16T07:00:00+00:00",
+        "lieu": "MATP",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Atelier découverte des métiers du commerce et de la relation client",
+        "date_debut": "2026-10-16T07:30:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Le numérique au féminin : réinventer les codes !",
+        "date_debut": "2026-10-19T07:30:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Osez le numérique : formations, métiers et opportunités professionnelles !",
+        "date_debut": "2026-10-19T11:45:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Le livre d’artiste concours et exposition – Musée de l'imprimerie",
+        "date_debut": "2026-10-16",
+        "lieu": "Musée-atelier de l'imprimerie de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Don du sang — Maison du don, Nantes",
+        "date_debut": "2026-10-16",
+        "lieu": "Maison du don",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Octobre rose dans la métropole nantaise",
+        "date_debut": "2026-10-16",
+        "lieu": "Nantes et communes de la métropole",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Excipit",
+        "date_debut": "2026-10-16",
+        "lieu": "Portevent",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "The Art of the Brick - Exposition d’art en Lego",
+        "date_debut": "2026-10-16",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-10-15",
     "news": [
       {
@@ -2582,205 +2750,6 @@
         "titre": "L'Été indien aux Nefs 2026",
         "date_debut": "2026-10-03",
         "lieu": "Nefs / Machines de l'Ile",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-02",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Blocages des lycées : le gouvernement recense 564 établissements touchés par des \"actions ou des perturbations\" vendredi",
-        "resume": "C'est le bilan annoncé par le ministère de l'Education nationale à la mi-journée. Edouard Geffray rencontre depuis 9 heures des syndicats de l'éducation et des associations lycéennes.",
-        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-dans-les-lycees-le-gouvernement-evoque-une-man-uvre-organisee-par-lfi-manuel-bompard-l-accuse-de-sombrer-dans-le-complotisme_8219182.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 02 Oct 2026 13:15:31 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Extraction des données, constat d'huissier, e-mails... Comment Mediapart justifie l'authentification des messages antisémites attribués à Jordan Bardella",
-        "resume": "Trois jours après ses révélations, le journal en ligne a publié des extraits de conversations privées issues de Facebook Messenger. Il assure que ces messages n'ont pas pu être modifiés, rejetant les ",
-        "lien": "https://www.franceinfo.fr/politique/jordan-bardella/extraction-des-donnees-constat-d-huissier-e-mails-comment-mediapart-justifie-l-authentification-des-messages-antisemites-attribues-a-jordan-bardella_8219347.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 02 Oct 2026 12:15:49 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Comment, avant le 7-Octobre, Benyamin Netanyahou a laissé le Qatar envoyer de l’argent à Gaza",
-        "resume": "La cellule investigation de Radio France a enquêté sur les liens troubles entre Israël, le Qatar et le Hamas. Des témoins de premier plan racontent comment Benyamin Nétanyahou a laissé le Qatar financ",
-        "lien": "https://www.franceinfo.fr/enquetes-franceinfo/enquete-comment-avant-le-7-octobre-benyamin-netanyahou-a-laisse-le-qatar-envoyer-de-l-argent-a-gaza_8218762.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 02 Oct 2026 06:09:36 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Le président du Medef juge que le projet de budget du gouvernement va \"aggraver la situation\" économique",
-        "resume": "Patrick Martin a dénoncé \"l'augmentation du coût du travail\" que propose le projet de budget, qui revient sur des allègements de cotisations patronales.",
-        "lien": "https://www.franceinfo.fr/economie/budget/le-president-du-medef-estime-que-le-projet-de-budget-du-gouvernement-va-aggraver-la-situation-economique_8219674.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 02 Oct 2026 13:39:13 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Nous espérons retrouver d'autres ossements, notamment le crâne\", dit la première présidente de la cour d'appel de Toulouse avant une nouvelle reconstitution dans l'affaire Jubillar",
-        "resume": "Après cinq ans de déni, Cédric Jubillar a finalement avoué en juillet le meurtre de son épouse, Delphine Aussaguel. Une nouvelle reconstitution a lieu vendredi dans le Tarn pour déterminer si oui ou n",
-        "lien": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/nous-esperons-retrouver-d-autres-ossements-notamment-le-crane-dit-la-premiere-presidente-de-la-cour-d-appel-de-toulouse-avant-une-nouvelle-reconstitution-dans-l-affaire-jubillar_8219200.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 02 Oct 2026 09:47:03 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Mémoires de tirailleurs : l'histoire des tirailleurs sénégalais en 10 podcasts",
-        "resume": "🇸🇳 À Dakar, une nouvelle série de podcasts en français et en wolof veut faire revivre l’histoire des tirailleurs sénégalais, ces soldats africains ayant combattu pour la France loin de chez eux. \"Mémo",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261002-m%C3%A9moires-de-tirailleurs-l-histoire-des-tirailleurs-s%C3%A9n%C3%A9galais-en-10-podcasts",
-        "date": "Fri, 02 Oct 2026 11:52:04 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Qui est Flavio Bolsonaro, candidat à l'élection présidentielle brésilienne ?",
-        "resume": "Encore peu connu au niveau national il y a quelques mois, le sénateur de 45 ans Flavio Bolsonaro est pourtant désormais au coude-à-coude avec l'actuel président Lula dans les sondages. Le Brésil pourr",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261002-qui-est-flavio-bolsonaro-candidat-%C3%A0-l-%C3%A9lection-pr%C3%A9sidentielle-br%C3%A9silienne",
-        "date": "Fri, 02 Oct 2026 11:29:43 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Bosnie-Herzégovine : une élection sous tension, 30 ans après la guerre",
-        "resume": "Les Bosniens votent dimanche dans un scrutin d’une grande complexité, marqué par les divisions entre Bosniaques, Serbes et Croates, héritées de la guerre des années 1990. Alors que les discours nation",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261002-bosnie-herz%C3%A9govine-une-%C3%A9lection-sous-tension-30-ans-apr%C3%A8s-la-guerre",
-        "date": "Fri, 02 Oct 2026 11:16:45 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Resident Evil",
-        "date_sortie": "2026-09-16",
-        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
-        "note": 7.296,
-        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
-      },
-      {
-        "titre": "Digger",
-        "date_sortie": "2026-09-28",
-        "synopsis": "L’homme le plus puissant du monde se lance dans une mission frénétique pour prouver qu’il est le sauveur de l’humanité avant que le désastre qu’il a déclenché ne détruise tout.",
-        "note": 7.7,
-        "affiche": "https://image.tmdb.org/t/p/w300/9BzF32t0U7mOnpzmQ0dyFKv4uZT.jpg"
-      },
-      {
-        "titre": "Heart of the Beast",
-        "date_sortie": "2026-09-23",
-        "synopsis": "Après un terrible crash d’avion, James Belmont (Brad Pitt), ancien des forces spéciales, se retrouve perdu au cœur de l’Alaska avec son chien Odin, depuis toujours à ses côtés. Livrés à eux-mêmes dans une nature aussi ma",
-        "note": 7.578,
-        "affiche": "https://image.tmdb.org/t/p/w300/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg"
-      },
-      {
-        "titre": "Avengers : Endgame",
-        "date_sortie": "2019-04-24",
-        "synopsis": "Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de doigts qui a pulvéri",
-        "note": 8.2,
-        "affiche": "https://image.tmdb.org/t/p/w300/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg"
-      },
-      {
-        "titre": "Primetime",
-        "date_sortie": "2026-09-23",
-        "synopsis": "Chris Hansen présente l'émission policière « To Catch a Predator ». Diffusée sur NBC Dateline, cette émission tente de filmer des pédophiles présumés avec l'aide des forces de l'ordre et d'une équipe d'appâts se faisant ",
-        "note": 7.0,
-        "affiche": "https://image.tmdb.org/t/p/w300/rhF8JALH8wrxKtXSCAB7a09tWsc.jpg"
-      },
-      {
-        "titre": "Teenage Sex and Death at Camp Miasma",
-        "date_sortie": "2026-09-17",
-        "synopsis": "Un cinéaste queer est embauché pour diriger un nouvel épisode d'une franchise Slasher de longue date. Le réalisateur se fixe sur la perspective de lancer la «dernière fille» du film original, et les deux femmes entrent d",
-        "note": 6.319,
-        "affiche": "https://image.tmdb.org/t/p/w300/a5JvHUONtF8RyLL6M5nTlqqMJVE.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Living Free (Live Manchester '75)",
-        "artiste": "Don McLean",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Through Lines",
-        "artiste": "Skye Peterson",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Broken Dreams",
-        "artiste": "Siska",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "ЖЗЛ",
-        "artiste": "Lacerate",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Plongez dans l'univers des assistants de vie (H/F) et décrochez votre futur emploi !",
-        "date_debut": "2026-10-02T07:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Le numérique recrute : métiers, formations et opportunités.",
-        "date_debut": "2026-10-02T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Découvrez les richesses de la ruche dans les boutiques Famille Mary",
-        "date_debut": "2026-10-02T08:00:00+00:00",
-        "lieu": "Boutique Famille Mary Angers",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Plongez dans l'univers des assistants de vie (H/F) et décrochez votre futur emploi !",
-        "date_debut": "2026-10-02T09:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "2 jours en jeux - prélude",
-        "date_debut": "2026-10-02T18:00:00+00:00",
-        "lieu": "Repaire Urbain - Bibliothèque municipale",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Il y avait tellement de silence j'ai même pas entendu les oiseaux",
-        "date_debut": "2026-10-02",
-        "lieu": "Théâtre de la rue de belleville",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "The Art of the Brick - Exposition d’art en Lego",
-        "date_debut": "2026-10-02",
-        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Exposition Le Muséum au fil du temps",
-        "date_debut": "2026-10-02",
-        "lieu": "Place de la Monnaie",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Là où subsiste encore ton écho",
-        "date_debut": "2026-10-02",
-        "lieu": "Ecole des Beaux-Arts Nantes St-Nazaire",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le livre d’artiste concours et exposition – Musée de l'imprimerie",
-        "date_debut": "2026-10-02",
-        "lieu": "Musée-atelier de l'imprimerie de Nantes",
         "ville": "Nantes"
       }
     ]
