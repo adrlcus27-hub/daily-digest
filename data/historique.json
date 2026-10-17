@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-10-17",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Il faut être là pour montrer que le peuple est fatigué\" : à Saint-Avold, les anciens gilets jaunes ressortent leurs banderoles",
+        "resume": "Au rond-point du Cora, en Moselle, lieu emblématique de la révolte des gilets jaunes en 2018, certains militants de l'époque ont décidé de renfiler la chasuble. Huit ans après, la hausse des prix de l",
+        "lien": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/il-faut-etre-la-pour-montrer-que-le-peuple-est-fatigue-a-saint-avold-les-anciens-gilets-jaunes-ressortent-leurs-banderoles_8220628.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 17 Oct 2026 09:14:25 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Mobilisation du 17 octobre : des groupes dispersés à Lyon et des barricades enflammées à Rennes",
+        "resume": "Selon une note des renseignements consultée par France Télévisions, 60 000 à 110 000 participants sont attendus dans des cortèges à travers les grandes villes de France.",
+        "lien": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-17-octobre-lyceens-etudiants-gilets-jaunes-des-milliers-de-manifestants-attendus-dans-toute-la-france_8241022.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 17 Oct 2026 10:47:07 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Le siège de la chaîne CNews ciblé par des manifestants, 21 personnes interpellées",
+        "resume": "Une centaine d'individus cagoulés ont bloqué l'accès au parking devant le bâtiment, samedi matin, a annoncé la préfecture de police de Paris. Il y a eu 21 interpellations.",
+        "lien": "https://www.franceinfo.fr/faits-divers/le-siege-de-la-chaine-cnews-cible-par-des-manifestants-21-interpellations_8241583.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 17 Oct 2026 12:00:13 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Lyon, Rennes, Marseille, Belfort, Poitiers... Le point sur la journée de mobilisation du 17 octobre, à Paris et en régions",
+        "resume": "Plusieurs centaines de rassemblements et de manifestations sont organisés samedi dans le pays, soutenus par différents syndicats et partis politiques à gauche.",
+        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/lyon-rennes-marseille-belfort-poitiers-la-journee-de-mobilisation-du-17-octobre-a-commence_8241559.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 17 Oct 2026 11:59:00 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"On espère une massification du mouvement\" : pour la mobilisation du 17 octobre, des étudiants rêvent d'une convergence avec le monde du travail",
+        "resume": "Après trois semaines de mobilisation lycéenne et étudiante, l'intersyndicale de la jeunesse voit en ce samedi de mobilisation une opportunité d'amplifier son mouvement de contestation.",
+        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/temoignages-on-espere-une-massification-du-mouvement-pour-la-mobilisation-du-17-octobre-des-etudiants-revent-d-une-convergence-avec-le-monde-du-travail_8240923.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 17 Oct 2026 07:01:41 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Trump exempte la Russie de nouvelles sanctions, Zelensky lâché",
+        "resume": "Gulliver Gragg, notre correspondant en Ukraine, analyse la situation.",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261017-trump-exempte-la-russie-de-nouvelles-sanctions-zelensky-l%C3%A2ch%C3%A9",
+        "date": "Sat, 17 Oct 2026 09:45:55 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "WNBA : comment la Française Gabby Williams est devenue l'une des meilleures joueuses au monde ?",
+        "resume": "Les qualificatifs manquent pour décrire la saison de Gabby Williams. Après un titre en Euroligue, une médaille d'argent avec les Bleues en Coupe du monde, elle va tenter de remporter les finales WNBA ",
+        "lien": "https://www.france24.com/fr/sports/20261017-wnba-finale-valkyries-gabby-williams-basket-france",
+        "date": "Sat, 17 Oct 2026 09:18:17 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "France : d'où viennent les appels à la mobilisation du 17 octobre ?",
+        "resume": "Un samedi de mobilisation commun pour différentes \"colères\": quelques rares actions étaient recensées samedi matin à l'appel d'anciens gilets jaunes, lycéens, étudiants, militants du climat et même ag",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261017-france-d-o%C3%B9-viennent-les-appels-%C3%A0-la-mobilisation-du-17-octobre",
+        "date": "Sat, 17 Oct 2026 09:17:50 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Resident Evil",
+        "date_sortie": "2026-09-16",
+        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
+        "note": 7.309,
+        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
+      },
+      {
+        "titre": "Street Fighter",
+        "date_sortie": "2026-10-13",
+        "synopsis": "En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affrontement brutal où se mê",
+        "note": 6.2,
+        "affiche": "https://image.tmdb.org/t/p/w300/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"
+      },
+      {
+        "titre": "Les Ensorceleuses 2",
+        "date_sortie": "2026-09-09",
+        "synopsis": "Une famille de sorcières multigénérationnelle, maudite à être sans amour pendant des siècles, tente de briser le sort en affrontant de sombres secrets et en se sacrifiant les uns pour les autres.",
+        "note": 6.843,
+        "affiche": "https://image.tmdb.org/t/p/w300/qU6bErj56ebypPwA7zaiTfKzemA.jpg"
+      },
+      {
+        "titre": "Malfaisante",
+        "date_sortie": "2026-10-14",
+        "synopsis": "Une famille est la cible d'une entité qu'elle appelle « l'autre maman ».",
+        "note": 5.921,
+        "affiche": "https://image.tmdb.org/t/p/w300/wAofwsldMDNAIzGSEfMJMoUn1KB.jpg"
+      },
+      {
+        "titre": "Digger",
+        "date_sortie": "2026-09-28",
+        "synopsis": "L’homme le plus puissant du monde se lance dans une mission frénétique pour prouver qu’il est le sauveur de l’humanité avant que le désastre qu’il a déclenché ne détruise tout.",
+        "note": 7.5,
+        "affiche": "https://image.tmdb.org/t/p/w300/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg"
+      },
+      {
+        "titre": "Avengers : Endgame",
+        "date_sortie": "2019-04-24",
+        "synopsis": "Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de doigts qui a pulvéri",
+        "note": 8.247,
+        "affiche": "https://image.tmdb.org/t/p/w300/qXekTarZKRrVfnBwhS6xevt6BGU.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Complete Orchestral Works, Vol. 3",
+        "artiste": "Maurice Ravel",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Le numérique au féminin : réinventer les codes !",
+        "date_debut": "2026-10-19T07:30:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Osez le numérique : formations, métiers et opportunités professionnelles !",
+        "date_debut": "2026-10-19T11:45:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "RECRUTEMENT QUICK via la MRS",
+        "date_debut": "2026-10-20T06:30:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Webinaire « Influence et Collab’ : quelles idées s'offrent à vous ? »",
+        "date_debut": "2026-10-20T08:00:00+00:00",
+        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Exposition \"L'insaisissable\" / Sortie de résidence photographique de l'artiste Julien Goldstein",
+        "date_debut": "2026-10-20T11:00:00+00:00",
+        "lieu": "Artothèque d'Angers",
+        "ville": "Angers"
+      },
+      {
+        "titre": "CHERS PARENTS",
+        "date_debut": "2026-10-17",
+        "lieu": "Théâtre 100 Noms",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Jeune public - \"L'île des rêves perdus\"",
+        "date_debut": "2026-10-17",
+        "lieu": "Théâtre de Jeanne",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Là où subsiste encore ton écho",
+        "date_debut": "2026-10-17",
+        "lieu": "Ecole des Beaux-Arts Nantes St-Nazaire",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Les P’tits Enchantements du DIX",
+        "date_debut": "2026-10-17",
+        "lieu": "Dix (Le) Maison de Quartier",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Atelier \"Freak fiction\" par Loona Sire à Bonus",
+        "date_debut": "2026-10-17",
+        "lieu": "Collectif Bonus",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-10-16",
     "news": [
       {
@@ -2551,205 +2750,6 @@
         "titre": "Musée gratuit tous les 1ers dimanches du mois",
         "date_debut": "2026-10-04",
         "lieu": "Musée d'arts de Nantes",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-03",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Un mineur de 15 ans interpellé après l'agression d'une femme avec un spray inflammable, en marge du mouvement lycéen à Marseille",
-        "resume": "La femme essayait de s'interposer face à un groupe qui tentait de fracasser un abribus, avant qu'une personne au visage masqué n'actionne un spray et un briquet.",
-        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/un-mineur-de-15-ans-interpelle-apres-l-agression-d-une-femme-avec-un-spray-inflammable-en-marge-du-mouvement-lyceen-a-marseille_8221051.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 03 Oct 2026 12:34:19 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "La surpopulation carcérale atteint un nouveau record en France, avec 90 020 détenus au 1er septembre",
-        "resume": "Plus de 8 300 matelas ont été posés au sol pour compenser le manque de lits. La France est l'une des pires élèves en Europe en matière de densité carcérale.",
-        "lien": "https://www.franceinfo.fr/societe/prisons/la-surpopulation-carcerale-atteint-un-nouveau-record-en-france-avec-90-020-detenus-au-1er-septembre_8220991.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 03 Oct 2026 11:33:10 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Le copilote du vol FlyDubai qui a agressé son commandant de bord planifiait un \"acte terroriste\", affirme le procureur général des Emirats arabes unis",
-        "resume": "Sans attendre les conclusions de l'enquête, le Premier ministre israélien Benyamin Nétanyahou a dénoncé une \"tentative d'attentat terroriste jihadiste\".",
-        "lien": "https://www.franceinfo.fr/faits-divers/le-copilote-du-vol-flydubai-qui-a-agresse-son-commandant-de-bord-planifiait-un-acte-terroriste-affirme-le-procureur-general-des-emirats-arabes-unis_8220901.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 03 Oct 2026 09:04:21 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "En Allemagne, une \"journée de l'Unité\" qui ne masque pas les disparités entre l'Est et l'Ouest, 36 ans après la réunification",
-        "resume": "La sous-représentation dans les postes à responsabilité, les écarts de patrimoine et le sentiment de partir avec moins d’atouts nourrissent le discours électoral de l'AfD.",
-        "lien": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-une-journee-de-l-unite-qui-ne-masque-pas-les-disparites-entre-l-est-et-l-ouest-36-ans-apres-la-reunification_8220964.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 03 Oct 2026 11:48:37 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "L'Aude n'est plus en vigilance orange \"pluie-inondation\", l'Hérault reste concerné",
-        "resume": "L'Hérault et le Gard ont déjà été touchés par un \"épisode méditerranéen exceptionnel\" mercredi.",
-        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/l-aude-rejoint-l-herault-en-vigilance-orange-pluie-inondation_8220910.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 03 Oct 2026 12:15:34 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Pour son grand retour au Stade de France, Zinédine Zidane concède le nul contre l'Italie",
-        "resume": "Attendu par un stade plein à craquer pour sa première à domicile en tant que sélectionneur de l'équipe de France, \"Zizou\" retrouvait l'Italie, contre qui il avait terminé sa carrière de joueur en 2006",
-        "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261003-grand-retour-stade-de-france-zin%C3%A9dine-zidane-concede-nul-contre-italie-football-bleus-manchester",
-        "date": "Sat, 03 Oct 2026 09:52:44 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Vol flydubai : l'enquête établit que le copilote planifiait un \"acte terroriste\"",
-        "resume": "L'enquête sur l'attaque dans un vol de flydubai a établi que le copilote avait utilisé la hache de secours du cockpit pour attaquer le pilote, parlant d'un \"acte terroriste\", a rapporté samedi un médi",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261003-vol-flydubai-l-enqu%C3%AAte-%C3%A9tablit-que-le-copilote-planifiait-un-acte-terroriste",
-        "date": "Sat, 03 Oct 2026 09:43:50 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Présidentielle au Brésil : Lula et Bolsonaro au coude-à-coude",
-        "resume": "Les Brésiliens votent dimanche pour le premier tour de l'élection présidentielle. Le président de gauche Luiz Inacio Lula da Silva, 80 ans, brigue un quatrième mandat non consécutif. Il a pour princip",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261003-pr%C3%A9sidentielle-au-br%C3%A9sil-lula-et-bolsonaro-au-coude-%C3%A0-coude",
-        "date": "Sat, 03 Oct 2026 09:34:23 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Resident Evil",
-        "date_sortie": "2026-09-16",
-        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
-        "note": 7.316,
-        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
-      },
-      {
-        "titre": "Digger",
-        "date_sortie": "2026-09-28",
-        "synopsis": "L’homme le plus puissant du monde se lance dans une mission frénétique pour prouver qu’il est le sauveur de l’humanité avant que le désastre qu’il a déclenché ne détruise tout.",
-        "note": 7.485,
-        "affiche": "https://image.tmdb.org/t/p/w300/9BzF32t0U7mOnpzmQ0dyFKv4uZT.jpg"
-      },
-      {
-        "titre": "Heart of the Beast",
-        "date_sortie": "2026-09-23",
-        "synopsis": "Après un terrible crash d’avion, James Belmont (Brad Pitt), ancien des forces spéciales, se retrouve perdu au cœur de l’Alaska avec son chien Odin, depuis toujours à ses côtés. Livrés à eux-mêmes dans une nature aussi ma",
-        "note": 7.567,
-        "affiche": "https://image.tmdb.org/t/p/w300/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg"
-      },
-      {
-        "titre": "Verity",
-        "date_sortie": "2026-09-30",
-        "synopsis": "Lorsqu’un accident affecte les capacités de l’autrice de bestsellers, Verity Crawford, à achever son œuvre, une écrivaine solitaire, Lowen Ashleigh, qui peine à joindre les deux bouts est engagée pour lui prêter sa plume",
-        "note": 6.6,
-        "affiche": "https://image.tmdb.org/t/p/w300/zLCjFOyjvKqYdkQYYAyTtfJ5mpk.jpg"
-      },
-      {
-        "titre": "Avengers : Endgame",
-        "date_sortie": "2019-04-24",
-        "synopsis": "Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de doigts qui a pulvéri",
-        "note": 8.246,
-        "affiche": "https://image.tmdb.org/t/p/w300/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg"
-      },
-      {
-        "titre": "Primetime",
-        "date_sortie": "2026-09-23",
-        "synopsis": "Chris Hansen présente l'émission policière « To Catch a Predator ». Diffusée sur NBC Dateline, cette émission tente de filmer des pédophiles présumés avec l'aide des forces de l'ordre et d'une équipe d'appâts se faisant ",
-        "note": 7.007,
-        "affiche": "https://image.tmdb.org/t/p/w300/rhF8JALH8wrxKtXSCAB7a09tWsc.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Complete Orchestral Works, Vol. 3",
-        "artiste": "Maurice Ravel",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Café littéraire",
-        "date_debut": "2026-10-03T08:00:00+00:00",
-        "lieu": "Bibliothèque Des Justices",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Heure du conte - les petites oreilles",
-        "date_debut": "2026-10-03T08:30:00+00:00",
-        "lieu": "Bibliothèque Annie Fratellini",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Heure du conte",
-        "date_debut": "2026-10-03T08:30:00+00:00",
-        "lieu": "Bibliothèque Belle-beille",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Heure du conte",
-        "date_debut": "2026-10-03T08:30:00+00:00",
-        "lieu": "Bibliothèque Saint-Éloi - 49100 ANGERS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Heure du conte",
-        "date_debut": "2026-10-03T08:30:00+00:00",
-        "lieu": "Bibliothèque - Ludothèque Monplaisir - 49000 ANGERS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Marché de la création",
-        "date_debut": "2026-10-03",
-        "lieu": "dans le jardin de Charlotte Coing-Roy",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "IMPRO CONTENDERS - Saison 4",
-        "date_debut": "2026-10-03",
-        "lieu": "Mystère Comedy Club",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "The Art of the Brick - Exposition d’art en Lego",
-        "date_debut": "2026-10-03",
-        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Aux arbres, les sentinelles de Pierre Kurczewski",
-        "date_debut": "2026-10-03",
-        "lieu": "Galerie RDV",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "L'Été indien aux Nefs 2026",
-        "date_debut": "2026-10-03",
-        "lieu": "Nefs / Machines de l'Ile",
         "ville": "Nantes"
       }
     ]
