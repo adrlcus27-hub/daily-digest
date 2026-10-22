@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-10-22",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Mobilisation du 24 octobre : seules les manifestations organisées à la demande des syndicats seront autorisées samedi, annonce Emmanuel Macron",
+        "resume": "Le chef de l'Etat a dénoncé des actes \"politiques et séditieux, conduits par des groupes d'ultragauche, visant à faire tomber la République\".",
+        "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-mobilisation-du-17-octobre-les-partis-politiques-recus-a-matignon-dans-la-journee-le-renseignement-convoque-a-l-elysee-pour-un-conseil-de-securite_8248414.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 22 Oct 2026 12:46:40 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Manifestations contre la vie chère, mouvement lycéen, actions violentes… Quelle est la situation dans les départements d'outre-mer, en pleine colère sociale ?",
+        "resume": "En parallèle des mobilisation dans l'Hexagone, de nombreux rassemblements sont aussi organisés dans les territoires ultramarins.",
+        "lien": "https://www.franceinfo.fr/france/outremer/manifestations-contre-la-vie-chere-mouvement-lyceen-actions-violentes-quelle-est-la-situation-dans-les-departements-d-outre-mer-en-pleine-colere-sociale_8247013.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 22 Oct 2026 06:04:15 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Un départ au Royaume-Uni, deux contre-la-montre, la butte Montmartre en nouvelle tradition... Découvrez le parcours du Tour de France 2027",
+        "resume": "Du départ de la capitale écossaise, Edimbourg, à l'arrivée sur les Champs-Elysées à Paris, le parcours de la 114e édition a été présenté, jeudi.",
+        "lien": "https://www.franceinfo.fr/tour-de-france/un-depart-au-royaume-uni-deux-contre-la-montre-la-butte-montmartre-en-nouvelle-tradition-decouvrez-le-parcours-du-tour-de-france-2027_8243977.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 22 Oct 2026 12:15:44 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Le prix Sakharov 2026 du Parlement européen est attribué à la Cour pénale internationale",
+        "resume": "La CPI est régulièrement attaquée par Donald Trump. Les Etats-Unis lui ont même imposé des sanctions début octobre.",
+        "lien": "https://www.franceinfo.fr/monde/europe/union-europeenne/le-prix-sakharov-2026-du-parlement-europeen-est-attribue-a-la-cour-penale-internationale_8248783.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 22 Oct 2026 12:19:25 +0200"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Les nouvelles frappes sur l'Ukraine sont la preuve que Moscou n'a pas \"changé d'attitude\", dénonce Volodymyr Zelensky au lendemain des discussions russo-américaines",
+        "resume": "Les frappes, qui ont fait plusieurs morts en Ukraine, ont eu lieu quelques heures après la rencontre entre l'émissaire américain Steve Witkoff et le président russe, Vladimir Poutine.",
+        "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-nouvelles-frappes-sur-l-ukraine-sont-la-preuve-que-moscou-n-a-pas-change-d-attitude-denonce-volodymyr-zelensky-au-lendemain-des-discussions-russo-americaines_8248591.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 22 Oct 2026 11:20:58 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Le virus Shamonda détecté pour la première fois chez un être humain en France",
+        "resume": "Les autorités françaises ont annoncé jeudi avoir détecté un virus de type Shamonda chez un patient immunodéprimé mort au début du mois d'octobre. C'est le premier cas humain documenté de ce virus diff",
+        "lien": "https://www.france24.com/fr/france/20261022-virus-shamonda-d%C3%A9tect%C3%A9-premi%C3%A8re-fois-%C3%AAtre-humain-france",
+        "date": "Thu, 22 Oct 2026 11:02:47 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "REPLAY - Emmanuel Macron dénonce les violences du 17 octobre et annonce des mesures",
+        "resume": "Lors d’une allocution à l’Élysée, le président de la République est revenu sur les débordements du 17 octobre, dénonçant l’action de groupes organisés d’ultragauche qui chercheraient à \"faire tomber l",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261022-replay-emmanuel-macron-d%C3%A9nonce-les-violences-du-17-octobre-et-annonce-des-mesures",
+        "date": "Thu, 22 Oct 2026 10:53:00 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "🔴 En direct : seules les manifestations organisées par les syndicats seront autorisées samedi, annonce Emmanuel Macron",
+        "resume": "",
+        "lien": "https://www.france24.com/fr/france/20261022-france-manifestations-interdites-partis-re%C3%A7us-matignon-sebastien-lecornu-paris-lyon-emmanuel-macron-renseignement-violences",
+        "date": "Thu, 22 Oct 2026 10:45:37 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Hope",
+        "date_sortie": "2026-10-28",
+        "synopsis": "Alors que les secours sont mobilisés ailleurs et que toute communication est interrompue, les habitants de Hope doivent faire face seuls à une menace grandissante. Tandis que certains tentent de protéger le village, d’au",
+        "note": 6.868,
+        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
+      },
+      {
+        "titre": "Street Fighter",
+        "date_sortie": "2026-10-13",
+        "synopsis": "En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affrontement brutal où se mê",
+        "note": 6.252,
+        "affiche": "https://image.tmdb.org/t/p/w300/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"
+      },
+      {
+        "titre": "Englouti",
+        "date_sortie": "2026-10-14",
+        "synopsis": "Un plongeur sous-marin est à la recherche des restes de son père décédé, qui s'est fait avaler par un cachalot. Il ne lui reste plus qu'une heure avant que l'oxygène ne vienne à lui manquer.",
+        "note": 6.5,
+        "affiche": "https://image.tmdb.org/t/p/w300/qLt9F35AdGKDXPSJtqH5DERoigI.jpg"
+      },
+      {
+        "titre": "The Social Reckoning",
+        "date_sortie": "2026-10-07",
+        "synopsis": "L'histoire s'inspire de \"The Facebook Files\" du Wall Street Journal, une série d'articles publiés en octobre 2021 par Jeff Horowitz, qui ont révélé les rouages internes ainsi que les nombreux dommages causés par le plus ",
+        "note": 6.976,
+        "affiche": "https://image.tmdb.org/t/p/w300/tF1P9HZEBJQ8w1KyBlS3zMS2Ogp.jpg"
+      },
+      {
+        "titre": "Malfaisante",
+        "date_sortie": "2026-10-14",
+        "synopsis": "Une famille est la cible d'une entité qu'elle appelle « l'autre maman ».",
+        "note": 5.9,
+        "affiche": "https://image.tmdb.org/t/p/w300/wAofwsldMDNAIzGSEfMJMoUn1KB.jpg"
+      },
+      {
+        "titre": "Digger",
+        "date_sortie": "2026-09-28",
+        "synopsis": "L’homme le plus puissant du monde se lance dans une mission frénétique pour prouver qu’il est le sauveur de l’humanité avant que le désastre qu’il a déclenché ne détruise tout.",
+        "note": 7.476,
+        "affiche": "https://image.tmdb.org/t/p/w300/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Complete Orchestral Works, Vol. 3",
+        "artiste": "Maurice Ravel",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "WEBINAIRE - Cibler, prospecter et transformer ses prospects : optimiser votre prospection et votre ciblage avec l'aide de l'IA",
+        "date_debut": "2026-10-23T07:00:00+00:00",
+        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Visite commentée Derrière la porte du 106",
+        "date_debut": "2026-10-23T08:00:00+00:00",
+        "lieu": "Archives départementales de Maine-et-Loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Les aventures du Prince Ahmed",
+        "date_debut": "2026-10-23T13:00:00+00:00",
+        "lieu": "Centre de Congrès d'Angers",
+        "ville": "Angers"
+      },
+      {
+        "titre": "39e Festival International du Voyage à Vélo",
+        "date_debut": "2026-10-24T08:00:00+00:00",
+        "lieu": "Centre des congrès",
+        "ville": "Angers"
+      },
+      {
+        "titre": "ZAMDANE - ANGERS",
+        "date_debut": "2026-10-24T18:30:00+00:00",
+        "lieu": "Le Chabada",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Marcelle",
+        "date_debut": "2026-10-22",
+        "lieu": "Théâtre de Poche Graslin",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le livre d’artiste concours et exposition – Musée de l'imprimerie",
+        "date_debut": "2026-10-22",
+        "lieu": "Musée-atelier de l'imprimerie de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Animation Expression(s) décoloniale(s) – Créer c'est résister",
+        "date_debut": "2026-10-22",
+        "lieu": "Château des ducs de bretagne - musée d'histoire de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Animation enfants – Château des ducs de Bretagne",
+        "date_debut": "2026-10-22",
+        "lieu": "Château des ducs de bretagne - musée d'histoire de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Cyanotype (+ 6 ans)",
+        "date_debut": "2026-10-22",
+        "lieu": "Musée d'arts de Nantes",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-10-21",
     "news": [
       {
@@ -2530,205 +2729,6 @@
         "titre": "Décryptages - Enfance(s), grandir quelque part - EXPOSITION",
         "date_debut": "2026-10-09",
         "lieu": "Cosmopolis",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-08",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Mobilisation des lycéens : le gouvernement promet un \"plan d'urgence\" imminent pour remplacer les enseignants absents",
-        "resume": "Le ministre de l'Education Edouard Geffray a fait part de ce plan d'urgence lors d'un déplacement dans un lycée de Reims.",
-        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-lyceens-et-les-etudiants-de-nouveau-appeles-a-manifester-partout-en-france-jeudi_8227783.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 08 Oct 2026 12:46:38 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Cinq questions sur les stocks stratégiques de pétrole, dans lesquels le gouvernement va puiser pour tenter de faire baisser le prix du gazole",
-        "resume": "Le Premier ministre, Sébastien Lecornu, a annoncé mercredi la libération de 10 millions de barils de diesel provenant des réserves stratégiques françaises.",
-        "lien": "https://www.franceinfo.fr/economie/automobile/essence/cinq-questions-sur-les-stocks-strategiques-de-petrole-dans-lesquels-le-gouvernement-puise-pour-tenter-de-faire-baisser-le-prix-du-gazole_8227879.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 08 Oct 2026 13:32:44 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Il montre qu'il connaît les codes\" : des tweets du jeune Jordan Bardella font ressurgir \"l'ambiance soralienne\" de ses débuts en politique",
-        "resume": "Franceinfo a retrouvé plusieurs messages publiés sur le compte Twitter de Jordan Bardella qui reprennent des références issues de la sphère de l’idéologue d'extrême droite Alain Soral. Les écrits de l",
-        "lien": "https://www.franceinfo.fr/politique/jordan-bardella/il-montre-qu-il-connait-les-codes-des-tweets-du-jeune-jordan-bardella-font-ressurgir-l-ambiance-soralienne-de-ses-debuts-en-politique_8226601.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 08 Oct 2026 12:32:39 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Au moins 30 morts dans une frappe russe sur deux bus à Kramatorsk, dans l'est de l'Ukraine, Volodymyr Zelensky promet \"une réponse ferme\"",
-        "resume": "\"Les Russes ont une fois de plus frappé (...) des gens qui vaquaient simplement à leurs occupations\", a réagi le chef de l'administration militaire de la ville de Kramatorsk.",
-        "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-12-morts-dans-une-frappe-russe-sur-un-bus-a-kramatorsk-dans-l-est-de-l-ukraine_8228089.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 08 Oct 2026 14:15:25 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Le prix Nobel de littérature 2026 est attribué à l'autrice canadienne Anne Carson",
-        "resume": "L'écrivaine succède à l'auteur hongrois Laszlo Krasznahorkai et devient la 19e femme à décrocher la prestigieuse récompense.",
-        "lien": "https://www.franceinfo.fr/monde/prix-nobel/le-prix-nobel-de-litterature-2026-est-attribue-a-l-autrice-canadienne-anne-carson_8228320.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 08 Oct 2026 13:54:32 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Mobilisation étudiante : \"nous voulons des mesures concrètes\" sans récupération politique",
-        "resume": "Romane Groisard, représentante du syndicat étudiant UPEC en Commun et étudiante à Créteil, est l’invitée de France 24 pour cet acte IV de la mobilisation étudiante. Les étudiants ont rejoint les lycée",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261008-mobilisation-%C3%A9tudiante-nous-voulons-des-mesures-concr%C3%A8tes-sans-r%C3%A9cup%C3%A9ration-politique",
-        "date": "Thu, 08 Oct 2026 12:47:31 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Mobilisation lycéenne : le gouvernement peine à convaincre",
-        "resume": "Deux jours après une forte mobilisation, lycéens et étudiants français sont de nouveau dans la rue pour cet acte IV, réclamant davantage de moyens et des mesures concrètes. Malgré les signes d’apaisem",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261008-mobilisation-lyc%C3%A9enne-le-gouvernement-peine-%C3%A0-convaincre",
-        "date": "Thu, 08 Oct 2026 12:46:08 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "En direct : suivez le retour sur Terre de l'astronaute Sophie Adenot",
-        "resume": "Après huit mois dans l'espace, l'astronaute française Sophie Adenot a quitté, mercredi, la Station spatiale internationale (ISS) en direction de la Terre, qu'elle rejoint aujourd'hui. Le voyage retour",
-        "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261008-en-direct-retour-sur-terre-sophie-adenot-nasa",
-        "date": "Thu, 08 Oct 2026 12:30:16 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Resident Evil",
-        "date_sortie": "2026-09-16",
-        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
-        "note": 7.317,
-        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
-      },
-      {
-        "titre": "Digger",
-        "date_sortie": "2026-09-28",
-        "synopsis": "L’homme le plus puissant du monde se lance dans une mission frénétique pour prouver qu’il est le sauveur de l’humanité avant que le désastre qu’il a déclenché ne détruise tout.",
-        "note": 7.5,
-        "affiche": "https://image.tmdb.org/t/p/w300/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg"
-      },
-      {
-        "titre": "Verity",
-        "date_sortie": "2026-09-30",
-        "synopsis": "Lorsqu’un accident affecte les capacités de l’autrice de bestsellers, Verity Crawford, à achever son œuvre, une écrivaine solitaire, Lowen Ashleigh, qui peine à joindre les deux bouts est engagée pour lui prêter sa plume",
-        "note": 6.436,
-        "affiche": "https://image.tmdb.org/t/p/w300/zLCjFOyjvKqYdkQYYAyTtfJ5mpk.jpg"
-      },
-      {
-        "titre": "Heart of the Beast",
-        "date_sortie": "2026-09-23",
-        "synopsis": "Après un terrible crash d’avion, James Belmont (Brad Pitt), ancien des forces spéciales, se retrouve perdu au cœur de l’Alaska avec son chien Odin, depuis toujours à ses côtés. Livrés à eux-mêmes dans une nature aussi ma",
-        "note": 7.448,
-        "affiche": "https://image.tmdb.org/t/p/w300/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg"
-      },
-      {
-        "titre": "Avengers : Endgame",
-        "date_sortie": "2019-04-24",
-        "synopsis": "Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de doigts qui a pulvéri",
-        "note": 8.2,
-        "affiche": "https://image.tmdb.org/t/p/w300/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg"
-      },
-      {
-        "titre": "Malfaisante",
-        "date_sortie": "2026-10-14",
-        "synopsis": "Une famille est la cible d'une entité qu'elle appelle « l'autre maman ».",
-        "note": 9.1,
-        "affiche": "https://image.tmdb.org/t/p/w300/wAofwsldMDNAIzGSEfMJMoUn1KB.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Living Free (Live Manchester '75)",
-        "artiste": "Don McLean",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Through Lines",
-        "artiste": "Skye Peterson",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Broken Dreams",
-        "artiste": "Siska",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "ЖЗЛ",
-        "artiste": "Lacerate",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "atelier senior 360",
-        "date_debut": "2026-10-08T07:00:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Découverte du BTP: Venez découvrir et vous testez",
-        "date_debut": "2026-10-08T07:00:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Big Bang de l'Emploi : CHARAL Cholet (Groupe BIGARD)",
-        "date_debut": "2026-10-08T07:30:00+00:00",
-        "lieu": "Angers - Agence CHOLET",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Big Bang de l'Orientation et de l'Emploi 2026 : EFEA présent à Angers",
-        "date_debut": "2026-10-08T07:30:00+00:00",
-        "lieu": "Place François Mitterrand, Angers (49)",
-        "ville": "Angers"
-      },
-      {
-        "titre": "BIG BANG ORIENTATION & EMPLOI - ANGERS",
-        "date_debut": "2026-10-08T07:30:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Décryptages - Enfance(s), grandir quelque part - EXPOSITION",
-        "date_debut": "2026-10-08",
-        "lieu": "Cosmopolis",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le livre d’artiste concours et exposition – Musée de l'imprimerie",
-        "date_debut": "2026-10-08",
-        "lieu": "Musée-atelier de l'imprimerie de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "La place du spectateur",
-        "date_debut": "2026-10-08",
-        "lieu": "Musée d'arts de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Octobre rose dans la métropole nantaise",
-        "date_debut": "2026-10-08",
-        "lieu": "Nantes et communes de la métropole",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Exposition Biomes bicéphales",
-        "date_debut": "2026-10-08",
-        "lieu": "Atelier Alain Le Bras",
         "ville": "Nantes"
       }
     ]
