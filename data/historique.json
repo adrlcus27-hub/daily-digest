@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-10-25",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "La garde à vue du suspect de l'attentat raciste à Trappes \"suspendue\" le temps \"d'une période d'observation psychiatrique susceptible de durer 48 heures\", annonce le parquet antiterroriste",
+        "resume": "Le Pnat précise par ailleurs que l'analyse toxicologique \"a permis de révéler la présence de cannabis et de cocaïne dans son sang\". Les gardes à vue des membres de l'entourage familial et amical de Ké",
+        "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/la-garde-a-vue-du-suspect-de-l-attentat-raciste-a-trappes-suspendue-le-temps-d-une-periode-d-observation-psychiatrique-susceptible-de-durer-48-heures-annonce-le-parquet-antiterroriste_8252896.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 25 Oct 2026 11:42:56 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Une mobilisation importante mais en légère baisse, plusieurs blessés graves, près de 1 300 interpellations… Ce qu'il faut retenir de ce samedi de manifestation",
+        "resume": "Une semaine après des manifestations émaillées de violences, plusieurs centaines de milliers de personnes ont de nouveau manifesté sur le territoire. \"Les cortèges se sont bien déroulés\", a assuré le ",
+        "lien": "https://www.franceinfo.fr/societe/manifestations/mobilisation-en-baisse-pres-de-1-000-interpellations-deux-blesses-graves-ce-qu-il-faut-retenir-de-cette-nouvelle-journee-de-manifestation-contre-la-vie-chere-partout-en-france_8252476.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 25 Oct 2026 11:28:07 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Comment Marine Le Pen, plus optimiste que jamais pour 2027, veut prendre de la hauteur et installer sa \"force tranquille\"",
+        "resume": "Avec son discours dimanche à Orléans, la candidate du RN entend insuffler de l'optimisme dans un monde chaotique. Et installer encore un peu plus dans l'opinion son statut de favorite du scrutin prési",
+        "lien": "https://www.franceinfo.fr/politique/marine-le-pen/comment-marine-le-pen-plus-optimiste-que-jamais-pour-2027-veut-prendre-de-la-hauteur-et-installer-sa-force-tranquille_8252809.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 25 Oct 2026 08:28:30 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Qui est Flavio Bolsonaro, le candidat d'extrême droite qui peut remporter l'élection présidentielle au Brésil ?",
+        "resume": "Le fils aîné de l'ancien chef de l'Etat Jair Bolsonaro a créé la surprise il y a trois semaines en recueillant 47% des suffrages au premier tour, devant le président de gauche sortant, Lula.",
+        "lien": "https://www.franceinfo.fr/monde/bresil/qui-est-flavio-bolsonaro-le-candidat-d-extreme-droite-qui-peut-remporter-l-election-presidentielle-au-bresil_8223358.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 25 Oct 2026 07:03:18 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Ni pardon, ni excuses\" : avant des élections cruciales pour Benyamin Nétanyahou, un documentaire donne la parole aux Israéliens qui le tiennent en partie responsable du 7-Octobre",
+        "resume": "Avant les législatives organisées mardi, un documentaire ausculte les fractures au sein de la société israélienne, accentuées par les attaques meurtrières du Hamas le 7 octobre 2023, et les révélation",
+        "lien": "https://www.franceinfo.fr/monde/israel/videos-ni-pardon-ni-excuses-avant-des-elections-cruciales-pour-benyamin-netanyahou-un-documentaire-donne-la-parole-aux-israeliens-qui-le-tiennent-en-partie-responsable-du-7-octobre_8219710.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 25 Oct 2026 07:02:17 +0100"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Mobilisation du 24 octobre : plus de 1 300 interpellations, une cinquantaine de policiers blessés",
+        "resume": "Dimanche, le ministère de l’Intérieur a fait état de plus de 1 314 interpellations et de 53 membres des forces de l’ordre blessés, au lendemain de nouvelles manifestations en France. Au moins 410 000 ",
+        "lien": "https://www.france24.com/fr/france/20261025-mobilisation-du-24-octobre-plus-de-1-300-interpellations-une-cinquantaine-de-policiers-bless%C3%A9s",
+        "date": "Sun, 25 Oct 2026 10:33:22 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Attentat dans les Yvelines : le suspect placé en observation psychiatrique",
+        "resume": "La garde à vue de l'homme soupçonné d'avoir tué une personne et blessé cinq autres dans les Yvelines a été levée pour raisons psychiatriques, a annoncé, dimanche, le parquet national antiterroriste. L",
+        "lien": "https://www.france24.com/fr/france/20261025-fusillade-meurtri%C3%A8re-dans-les-yvelines-le-suspect-plac%C3%A9-en-observation-psychiatrique",
+        "date": "Sun, 25 Oct 2026 10:15:19 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Midterms : Trump va-t-il \"tricher à tout va\" ? Neuf scénarios possibles",
+        "resume": "Donnés perdants aux prochaines élections de mi-mandat, les républicains et Donald Trump multiplient les initiatives controversées pour influencer le résultat. Son administration a déjà intenté un reco",
+        "lien": "https://www.france24.com/fr/am%C3%A9riques/20261025-midterms-trump-va-t-il-tricher-%C3%A0-tout-va-neuf-sc%C3%A9narios-possibles",
+        "date": "Sun, 25 Oct 2026 10:03:58 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Hope",
+        "date_sortie": "2026-10-28",
+        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
+        "note": 6.8,
+        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
+      },
+      {
+        "titre": "Clayface",
+        "date_sortie": "2026-10-21",
+        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
+        "note": 7.6,
+        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
+      },
+      {
+        "titre": "Street Fighter",
+        "date_sortie": "2026-10-13",
+        "synopsis": "En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affrontement brutal où se mê",
+        "note": 6.364,
+        "affiche": "https://image.tmdb.org/t/p/w300/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"
+      },
+      {
+        "titre": "Malfaisante",
+        "date_sortie": "2026-10-14",
+        "synopsis": "Une famille est la cible d'une entité qu'elle appelle « l'autre maman ».",
+        "note": 5.86,
+        "affiche": "https://image.tmdb.org/t/p/w300/wAofwsldMDNAIzGSEfMJMoUn1KB.jpg"
+      },
+      {
+        "titre": "Resident Evil",
+        "date_sortie": "2026-09-16",
+        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
+        "note": 7.3,
+        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
+      },
+      {
+        "titre": "Englouti",
+        "date_sortie": "2026-10-14",
+        "synopsis": "Un plongeur sous-marin est à la recherche des restes de son père décédé, qui s'est fait avaler par un cachalot. Il ne lui reste plus qu'une heure avant que l'oxygène ne vienne à lui manquer.",
+        "note": 6.582,
+        "affiche": "https://image.tmdb.org/t/p/w300/qLt9F35AdGKDXPSJtqH5DERoigI.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "Arrasando",
+        "artiste": "Krystal Martínez-Rodríguez",
+        "date_sortie": "2026-10-19"
+      },
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Broken Dreams",
+        "artiste": "Siska",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "ЖЗЛ",
+        "artiste": "Lacerate",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Не ври мне, что всё будет хорошо",
+        "artiste": "Мёртвая Вера",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "RECRUTEMENT QUICK postes Equipier(e)s Polyvalent(e)s de Restauration formé(e)s avec expérience",
+        "date_debut": "2026-10-26T07:30:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "VISIO Mon projet de formation- les étapes, les financements, la rémunération - Pour les demandeurs d'emploi d'ANGERS CAPUCINS:",
+        "date_debut": "2026-10-26T08:30:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Qualité des produits carnés en circuit court : un parcours de connaissance gratuit à découvrir",
+        "date_debut": "2026-10-26T16:30:00+00:00",
+        "lieu": "Chambre d’agriculture Pays de la Loire, Angers (49)",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Retrouvez motivation et confiance grâce au sport !",
+        "date_debut": "2026-10-27T12:45:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Visio Opportunités du moment - Angers Capucins",
+        "date_debut": "2026-10-27T13:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Histoire : nom féminin",
+        "date_debut": "2026-10-25",
+        "lieu": "Fabrique à Impros (La)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "House of Banksy - Une expo non autorisée",
+        "date_debut": "2026-10-25",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition Le Muséum au fil du temps",
+        "date_debut": "2026-10-25",
+        "lieu": "Place de la Monnaie",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le livre d’artiste concours et exposition – Musée de l'imprimerie",
+        "date_debut": "2026-10-25",
+        "lieu": "Musée-atelier de l'imprimerie de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Visite guidée – Nantes et son château",
+        "date_debut": "2026-10-25",
+        "lieu": "Château des Ducs de Bretagne - Musée d'Histoire de Nantes",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-10-24",
     "news": [
       {
@@ -2529,205 +2728,6 @@
       {
         "titre": "Octobre rose dans la métropole nantaise",
         "date_debut": "2026-10-12",
-        "lieu": "Nantes et communes de la métropole",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-11",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Cette lutte va servir à ceux qui viendront après\" : avant l'inauguration de l'A69, les opposants veulent tirer les leçons de leur défaite pour combattre d'autres projets \"écocidaires\"",
-        "resume": "L'autoroute entre Toulouse et Castres, contestée pendant plus de trois ans, doit ouvrir début novembre. Ses opposants se retrouvent dans le Tarn, samedi et dimanche, pour un week-end de mobilisation, ",
-        "lien": "https://www.franceinfo.fr/environnement/crise-climatique/chantier-de-l-autoroute-a69/reportage-cette-lutte-va-servir-a-ceux-qui-viendront-apres-avant-l-inauguration-de-l-a69-les-opposants-veulent-tirer-les-lecons-de-leur-defaite-pour-combattre-d-autres-projets-ecocidaires_8231275.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 11 Oct 2026 12:28:13 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"J'avais l'impression d'être dans un monde inconnu\" : après un cancer, le difficile retour au travail des malades en rémission",
-        "resume": "Le cancer contraint de nombreuses personnes à s'arrêter de travailler pendant plusieurs mois, voire des années. Reprendre une activité après des traitements aux lourdes conséquences physiques et menta",
-        "lien": "https://www.franceinfo.fr/sante/cancer/temoignages-j-avais-l-impression-d-etre-dans-un-monde-inconnu-apres-un-cancer-le-difficile-retour-au-travail-des-malades-en-remission_8224756.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 11 Oct 2026 06:42:51 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Je ne fais plus rien, je vis un nouveau confinement\" : comment la hausse des prix des carburants chamboule le quotidien des automobilistes",
-        "resume": "Du changement de véhicule à la réduction des trajets au strict nécessaire, des Français dépendants de la voiture multiplient les stratégies pour limiter les effets de la crise des carburants sur leurs",
-        "lien": "https://www.franceinfo.fr/economie/automobile/essence/temoignages-je-ne-fais-plus-rien-je-vis-un-nouveau-confinement-comment-la-hausse-des-prix-des-carburants-chamboule-le-quotidien-des-automobilistes_8213087.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 11 Oct 2026 06:43:55 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Le pape Léon XIV annonce qu'il va être opéré d'un nodule au poumon \"dans les prochains jours\"",
-        "resume": "Le souverain pontife, âgé de 71 ans, a annoncé cette prochaine intervention à l'issue d'une prière publique au Vatican. Le nodule a été \"détecté à un stade précoce\", a-t-il rassuré.",
-        "lien": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-pape-leon-xiv-annonce-qu-il-va-etre-opere-d-un-nodule-au-poumon-dans-les-prochains-jours_8232562.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 11 Oct 2026 14:04:08 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Sa dynamique inquiète beaucoup\" : pourquoi Jean-Luc Mélenchon est-il \"très haut très tôt\" dans les sondages pour la présidentielle ?",
-        "resume": "Le candidat de La France insoumise mène, à 75 ans, tambour battant sa quatrième candidature à l'élection présidentielle avec le sentiment que celle-ci pourrait bien être la bonne. Les sondages confirm",
-        "lien": "https://www.franceinfo.fr/politique/melenchon/sa-dynamique-inquiete-beaucoup-pourquoi-jean-luc-melenchon-est-il-tres-haut-tres-tot-dans-les-sondages-pour-la-presidentielle_8230090.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 11 Oct 2026 06:42:16 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Les Houthis renouvellent leurs menaces contre l'Arabie Saoudite",
-        "resume": "Myriam Benraad, politologue spécialiste du Moyen-Orient, est notre invitée.",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261011-les-houthis-renouvellent-leurs-menaces-contre-l-arabie-saoudite",
-        "date": "Sun, 11 Oct 2026 12:00:40 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Modi \"fait honte\" à l'Inde, juge le chef des \"cafards\" après sa libération",
-        "resume": "La justice indienne a ordonné dimanche la remise en liberté des chefs du mouvement des \"cafards\" arrêtés la veille en amont d'une manifestation largement réprimée contre la révision des listes élector",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261011-modi-fait-honte-%C3%A0-l-inde-juge-le-chef-des-cafards-apr%C3%A8s-sa-lib%C3%A9ration",
-        "date": "Sun, 11 Oct 2026 11:54:56 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Inde : les chefs du mouvement des \"cafards\", remis en liberté,",
-        "resume": "Jeanne Hutin est en direct de New Delhi.",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261011-inde-les-chefs-du-mouvement-des-cafards-remis-en-libert%C3%A9",
-        "date": "Sun, 11 Oct 2026 11:51:57 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Resident Evil",
-        "date_sortie": "2026-09-16",
-        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
-        "note": 7.33,
-        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
-      },
-      {
-        "titre": "Digger",
-        "date_sortie": "2026-09-28",
-        "synopsis": "L’homme le plus puissant du monde se lance dans une mission frénétique pour prouver qu’il est le sauveur de l’humanité avant que le désastre qu’il a déclenché ne détruise tout.",
-        "note": 7.509,
-        "affiche": "https://image.tmdb.org/t/p/w300/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg"
-      },
-      {
-        "titre": "Malfaisante",
-        "date_sortie": "2026-10-14",
-        "synopsis": "Une famille est la cible d'une entité qu'elle appelle « l'autre maman ».",
-        "note": 5.861,
-        "affiche": "https://image.tmdb.org/t/p/w300/wAofwsldMDNAIzGSEfMJMoUn1KB.jpg"
-      },
-      {
-        "titre": "Verity",
-        "date_sortie": "2026-09-30",
-        "synopsis": "Lorsqu’un accident affecte les capacités de l’autrice de bestsellers, Verity Crawford, à achever son œuvre, une écrivaine solitaire, Lowen Ashleigh, qui peine à joindre les deux bouts est engagée pour lui prêter sa plume",
-        "note": 6.408,
-        "affiche": "https://image.tmdb.org/t/p/w300/zLCjFOyjvKqYdkQYYAyTtfJ5mpk.jpg"
-      },
-      {
-        "titre": "Heart of the Beast",
-        "date_sortie": "2026-09-23",
-        "synopsis": "Après un terrible crash d’avion, James Belmont (Brad Pitt), ancien des forces spéciales, se retrouve perdu au cœur de l’Alaska avec son chien Odin, depuis toujours à ses côtés. Livrés à eux-mêmes dans une nature aussi ma",
-        "note": 7.409,
-        "affiche": "https://image.tmdb.org/t/p/w300/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg"
-      },
-      {
-        "titre": "Avengers : Endgame",
-        "date_sortie": "2019-04-24",
-        "synopsis": "Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de doigts qui a pulvéri",
-        "note": 8.2,
-        "affiche": "https://image.tmdb.org/t/p/w300/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Complete Orchestral Works, Vol. 3",
-        "artiste": "Maurice Ravel",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "L'Ecossaise",
-        "date_debut": "2026-10-11T15:00:00+00:00",
-        "lieu": "Centre de Congrès d'Angers",
-        "ville": "Angers"
-      },
-      {
-        "titre": "CAP MENUISIER ALUMINIUM-VERRE",
-        "date_debut": "2026-10-12T07:30:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "VISIO Mon projet de formation- les étapes, les financements, la rémunération - Pour les demandeurs d'emploi d'ANGERS CAPUCINS:",
-        "date_debut": "2026-10-12T07:30:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Vous recherchez une alternance? Venez, nous avons les entreprises ! Les métiers du BTP recrutent (peintre, électricien, conducteur d'engins",
-        "date_debut": "2026-10-12T11:45:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Retrouvez motivation et confiance grâce au sport ! Evénement destiné aux demandeurs d'emploi de l'agence d'Angers Europe",
-        "date_debut": "2026-10-12T11:45:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "La Nuit je mens",
-        "date_debut": "2026-10-11",
-        "lieu": "Ecole des Beaux-Arts Nantes St-Nazaire",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Là où subsiste encore ton écho",
-        "date_debut": "2026-10-11",
-        "lieu": "Ecole des Beaux-Arts Nantes St-Nazaire",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "ANNULATION PARTIELLE – Fête de la science 2026",
-        "date_debut": "2026-10-11",
-        "lieu": "Nantes et communes de la métropole",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Expression(s) Décoloniale(s) #4 - Exposition",
-        "date_debut": "2026-10-11",
-        "lieu": "Château des Ducs de Bretagne -   Musée d'Histoire de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Octobre rose dans la métropole nantaise",
-        "date_debut": "2026-10-11",
         "lieu": "Nantes et communes de la métropole",
         "ville": "Nantes"
       }
