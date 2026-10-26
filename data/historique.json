@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-10-26",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Emmanuel Macron à Marseille : le président s'attend à \"une journée à risques\" samedi et annonce que les prochains tracés des manifestations autorisées se eront hors des centres-villes",
+        "resume": "Le chef de l'Etat a aussi reconnu que les effectifs de forces de l'ordre déployés le 17 octobre étaient insuffisants.",
+        "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-emmanuel-macron-a-marseille-le-president-est-arrive-a-la-mairie-degradee-le-17-octobre-accueilli-par-benoit-payan_8254135.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 26 Oct 2026 13:04:15 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Mobilisation des lycéens : Sébastien Lecornu reçoit des influenceurs engagés dans le mouvement pour évoquer les \"attentes des jeunes\"",
+        "resume": "Sébastien Lecornu doit ensuite recevoir les organisations lycéennes puis étudiantes, espérant clore ainsi cinq semaines de crise entamées par des blocages d'établissements.",
+        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-le-gouvernement-recoit-les-organisations-dans-l-apres-midi-et-promet-des-reponses-tres-concretes_8253718.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 26 Oct 2026 11:57:06 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Deux nouveaux traitements contre le cancer du poumon améliorent les chances de survie des patients",
+        "resume": "Les chercheurs ont fait part de leur avancée au congrès de cancérologie qui se réunit à Madrid jusqu'à mardi. Le cancer des poumons est l'un des plus courants et des plus ravageurs.",
+        "lien": "https://www.franceinfo.fr/sante/cancer/deux-nouveaux-traitements-contre-le-cancer-du-poumon-ameliorent-les-chances-de-survie-des-patients_8254069.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 26 Oct 2026 12:02:56 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "À Londres, les supporters anglais voient déjà Harry Kane remporter le Ballon d'Or malgré la concurrence",
+        "resume": "Qui succédera au tenant du titre? Le suspense reste total pour ce Ballon d'Or 26. En Angleterre, les fans espèrent que leur attaquant vedette qui est le meilleur buteur de la saison remportera le pres",
+        "lien": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/a-londres-les-supporters-anglais-voient-deja-harry-kane-remporter-le-ballon-d-or-malgre-la-concurrence_8253817.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 26 Oct 2026 11:48:19 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Attentat raciste dans les Yvelines : les quatre gardes à vue des proches du principal suspect levées",
+        "resume": "Parmi eux figuraient la mère et le père du principal suspect, Kévin T.",
+        "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-dans-les-yvelines-les-quatre-gardes-a-vue-des-proches-du-principal-suspect-levees_8254009.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 26 Oct 2026 10:46:49 +0100"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "RD Congo : la loi sur les conditions du référendum adoptée",
+        "resume": "🇨🇩 En RDC, l’Assemblée nationale adopte à nouveau la proposition de loi sur les conditions du référendum. L’opposition y voit un risque de révision constitutionnelle ouvrant la voie à un troisième man",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261026-rd-congo-la-loi-sur-les-conditions-du-r%C3%A9f%C3%A9rendum-adopt%C3%A9e",
+        "date": "Mon, 26 Oct 2026 12:03:56 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Élections en Israël : un scrutin en forme de référendum, pour ou contre Netanyahu ?",
+        "resume": "Le Premier ministre israélien Benjamin Netanyahu est à la tête de son pays, quasiment sans interruption, depuis près de 17 ans. Parviendra-t-il à se maintenir au pouvoir à l'issue des élections législ",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/focus/20261026-%C3%A9lections-en-isra%C3%ABl-un-scrutin-en-forme-de-r%C3%A9f%C3%A9rendum-pour-ou-contre-netanyahu",
+        "date": "Mon, 26 Oct 2026 11:55:14 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Bruno Patino invité d'Au cœur de l'info pour son livre \"Le temps de l'obsolescence humaine\"",
+        "resume": "Il est l’un des premiers à nous avoir alertés sur l’emprise des écrans et des réseaux sociaux sur nos vies. Aujourd’hui, Bruno Patino tire une nouvelle sonnette d’alarme dans son nouvel essai, Le Temp",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261026-bruno-patino-invit%C3%A9-d-au-c%C5%93ur-de-l-info-pour-son-livre-le-temps-de-l-obsolescence-humaine",
+        "date": "Mon, 26 Oct 2026 11:02:44 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Hope",
+        "date_sortie": "2026-10-28",
+        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
+        "note": 6.794,
+        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
+      },
+      {
+        "titre": "Clayface",
+        "date_sortie": "2026-10-21",
+        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
+        "note": 7.6,
+        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
+      },
+      {
+        "titre": "Street Fighter",
+        "date_sortie": "2026-10-13",
+        "synopsis": "En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affrontement brutal où se mê",
+        "note": 6.408,
+        "affiche": "https://image.tmdb.org/t/p/w300/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"
+      },
+      {
+        "titre": "Resident Evil",
+        "date_sortie": "2026-09-16",
+        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
+        "note": 7.312,
+        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
+      },
+      {
+        "titre": "Englouti",
+        "date_sortie": "2026-10-14",
+        "synopsis": "Un plongeur sous-marin est à la recherche des restes de son père décédé, qui s'est fait avaler par un cachalot. Il ne lui reste plus qu'une heure avant que l'oxygène ne vienne à lui manquer.",
+        "note": 6.604,
+        "affiche": "https://image.tmdb.org/t/p/w300/qLt9F35AdGKDXPSJtqH5DERoigI.jpg"
+      },
+      {
+        "titre": "Malfaisante",
+        "date_sortie": "2026-10-14",
+        "synopsis": "Une famille est la cible d'une entité qu'elle appelle « l'autre maman ».",
+        "note": 5.833,
+        "affiche": "https://image.tmdb.org/t/p/w300/wAofwsldMDNAIzGSEfMJMoUn1KB.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Complete Orchestral Works, Vol. 3",
+        "artiste": "Maurice Ravel",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "RECRUTEMENT QUICK postes Equipier(e)s Polyvalent(e)s de Restauration formé(e)s avec expérience",
+        "date_debut": "2026-10-26T07:30:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "VISIO Mon projet de formation- les étapes, les financements, la rémunération - Pour les demandeurs d'emploi d'ANGERS CAPUCINS:",
+        "date_debut": "2026-10-26T08:30:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Qualité des produits carnés en circuit court : un parcours de connaissance gratuit à découvrir",
+        "date_debut": "2026-10-26T16:30:00+00:00",
+        "lieu": "Chambre d’agriculture Pays de la Loire, Angers (49)",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Retrouvez motivation et confiance grâce au sport !",
+        "date_debut": "2026-10-27T12:45:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Visio Opportunités du moment - Angers Capucins",
+        "date_debut": "2026-10-27T13:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Stage Théâtre enfants 7-11 ans",
+        "date_debut": "2026-10-26",
+        "lieu": "Pôle associatif Mangin Beaulieu",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Stage Théâtre Ado 12-18 ans",
+        "date_debut": "2026-10-26",
+        "lieu": "Pôle associatif Mangin Beaulieu",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Raconte moi une histoire",
+        "date_debut": "2026-10-26",
+        "lieu": "Manou Partages",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Barbu - Portnawak",
+        "date_debut": "2026-10-26",
+        "lieu": "Théâtre Rue de Belleville",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "The Art of the Brick - Exposition d’art en Lego",
+        "date_debut": "2026-10-26",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-10-25",
     "news": [
       {
@@ -2530,205 +2729,6 @@
         "titre": "Valorisation d’ouvrages autour de la santé mentale par la Bibliothèque Edre-Batignolles",
         "date_debut": "2026-10-13",
         "lieu": "Maison de quartier Bottière",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-12",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Un suspect de 14 ans, un principal et une professeure blessés... Ce que l'on sait des tirs par arme à feu dans un collège d'Aubagne",
-        "resume": "L'adolescent suspecté d'avoir tiré a été rapidement interpellé. Les ministres de l'Intérieur, Laurent Nuñez, et de l'Education, Edouard Geffray, doivent se rendre sur place lundi après-midi.",
-        "lien": "https://www.franceinfo.fr/faits-divers/un-suspect-de-14-ans-un-principal-et-une-professeure-blesses-ce-que-l-on-sait-des-tirs-par-arme-a-feu-dans-un-college-d-aubagne_8233699.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 12 Oct 2026 16:13:36 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Mobilisation lycéenne : les élèves français travaillent-ils plus que leurs voisins européens ?",
-        "resume": "D'après le résultat de la plateforme de concertation, lancée par le gouvernement à l'adresse des lycéens, près de trois quarts des revendications portent sur les emplois du temps (71%). Les lycéens fr",
-        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-lyceenne-les-eleves-francais-travaillent-ils-plus-que-leurs-voisins-europeens_8233939.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 12 Oct 2026 15:57:20 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Des magasins Système U, Intermarché, E.Leclerc et Monoprix touchés par une cyberattaque contre leurs installations frigorifiques",
-        "resume": "Les perturbations concernent les meubles réfrigérés de l'entreprise danoise Danfoss, qui assure que les appareils visés sont obsolètes. Le Premier ministre, Sébastien Lecornu, a saisi l'Agence nationa",
-        "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-magasins-systeme-u-et-intermarche-touches-par-une-cyberattaque-contre-leurs-installations-frigorifiques_8233720.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 12 Oct 2026 16:26:54 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "L'Ukraine \"répondra\" si la Russie ne respecte pas une trêve énergétique, avertit Volodymyr Zelensky",
-        "resume": "\"Si la Russie veut que nous arrêtions nos frappes de longue portée contre ses raffineries pétrolières et ses exportations de pétrole\", elle \"doit cesser ses frappes contre notre système énergétique\", ",
-        "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-repondra-si-la-russie-ne-respecte-pas-une-treve-energetique-avertit-volodymyr-zelensky_8233879.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 12 Oct 2026 15:59:46 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Arabie saoudite : des images de panique dans l'aéroport de Riyad après des attaques de drones et de missiles",
-        "resume": "Les images de vidéosurveillance de l'attaque de l'aéroport de Riyad, qui a fait 14 morts et plus de 300 blessés, viennent d'être rendues publiques. L'Arabie saoudite, qui fait face à une série de frap",
-        "lien": "https://www.franceinfo.fr/monde/proche-orient/tensions-entre-l-arabie-saoudite-et-l-iran/arabie-saoudite-des-images-de-panique-dans-l-aeroport-de-riyad-apres-des-attaques-de-drones-et-de-missiles_8233930.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 12 Oct 2026 15:06:38 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Comment le plan de plus de 600 milliards d'euros a-t-il relancé l'Europe ?",
-        "resume": "Les États membres de l'Union européenne se sont accordés en 2020 sur un plan de relance post-Covid de 750 milliards d'euros appelé NextGenerationEU. Ce programme, pour lequel la Commission aura finale",
-        "lien": "https://www.france24.com/fr/europe/20261012-comment-le-plan-de-plus-de-600-milliards-d-euros-a-t-il-relanc%C3%A9-l-europe",
-        "date": "Mon, 12 Oct 2026 14:17:12 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Un élève ouvre le feu dans un collège d'Aubagne, le proviseur et une enseignante blessés",
-        "resume": "​Un élève de 14 ans a tiré au fusil de chasse lundi matin dans l'enceinte de son établissement, le collège Joseph-Lakanal d'Aubagne (Bouches-du-Rhône), blessant ​le principal et une enseignante, a con",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261012-un-%C3%A9l%C3%A8ve-ouvre-le-feu-dans-un-coll%C3%A8ge-d-aubagne-le-proviseur-et-une-enseignante-bless%C3%A9s",
-        "date": "Mon, 12 Oct 2026 14:06:37 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Exécution aux États-Unis : l’UE met en garde les plateformes contre une diffusion en direct",
-        "resume": "L’Union européenne a mis en garde, lundi, les plateformes numériques contre toute diffusion en direct de l’exécution de Nidal Hasan, condamné à être fusillé aux États-Unis pour avoir tué 13 personnes ",
-        "lien": "https://www.france24.com/fr/europe/20261012-ex%C3%A9cution-%C3%A9tats-unis-union-europ%C3%A9enne-met-en-garde-plateformes-contre-diffusion-direct-r%C3%A9seaux-sociaux-trump",
-        "date": "Mon, 12 Oct 2026 14:06:04 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Resident Evil",
-        "date_sortie": "2026-09-16",
-        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
-        "note": 7.309,
-        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
-      },
-      {
-        "titre": "Malfaisante",
-        "date_sortie": "2026-10-14",
-        "synopsis": "Une famille est la cible d'une entité qu'elle appelle « l'autre maman ».",
-        "note": 5.797,
-        "affiche": "https://image.tmdb.org/t/p/w300/wAofwsldMDNAIzGSEfMJMoUn1KB.jpg"
-      },
-      {
-        "titre": "Digger",
-        "date_sortie": "2026-09-28",
-        "synopsis": "L’homme le plus puissant du monde se lance dans une mission frénétique pour prouver qu’il est le sauveur de l’humanité avant que le désastre qu’il a déclenché ne détruise tout.",
-        "note": 7.5,
-        "affiche": "https://image.tmdb.org/t/p/w300/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg"
-      },
-      {
-        "titre": "Verity",
-        "date_sortie": "2026-09-30",
-        "synopsis": "Lorsqu’un accident affecte les capacités de l’autrice de bestsellers, Verity Crawford, à achever son œuvre, une écrivaine solitaire, Lowen Ashleigh, qui peine à joindre les deux bouts est engagée pour lui prêter sa plume",
-        "note": 6.433,
-        "affiche": "https://image.tmdb.org/t/p/w300/zLCjFOyjvKqYdkQYYAyTtfJ5mpk.jpg"
-      },
-      {
-        "titre": "Heart of the Beast",
-        "date_sortie": "2026-09-23",
-        "synopsis": "Après un terrible crash d’avion, James Belmont (Brad Pitt), ancien des forces spéciales, se retrouve perdu au cœur de l’Alaska avec son chien Odin, depuis toujours à ses côtés. Livrés à eux-mêmes dans une nature aussi ma",
-        "note": 7.436,
-        "affiche": "https://image.tmdb.org/t/p/w300/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg"
-      },
-      {
-        "titre": "Avengers : Endgame",
-        "date_sortie": "2019-04-24",
-        "synopsis": "Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de doigts qui a pulvéri",
-        "note": 8.2,
-        "affiche": "https://image.tmdb.org/t/p/w300/qXekTarZKRrVfnBwhS6xevt6BGU.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 1",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "CAP MENUISIER ALUMINIUM-VERRE",
-        "date_debut": "2026-10-12T07:30:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "VISIO Mon projet de formation- les étapes, les financements, la rémunération - Pour les demandeurs d'emploi d'ANGERS CAPUCINS:",
-        "date_debut": "2026-10-12T07:30:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Vous recherchez une alternance? Venez, nous avons les entreprises ! Les métiers du BTP recrutent (peintre, électricien, conducteur d'engins",
-        "date_debut": "2026-10-12T11:45:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Retrouvez motivation et confiance grâce au sport ! Evénement destiné aux demandeurs d'emploi de l'agence d'Angers Europe",
-        "date_debut": "2026-10-12T11:45:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Découvrez la formation pour devenir enseignant de la conduite et de la sécurité routière : Information Collective 12 octobre à 14h00",
-        "date_debut": "2026-10-12T12:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Exposition Le Muséum au fil du temps",
-        "date_debut": "2026-10-12",
-        "lieu": "Place de la Monnaie",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le livre d’artiste concours et exposition – Musée de l'imprimerie",
-        "date_debut": "2026-10-12",
-        "lieu": "Musée-atelier de l'imprimerie de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Don du sang — Maison du don, Nantes",
-        "date_debut": "2026-10-12",
-        "lieu": "Maison du don",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Ateliers parents-enfants",
-        "date_debut": "2026-10-12",
-        "lieu": "Les Cabanes des Loulous",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Octobre rose dans la métropole nantaise",
-        "date_debut": "2026-10-12",
-        "lieu": "Nantes et communes de la métropole",
         "ville": "Nantes"
       }
     ]
