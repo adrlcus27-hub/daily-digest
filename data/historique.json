@@ -1,5 +1,173 @@
 [
   {
+    "date": "2026-10-28",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Ce que l'on sait de la collision de trains meurtrière près de Tolède, en Espagne",
+        "resume": "L'accident s'est produit mercredi matin entre Madrid et l'Andalousie. Les causes n'ont pas encore été établies.",
+        "lien": "https://www.franceinfo.fr/monde/espagne/ce-que-l-on-sait-de-la-collision-de-trains-meurtriere-survenue-pres-de-la-ville-espagnole-de-tolede_8257072.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 28 Oct 2026 12:35:54 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Les images aériennes montrent la violence de la collision meurtrière entre deux trains près de Tolède, en Espagne",
+        "resume": "Des images publiées par la garde civile espagnole montrent l'ampleur de l'accident mortel qui s'est produit mercredi matin entre Madrid et l'Andalousie. Les causes n'ont pas encore été établies.",
+        "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/video-les-images-aeriennes-de-la-collision-meurtriere-entre-deux-trains-pres-de-tolede-en-espagne_8257246.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 28 Oct 2026 12:57:01 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Les images de l'accident de trains qui a fait au moins 31 morts et 80 blessés en Espagne",
+        "resume": "Des images aériennes de la Guardia Civil, ainsi que des vidéos amateurs, témoignent de la violence de la collision entre deux trains en Espagne. Le bilan provisoire fait état de plusieurs dizaines de ",
+        "lien": "https://www.franceinfo.fr/monde/espagne/collision-entre-deux-trains-en-espagne-les-images-de-l-accident_8257282.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 28 Oct 2026 12:55:56 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Où s'est produite la collision meurtrière entre deux trains en Espagne ?",
+        "resume": "La collision a eu lieu dans la région de Castille-La Manche, au sud de la ville de Tolède.",
+        "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/carte-ou-s-est-produite-la-collision-meurtriere-entre-deux-trains-en-espagne_8257180.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 28 Oct 2026 12:45:23 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Collision entre deux trains près de Tolède : le gouvernement régional fait état d'un \"minimum de 30 morts\"",
+        "resume": "D'après un porte-parole des services d'urgence espagnols sollicité par l'AFP, la collision a eu lieu \"à 8h54\" entre deux trains, \"l'un de [l'opérateur privé] Yrio et l'autre de [la compagnie nationale",
+        "lien": "https://www.franceinfo.fr/monde/espagne/direct-collision-de-deux-trains-en-espagne-les-autorites-locales-deplorent-au-moins-10-morts_8257045.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 28 Oct 2026 12:03:05 +0100"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Inde : le cyclone Arnab fait trois morts dans le sud-est du pays, avec des rafales à 150 km/h",
+        "resume": "En Inde, le cyclone Arnab, accompagné mercredi 28 octobre de vents violents et de pluies torrentielles, a commencé à faiblir après avoir balayé le littoral du sud-est de l'Inde, où il a fait trois mor",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-inde-le-cyclone-arnab-fait-trois-morts-dans-le-sud-est-du-pays-avec-des-rafales-%C3%A0-150-km-h",
+        "date": "Wed, 28 Oct 2026 11:38:57 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Espagne : plus de 46 morts dans une collision entre deux trains à grande vitesse",
+        "resume": "Au moins 46 personnes sont mortes mercredi 28 octobre dans la collision de deux trains à grande vitesse à environ 150 km au sud de Madrid. Le Premier ministre espagnol Pedro Sánchez s'est dit \"conster",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-espagne-plus-de-46-morts-dans-une-collision-entre-deux-trains-%C3%A0-grande-vitesse",
+        "date": "Wed, 28 Oct 2026 11:34:30 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Chine : la star française Kylian Mbappé s'excuse, Pékin dit prendre ses mots au \"sérieux\"",
+        "resume": "Les excuses de Kylian Mbappé ne suffisent pas mercredi 28 octobre à dissiper les critiques à son encontre sur les réseaux sociaux chinois. Le capitaine de l'équipe de France s'est excusé mardi 27 octo",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-chine-la-star-fran%C3%A7aise-kylian-mbapp%C3%A9-s-excuse-p%C3%A9kin-dit-prendre-ses-mots-au-s%C3%A9rieux",
+        "date": "Wed, 28 Oct 2026 11:31:00 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Hope",
+        "date_sortie": "2026-10-28",
+        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
+        "note": 6.746,
+        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
+      },
+      {
+        "titre": "Clayface",
+        "date_sortie": "2026-10-21",
+        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
+        "note": 7.467,
+        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
+      },
+      {
+        "titre": "Verity",
+        "date_sortie": "2026-09-30",
+        "synopsis": "Lorsqu’un accident affecte les capacités de l’autrice de bestsellers, Verity Crawford, à achever son œuvre, une écrivaine solitaire, Lowen Ashleigh, qui peine à joindre les deux bouts est engagée pour lui prêter sa plume",
+        "note": 6.378,
+        "affiche": "https://image.tmdb.org/t/p/w300/zLCjFOyjvKqYdkQYYAyTtfJ5mpk.jpg"
+      },
+      {
+        "titre": "Street Fighter",
+        "date_sortie": "2026-10-13",
+        "synopsis": "En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affrontement brutal où se mê",
+        "note": 6.4,
+        "affiche": "https://image.tmdb.org/t/p/w300/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"
+      },
+      {
+        "titre": "L'île des souvenirs",
+        "date_sortie": "2026-10-21",
+        "synopsis": "Pendant qu'elles passent une dernière soirée ensemble avant de s'engager sur des voies différentes, Jo et Raissa, amies depuis toujours, trouvent un portail mystérieux qui les transporte sur Nakali, une île mythique peup",
+        "note": 7.554,
+        "affiche": "https://image.tmdb.org/t/p/w300/1E7aTchsDC8Uos1uBpZG6LDdWRn.jpg"
+      },
+      {
+        "titre": "Obsession",
+        "date_sortie": "2026-05-13",
+        "synopsis": "Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lui… jusqu’à l’obsessi",
+        "note": 8.2,
+        "affiche": "https://image.tmdb.org/t/p/w300/mDCR1frpUvGfIKksuM440VLb7X9.jpg"
+      }
+    ],
+    "albums": [],
+    "evenements": [
+      {
+        "titre": "7 jours pour oser : découvrez Flashcoop, le dispositif qui redonne confiance aux chercheurs d'emploi des Hauts de Saint Aubin",
+        "date_debut": "2026-10-28T08:30:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Débuter une recherche aux Archives départementales (niveau débutant)",
+        "date_debut": "2026-10-30T13:00:00+00:00",
+        "lieu": "Archives départementales de Maine-et-Loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Apéro célibataires — Angers",
+        "date_debut": "2026-10-30T18:00:00+00:00",
+        "lieu": "Centre-ville de Angers",
+        "ville": "Angers"
+      },
+      {
+        "titre": "SHAFRO @ANGERS #11 HALLOWEEN : NO COSTUME = NO PARTY",
+        "date_debut": "2026-10-31T20:00:00+00:00",
+        "lieu": "Buddy's Bar",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Information Collective : Conducteur Transport de marchandises",
+        "date_debut": "2026-11-02T08:20:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Programme de sensibilisation aux discriminations · Magma'Nantes #10",
+        "date_debut": "2026-10-28",
+        "lieu": "Open Lande",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Visite guidée - Expression(s) décoloniale(s) #4",
+        "date_debut": "2026-10-28",
+        "lieu": "Château des Ducs de Bretagne -   Musée d'Histoire de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Là où subsiste encore ton écho",
+        "date_debut": "2026-10-28",
+        "lieu": "Ecole des Beaux-Arts Nantes St-Nazaire",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "The Art of the Brick - Exposition d’art en Lego",
+        "date_debut": "2026-10-28",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "LA GUERRE DES EMEUS",
+        "date_debut": "2026-10-28",
+        "lieu": "Théâtre 100 Noms",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-10-27",
     "news": [
       {
@@ -2530,205 +2698,6 @@
         "titre": "La Nuit je mens",
         "date_debut": "2026-10-15",
         "lieu": "Ecole des Beaux-Arts Nantes St-Nazaire",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Des faits de nature criminelle\" : l'avocat du lycéen à la main arrachée à Lens a déposé plainte pour \"violences volontaires ayant entraîné une infirmité permanente\"",
-        "resume": "Evan, 15 ans, a été longuement entendu mardi par l'Inspection générale de la police nationale (IGPN), en charge de l'enquête, depuis le CHR de Lille où il est toujours hospitalisé, a précisé Bertrand ",
-        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/des-faits-de-nature-criminelle-l-avocat-du-lyceen-a-la-main-arrachee-a-lens-a-depose-plainte-pour-violences-volontaires-ayant-entraine-une-infirmite-permanente_8236930.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 14 Oct 2026 12:34:03 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Une attaque de drones ukrainiens a ciblé un centre de données de la banque publique russe Sberbank",
-        "resume": "\"Tous les systèmes et services de Sberbank fonctionnement normalement, sans aucune défaillance\", a assuré la banque.",
-        "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-attaque-de-drones-ukrainiens-a-cible-un-centre-de-donnees-de-la-banque-publique-russe-sberbank_8237014.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 14 Oct 2026 11:52:07 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "L'adolescent arrêté après des tirs dans un collège à Aubagne reconnaît les faits mais conteste \"avoir voulu tuer\"",
-        "resume": "Aucune \"pathologie psychologique\" n'a été \"décelée\" chez cet adolescent, a par ailleurs précisé le Parquet national antiterroriste.",
-        "lien": "https://www.franceinfo.fr/faits-divers/l-adolescent-arrete-apres-des-tirs-dans-un-college-a-aubagne-reconnait-les-faits-mais-conteste-avoir-voulu-tuer_8237104.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 14 Oct 2026 13:05:59 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Les industriels sont tout-puissants ici\" : comment l'ammoniac et les particules fines polluent l'air et la vie des habitants de Saint-Malo",
-        "resume": "Face à l'ampleur de la situation et aux dangers pour la santé, la Cité corsaire va être placée sous surveillance renforcée à partir du 1er janvier, avec la création d'une zone à risques.",
-        "lien": "https://www.franceinfo.fr/environnement/pollution/pollution-de-l-air/enquete-franceinfo-les-industriels-sont-tout-puissants-ici-comment-l-ammoniac-et-les-particules-fines-polluent-l-air-et-la-vie-des-habitants-de-saint-malo_8226484.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 14 Oct 2026 12:34:12 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"On a longtemps laissé ça aux Américains\" : de \"Monte-Cristo\" aux \"Misérables\", comment la France s'est remise à produire des blockbusters",
-        "resume": "Depuis cinq ans, les films français à grand spectacle et à gros budget se multiplient dans les salles. La conséquence d'un alignement de planètes, après des décennies de tâtonnements et de tentatives ",
-        "lien": "https://www.franceinfo.fr/culture/cinema/on-a-longtemps-laisse-ca-aux-americains-de-monte-cristo-aux-miserables-comment-la-france-s-est-remise-a-produire-des-blockbusters_8225122.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 14 Oct 2026 05:44:23 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "OTAN: l'autre voix de l'Amérique",
-        "resume": "Le commandant suprême des forces de l'OTAN, le général américain Alexus Grynkewich, prend le contre-pied de Donald Trump en mettant explicitement en garde tout pas tenté d'attaquer les pays membres de",
-        "lien": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20261014-otan-l-autre-voix-de-l-am%C3%A9rique",
-        "date": "Wed, 14 Oct 2026 10:53:52 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "ICE : coup de froid sur la démocratie ? Parlons-en avec Marine Pradel et Guillaume Naudin",
-        "resume": "À trois semaines des élections de mi-mandat aux États-Unis, coup de projecteur sur ce documentaire choc réalisé par Julie Peyrard, Christophe Astruc et co-écrit par Marine Pradel, notre invitée. Un do",
-        "lien": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20261014-ice-coup-de-froid-sur-la-d%C3%A9mocratie-parlons-en-avec-marine-pradel-et-guillaume-naudin",
-        "date": "Wed, 14 Oct 2026 10:50:28 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Présidentielle 2027 : \"le plus dur commence\" pour Raphaël Glusksmann",
-        "resume": "À l’approche de la présidentielle, Raphaël Glucksmann a remporté la primaire de la gauche face à plusieurs candidats, dont Olivier Faure, premier secrétaire du Parti socialiste. Mais, selon le cherche",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261014-pr%C3%A9sidentielle-2027-le-plus-dur-commence-pour-rapha%C3%ABl-glusksmann",
-        "date": "Wed, 14 Oct 2026 10:09:03 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Resident Evil",
-        "date_sortie": "2026-09-16",
-        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
-        "note": 7.304,
-        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
-      },
-      {
-        "titre": "Malfaisante",
-        "date_sortie": "2026-10-14",
-        "synopsis": "Une famille est la cible d'une entité qu'elle appelle « l'autre maman ».",
-        "note": 6.0,
-        "affiche": "https://image.tmdb.org/t/p/w300/wAofwsldMDNAIzGSEfMJMoUn1KB.jpg"
-      },
-      {
-        "titre": "Les Ensorceleuses 2",
-        "date_sortie": "2026-09-09",
-        "synopsis": "Une famille de sorcières multigénérationnelle, maudite à être sans amour pendant des siècles, tente de briser le sort en affrontant de sombres secrets et en se sacrifiant les uns pour les autres.",
-        "note": 6.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/qU6bErj56ebypPwA7zaiTfKzemA.jpg"
-      },
-      {
-        "titre": "Digger",
-        "date_sortie": "2026-09-28",
-        "synopsis": "L’homme le plus puissant du monde se lance dans une mission frénétique pour prouver qu’il est le sauveur de l’humanité avant que le désastre qu’il a déclenché ne détruise tout.",
-        "note": 7.481,
-        "affiche": "https://image.tmdb.org/t/p/w300/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg"
-      },
-      {
-        "titre": "Avengers : Endgame",
-        "date_sortie": "2019-04-24",
-        "synopsis": "Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de doigts qui a pulvéri",
-        "note": 8.246,
-        "affiche": "https://image.tmdb.org/t/p/w300/qXekTarZKRrVfnBwhS6xevt6BGU.jpg"
-      },
-      {
-        "titre": "Heart of the Beast",
-        "date_sortie": "2026-09-23",
-        "synopsis": "Après un terrible crash d’avion, James Belmont (Brad Pitt), ancien des forces spéciales, se retrouve perdu au cœur de l’Alaska avec son chien Odin, depuis toujours à ses côtés. Livrés à eux-mêmes dans une nature aussi ma",
-        "note": 7.398,
-        "affiche": "https://image.tmdb.org/t/p/w300/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Complete Orchestral Works, Vol. 3",
-        "artiste": "Maurice Ravel",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Les Rencontres du Réseau Local Anjou (49)",
-        "date_debut": "2026-10-14T06:30:00+00:00",
-        "lieu": "Terra Botanica, Angers (49)",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Dessinateur Métreur en Bâtiment : Un Métier d'Avenir dans le Secteur de la Construction",
-        "date_debut": "2026-10-14T06:45:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Atelier en visio : Profil de compétences & Organisation des démarches (ODD)",
-        "date_debut": "2026-10-14T07:30:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Devenez Chargé d'Affaires en Bâtiment",
-        "date_debut": "2026-10-14T08:30:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Heavy RBB Birthday",
-        "date_debut": "2026-10-14T19:00:00+00:00",
-        "lieu": "Le James Joyce",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Exposition « Architecture (s) et grands ensembles »",
-        "date_debut": "2026-10-14",
-        "lieu": "École nationale supérieure d’architecture - ensa",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Octobre rose à Bellevue : 3 jours d'actions, échanges et ateliers",
-        "date_debut": "2026-10-14",
-        "lieu": "Maison de Santé de Bellevue",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Pause-café",
-        "date_debut": "2026-10-14",
-        "lieu": "RIG Malville",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "The Art of the Brick - Exposition d’art en Lego",
-        "date_debut": "2026-10-14",
-        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Programme de sensibilisation aux discriminations · Magma'Nantes #10",
-        "date_debut": "2026-10-14",
-        "lieu": "Open Lande",
         "ville": "Nantes"
       }
     ]
