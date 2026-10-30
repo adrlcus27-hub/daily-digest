@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-10-30",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "La police a-t-elle coopéré avec des militants d'ultradroite à Montpellier lors de la manifestation du samedi 24 octobre ?",
+        "resume": "De nombreuses publications sur les réseaux sociaux accusent les policiers d'avoir protégé et laissé agir ces groupes. Si l'exécutif nie toute accointance entre forces de l'ordre et militants, francein",
+        "lien": "https://www.franceinfo.fr/societe/manifestations/enquete-franceinfo-la-police-a-t-elle-coopere-avec-des-militants-d-ultradroite-a-montpellier-lors-de-la-manifestation-du-samedi-24-octobre_8257252.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 30 Oct 2026 12:45:55 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"On fait croire qu'ici, c'est dangereux\" : après l'attentat de Trappes, des habitants dénoncent un \"acharnement\" contre leur ville",
+        "resume": "Le 23 octobre, un homme de 39 ans a tué un habitant de cette commune des Yvelines qu'il considérait comme \"un repaire d'islamistes\". Des Trappistes pointent du doigt la responsabilité de politiques et",
+        "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/reportage-on-fait-croire-qu-ici-c-est-dangereux-apres-l-attentat-de-trappes-des-habitants-denoncent-un-acharnement-contre-leur-ville_8257315.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 30 Oct 2026 05:50:55 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"La seule chose que je veux, c'est voir mon frère\" : à Tolède, l'attente angoissante pour les familles des victimes de l'accident de trains",
+        "resume": "Après la collision meurtrière entre deux trains mercredi en Espagne, il reste encore des personnes non identifiées. Les familles des victimes oscillent entre peur et espoir.",
+        "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/reportage-la-seule-chose-que-je-veux-c-est-voir-mon-frere-a-tolede-les-familles-des-victimes-de-l-accident-de-trains-dans-l-attente-des-nouvelles-de-leurs-proches_8259989.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 30 Oct 2026 08:19:02 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Marine Le Pen est-elle vraiment inéligible à l'élection présidentielle, comme l'affirme un magistrat honoraire de la Cour de cassation ?",
+        "resume": "Didier Guérin a assuré mardi dans \"Le Monde\" que la candidate du Rassemblement national n’était éligible ni à ce jour ni dans l’hypothèse d’une cassation de l'arrêt de la cour d'appel. Cette interprét",
+        "lien": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/marine-le-pen-est-elle-vraiment-ineligible-a-l-election-presidentielle-comme-l-affirme-un-magistrat-honoraire-de-la-cour-de-cassation_8257378.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 30 Oct 2026 13:03:48 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Vente de préservatifs non conformes : 15 références retirées et rappelées sur le marché européen après une enquête de la DGCCRF",
+        "resume": "Environ sept millions de préservatifs produits par un fabricant malaisien sont concernés par ce rappel en raison de défauts \"susceptibles de causer éclatement et perforation\".",
+        "lien": "https://www.franceinfo.fr/sante/vente-de-preservatifs-non-conformes-15-references-retirees-et-rappelees-sur-le-marche-europeen-apres-une-enquete-de-la-dgccrf_8260220.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 30 Oct 2026 12:59:50 +0100"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Cameroun : Nouvelles révélations dans le procès de l'assassinat de Martinez Zogo",
+        "resume": "🇨🇲 Cameroun, l’affaire Martinez Zogo connaît un tournant majeur après plus de deux ans de procédure judiciaire, avec la déposition du 36ᵉ témoin, un officier supérieur écarté de l’enquête préliminaire",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261030-cameroun-nouvelles-r%C3%A9v%C3%A9lations-dans-le-proc%C3%A8s-de-l-assassinat-de-martinez-zogo",
+        "date": "Fri, 30 Oct 2026 11:41:19 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "En Géorgie, le rêve européen en sursis",
+        "resume": "Fin 2024, des dizaines de milliers de Géorgiens pro-européens manifestaient contre la loi sur les agents étrangers et les résultats contestés des élections législatives, remportées par le parti au pou",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/billet-retour/20261030-georgie-reve-europe-union-europeenne-sursis-reportage",
+        "date": "Fri, 30 Oct 2026 11:34:32 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Collision tragique en Espagne : tristesse et indignation dans tout le pays",
+        "resume": "La colère gagne l'Espagne, sous le choc vendredi au deuxième jour d'un deuil national de 72 heures après la collision dévastatrice entre deux trains qui a fait 69 morts la veille. À un mois des électi",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261030-collision-tragique-en-espagne-tristesse-et-indignation-dans-tout-le-pays",
+        "date": "Fri, 30 Oct 2026 10:55:15 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Hope",
+        "date_sortie": "2026-10-28",
+        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
+        "note": 6.8,
+        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
+      },
+      {
+        "titre": "Clayface",
+        "date_sortie": "2026-10-21",
+        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
+        "note": 7.469,
+        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
+      },
+      {
+        "titre": "Verity",
+        "date_sortie": "2026-09-30",
+        "synopsis": "Lorsqu’un accident affecte les capacités de l’autrice de bestsellers, Verity Crawford, à achever son œuvre, une écrivaine solitaire, Lowen Ashleigh, qui peine à joindre les deux bouts est engagée pour lui prêter sa plume",
+        "note": 6.462,
+        "affiche": "https://image.tmdb.org/t/p/w300/1ob7dZ1rvAgHOpVJGjJ2voibOp.jpg"
+      },
+      {
+        "titre": "L'île des souvenirs",
+        "date_sortie": "2026-10-21",
+        "synopsis": "Pendant qu'elles passent une dernière soirée ensemble avant de s'engager sur des voies différentes, Jo et Raissa, amies depuis toujours, trouvent un portail mystérieux qui les transporte sur Nakali, une île mythique peup",
+        "note": 7.6,
+        "affiche": "https://image.tmdb.org/t/p/w300/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg"
+      },
+      {
+        "titre": "Street Fighter",
+        "date_sortie": "2026-10-13",
+        "synopsis": "En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affrontement brutal où se mê",
+        "note": 6.349,
+        "affiche": "https://image.tmdb.org/t/p/w300/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"
+      },
+      {
+        "titre": "Obsession",
+        "date_sortie": "2026-05-13",
+        "synopsis": "Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lui… jusqu’à l’obsessi",
+        "note": 8.2,
+        "affiche": "https://image.tmdb.org/t/p/w300/mDCR1frpUvGfIKksuM440VLb7X9.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Through Lines",
+        "artiste": "Skye Peterson",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Débuter une recherche aux Archives départementales (niveau débutant)",
+        "date_debut": "2026-10-30T13:00:00+00:00",
+        "lieu": "Archives départementales de Maine-et-Loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Apéro célibataires — Angers",
+        "date_debut": "2026-10-30T18:00:00+00:00",
+        "lieu": "Centre-ville de Angers",
+        "ville": "Angers"
+      },
+      {
+        "titre": "SHAFRO @ANGERS #11 HALLOWEEN : NO COSTUME = NO PARTY",
+        "date_debut": "2026-10-31T20:00:00+00:00",
+        "lieu": "Buddy's Bar",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Information Collective : Conducteur Transport de marchandises",
+        "date_debut": "2026-11-02T08:20:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Vendeur en produits du territoire Angevin pour le Marché de Noël d'Angers",
+        "date_debut": "2026-11-02T13:30:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "House of Banksy - Une expo non autorisée",
+        "date_debut": "2026-10-30",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition Le Muséum au fil du temps",
+        "date_debut": "2026-10-30",
+        "lieu": "Place de la Monnaie",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Dracula, la parodie hilarante et terrifiante !",
+        "date_debut": "2026-10-30",
+        "lieu": "Théâtre Rue de Belleville",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition « 200 photographies pour 200 ans d'histoire »",
+        "date_debut": "2026-10-30",
+        "lieu": "Archives Départementales de Loire-Atlantique",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition « Architecture (s) et grands ensembles »",
+        "date_debut": "2026-10-30",
+        "lieu": "École nationale supérieure d’architecture - ensa",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-10-29",
     "news": [
       {
@@ -2530,174 +2729,6 @@
         "titre": "Atelier \"Freak fiction\" par Loona Sire à Bonus",
         "date_debut": "2026-10-17",
         "lieu": "Collectif Bonus",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-16",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Mobilisation du 17 octobre : comment les gilets jaunes tentent de structurer le mouvement, relancé par la colère lycéenne",
-        "resume": "Lycéens, agriculteurs, pompiers, soignants et retraités sont appelés à se mobiliser samedi pour dénoncer \"la vie chère\". Un millier d'actions est prévu dans toute la France. Les gilets jaunes sont à p",
-        "lien": "https://www.franceinfo.fr/economie/transports/gilets-jaunes/mobilisation-du-17-octobre-comment-les-gilets-jaunes-tentent-de-structurer-le-mouvement-relance-par-la-colere-lyceenne_8238922.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 16 Oct 2026 09:02:06 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Menottes, \"coups de pied et de matraque\", insultes... Des lycéens et leurs parents dénoncent les conditions des gardes à vue et \"des intimidations\"",
-        "resume": "Depuis le début du mouvement lycéen, 6 800 mineurs ont été placés en garde à vue. Un chiffre inédit en France. En Île-de-France, plusieurs adolescents racontent ce qu'ils ont vécu, entre colère, traum",
-        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/temoignages-menottes-coups-de-pied-et-de-matraque-insultes-des-lyceens-et-leurs-parents-denoncent-des-gardes-a-vue-abusives_8239624.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 16 Oct 2026 08:46:26 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Vous pouvez compter sur nous\" : l'UE réaffirme son soutien à l'Ukraine après les attaques de Donald Trump contre Volodymyr Zelensky",
-        "resume": "Le président ukrainien est en visite à Bruxelles pour un sommet des Vingt-Sept.",
-        "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ce-n-est-pas-le-moment-de-cesser-d-aider-l-ukraine-previent-l-union-europeenne_8239888.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 16 Oct 2026 11:11:55 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Globalement, c'est une grande réussite\" : la Région Occitanie mise sur le salariat des médecins pour lutter contre les déserts médicaux",
-        "resume": "Alors que six millions de Français n'ont pas de médecin traitant, les collectivités locales testent des solutions pour lutter contre les déserts médicaux, comme le salariat de médecins de campagne en ",
-        "lien": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-le-salariat-des-medecins-une-experience-reussie-en-occitanie-pour-contrer-les-deserts-medicaux_8219020.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 16 Oct 2026 07:11:36 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Vous allez hériter du bureau mais aussi d'un budget\" : le ministre Roland Lescure se montre confiant après avoir rencontré plusieurs partis politiques",
-        "resume": "\"Nous nous en sortirons et nous aurons ce budget\", a assuré le ministre de l'Economie et des Finances à Bloomberg.",
-        "lien": "https://www.franceinfo.fr/economie/budget/vous-allez-heriter-du-bureau-mais-aussi-d-un-budget-le-ministre-roland-lescure-se-montre-confiant-apres-avoir-rencontre-plusieurs-partis_8239882.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 16 Oct 2026 11:15:43 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Midterms : \"le début de la fin du trumpisme\" ?",
-        "resume": "À moins de 20 jours des élections de mi-mandat aux États-Unis, Donald Trump multiplie les meetings pour mobiliser son électorat. Le président américain joue-t-il son avenir politique dans ce scrutin ?",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261016-midterms-le-d%C3%A9but-de-la-fin-du-trumpisme",
-        "date": "Fri, 16 Oct 2026 10:22:54 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "France : les lycéens se préparent à la mobilisation du 17 octobre, rejoints par d’autres organismes",
-        "resume": "En France, les représentants des lycéens et des syndicats étudiants ont rencontré jeudi soir le ministre de l’Éducation nationale, mais jugent les échanges décevants. Depuis près d’un mois, ils se mob",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261016-france-les-lyc%C3%A9ens-se-pr%C3%A9parent-%C3%A0-la-mobilisation-du-17-octobre-rejoints-par-d-autres-organismes",
-        "date": "Fri, 16 Oct 2026 10:09:10 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "RD Congo : des perquisitions en Belgique visant l’entourage de Félix Tshisekedi",
-        "resume": "Le parquet fédéral belge a mené plusieurs perquisitions à Bruxelles et dans ses environs, dans des résidences appartenant à des membres de la famille de Félix Tshisekedi, le président de la République",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261016-rd-congo-des-perquisitions-en-belgique-visant-l-entourage-de-f%C3%A9lix-tshisekedi",
-        "date": "Fri, 16 Oct 2026 10:05:40 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Resident Evil",
-        "date_sortie": "2026-09-16",
-        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
-        "note": 7.334,
-        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
-      },
-      {
-        "titre": "Les Ensorceleuses 2",
-        "date_sortie": "2026-09-09",
-        "synopsis": "Une famille de sorcières multigénérationnelle, maudite à être sans amour pendant des siècles, tente de briser le sort en affrontant de sombres secrets et en se sacrifiant les uns pour les autres.",
-        "note": 6.672,
-        "affiche": "https://image.tmdb.org/t/p/w300/qU6bErj56ebypPwA7zaiTfKzemA.jpg"
-      },
-      {
-        "titre": "Malfaisante",
-        "date_sortie": "2026-10-14",
-        "synopsis": "Une famille est la cible d'une entité qu'elle appelle « l'autre maman ».",
-        "note": 5.888,
-        "affiche": "https://image.tmdb.org/t/p/w300/wAofwsldMDNAIzGSEfMJMoUn1KB.jpg"
-      },
-      {
-        "titre": "Digger",
-        "date_sortie": "2026-09-28",
-        "synopsis": "L’homme le plus puissant du monde se lance dans une mission frénétique pour prouver qu’il est le sauveur de l’humanité avant que le désastre qu’il a déclenché ne détruise tout.",
-        "note": 7.503,
-        "affiche": "https://image.tmdb.org/t/p/w300/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg"
-      },
-      {
-        "titre": "Street Fighter",
-        "date_sortie": "2026-10-13",
-        "synopsis": "En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affrontement brutal où se mê",
-        "note": 6.419,
-        "affiche": "https://image.tmdb.org/t/p/w300/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"
-      },
-      {
-        "titre": "Heart of the Beast",
-        "date_sortie": "2026-09-23",
-        "synopsis": "Après un terrible crash d’avion, James Belmont (Brad Pitt), ancien des forces spéciales, se retrouve perdu au cœur de l’Alaska avec son chien Odin, depuis toujours à ses côtés. Livrés à eux-mêmes dans une nature aussi ma",
-        "note": 7.414,
-        "affiche": "https://image.tmdb.org/t/p/w300/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg"
-      }
-    ],
-    "albums": [],
-    "evenements": [
-      {
-        "titre": "Réunion d'informations sur les GEIQ",
-        "date_debut": "2026-10-16T07:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "PARCOURS PÉDAGOGIQUE À LA MATP",
-        "date_debut": "2026-10-16T07:00:00+00:00",
-        "lieu": "MATP",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Atelier découverte des métiers du commerce et de la relation client",
-        "date_debut": "2026-10-16T07:30:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Le numérique au féminin : réinventer les codes !",
-        "date_debut": "2026-10-19T07:30:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Osez le numérique : formations, métiers et opportunités professionnelles !",
-        "date_debut": "2026-10-19T11:45:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Le livre d’artiste concours et exposition – Musée de l'imprimerie",
-        "date_debut": "2026-10-16",
-        "lieu": "Musée-atelier de l'imprimerie de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Don du sang — Maison du don, Nantes",
-        "date_debut": "2026-10-16",
-        "lieu": "Maison du don",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Octobre rose dans la métropole nantaise",
-        "date_debut": "2026-10-16",
-        "lieu": "Nantes et communes de la métropole",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Excipit",
-        "date_debut": "2026-10-16",
-        "lieu": "Portevent",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "The Art of the Brick - Exposition d’art en Lego",
-        "date_debut": "2026-10-16",
-        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
         "ville": "Nantes"
       }
     ]
