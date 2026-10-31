@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-10-31",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Mobilisation du 31 octobre : la CGT appelle les manifestants à rejoindre le seul cortège parisien autorisé",
+        "resume": "Le Conseil d'Etat a annulé la décision du tribunal administratif de Paris qui avait autorisé hier soir un parcours entre Bastille et Nation. Dans la capitale, les manifestants devront donc défiler ent",
+        "lien": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-31-octobre-suivez-cette-troisieme-journee-de-manifestations-pour-laquelle-le-gouvernement-prevoit-un-dispositif-de-securite-exceptionnel_8260562.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 31 Oct 2026 11:00:30 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"La France, c'est nous\" : une semaine après l'attentat à Trappes, des milliers de personnes se rassemblent \"pour faire face au racisme\"",
+        "resume": "Un rassemblement a eu lieu vendredi soir à Trappes (Yvelines) pour rendre hommage à Pengo Bossio Wangi, un homme noir de 26 ans, et aux sept personnes blessées, dont une fillette, par Kevin T., qui s'",
+        "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/la-france-c-est-nous-une-semaine-apres-l-attentat-raciste-a-trappes-un-rassemblement-pour-faire-face-aux-discours-xenophobes_8260991.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 31 Oct 2026 10:33:48 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Chances d'une vague démocrate, enjeu pour Donald Trump et pour 2028... L'article à lire pour tout comprendre aux midterms, les élections de mi-mandat aux Etats-Unis",
+        "resume": "Si le président américain en exercice sort rarement gagnant de ce scrutin, le revers pourrait être lourd pour Donald Trump, mardi 3 novembre. Les sondages prédisent à l'opposition démocrate une majori",
+        "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/chances-d-une-vague-democrate-enjeu-pour-donald-trump-et-pour-2028-l-article-a-lire-pour-tout-comprendre-aux-midterms-les-elections-de-mi-mandat-aux-etats-unis_8237488.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 31 Oct 2026 07:29:06 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Une lettre au contenu raciste contenant une poudre blanche a été adressée au maire de Trappes Ali Rabeh.",
+        "resume": "Le poudre pourrait être du talc selon les premiers éléments de l'enquête, la lettre a été postée en Bretagne.",
+        "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/une-lettre-au-contenu-raciste-contenant-une-poudre-blanche-a-ete-adressee-au-maire-de-trappes-ali-rabeh_8261744.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 31 Oct 2026 12:20:54 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Le guide suprême iranien met en garde les États-Unis contre une reprise d'éventuelles attaques",
+        "resume": "Le régime iranien menace d'élargir le conflit en cas de nouvelles attaques provenant de Washington",
+        "lien": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/le-guide-supreme-iranien-met-en-garde-les-etats-unis-contre-une-reprise-d-eventuelles-attaques_8261696.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 31 Oct 2026 12:35:34 +0100"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Midterms : en Floride, les latinos se détournent-ils de Trump ?",
+        "resume": "Un reportage signé Antoni Belchi, récit de Thibault Franceschet.",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261031-midterms-en-floride-les-latinos-se-d%C3%A9tournent-ils-de-trump",
+        "date": "Sat, 31 Oct 2026 10:45:20 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Troisième samedi de mobilisation sociale en France : à quoi s'attendre ?",
+        "resume": "Marc Paupe est en direct de Paris.",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261031-troisi%C3%A8me-samedi-de-mobilisation-sociale-en-france-%C3%A0-quoi-s-attendre",
+        "date": "Sat, 31 Oct 2026 10:43:31 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Mobilisations sociales en France : lourdes pertes pour l'hôtellerie",
+        "resume": "Une baisse de 40 % du taux d’occupation dans certains hôtels de la capitale : les mobilisations sociales provoquent une fuite des touristes.",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261031-mobilisations-sociales-en-france-lourdes-pertes-pour-l-h%C3%B4tellerie",
+        "date": "Sat, 31 Oct 2026 10:41:57 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Hope",
+        "date_sortie": "2026-10-28",
+        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
+        "note": 6.758,
+        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
+      },
+      {
+        "titre": "Verity",
+        "date_sortie": "2026-09-30",
+        "synopsis": "Lorsqu’un accident affecte les capacités de l’autrice de bestsellers, Verity Crawford, à achever son œuvre, une écrivaine solitaire, Lowen Ashleigh, qui peine à joindre les deux bouts est engagée pour lui prêter sa plume",
+        "note": 6.627,
+        "affiche": "https://image.tmdb.org/t/p/w300/1ob7dZ1rvAgHOpVJGjJ2voibOp.jpg"
+      },
+      {
+        "titre": "Clayface",
+        "date_sortie": "2026-10-21",
+        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
+        "note": 7.439,
+        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
+      },
+      {
+        "titre": "L'île des souvenirs",
+        "date_sortie": "2026-10-21",
+        "synopsis": "Pendant qu'elles passent une dernière soirée ensemble avant de s'engager sur des voies différentes, Jo et Raissa, amies depuis toujours, trouvent un portail mystérieux qui les transporte sur Nakali, une île mythique peup",
+        "note": 7.571,
+        "affiche": "https://image.tmdb.org/t/p/w300/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg"
+      },
+      {
+        "titre": "Street Fighter",
+        "date_sortie": "2026-10-13",
+        "synopsis": "En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affrontement brutal où se mê",
+        "note": 6.348,
+        "affiche": "https://image.tmdb.org/t/p/w300/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"
+      },
+      {
+        "titre": "Obsession",
+        "date_sortie": "2026-05-13",
+        "synopsis": "Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lui… jusqu’à l’obsessi",
+        "note": 8.169,
+        "affiche": "https://image.tmdb.org/t/p/w300/mDCR1frpUvGfIKksuM440VLb7X9.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 1",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "SHAFRO @ANGERS #11 HALLOWEEN : NO COSTUME = NO PARTY",
+        "date_debut": "2026-10-31T20:00:00+00:00",
+        "lieu": "Buddy's Bar",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Information Collective : Conducteur Transport de marchandises",
+        "date_debut": "2026-11-02T08:20:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Vendeur en produits du territoire Angevin pour le Marché de Noël d'Angers",
+        "date_debut": "2026-11-02T13:30:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Mon projet de formation- les étapes, les financements, la rémunération - Pour les demandeurs d'emploi d'ANGERS CAPUCINS:",
+        "date_debut": "2026-11-03T08:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Webinaire de présentation de l'Observatoire Régional AB",
+        "date_debut": "2026-11-03T10:00:00+00:00",
+        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "IMPRO CONTENDERS - Saison 4",
+        "date_debut": "2026-10-31",
+        "lieu": "Mystère Comedy Club",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "The Art of the Brick - Exposition d’art en Lego",
+        "date_debut": "2026-10-31",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Don du sang — Maison du don, Nantes",
+        "date_debut": "2026-10-31",
+        "lieu": "Maison du don",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Expression(s) Décoloniale(s) #4 - Exposition",
+        "date_debut": "2026-10-31",
+        "lieu": "Château des Ducs de Bretagne -   Musée d'Histoire de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "House of Banksy - Une expo non autorisée",
+        "date_debut": "2026-10-31",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-10-30",
     "news": [
       {
@@ -2530,205 +2729,6 @@
         "titre": "CHERS PARENTS",
         "date_debut": "2026-10-18",
         "lieu": "Théâtre 100 Noms",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-17",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Il faut être là pour montrer que le peuple est fatigué\" : à Saint-Avold, les anciens gilets jaunes ressortent leurs banderoles",
-        "resume": "Au rond-point du Cora, en Moselle, lieu emblématique de la révolte des gilets jaunes en 2018, certains militants de l'époque ont décidé de renfiler la chasuble. Huit ans après, la hausse des prix de l",
-        "lien": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/il-faut-etre-la-pour-montrer-que-le-peuple-est-fatigue-a-saint-avold-les-anciens-gilets-jaunes-ressortent-leurs-banderoles_8220628.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 17 Oct 2026 09:14:25 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Mobilisation du 17 octobre : des groupes dispersés à Lyon et des barricades enflammées à Rennes",
-        "resume": "Selon une note des renseignements consultée par France Télévisions, 60 000 à 110 000 participants sont attendus dans des cortèges à travers les grandes villes de France.",
-        "lien": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-17-octobre-lyceens-etudiants-gilets-jaunes-des-milliers-de-manifestants-attendus-dans-toute-la-france_8241022.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 17 Oct 2026 10:47:07 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Le siège de la chaîne CNews ciblé par des manifestants, 21 personnes interpellées",
-        "resume": "Une centaine d'individus cagoulés ont bloqué l'accès au parking devant le bâtiment, samedi matin, a annoncé la préfecture de police de Paris. Il y a eu 21 interpellations.",
-        "lien": "https://www.franceinfo.fr/faits-divers/le-siege-de-la-chaine-cnews-cible-par-des-manifestants-21-interpellations_8241583.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 17 Oct 2026 12:00:13 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Lyon, Rennes, Marseille, Belfort, Poitiers... Le point sur la journée de mobilisation du 17 octobre, à Paris et en régions",
-        "resume": "Plusieurs centaines de rassemblements et de manifestations sont organisés samedi dans le pays, soutenus par différents syndicats et partis politiques à gauche.",
-        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/lyon-rennes-marseille-belfort-poitiers-la-journee-de-mobilisation-du-17-octobre-a-commence_8241559.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 17 Oct 2026 11:59:00 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"On espère une massification du mouvement\" : pour la mobilisation du 17 octobre, des étudiants rêvent d'une convergence avec le monde du travail",
-        "resume": "Après trois semaines de mobilisation lycéenne et étudiante, l'intersyndicale de la jeunesse voit en ce samedi de mobilisation une opportunité d'amplifier son mouvement de contestation.",
-        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/temoignages-on-espere-une-massification-du-mouvement-pour-la-mobilisation-du-17-octobre-des-etudiants-revent-d-une-convergence-avec-le-monde-du-travail_8240923.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 17 Oct 2026 07:01:41 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Trump exempte la Russie de nouvelles sanctions, Zelensky lâché",
-        "resume": "Gulliver Gragg, notre correspondant en Ukraine, analyse la situation.",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261017-trump-exempte-la-russie-de-nouvelles-sanctions-zelensky-l%C3%A2ch%C3%A9",
-        "date": "Sat, 17 Oct 2026 09:45:55 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "WNBA : comment la Française Gabby Williams est devenue l'une des meilleures joueuses au monde ?",
-        "resume": "Les qualificatifs manquent pour décrire la saison de Gabby Williams. Après un titre en Euroligue, une médaille d'argent avec les Bleues en Coupe du monde, elle va tenter de remporter les finales WNBA ",
-        "lien": "https://www.france24.com/fr/sports/20261017-wnba-finale-valkyries-gabby-williams-basket-france",
-        "date": "Sat, 17 Oct 2026 09:18:17 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "France : d'où viennent les appels à la mobilisation du 17 octobre ?",
-        "resume": "Un samedi de mobilisation commun pour différentes \"colères\": quelques rares actions étaient recensées samedi matin à l'appel d'anciens gilets jaunes, lycéens, étudiants, militants du climat et même ag",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261017-france-d-o%C3%B9-viennent-les-appels-%C3%A0-la-mobilisation-du-17-octobre",
-        "date": "Sat, 17 Oct 2026 09:17:50 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Resident Evil",
-        "date_sortie": "2026-09-16",
-        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
-        "note": 7.309,
-        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
-      },
-      {
-        "titre": "Street Fighter",
-        "date_sortie": "2026-10-13",
-        "synopsis": "En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affrontement brutal où se mê",
-        "note": 6.2,
-        "affiche": "https://image.tmdb.org/t/p/w300/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"
-      },
-      {
-        "titre": "Les Ensorceleuses 2",
-        "date_sortie": "2026-09-09",
-        "synopsis": "Une famille de sorcières multigénérationnelle, maudite à être sans amour pendant des siècles, tente de briser le sort en affrontant de sombres secrets et en se sacrifiant les uns pour les autres.",
-        "note": 6.843,
-        "affiche": "https://image.tmdb.org/t/p/w300/qU6bErj56ebypPwA7zaiTfKzemA.jpg"
-      },
-      {
-        "titre": "Malfaisante",
-        "date_sortie": "2026-10-14",
-        "synopsis": "Une famille est la cible d'une entité qu'elle appelle « l'autre maman ».",
-        "note": 5.921,
-        "affiche": "https://image.tmdb.org/t/p/w300/wAofwsldMDNAIzGSEfMJMoUn1KB.jpg"
-      },
-      {
-        "titre": "Digger",
-        "date_sortie": "2026-09-28",
-        "synopsis": "L’homme le plus puissant du monde se lance dans une mission frénétique pour prouver qu’il est le sauveur de l’humanité avant que le désastre qu’il a déclenché ne détruise tout.",
-        "note": 7.5,
-        "affiche": "https://image.tmdb.org/t/p/w300/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg"
-      },
-      {
-        "titre": "Avengers : Endgame",
-        "date_sortie": "2019-04-24",
-        "synopsis": "Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de doigts qui a pulvéri",
-        "note": 8.247,
-        "affiche": "https://image.tmdb.org/t/p/w300/qXekTarZKRrVfnBwhS6xevt6BGU.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Complete Orchestral Works, Vol. 3",
-        "artiste": "Maurice Ravel",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Le numérique au féminin : réinventer les codes !",
-        "date_debut": "2026-10-19T07:30:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Osez le numérique : formations, métiers et opportunités professionnelles !",
-        "date_debut": "2026-10-19T11:45:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "RECRUTEMENT QUICK via la MRS",
-        "date_debut": "2026-10-20T06:30:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Webinaire « Influence et Collab’ : quelles idées s'offrent à vous ? »",
-        "date_debut": "2026-10-20T08:00:00+00:00",
-        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Exposition \"L'insaisissable\" / Sortie de résidence photographique de l'artiste Julien Goldstein",
-        "date_debut": "2026-10-20T11:00:00+00:00",
-        "lieu": "Artothèque d'Angers",
-        "ville": "Angers"
-      },
-      {
-        "titre": "CHERS PARENTS",
-        "date_debut": "2026-10-17",
-        "lieu": "Théâtre 100 Noms",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Jeune public - \"L'île des rêves perdus\"",
-        "date_debut": "2026-10-17",
-        "lieu": "Théâtre de Jeanne",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Là où subsiste encore ton écho",
-        "date_debut": "2026-10-17",
-        "lieu": "Ecole des Beaux-Arts Nantes St-Nazaire",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Les P’tits Enchantements du DIX",
-        "date_debut": "2026-10-17",
-        "lieu": "Dix (Le) Maison de Quartier",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Atelier \"Freak fiction\" par Loona Sire à Bonus",
-        "date_debut": "2026-10-17",
-        "lieu": "Collectif Bonus",
         "ville": "Nantes"
       }
     ]
