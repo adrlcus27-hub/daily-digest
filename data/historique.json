@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-11-02",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"L'opinion publique a changé\" : à New York, des électeurs démocrates misent sur un revirement populaire contre Donald Trump à l'élection de mi-mandat",
+        "resume": "Aux Etats-Unis, l’élection de mi-mandat prend, comme à chaque fois, des airs de référendum sur l’occupant du bureau ovale. A New York, alors que les derniers sondages donnent les démocrates en tête, l",
+        "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-2026-l-essentiel-des-elections-de-mi-mandat/l-opinion-publique-a-change-a-new-york-des-electeurs-democrates-misent-sur-un-revirement-populaire-contre-donald-trump-a-l-election-de-mi-mandat_8264045.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 02 Nov 2026 14:34:44 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Le Premier ministre, Sébastien Lecornu, répète qu'il est prêt à rencontrer les représentants des lycéens \"la semaine prochaine\"",
+        "resume": "Plusieurs organisations lycéennes et étudiantes appellent à poursuivre le mouvement pour la rentrée des vacances de la Toussaint. Selon le ministère de l'Education nationale, 41 lycées étaient bloqués",
+        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-pour-la-reprise-des-cours-les-organisations-etudiantes-et-lyceennes-appellent-a-de-nouveaux-blocus_8263475.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 02 Nov 2026 14:49:10 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Le père de Pengo Bossio Wangi, tué dans l'attentat dans les Yvelines, souhaite que l'hommage national permette une \"prise de conscience\" contre le racisme",
+        "resume": "Trop ému pour s'exprimer, il a laissé le soin à sa fille de lire une déclaration lors d'une conférence de presse à Paris. \"Malgré notre colère et notre douleur, la mère de Pengo et moi faisons le choi",
+        "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-des-yvelines-le-pere-de-l-homme-tue-souhaite-que-l-hommage-national-permette-une-prise-de-conscience-contre-le-racisme_8263964.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 02 Nov 2026 13:27:22 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Mairie de Limoges incendiée : un million d'euros de dons déjà récoltés pour sa reconstruction",
+        "resume": "Cette cagnotte, ouverte par la Fondation du patrimoine, atteignait plus d'un million d'euros de dons lundi à la mi-journée, de la part de plus de 9 000 donateurs.",
+        "lien": "https://www.franceinfo.fr/culture/patrimoine/mairie-de-limoges-incendiee-un-million-d-euros-de-dons-deja-recoltes-pour-sa-reconstruction_8264090.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 02 Nov 2026 14:59:46 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Le prix Médicis 2026 est décerné à Philippe Vasset pour son roman \"Dans les grandes lignes\"",
+        "resume": "C'est le premier prix majeur remporté par cet écrivain et journaliste de 52 ans, dont le roman relate un périple à travers la France sous le tracé des lignes à haute tension. Il succède à Emmanuel Car",
+        "lien": "https://www.franceinfo.fr/culture/le-prix-medicis-2026-est-decerne-a-philippe-vasset-pour-son-roman-dans-les-grandes-lignes_8263922.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 02 Nov 2026 14:27:20 +0100"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Mobilisations lycéennes en France : un mal-être social partagé par les jeunesses du monde",
+        "resume": "En France, environ 41 lycées étaient bloqués lundi 2 novembre à l'appel des organisations étudiantes et lycéennes qui veulent poursuivre le mouvement engagé depuis six semaines. Sur France Inter, le m",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261102-mobilisations-lyc%C3%A9ennes-en-france-un-mal-%C3%AAtre-social-partag%C3%A9-par-les-jeunesses-du-monde",
+        "date": "Mon, 02 Nov 2026 14:11:56 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Mobilisations lycéennes en France : des blocages évacués sans ménagement par la police",
+        "resume": "En France, l'Union syndicale lycéenne (USL) et l'Union étudiante ont appelé cedernier week-end d'octobre à de nouveaux blocages mardi 3 novembre et le jeudi qui suit, journée de mobilisation pour le p",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261102-mobilisations-lyc%C3%A9ennes-en-france-des-blocages-%C3%A9vacu%C3%A9s-sans-m%C3%A9nagement-par-la-police",
+        "date": "Mon, 02 Nov 2026 14:09:19 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Élections de mi-mandat : quel vote pour les agriculteurs de Caroline du Nord ?",
+        "resume": "Les élections de mi-mandat ont lieu mardi aux États-Unis, où le président Donald Trump n'a jamais été aussi impopulaire. De nombreux États aux sièges autrefois acquis aux républicains sont vacillants.",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/focus/20261102-%C3%A9lections-de-mi-mandat-quel-vote-pour-les-agriculteurs-de-caroline-du-nord",
+        "date": "Mon, 02 Nov 2026 13:59:44 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Hope",
+        "date_sortie": "2026-10-28",
+        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
+        "note": 6.793,
+        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
+      },
+      {
+        "titre": "Verity",
+        "date_sortie": "2026-09-30",
+        "synopsis": "Lorsqu’un accident affecte les capacités de l’autrice de bestsellers, Verity Crawford, à achever son œuvre, une écrivaine solitaire, Lowen Ashleigh, qui peine à joindre les deux bouts est engagée pour lui prêter sa plume",
+        "note": 6.858,
+        "affiche": "https://image.tmdb.org/t/p/w300/1ob7dZ1rvAgHOpVJGjJ2voibOp.jpg"
+      },
+      {
+        "titre": "Clayface",
+        "date_sortie": "2026-10-21",
+        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
+        "note": 7.454,
+        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
+      },
+      {
+        "titre": "L'île des souvenirs",
+        "date_sortie": "2026-10-21",
+        "synopsis": "Pendant qu'elles passent une dernière soirée ensemble avant de s'engager sur des voies différentes, Jo et Raissa, amies depuis toujours, trouvent un portail mystérieux qui les transporte sur Nakali, une île mythique peup",
+        "note": 7.952,
+        "affiche": "https://image.tmdb.org/t/p/w300/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg"
+      },
+      {
+        "titre": "Obsession",
+        "date_sortie": "2026-05-13",
+        "synopsis": "Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lui… jusqu’à l’obsessi",
+        "note": 8.2,
+        "affiche": "https://image.tmdb.org/t/p/w300/mDCR1frpUvGfIKksuM440VLb7X9.jpg"
+      },
+      {
+        "titre": "Street Fighter",
+        "date_sortie": "2026-10-13",
+        "synopsis": "En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affrontement brutal où se mê",
+        "note": 6.314,
+        "affiche": "https://image.tmdb.org/t/p/w300/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Through Lines",
+        "artiste": "Skye Peterson",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Information Collective : Conducteur Transport de marchandises",
+        "date_debut": "2026-11-02T08:20:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Vendeur en produits du territoire Angevin pour le Marché de Noël d'Angers",
+        "date_debut": "2026-11-02T13:30:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Mon projet de formation- les étapes, les financements, la rémunération - Pour les demandeurs d'emploi d'ANGERS CAPUCINS:",
+        "date_debut": "2026-11-03T08:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Webinaire de présentation de l'Observatoire Régional AB",
+        "date_debut": "2026-11-03T10:00:00+00:00",
+        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Table ronde illustrée : Femmes, Corps, Intimité, Trois expositions en conversation",
+        "date_debut": "2026-11-03T17:00:00+00:00",
+        "lieu": "Hôtel des Pénitentes",
+        "ville": "Angers"
+      },
+      {
+        "titre": "La Semaine Mortelle #2",
+        "date_debut": "2026-11-02",
+        "lieu": "Nouveau Studio Théâtre",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le livre d’artiste concours et exposition – Musée de l'imprimerie",
+        "date_debut": "2026-11-02",
+        "lieu": "Musée-atelier de l'imprimerie de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Permanences d'inscriptions aux Repas festifs seniors",
+        "date_debut": "2026-11-02",
+        "lieu": "CCAS de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Parlons du Bois Énergie",
+        "date_debut": "2026-11-02",
+        "lieu": "Bâtiment B - Fibois Pays de la Loire",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition « 200 photographies pour 200 ans d'histoire »",
+        "date_debut": "2026-11-02",
+        "lieu": "Archives Départementales de Loire-Atlantique",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-11-01",
     "news": [
       {
@@ -2551,184 +2750,6 @@
         "titre": "Exposition « 200 photographies pour 200 ans d'histoire »",
         "date_debut": "2026-10-20",
         "lieu": "Archives Départementales de Loire-Atlantique",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-19",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Mobilisation du 17 octobre : le Premier ministre annonce avoir demandé aux préfets des \"couvre-feux partiels et localisés\" dans certains centres-villes",
-        "resume": "Face à un \"désordre organisé de manière inédite\", le chef du gouvernement a promis \"une réponse pénale massive\", lundi à l'issue d'une nouvelle cellule interministérielle de crise.",
-        "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-mobilisation-du-17-octobre-paris-lyon-et-nantes-touches-par-de-nouveaux-heurts-et-pillages-dimanche-au-moins-108-interpellations-dans-la-capitale_8243455.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 19 Oct 2026 12:52:19 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Manifestations du 17 octobre : des commissariats saturés à Paris, des avocats critiquent \"des traitements dégradants\" en garde à vue",
-        "resume": "Les rassemblements de samedi, les violences qui ont suivi et les pillages qui se sont poursuivis dimanche ont donné lieu à des centaines d'arrestations et de placements en garde à vue. Des avocats dén",
-        "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/manifestations-du-17-octobre-des-commissariats-satures-a-paris-des-avocats-critiquent-des-traitements-degradants-en-garde-a-vue_8243605.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 19 Oct 2026 10:31:46 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Mobilisation du 17 octobre : une coordination de gilets jaunes annonce un \"acte II\" des manifestations pour samedi 24 octobre",
-        "resume": "Une plateforme participative, sur laquelle n'importe qui peut déclarer un rassemblement, recense quelques dizaines d'actions prévues samedi 24 octobre, une semaine après des manifestations massives qu",
-        "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/mobilisation-du-17-octobre-une-coordination-de-gilets-jaunes-annonce-un-acte-ii-des-manifestations-pour-samedi-24-octobre_8243932.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 19 Oct 2026 13:56:53 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Chômage partiel, fonds de soutien… Sébastien Lecornu annonce plusieurs mesures pour les commerçants victimes de pillages durant le week-end",
-        "resume": "\"C'est avant tout ceux qui ont cassé qui doivent payer\", a par ailleurs insisté Sébastien Lecornu, en rappelant que la responsabilité civile des personnes reconnues coupables de dégradations doit être",
-        "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/assurances-chomage-partiel-fonds-de-soutien-sebastien-lecornu-fait-des-annonces-pour-les-commercants-touches-par-les-pillages-du-week-end_8243902.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 19 Oct 2026 13:18:08 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Il s'est passé quelque chose de grave\" : dans une tribune commune, les maires de Paris, Marseille et Lyon demandent des comptes au gouvernement, après les violences du 17 octobre",
-        "resume": "Emmanuel Grégoire, Benoît Payan et Grégory Doucet demandent un amendement au projet de budget 2027, pour \"créer un fonds exceptionnel de solidarité nationale, doté de moyens à la hauteur des dommages ",
-        "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/il-s-est-passe-quelque-chose-de-grave-les-maires-de-paris-marseille-et-lyon-demandent-des-comptes-au-gouvernement-apres-les-violences-du-17-octobre_8243617.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 19 Oct 2026 10:02:22 +0200"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Resident Evil",
-        "date_sortie": "2026-09-16",
-        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
-        "note": 7.3,
-        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
-      },
-      {
-        "titre": "Street Fighter",
-        "date_sortie": "2026-10-13",
-        "synopsis": "En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affrontement brutal où se mê",
-        "note": 6.348,
-        "affiche": "https://image.tmdb.org/t/p/w300/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"
-      },
-      {
-        "titre": "Les Ensorceleuses 2",
-        "date_sortie": "2026-09-09",
-        "synopsis": "Une famille de sorcières multigénérationnelle, maudite à être sans amour pendant des siècles, tente de briser le sort en affrontant de sombres secrets et en se sacrifiant les uns pour les autres.",
-        "note": 6.99,
-        "affiche": "https://image.tmdb.org/t/p/w300/qU6bErj56ebypPwA7zaiTfKzemA.jpg"
-      },
-      {
-        "titre": "Malfaisante",
-        "date_sortie": "2026-10-14",
-        "synopsis": "Une famille est la cible d'une entité qu'elle appelle « l'autre maman ».",
-        "note": 5.977,
-        "affiche": "https://image.tmdb.org/t/p/w300/wAofwsldMDNAIzGSEfMJMoUn1KB.jpg"
-      },
-      {
-        "titre": "Englouti",
-        "date_sortie": "2026-10-14",
-        "synopsis": "Un plongeur sous-marin est à la recherche des restes de son père décédé, qui s'est fait avaler par un cachalot. Il ne lui reste plus qu'une heure avant que l'oxygène ne vienne à lui manquer.",
-        "note": 6.8,
-        "affiche": "https://image.tmdb.org/t/p/w300/qLt9F35AdGKDXPSJtqH5DERoigI.jpg"
-      },
-      {
-        "titre": "Heart of the Beast",
-        "date_sortie": "2026-09-23",
-        "synopsis": "Après un terrible crash d’avion, James Belmont (Brad Pitt), ancien des forces spéciales, se retrouve perdu au cœur de l’Alaska avec son chien Odin, depuis toujours à ses côtés. Livrés à eux-mêmes dans une nature aussi ma",
-        "note": 7.396,
-        "affiche": "https://image.tmdb.org/t/p/w300/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Complete Orchestral Works, Vol. 3",
-        "artiste": "Maurice Ravel",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Le numérique au féminin : réinventer les codes !",
-        "date_debut": "2026-10-19T07:30:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Osez le numérique : formations, métiers et opportunités professionnelles !",
-        "date_debut": "2026-10-19T11:45:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "RECRUTEMENT QUICK via la MRS",
-        "date_debut": "2026-10-20T06:30:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Webinaire « Influence et Collab’ : quelles idées s'offrent à vous ? »",
-        "date_debut": "2026-10-20T08:00:00+00:00",
-        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Exposition \"L'insaisissable\" / Sortie de résidence photographique de l'artiste Julien Goldstein",
-        "date_debut": "2026-10-20T11:00:00+00:00",
-        "lieu": "Artothèque d'Angers",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Jeune public - \"Gourmandine et le Professeur Harry Bus\"",
-        "date_debut": "2026-10-19",
-        "lieu": "Théâtre de Jeanne",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Animation Sportive Municipale",
-        "date_debut": "2026-10-19",
-        "lieu": "Gymnase Coubertin",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Animation Sportive Municipale",
-        "date_debut": "2026-10-19",
-        "lieu": "Gymnase Coubertin",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Chantal Ladesou",
-        "date_debut": "2026-10-19",
-        "lieu": "Compagnie du Café-Théâtre",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Stages artistiques des vacances de la Toussaint 2026 à l'atelier O Pigmentée",
-        "date_debut": "2026-10-19",
-        "lieu": "Atelier O Pigmentée",
         "ville": "Nantes"
       }
     ]
