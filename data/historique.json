@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-11-05",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Mobilisation du 5 novembre : l'Intérieur dénombre 270 000 manifestants dans 180 cortèges, la CGT en compte 250 000 dans plus de 73 villes",
+        "resume": "\"Le message est 'rien ne nous arrêtera, la seule chose qui fera cesser la mobilisation est la réponse aux revendications'\", a déclaré la secrétaire générale de la CGT, Sophie Binet, à la presse avant ",
+        "lien": "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 05 Nov 2026 14:05:29 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Un lycée de Tournefeuille, près de Toulouse, touché par un incendie après l'irruption d'individus munis de mortiers d'artifice",
+        "resume": "\"Cet acte était une volonté de brûler l'ensemble de l'établissement\", a dénoncé le vice-président PS de la région Occitanie, Kamel Chibli.",
+        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/un-lycee-de-tournefeuille-pres-de-toulouse-touche-par-un-incendie-apres-l-irruption-d-individus-munis-de-mortiers-d-artifice_8269217.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 05 Nov 2026 13:16:24 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"On ne pourra pas tout rattraper\" : les blocages des lycées menacent-ils l'année scolaire et la préparation du bac ?",
+        "resume": "Malgré les annonces du gouvernement pendant les vacances de la Toussaint, des blocages se sont poursuivis lundi matin, jour de la rentrée. Alors que le ministre de l'Education, Edouard Geffray, juge l",
+        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-ne-pourra-pas-tout-rattraper-les-blocages-des-lycees-menacent-ils-l-annee-scolaire-et-la-preparation-du-bac_8266037.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 05 Nov 2026 06:03:19 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"On dénonce ces outils de lutte contre le terrorisme\" : pourquoi les assignations à résidence prononcées contre des manifestants font polémique",
+        "resume": "Des juristes et défenseurs des libertés accusent le ministère de l'Intérieur d'avoir détourné des mesures antiterroristes pour empêcher plusieurs dizaines de militants de participer aux mobilisations ",
+        "lien": "https://www.franceinfo.fr/economie/greve/on-denonce-ces-outils-de-lutte-contre-le-terrorisme-pourquoi-les-assignations-a-residence-prononcees-contre-des-manifestants-font-polemique_8266007.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 05 Nov 2026 06:06:29 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"On n'a ni argent ni majorité\" : le gouvernement Lecornu a-t-il encore des marges de manœuvre pour répondre à la crise sociale ?",
+        "resume": "L'intersyndicale appelle jeudi à une grande mobilisation sur la thématique du pouvoir d'achat, tandis que les organisations de jeunesse poursuivent leurs opérations de blocage. Face à la persistance d",
+        "lien": "https://www.franceinfo.fr/economie/greve/greve/on-n-a-ni-argent-ni-majorite-le-gouvernement-lecornu-a-t-il-encore-des-marges-de-man-uvre-pour-repondre-a-la-crise-sociale_8265512.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 05 Nov 2026 08:41:57 +0100"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Le point sur la mobilisation du 5 novembre",
+        "resume": "En France, salariés, fonctionnaires, syndicats et lycéens sont mobilisés ce jeudi 5 novembre pour une journée de grève nationale. France 24 s'est rendu au lycée Le Corbusier, à #Aubervilliers, où le b",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261105-le-point-sur-la-mobilisation-du-5-novembre",
+        "date": "Thu, 05 Nov 2026 13:42:06 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Afrique du sud : l’ANC au pouvoir en danger lors des municipales",
+        "resume": "Les Sud-Africains ont voté mercredi pour élire leurs représentants locaux, lors d’un scrutin qui pourrait fragiliser davantage le Congrès national africain (ANC), au pouvoir depuis la fin de l’aparthe",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261105-afrique-du-sud-l-anc-au-pouvoir-en-danger-lors-des-municipales",
+        "date": "Thu, 05 Nov 2026 12:20:54 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Guerre en Ukraine : \"il y a maintenant de l'espoir, puisqu'il existe cet équilibre des forces\"",
+        "resume": "Le dirigeant ukrainien a estimé dans un entretien diffusé mercredi 4 novembre soir, qu'il \"y a donc maintenant de l'espoir, puisqu'il existe cet équilibre des forces, et que nous serons davantage sout",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261105-guerre-en-ukraine-il-y-a-maintenant-de-l-espoir-puisqu-il-existe-cet-%C3%A9quilibre-des-forces",
+        "date": "Thu, 05 Nov 2026 12:11:16 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Hope",
+        "date_sortie": "2026-10-28",
+        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
+        "note": 6.772,
+        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
+      },
+      {
+        "titre": "Verity",
+        "date_sortie": "2026-09-30",
+        "synopsis": "Lorsqu’un accident affecte les capacités de l’autrice de bestsellers, Verity Crawford, à achever son œuvre, une écrivaine solitaire, Lowen Ashleigh, qui peine à joindre les deux bouts est engagée pour lui prêter sa plume",
+        "note": 6.979,
+        "affiche": "https://image.tmdb.org/t/p/w300/1ob7dZ1rvAgHOpVJGjJ2voibOp.jpg"
+      },
+      {
+        "titre": "Clayface",
+        "date_sortie": "2026-10-21",
+        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
+        "note": 7.435,
+        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
+      },
+      {
+        "titre": "Obsession",
+        "date_sortie": "2026-05-13",
+        "synopsis": "Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lui… jusqu’à l’obsessi",
+        "note": 8.17,
+        "affiche": "https://image.tmdb.org/t/p/w300/mDCR1frpUvGfIKksuM440VLb7X9.jpg"
+      },
+      {
+        "titre": "L'île des souvenirs",
+        "date_sortie": "2026-10-21",
+        "synopsis": "Pendant qu'elles passent une dernière soirée ensemble avant de s'engager sur des voies différentes, Jo et Raissa, amies depuis toujours, trouvent un portail mystérieux qui les transporte sur Nakali, une île mythique peup",
+        "note": 8.012,
+        "affiche": "https://image.tmdb.org/t/p/w300/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg"
+      },
+      {
+        "titre": "Malfaisante",
+        "date_sortie": "2026-10-14",
+        "synopsis": "Une jeune fille, Bela, développe dans son foyer une relation avec une entité troublante qui ressemble étrangement à sa mère. Son « autre maman » n'est pas que le fruit de son imagination. Cette entité sinistre et manipul",
+        "note": 5.8,
+        "affiche": "https://image.tmdb.org/t/p/w300/uLNxn6niIICbkRcRKVOX9aXqRHb.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Through Lines",
+        "artiste": "Skye Peterson",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "RDV Job49 Osez l'industrie",
+        "date_debut": "2026-11-06T08:30:00+00:00",
+        "lieu": "Angers - CONSEIL DEPARTEMENTAL  49",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Création d'entreprise - Venez rencontrer CITELAB",
+        "date_debut": "2026-11-06T08:30:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "RDV Job49 Osez l'industrie",
+        "date_debut": "2026-11-06T08:30:00+00:00",
+        "lieu": "Angers - CONSEIL DEPARTEMENTAL  49",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Et si Monteur Sprinkler était votre prochain métier ?",
+        "date_debut": "2026-11-06T09:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Apéro célibataires — Angers",
+        "date_debut": "2026-11-06T18:00:00+00:00",
+        "lieu": "Centre-ville de Angers",
+        "ville": "Angers"
+      },
+      {
+        "titre": "L'Étreinte",
+        "date_debut": "2026-11-05",
+        "lieu": "Place Jean V devant l'entrée du Musée Dobrée",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le radeau de la méduse",
+        "date_debut": "2026-11-05",
+        "lieu": "Théâtre de Poche Graslin",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Parcours de 8 séances numériques seniors",
+        "date_debut": "2026-11-05",
+        "lieu": "Espace seniors Barberie",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Don du sang — Maison du don, Nantes",
+        "date_debut": "2026-11-05",
+        "lieu": "Maison du don",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Permanences d'inscriptions aux Repas festifs seniors",
+        "date_debut": "2026-11-05",
+        "lieu": "CCAS de Nantes",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-11-04",
     "news": [
       {
@@ -2551,205 +2750,6 @@
         "titre": "PRODIGUE ou les rêverie d'un homme en chute libre",
         "date_debut": "2026-10-23",
         "lieu": "Nouveau Studio Théâtre",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-22",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Mobilisation du 24 octobre : seules les manifestations organisées à la demande des syndicats seront autorisées samedi, annonce Emmanuel Macron",
-        "resume": "Le chef de l'Etat a dénoncé des actes \"politiques et séditieux, conduits par des groupes d'ultragauche, visant à faire tomber la République\".",
-        "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-mobilisation-du-17-octobre-les-partis-politiques-recus-a-matignon-dans-la-journee-le-renseignement-convoque-a-l-elysee-pour-un-conseil-de-securite_8248414.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 22 Oct 2026 12:46:40 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Manifestations contre la vie chère, mouvement lycéen, actions violentes… Quelle est la situation dans les départements d'outre-mer, en pleine colère sociale ?",
-        "resume": "En parallèle des mobilisation dans l'Hexagone, de nombreux rassemblements sont aussi organisés dans les territoires ultramarins.",
-        "lien": "https://www.franceinfo.fr/france/outremer/manifestations-contre-la-vie-chere-mouvement-lyceen-actions-violentes-quelle-est-la-situation-dans-les-departements-d-outre-mer-en-pleine-colere-sociale_8247013.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 22 Oct 2026 06:04:15 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Un départ au Royaume-Uni, deux contre-la-montre, la butte Montmartre en nouvelle tradition... Découvrez le parcours du Tour de France 2027",
-        "resume": "Du départ de la capitale écossaise, Edimbourg, à l'arrivée sur les Champs-Elysées à Paris, le parcours de la 114e édition a été présenté, jeudi.",
-        "lien": "https://www.franceinfo.fr/tour-de-france/un-depart-au-royaume-uni-deux-contre-la-montre-la-butte-montmartre-en-nouvelle-tradition-decouvrez-le-parcours-du-tour-de-france-2027_8243977.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 22 Oct 2026 12:15:44 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Le prix Sakharov 2026 du Parlement européen est attribué à la Cour pénale internationale",
-        "resume": "La CPI est régulièrement attaquée par Donald Trump. Les Etats-Unis lui ont même imposé des sanctions début octobre.",
-        "lien": "https://www.franceinfo.fr/monde/europe/union-europeenne/le-prix-sakharov-2026-du-parlement-europeen-est-attribue-a-la-cour-penale-internationale_8248783.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 22 Oct 2026 12:19:25 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Les nouvelles frappes sur l'Ukraine sont la preuve que Moscou n'a pas \"changé d'attitude\", dénonce Volodymyr Zelensky au lendemain des discussions russo-américaines",
-        "resume": "Les frappes, qui ont fait plusieurs morts en Ukraine, ont eu lieu quelques heures après la rencontre entre l'émissaire américain Steve Witkoff et le président russe, Vladimir Poutine.",
-        "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-nouvelles-frappes-sur-l-ukraine-sont-la-preuve-que-moscou-n-a-pas-change-d-attitude-denonce-volodymyr-zelensky-au-lendemain-des-discussions-russo-americaines_8248591.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 22 Oct 2026 11:20:58 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Le virus Shamonda détecté pour la première fois chez un être humain en France",
-        "resume": "Les autorités françaises ont annoncé jeudi avoir détecté un virus de type Shamonda chez un patient immunodéprimé mort au début du mois d'octobre. C'est le premier cas humain documenté de ce virus diff",
-        "lien": "https://www.france24.com/fr/france/20261022-virus-shamonda-d%C3%A9tect%C3%A9-premi%C3%A8re-fois-%C3%AAtre-humain-france",
-        "date": "Thu, 22 Oct 2026 11:02:47 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "REPLAY - Emmanuel Macron dénonce les violences du 17 octobre et annonce des mesures",
-        "resume": "Lors d’une allocution à l’Élysée, le président de la République est revenu sur les débordements du 17 octobre, dénonçant l’action de groupes organisés d’ultragauche qui chercheraient à \"faire tomber l",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261022-replay-emmanuel-macron-d%C3%A9nonce-les-violences-du-17-octobre-et-annonce-des-mesures",
-        "date": "Thu, 22 Oct 2026 10:53:00 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "🔴 En direct : seules les manifestations organisées par les syndicats seront autorisées samedi, annonce Emmanuel Macron",
-        "resume": "",
-        "lien": "https://www.france24.com/fr/france/20261022-france-manifestations-interdites-partis-re%C3%A7us-matignon-sebastien-lecornu-paris-lyon-emmanuel-macron-renseignement-violences",
-        "date": "Thu, 22 Oct 2026 10:45:37 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Hope",
-        "date_sortie": "2026-10-28",
-        "synopsis": "Alors que les secours sont mobilisés ailleurs et que toute communication est interrompue, les habitants de Hope doivent faire face seuls à une menace grandissante. Tandis que certains tentent de protéger le village, d’au",
-        "note": 6.868,
-        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
-      },
-      {
-        "titre": "Street Fighter",
-        "date_sortie": "2026-10-13",
-        "synopsis": "En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affrontement brutal où se mê",
-        "note": 6.252,
-        "affiche": "https://image.tmdb.org/t/p/w300/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"
-      },
-      {
-        "titre": "Englouti",
-        "date_sortie": "2026-10-14",
-        "synopsis": "Un plongeur sous-marin est à la recherche des restes de son père décédé, qui s'est fait avaler par un cachalot. Il ne lui reste plus qu'une heure avant que l'oxygène ne vienne à lui manquer.",
-        "note": 6.5,
-        "affiche": "https://image.tmdb.org/t/p/w300/qLt9F35AdGKDXPSJtqH5DERoigI.jpg"
-      },
-      {
-        "titre": "The Social Reckoning",
-        "date_sortie": "2026-10-07",
-        "synopsis": "L'histoire s'inspire de \"The Facebook Files\" du Wall Street Journal, une série d'articles publiés en octobre 2021 par Jeff Horowitz, qui ont révélé les rouages internes ainsi que les nombreux dommages causés par le plus ",
-        "note": 6.976,
-        "affiche": "https://image.tmdb.org/t/p/w300/tF1P9HZEBJQ8w1KyBlS3zMS2Ogp.jpg"
-      },
-      {
-        "titre": "Malfaisante",
-        "date_sortie": "2026-10-14",
-        "synopsis": "Une famille est la cible d'une entité qu'elle appelle « l'autre maman ».",
-        "note": 5.9,
-        "affiche": "https://image.tmdb.org/t/p/w300/wAofwsldMDNAIzGSEfMJMoUn1KB.jpg"
-      },
-      {
-        "titre": "Digger",
-        "date_sortie": "2026-09-28",
-        "synopsis": "L’homme le plus puissant du monde se lance dans une mission frénétique pour prouver qu’il est le sauveur de l’humanité avant que le désastre qu’il a déclenché ne détruise tout.",
-        "note": 7.476,
-        "affiche": "https://image.tmdb.org/t/p/w300/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Complete Orchestral Works, Vol. 3",
-        "artiste": "Maurice Ravel",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "WEBINAIRE - Cibler, prospecter et transformer ses prospects : optimiser votre prospection et votre ciblage avec l'aide de l'IA",
-        "date_debut": "2026-10-23T07:00:00+00:00",
-        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Visite commentée Derrière la porte du 106",
-        "date_debut": "2026-10-23T08:00:00+00:00",
-        "lieu": "Archives départementales de Maine-et-Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Les aventures du Prince Ahmed",
-        "date_debut": "2026-10-23T13:00:00+00:00",
-        "lieu": "Centre de Congrès d'Angers",
-        "ville": "Angers"
-      },
-      {
-        "titre": "39e Festival International du Voyage à Vélo",
-        "date_debut": "2026-10-24T08:00:00+00:00",
-        "lieu": "Centre des congrès",
-        "ville": "Angers"
-      },
-      {
-        "titre": "ZAMDANE - ANGERS",
-        "date_debut": "2026-10-24T18:30:00+00:00",
-        "lieu": "Le Chabada",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Marcelle",
-        "date_debut": "2026-10-22",
-        "lieu": "Théâtre de Poche Graslin",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le livre d’artiste concours et exposition – Musée de l'imprimerie",
-        "date_debut": "2026-10-22",
-        "lieu": "Musée-atelier de l'imprimerie de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Animation Expression(s) décoloniale(s) – Créer c'est résister",
-        "date_debut": "2026-10-22",
-        "lieu": "Château des ducs de bretagne - musée d'histoire de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Animation enfants – Château des ducs de Bretagne",
-        "date_debut": "2026-10-22",
-        "lieu": "Château des ducs de bretagne - musée d'histoire de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Cyanotype (+ 6 ans)",
-        "date_debut": "2026-10-22",
-        "lieu": "Musée d'arts de Nantes",
         "ville": "Nantes"
       }
     ]
