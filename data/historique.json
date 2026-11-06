@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-11-06",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Deux morts, une enquête ouverte… Ce que l'on sait de l'accident de car près de Bourg-en-Bresse, dans l'Ain",
+        "resume": "Deux personnes, dont une fillette de sept ans, sont mortes. Seize autres ont été blessées dans ce grave accident de car, survenu vendredi matin, dans le secteur de Lent.",
+        "lien": "https://www.franceinfo.fr/faits-divers/accident/deux-morts-une-enquete-ouverte-ce-que-l-on-sait-de-l-accident-de-car-pres-de-bourg-en-bresse-dans-l-ain_8270546.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 06 Nov 2026 14:35:52 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Accident de car dans l'Ain : les deux morts sont une fille de 7 ans et un jeune homme de 18 ans, annonce le ministre des Transports",
+        "resume": "Le véhicule a \"quitté la route et heurté un arbre dans le fossé\", selon le maire de la commune de Lent, où l'accident s'est produit dans la matinée.",
+        "lien": "https://www.franceinfo.fr/faits-divers/accident/direct-accident-d-un-car-scolaire-dans-l-ain-deux-enfants-sont-morts-le-ministre-des-transports-attendu-sur-place_8270534.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 06 Nov 2026 14:05:04 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Un accident de car fait deux morts dans l'Ain, dont un mineur, annonce le parquet de Bourg-en-Bresse",
+        "resume": "La sortie de route a également fait seize blessés, dont trois dans un état grave. Le chauffeur n'a pas encore été entendu.",
+        "lien": "https://www.franceinfo.fr/faits-divers/accident/un-accident-de-car-fait-plusieurs-victimes-dans-l-ain-annonce-la-prefecture_8270492.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 06 Nov 2026 11:55:38 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Plusieurs avocats vont saisir la Cour de justice de la République contre le ministre de l'Intérieur Laurent Nuñez, après les blessures infligées à des manifestants",
+        "resume": "Ils lui reprochent le recours à des \"armes mutilantes\" lors des récentes opérations de maintien de l'ordre.",
+        "lien": "https://www.franceinfo.fr/societe/manifestations/plusieurs-avocats-annoncent-saisir-la-cour-de-justice-de-la-republique-contre-le-ministre-de-l-interieur-laurent-nunez-apres-les-blessures-infligees-a-des-manifestants_8270813.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 06 Nov 2026 14:33:15 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Quatre associations de lutte contre le racisme reçues par Emmanuel Macron après l'attentat raciste de Trappes",
+        "resume": "Lors de cette réunion, le président de la République a notamment rappelé son engagement dans \"la lutte contre le racisme et l'antisémitisme\". Les deux ministres Aurore Bergé et Catherine Pégard étaien",
+        "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-de-trappes-quatre-associations-de-lutte-contre-le-racisme-recues-par-emmanuel-macron_8270861.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 06 Nov 2026 13:55:17 +0100"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "La France insoumise présente un programme pour la présidentielle 2027 fidèle à sa volonté de rupture",
+        "resume": "La France insoumise publie vendredi le programme présidentiel de son candidat, Jean-Luc Mélenchon, sous la forme d'un livre vendu 4,90 euros en librairie. Celui-ci est une mise à jour de leur programm",
+        "lien": "https://www.france24.com/fr/france/20261106-france-insoumise-jean-luc-melenchon-presente-programme-presidentielle-2027-fidele-volonte-rupture-lfi",
+        "date": "Fri, 06 Nov 2026 13:32:46 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Accident de car dans l'Ain : deux morts dont une enfant de 7 ans",
+        "resume": "Un car régional est sorti de route vendredi matin au sud de Bourg-en-Bresse (Ain), tuant une fillette de 7 ans et un jeune homme de 18 ans, un accident pour l'heure inexpliqué qui suscite \"un grand tr",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-accident-de-car-dans-l-ain-deux-morts-dont-une-enfant-de-7-ans",
+        "date": "Fri, 06 Nov 2026 13:31:58 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Israël : le président annoncera dimanche qui sera chargé de former le prochain gouvernement",
+        "resume": "Le président israélien Isaac Herzog annoncera dimanche le nom de celui qui sera chargé de former un gouvernement, à l'issue de législatives très serrées et de consultations avec les différents partis ",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-isra%C3%ABl-le-pr%C3%A9sident-annoncera-dimanche-qui-sera-charg%C3%A9-de-former-le-prochain-gouvernement",
+        "date": "Fri, 06 Nov 2026 13:30:33 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Hope",
+        "date_sortie": "2026-10-28",
+        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
+        "note": 6.765,
+        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
+      },
+      {
+        "titre": "Verity",
+        "date_sortie": "2026-09-30",
+        "synopsis": "Lorsqu’un accident affecte les capacités de l’autrice de bestsellers, Verity Crawford, à achever son œuvre, une écrivaine solitaire, Lowen Ashleigh, qui peine à joindre les deux bouts est engagée pour lui prêter sa plume",
+        "note": 6.971,
+        "affiche": "https://image.tmdb.org/t/p/w300/1ob7dZ1rvAgHOpVJGjJ2voibOp.jpg"
+      },
+      {
+        "titre": "Ramayana : L'avènement d'une légende",
+        "date_sortie": "2026-11-06",
+        "synopsis": "Une épopée ancienne suit un jeune prince et une jeune princesse dont le mariage et l'exil qui a suivi marquent le début d'un voyage légendaire. Leur histoire d'amour, de devoir et de destin ouvre la voie à de nouveaux dé",
+        "note": 6.6,
+        "affiche": "https://image.tmdb.org/t/p/w300/iCz9Wf8KCU8BXQ9Pws0pHctguiZ.jpg"
+      },
+      {
+        "titre": "Clayface",
+        "date_sortie": "2026-10-21",
+        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
+        "note": 7.433,
+        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
+      },
+      {
+        "titre": "Godzilla Minus Zero",
+        "date_sortie": "2026-11-04",
+        "synopsis": "Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réapparaît des années plus",
+        "note": 8.0,
+        "affiche": "https://image.tmdb.org/t/p/w300/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg"
+      },
+      {
+        "titre": "Obsession",
+        "date_sortie": "2026-05-13",
+        "synopsis": "Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lui… jusqu’à l’obsessi",
+        "note": 8.171,
+        "affiche": "https://image.tmdb.org/t/p/w300/mDCR1frpUvGfIKksuM440VLb7X9.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Through Lines",
+        "artiste": "Skye Peterson",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "RDV Job49 Osez l'industrie",
+        "date_debut": "2026-11-06T08:30:00+00:00",
+        "lieu": "Angers - CONSEIL DEPARTEMENTAL  49",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Création d'entreprise - Venez rencontrer CITELAB",
+        "date_debut": "2026-11-06T08:30:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "RDV Job49 Osez l'industrie",
+        "date_debut": "2026-11-06T08:30:00+00:00",
+        "lieu": "Angers - CONSEIL DEPARTEMENTAL  49",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Et si Monteur Sprinkler était votre prochain métier ?",
+        "date_debut": "2026-11-06T09:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Apéro célibataires — Angers",
+        "date_debut": "2026-11-06T18:00:00+00:00",
+        "lieu": "Centre-ville de Angers",
+        "ville": "Angers"
+      },
+      {
+        "titre": "CHERS PARENTS",
+        "date_debut": "2026-11-06",
+        "lieu": "Théâtre 100 Noms",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Expression(s) Décoloniale(s) #4 - Exposition",
+        "date_debut": "2026-11-06",
+        "lieu": "Château des Ducs de Bretagne -   Musée d'Histoire de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Comédie – Le Triangle Des Bernés",
+        "date_debut": "2026-11-06",
+        "lieu": "Théâtre du Sphinx",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Festival Univerciné allemand 2026",
+        "date_debut": "2026-11-06",
+        "lieu": "Cinéma Katorza",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "L'Étreinte",
+        "date_debut": "2026-11-06",
+        "lieu": "Place Jean V devant l'entrée du Musée Dobrée",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-11-05",
     "news": [
       {
@@ -2551,205 +2750,6 @@
         "titre": "Là où subsiste encore ton écho",
         "date_debut": "2026-10-24",
         "lieu": "Ecole des Beaux-Arts Nantes St-Nazaire",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-23",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Un mort et plusieurs blessés à Trappes et La Verrière, dans les Yvelines, après qu'un homme a ouvert le feu",
-        "resume": "Le tireur a été interpellé et placé en garde à vue, a confirmé le Premier ministre, Sébastien Lecornu, sur le réseau X. Le parquet national antiterroriste annonce se saisir.",
-        "lien": "https://www.franceinfo.fr/faits-divers/un-mort-et-plusieurs-blesses-a-trappes-et-la-verriere-apres-qu-un-homme-a-ouvert-le-feu_8250604.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 23 Oct 2026 12:59:44 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Manifestations du 24 octobre : Laurent Nuñez annonce que 70 000 policiers et gendarmes seront mobilisés samedi",
-        "resume": "Le ministre de l'Intérieur a annoncé, vendredi, le dispositif du maintien de l'ordre du week-end, lors d'un point presse.",
-        "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-manifestations-du-24-octobre-emmanuel-macron-preside-un-conseil-de-defense-a-9-heures-avant-de-recevoir-les-lyceens-dans-l-apres-midi_8250124.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 23 Oct 2026 12:58:03 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Vingt-trois départements de l'Ouest et du Nord concernés par la tempête Austen désormais placés en vigilance orange pour vents violents",
-        "resume": "Météo-France a relevé \"des rafales supérieures à 100 km/h sur les stations les plus exposées de la côte ouest, et de l'ordre de 70 et 90 km/h dans l'intérieur du département\" dans le Finistère à minui",
-        "lien": "https://www.franceinfo.fr/environnement/meteo/vingt-trois-departements-de-l-ouest-et-du-nord-desormais-places-en-vigilance-orange-pour-vents-violents-en-raison-du-passage-de-la-tempete-austen_8250061.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 23 Oct 2026 09:34:12 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Benyamin Nétanyahou ordonne le \"bouclage\" de la Cisjordanie occupée après une attaque qui a fait cinq blessés, des \"opérations antiterroristes\" en cours",
-        "resume": "Les faits se sont produits à un point de contrôle de l'armée au niveau d'une intersection routière majeure au nord d'Hébron.",
-        "lien": "https://www.franceinfo.fr/monde/israel/en-cisjordanie-cinq-blesses-dans-une-attaque-avant-les-elections-en-israel_8250235.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 23 Oct 2026 11:39:05 +0200"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "La Torah ou l'armée ? A quelques jours des élections législatives, la question déchire Israël",
-        "resume": "Pourquoi certains devraient-ils risquer leur vie quand d'autres refusent de porter l'uniforme ? Trois ans après le 7-Octobre, la question de l'exemption du service militaire pour les ultraorthodoxes d",
-        "lien": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-la-torah-ou-l-armee-a-quelques-jours-des-elections-legislatives-la-question-dechire-israel_8248600.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 22 Oct 2026 13:14:54 +0200"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "🔴 Un homme tire dans la rue dans les Yvelines, le parquet antiterroriste se saisit de l'enquête",
-        "resume": "",
-        "lien": "https://www.france24.com/fr/france/20261023-homme-tire-rue-yvelines-un-mort-plusieurs-bless%C3%A9s-pnat",
-        "date": "Fri, 23 Oct 2026 10:56:56 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Un homme tire dans la rue dans les Yvelines, le parquet antiterroriste annonce se saisir",
-        "resume": "Une personne ​a ouvert le feu ​sur la voie publique vendredi à Trappes et ​à La ‌Verrière, dans les ⁠Yvelines, faisant un mort ‌et quatre blessés, a-t-on ⁠appris de source policière. Le Parquet nation",
-        "lien": "https://www.france24.com/fr/france/20261023-homme-tire-rue-yvelines-un-mort-plusieurs-bless%C3%A9s-pnat",
-        "date": "Fri, 23 Oct 2026 10:41:27 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "France : un homme tire dans la rue à Trappes, un mort et quatre blessés",
-        "resume": "Un homme a tiré dans la rue vendredi matin à Trappes et à La Verrière (Yvelines), tuant une personne et en blessant quatre, a-t-on appris de source policière.",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261023-france-un-homme-tire-dans-la-rue-%C3%A0-trappes-un-mort-et-quatre-bless%C3%A9s",
-        "date": "Fri, 23 Oct 2026 10:36:42 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Hope",
-        "date_sortie": "2026-10-28",
-        "synopsis": "Alors que les secours sont mobilisés ailleurs et que toute communication est interrompue, les habitants de Hope doivent faire face seuls à une menace grandissante. Tandis que certains tentent de protéger le village, d’au",
-        "note": 6.9,
-        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
-      },
-      {
-        "titre": "Street Fighter",
-        "date_sortie": "2026-10-13",
-        "synopsis": "En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affrontement brutal où se mê",
-        "note": 6.306,
-        "affiche": "https://image.tmdb.org/t/p/w300/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"
-      },
-      {
-        "titre": "Malfaisante",
-        "date_sortie": "2026-10-14",
-        "synopsis": "Une famille est la cible d'une entité qu'elle appelle « l'autre maman ».",
-        "note": 5.845,
-        "affiche": "https://image.tmdb.org/t/p/w300/wAofwsldMDNAIzGSEfMJMoUn1KB.jpg"
-      },
-      {
-        "titre": "Englouti",
-        "date_sortie": "2026-10-14",
-        "synopsis": "Un plongeur sous-marin est à la recherche des restes de son père décédé, qui s'est fait avaler par un cachalot. Il ne lui reste plus qu'une heure avant que l'oxygène ne vienne à lui manquer.",
-        "note": 6.528,
-        "affiche": "https://image.tmdb.org/t/p/w300/qLt9F35AdGKDXPSJtqH5DERoigI.jpg"
-      },
-      {
-        "titre": "Clayface",
-        "date_sortie": "2026-10-21",
-        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
-        "note": 7.313,
-        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
-      },
-      {
-        "titre": "Resident Evil",
-        "date_sortie": "2026-09-16",
-        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
-        "note": 7.297,
-        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Complete Orchestral Works, Vol. 3",
-        "artiste": "Maurice Ravel",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "WEBINAIRE - Cibler, prospecter et transformer ses prospects : optimiser votre prospection et votre ciblage avec l'aide de l'IA",
-        "date_debut": "2026-10-23T07:00:00+00:00",
-        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Visite commentée Derrière la porte du 106",
-        "date_debut": "2026-10-23T08:00:00+00:00",
-        "lieu": "Archives départementales de Maine-et-Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Les aventures du Prince Ahmed",
-        "date_debut": "2026-10-23T13:00:00+00:00",
-        "lieu": "Centre de Congrès d'Angers",
-        "ville": "Angers"
-      },
-      {
-        "titre": "39e Festival International du Voyage à Vélo",
-        "date_debut": "2026-10-24T08:00:00+00:00",
-        "lieu": "Centre des congrès",
-        "ville": "Angers"
-      },
-      {
-        "titre": "ZAMDANE - ANGERS",
-        "date_debut": "2026-10-24T18:30:00+00:00",
-        "lieu": "Le Chabada",
-        "ville": "Angers"
-      },
-      {
-        "titre": "LE PORTEUR D'HISTOIRE",
-        "date_debut": "2026-10-23",
-        "lieu": "Théâtre 100 Noms",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le livre d’artiste concours et exposition – Musée de l'imprimerie",
-        "date_debut": "2026-10-23",
-        "lieu": "Musée-atelier de l'imprimerie de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Là où subsiste encore ton écho",
-        "date_debut": "2026-10-23",
-        "lieu": "Ecole des Beaux-Arts Nantes St-Nazaire",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Amaurose – Spectacle interactif",
-        "date_debut": "2026-10-23",
-        "lieu": "La Cour des miracles",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "PRODIGUE ou les rêverie d'un homme en chute libre",
-        "date_debut": "2026-10-23",
-        "lieu": "Nouveau Studio Théâtre",
         "ville": "Nantes"
       }
     ]
