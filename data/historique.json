@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-11-08",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Quatre choses à ne pas oublier pour faire bon usage des sondages et enquêtes d'opinion en période électorale",
+        "resume": "Avec la multiplication des sondages à l'approche de la présidentielle, il peut être difficile de lire entre les lignes (et les chiffres). Nicolas Hubé, professeur en sciences de l'information et de la",
+        "lien": "https://www.franceinfo.fr/elections/quatre-choses-a-ne-pas-oublier-pour-faire-bon-usage-des-sondages-et-enquetes-d-opinion-en-periode-electorale_8270903.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 08 Nov 2026 11:22:23 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Accident mortel dans l'Ain : quelles sont les obligations des conducteurs et des passagers à bord des autocars ?",
+        "resume": "Pour limiter les risques de somnolence, il est notamment interdit pour les chauffeurs de cars de conduire plus de quatre heures et demie sans pause.",
+        "lien": "https://www.franceinfo.fr/faits-divers/accident/accident-mortel-dans-l-ain-quelles-sont-les-obligations-des-conducteurs-et-des-passagers-a-bord-des-autocars_8272445.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 08 Nov 2026 12:07:04 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Il faut appuyer encore, jusqu'à ce qu'on obtienne gain de cause\" : dans l'attente de réponses du gouvernement, les jeunes prêts à poursuivre les mobilisations",
+        "resume": "À Paris, étudiants et lycéens ont dénoncé samedi la précarité, la vie chère et le manque de moyens dans l'Éducation nationale. Ils se disent prêts à manifester à nouveau mardi.",
+        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-il-faut-appuyer-encore-jusqu-a-ce-qu-on-obtienne-gain-de-cause-dans-l-attente-de-reponses-du-gouvernement-les-jeunes-prets-a-poursuivre-les-mobilisations_8273057.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 08 Nov 2026 09:05:40 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Guerre en Ukraine : les Européens, dont la France, seront \"représentés\" lors des négociations à Abu Dhabi, rapporte le ministre des Affaires étrangères",
+        "resume": "Invité dimanche de RTL/Public Sénat, Jean-Noël Barrot n'a pas précisé qui représentera Paris durant ces pourparlers, qui doivent se dérouler les 10 et 11 novembre.",
+        "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-europeens-dont-la-france-seront-representes-lors-des-negociations-a-abu-dhabi-rapporte-le-ministre-des-affaires-etrangeres_8273333.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 08 Nov 2026 13:25:46 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Le lycéen de La Courneuve soupçonné d'avoir poignardé son camarade a été mis en examen et placé sous contrôle judiciaire",
+        "resume": "Son contrôle judiciaire comporte \"notamment une interdiction de paraître en Seine-Saint-Denis\", a fait savoir dimanche le procureur de Bobigny.",
+        "lien": "https://www.franceinfo.fr/france/ile-de-france/seine-saint-denis/le-lyceen-de-la-courneuve-soupconne-d-avoir-poignarde-son-camarade-a-ete-mis-en-examen-et-place-sous-controle-judiciaire_8273318.html#xtor=RSS-3-[lestitres]",
+        "date": "Sun, 08 Nov 2026 12:55:01 +0100"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Trump veut Dana White, patron de la fédération de MMA, comme porte-parole",
+        "resume": "Donald Trump a annoncé samedi avoir proposé le poste de porte-parole de la Maison Blanche à Dana White, un de ses proches qui dirige l'UFC, principale organisation mondiale d'arts martiaux mixtes (MMA",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261108-trump-veut-dana-white-patron-de-la-f%C3%A9d%C3%A9ration-de-mma-comme-porte-parole",
+        "date": "Sun, 08 Nov 2026 11:30:40 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "\"Non au data-center de Rantigny\" : manifestation contre le développement de l'IA",
+        "resume": "Une manifestation a été organisée pour dire non au futur projet de data center à Rantigny (Oise), ce samedi 7 novembre 2026, réunissant riverains et élus d’opposition.",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261108-non-au-data-center-de-rantigny-manifestation-contre-le-d%C3%A9veloppement-de-l-ia",
+        "date": "Sun, 08 Nov 2026 10:55:31 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Budget pharaonique, révolution graphique... Cinq raisons qui font de \"GTA VI\" le jeu du siècle",
+        "resume": "\"Grand Theft Auto VI\" débarque le 19 novembre sur Playstation et Xbox Series. Qualifié de \"jeu du siècle\", le nouvel opus du studio Rockstar occupe une place à part dans l'industrie vidéoludique, prom",
+        "lien": "https://www.france24.com/fr/culture/20261108-budget-pharaonique-r%C3%A9volution-graphique-pourquoi-gta-vi-peut-devenir-jeu-si%C3%A8cle-jeux-vid%C3%A9o-rockstar",
+        "date": "Sun, 08 Nov 2026 10:53:44 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Hope",
+        "date_sortie": "2026-10-28",
+        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
+        "note": 6.746,
+        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
+      },
+      {
+        "titre": "Verity",
+        "date_sortie": "2026-09-30",
+        "synopsis": "Lorsqu’un accident affecte les capacités de l’autrice de bestsellers, Verity Crawford, à achever son œuvre, une écrivaine solitaire, Lowen Ashleigh, qui peine à joindre les deux bouts est engagée pour lui prêter sa plume",
+        "note": 6.97,
+        "affiche": "https://image.tmdb.org/t/p/w300/1ob7dZ1rvAgHOpVJGjJ2voibOp.jpg"
+      },
+      {
+        "titre": "Godzilla Minus Zero",
+        "date_sortie": "2026-11-04",
+        "synopsis": "Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réapparaît des années plus",
+        "note": 8.099,
+        "affiche": "https://image.tmdb.org/t/p/w300/uxHbKK2FisqW8jZghVgsD9KEy71.jpg"
+      },
+      {
+        "titre": "Ramayana : L'avènement d'une légende",
+        "date_sortie": "2026-11-06",
+        "synopsis": "Une épopée ancienne suit un jeune prince et une jeune princesse dont le mariage et l'exil qui a suivi marquent le début d'un voyage légendaire. Leur histoire d'amour, de devoir et de destin ouvre la voie à de nouveaux dé",
+        "note": 7.8,
+        "affiche": "https://image.tmdb.org/t/p/w300/iCz9Wf8KCU8BXQ9Pws0pHctguiZ.jpg"
+      },
+      {
+        "titre": "Clayface",
+        "date_sortie": "2026-10-21",
+        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
+        "note": 7.449,
+        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
+      },
+      {
+        "titre": "Obsession",
+        "date_sortie": "2026-05-13",
+        "synopsis": "Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lui… jusqu’à l’obsessi",
+        "note": 8.2,
+        "affiche": "https://image.tmdb.org/t/p/w300/mDCR1frpUvGfIKksuM440VLb7X9.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 1",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Opportunités d'emploi en manutention, tri, logistique, nettoyage, restauration pour les publics en insertion",
+        "date_debut": "2026-11-09T08:30:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Testez vos habiletés et trouvez votre voie dans l'industrie !",
+        "date_debut": "2026-11-10T07:30:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Testez vos habiletés et trouvez votre voie dans l'industrie !",
+        "date_debut": "2026-11-10T07:30:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "SPECIAL TERTIAIRE : (Gestionnaire service Client et assistant.e Administration des ventes) REUNION PUIS ENTRETIENS INDIVIDUELS DE RECRUTEMEN",
+        "date_debut": "2026-11-10T08:00:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Comptoir des offres d'emploi PROMAN - Semaine de l'emploi agroalimentaire",
+        "date_debut": "2026-11-10T08:00:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Christophe Maé en tournée",
+        "date_debut": "2026-11-08",
+        "lieu": "Zénith Nantes Métropole",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "1er dimanche du mois : entrée gratuite au musée Jules Verne",
+        "date_debut": "2026-11-08",
+        "lieu": "Musée Jules Verne",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition Libellules",
+        "date_debut": "2026-11-08",
+        "lieu": "Château de La Gobinière",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le livre d’artiste concours et exposition – Musée de l'imprimerie",
+        "date_debut": "2026-11-08",
+        "lieu": "Musée-atelier de l'imprimerie de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition Le Muséum au fil du temps",
+        "date_debut": "2026-11-08",
+        "lieu": "Place de la Monnaie",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-11-07",
     "news": [
       {
@@ -2520,205 +2719,6 @@
         "titre": "The Art of the Brick - Exposition d’art en Lego",
         "date_debut": "2026-10-26",
         "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-25",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "La garde à vue du suspect de l'attentat raciste à Trappes \"suspendue\" le temps \"d'une période d'observation psychiatrique susceptible de durer 48 heures\", annonce le parquet antiterroriste",
-        "resume": "Le Pnat précise par ailleurs que l'analyse toxicologique \"a permis de révéler la présence de cannabis et de cocaïne dans son sang\". Les gardes à vue des membres de l'entourage familial et amical de Ké",
-        "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/la-garde-a-vue-du-suspect-de-l-attentat-raciste-a-trappes-suspendue-le-temps-d-une-periode-d-observation-psychiatrique-susceptible-de-durer-48-heures-annonce-le-parquet-antiterroriste_8252896.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 25 Oct 2026 11:42:56 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Une mobilisation importante mais en légère baisse, plusieurs blessés graves, près de 1 300 interpellations… Ce qu'il faut retenir de ce samedi de manifestation",
-        "resume": "Une semaine après des manifestations émaillées de violences, plusieurs centaines de milliers de personnes ont de nouveau manifesté sur le territoire. \"Les cortèges se sont bien déroulés\", a assuré le ",
-        "lien": "https://www.franceinfo.fr/societe/manifestations/mobilisation-en-baisse-pres-de-1-000-interpellations-deux-blesses-graves-ce-qu-il-faut-retenir-de-cette-nouvelle-journee-de-manifestation-contre-la-vie-chere-partout-en-france_8252476.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 25 Oct 2026 11:28:07 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Comment Marine Le Pen, plus optimiste que jamais pour 2027, veut prendre de la hauteur et installer sa \"force tranquille\"",
-        "resume": "Avec son discours dimanche à Orléans, la candidate du RN entend insuffler de l'optimisme dans un monde chaotique. Et installer encore un peu plus dans l'opinion son statut de favorite du scrutin prési",
-        "lien": "https://www.franceinfo.fr/politique/marine-le-pen/comment-marine-le-pen-plus-optimiste-que-jamais-pour-2027-veut-prendre-de-la-hauteur-et-installer-sa-force-tranquille_8252809.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 25 Oct 2026 08:28:30 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Qui est Flavio Bolsonaro, le candidat d'extrême droite qui peut remporter l'élection présidentielle au Brésil ?",
-        "resume": "Le fils aîné de l'ancien chef de l'Etat Jair Bolsonaro a créé la surprise il y a trois semaines en recueillant 47% des suffrages au premier tour, devant le président de gauche sortant, Lula.",
-        "lien": "https://www.franceinfo.fr/monde/bresil/qui-est-flavio-bolsonaro-le-candidat-d-extreme-droite-qui-peut-remporter-l-election-presidentielle-au-bresil_8223358.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 25 Oct 2026 07:03:18 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Ni pardon, ni excuses\" : avant des élections cruciales pour Benyamin Nétanyahou, un documentaire donne la parole aux Israéliens qui le tiennent en partie responsable du 7-Octobre",
-        "resume": "Avant les législatives organisées mardi, un documentaire ausculte les fractures au sein de la société israélienne, accentuées par les attaques meurtrières du Hamas le 7 octobre 2023, et les révélation",
-        "lien": "https://www.franceinfo.fr/monde/israel/videos-ni-pardon-ni-excuses-avant-des-elections-cruciales-pour-benyamin-netanyahou-un-documentaire-donne-la-parole-aux-israeliens-qui-le-tiennent-en-partie-responsable-du-7-octobre_8219710.html#xtor=RSS-3-[lestitres]",
-        "date": "Sun, 25 Oct 2026 07:02:17 +0100"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Mobilisation du 24 octobre : plus de 1 300 interpellations, une cinquantaine de policiers blessés",
-        "resume": "Dimanche, le ministère de l’Intérieur a fait état de plus de 1 314 interpellations et de 53 membres des forces de l’ordre blessés, au lendemain de nouvelles manifestations en France. Au moins 410 000 ",
-        "lien": "https://www.france24.com/fr/france/20261025-mobilisation-du-24-octobre-plus-de-1-300-interpellations-une-cinquantaine-de-policiers-bless%C3%A9s",
-        "date": "Sun, 25 Oct 2026 10:33:22 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Attentat dans les Yvelines : le suspect placé en observation psychiatrique",
-        "resume": "La garde à vue de l'homme soupçonné d'avoir tué une personne et blessé cinq autres dans les Yvelines a été levée pour raisons psychiatriques, a annoncé, dimanche, le parquet national antiterroriste. L",
-        "lien": "https://www.france24.com/fr/france/20261025-fusillade-meurtri%C3%A8re-dans-les-yvelines-le-suspect-plac%C3%A9-en-observation-psychiatrique",
-        "date": "Sun, 25 Oct 2026 10:15:19 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Midterms : Trump va-t-il \"tricher à tout va\" ? Neuf scénarios possibles",
-        "resume": "Donnés perdants aux prochaines élections de mi-mandat, les républicains et Donald Trump multiplient les initiatives controversées pour influencer le résultat. Son administration a déjà intenté un reco",
-        "lien": "https://www.france24.com/fr/am%C3%A9riques/20261025-midterms-trump-va-t-il-tricher-%C3%A0-tout-va-neuf-sc%C3%A9narios-possibles",
-        "date": "Sun, 25 Oct 2026 10:03:58 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Hope",
-        "date_sortie": "2026-10-28",
-        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
-        "note": 6.8,
-        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
-      },
-      {
-        "titre": "Clayface",
-        "date_sortie": "2026-10-21",
-        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
-        "note": 7.6,
-        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
-      },
-      {
-        "titre": "Street Fighter",
-        "date_sortie": "2026-10-13",
-        "synopsis": "En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affrontement brutal où se mê",
-        "note": 6.364,
-        "affiche": "https://image.tmdb.org/t/p/w300/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"
-      },
-      {
-        "titre": "Malfaisante",
-        "date_sortie": "2026-10-14",
-        "synopsis": "Une famille est la cible d'une entité qu'elle appelle « l'autre maman ».",
-        "note": 5.86,
-        "affiche": "https://image.tmdb.org/t/p/w300/wAofwsldMDNAIzGSEfMJMoUn1KB.jpg"
-      },
-      {
-        "titre": "Resident Evil",
-        "date_sortie": "2026-09-16",
-        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
-        "note": 7.3,
-        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
-      },
-      {
-        "titre": "Englouti",
-        "date_sortie": "2026-10-14",
-        "synopsis": "Un plongeur sous-marin est à la recherche des restes de son père décédé, qui s'est fait avaler par un cachalot. Il ne lui reste plus qu'une heure avant que l'oxygène ne vienne à lui manquer.",
-        "note": 6.582,
-        "affiche": "https://image.tmdb.org/t/p/w300/qLt9F35AdGKDXPSJtqH5DERoigI.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "Arrasando",
-        "artiste": "Krystal Martínez-Rodríguez",
-        "date_sortie": "2026-10-19"
-      },
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Broken Dreams",
-        "artiste": "Siska",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "ЖЗЛ",
-        "artiste": "Lacerate",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Не ври мне, что всё будет хорошо",
-        "artiste": "Мёртвая Вера",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "RECRUTEMENT QUICK postes Equipier(e)s Polyvalent(e)s de Restauration formé(e)s avec expérience",
-        "date_debut": "2026-10-26T07:30:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "VISIO Mon projet de formation- les étapes, les financements, la rémunération - Pour les demandeurs d'emploi d'ANGERS CAPUCINS:",
-        "date_debut": "2026-10-26T08:30:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Qualité des produits carnés en circuit court : un parcours de connaissance gratuit à découvrir",
-        "date_debut": "2026-10-26T16:30:00+00:00",
-        "lieu": "Chambre d’agriculture Pays de la Loire, Angers (49)",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Retrouvez motivation et confiance grâce au sport !",
-        "date_debut": "2026-10-27T12:45:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Visio Opportunités du moment - Angers Capucins",
-        "date_debut": "2026-10-27T13:00:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Histoire : nom féminin",
-        "date_debut": "2026-10-25",
-        "lieu": "Fabrique à Impros (La)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "House of Banksy - Une expo non autorisée",
-        "date_debut": "2026-10-25",
-        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Exposition Le Muséum au fil du temps",
-        "date_debut": "2026-10-25",
-        "lieu": "Place de la Monnaie",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le livre d’artiste concours et exposition – Musée de l'imprimerie",
-        "date_debut": "2026-10-25",
-        "lieu": "Musée-atelier de l'imprimerie de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Visite guidée – Nantes et son château",
-        "date_debut": "2026-10-25",
-        "lieu": "Château des Ducs de Bretagne - Musée d'Histoire de Nantes",
         "ville": "Nantes"
       }
     ]
