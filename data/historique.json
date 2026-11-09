@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-11-09",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Augmentation du smic, allègements de charges pour les entreprises... Ce qu'il faut retenir des annonces du gouvernement à l'issue de la conférence sociale",
+        "resume": "Le Premier ministre Sébastien Lecornu a notamment promis une revalorisation du smic au-delà de l'inflation dès le 1er décembre. Non satisfaits, les syndicats ont appelé à poursuivre la mobilisation so",
+        "lien": "https://www.franceinfo.fr/economie/greve/augmentation-du-smic-allegements-de-charges-pour-les-entreprises-ce-qu-il-faut-retenir-des-annonces-du-gouvernement-a-l-issue-de-la-conference-sociale_8274527.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 09 Nov 2026 15:03:03 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Le procès de trois policiers accusés d'avoir roué de coups Michel Zecler s'ouvre à Paris",
+        "resume": "L'audience s'est ouverte lundi matin, dans une ambiance un peu confuse en raison du manque de places dans la salle d'audience, trop exiguë pour accueillir tous les soutiens du producteur de musique pa",
+        "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/le-proces-de-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler-s-ouvre-a-paris_8274458.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 09 Nov 2026 15:50:28 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"La résignation n'est pas une option\" : Teddy Riner annonce sa candidature à l'élection présidentielle 2027",
+        "resume": "La superstar du sport et du judo français a fait acte de candidature lundi matin, estimant que le pays \"a besoin de bon sens, de fermeté, de justice et d'un Etat qui remet les choses à l'endroit\".",
+        "lien": "https://www.franceinfo.fr/elections/presidentielle/la-resignation-n-est-pas-une-option-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-2027_8274359.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 09 Nov 2026 16:01:52 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Une intersyndicale de la fonction publique annonce une grève le 17 novembre, la CGT appelle \"l'ensemble des salariés, des retraités, des jeunes\" à se mobiliser",
+        "resume": "La deuxième force syndicale dans la fonction publique, Force ouvrière, ainsi que la troisième, la CFDT, ne figurent pas, pour l'heure, parmi les organisations signataires de cet appel.",
+        "lien": "https://www.franceinfo.fr/economie/greve/une-intersyndicale-de-la-fonction-publique-appelle-a-la-greve-le-17-novembre_8274494.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 09 Nov 2026 15:21:59 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Procès des parents de la \"petite martyre de l'A10\" : leurs expertises psychologique et psychiatriques au cœur du sixième jour d'audience à Blois",
+        "resume": "Les parents de la petite Inass Touloub, retrouvée morte à 4 ans le 11 août 1987, le long de l'autoroute A10, sont jugés pour \"actes de torture et de barbarie ayant entraîné la mort sans intention de l",
+        "lien": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/direct-proces-des-parents-de-la-petite-martyre-de-l-a10-la-personnalite-des-deux-accuses-au-c-ur-du-sixieme-jour-d-audience_8274377.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 09 Nov 2026 15:57:16 +0100"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Présidentielle : Glucksmann promet 200 milliards d'euros pour la sortie des énergies fossiles",
+        "resume": "Pour atteindre la neutralité carbone en 2050, le candidat de la gauche sociale-démocrate à l'élection présidentielle, Raphaël Glucksmann, a promis lundi de proclamer un \"état d'urgence écologique\" et ",
+        "lien": "https://www.france24.com/fr/france/20261109-pr%C3%A9sidentielle-glucksmann-promet-200-milliards-euros-sortie-%C3%A9nergies-fossiles",
+        "date": "Mon, 09 Nov 2026 14:52:58 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "France : Lecornu donne un coup de pouce au Smic, la colère ne retombe pas",
+        "resume": "Un Smic augmenté et des exonérations de charges conditionnées : sous pression des manifestants et sans marge financière, Sébastien Lecornu a tenté lundi de répondre à la colère sociale exprimée depuis",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261109-france-lecornu-donne-un-coup-de-pouce-au-smic-la-col%C3%A8re-ne-retombe-pas",
+        "date": "Mon, 09 Nov 2026 14:44:11 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Inde : nouveau pic de pollution atmosphérique à New Delhi",
+        "resume": "La capitale indienne New Delhi est enveloppée lundi dans un épais brouillard de pollution, quotidien à l'automne et aggravé par les retombées des pétards et des feux d'artifice au lendemain des festiv",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261109-inde-nouveau-pic-de-pollution-atmosph%C3%A9rique-%C3%A0-new-delhi",
+        "date": "Mon, 09 Nov 2026 14:43:44 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Hope",
+        "date_sortie": "2026-10-28",
+        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
+        "note": 6.7,
+        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
+      },
+      {
+        "titre": "Godzilla Minus Zero",
+        "date_sortie": "2026-11-04",
+        "synopsis": "Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réapparaît des années plus",
+        "note": 8.0,
+        "affiche": "https://image.tmdb.org/t/p/w300/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg"
+      },
+      {
+        "titre": "Verity",
+        "date_sortie": "2026-09-30",
+        "synopsis": "Lorsqu’un accident affecte les capacités de l’autrice de bestsellers, Verity Crawford, à achever son œuvre, une écrivaine solitaire, Lowen Ashleigh, qui peine à joindre les deux bouts est engagée pour lui prêter sa plume",
+        "note": 7.003,
+        "affiche": "https://image.tmdb.org/t/p/w300/1ob7dZ1rvAgHOpVJGjJ2voibOp.jpg"
+      },
+      {
+        "titre": "Ramayana : L'avènement d'une légende",
+        "date_sortie": "2026-11-06",
+        "synopsis": "Une épopée ancienne suit un jeune prince et une jeune princesse dont le mariage et l'exil qui a suivi marquent le début d'un voyage légendaire. Leur histoire d'amour, de devoir et de destin ouvre la voie à de nouveaux dé",
+        "note": 7.652,
+        "affiche": "https://image.tmdb.org/t/p/w300/iCz9Wf8KCU8BXQ9Pws0pHctguiZ.jpg"
+      },
+      {
+        "titre": "Clayface",
+        "date_sortie": "2026-10-21",
+        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
+        "note": 7.439,
+        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
+      },
+      {
+        "titre": "Obsession",
+        "date_sortie": "2026-05-13",
+        "synopsis": "Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lui… jusqu’à l’obsessi",
+        "note": 8.2,
+        "affiche": "https://image.tmdb.org/t/p/w300/mDCR1frpUvGfIKksuM440VLb7X9.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Through Lines",
+        "artiste": "Skye Peterson",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Opportunités d'emploi en manutention, tri, logistique, nettoyage, restauration pour les publics en insertion",
+        "date_debut": "2026-11-09T08:30:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Testez vos habiletés et trouvez votre voie dans l'industrie !",
+        "date_debut": "2026-11-10T07:30:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Testez vos habiletés et trouvez votre voie dans l'industrie !",
+        "date_debut": "2026-11-10T07:30:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "SPECIAL TERTIAIRE : (Gestionnaire service Client et assistant.e Administration des ventes) REUNION PUIS ENTRETIENS INDIVIDUELS DE RECRUTEMEN",
+        "date_debut": "2026-11-10T08:00:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Comptoir des offres d'emploi PROMAN - Semaine de l'emploi agroalimentaire",
+        "date_debut": "2026-11-10T08:00:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Don du sang — Maison du don, Nantes",
+        "date_debut": "2026-11-09",
+        "lieu": "Maison du don",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition du Violentomètre",
+        "date_debut": "2026-11-09",
+        "lieu": "Carré des Services (Le)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le livre d’artiste concours et exposition – Musée de l'imprimerie",
+        "date_debut": "2026-11-09",
+        "lieu": "Musée-atelier de l'imprimerie de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "L'Étreinte",
+        "date_debut": "2026-11-09",
+        "lieu": "Place Jean V devant l'entrée du Musée Dobrée",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition \"Laennec à Nantes, mémoire des collections et postérité\"",
+        "date_debut": "2026-11-09",
+        "lieu": "Bibliothèque universitaire de Santé",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-11-08",
     "news": [
       {
@@ -2520,205 +2719,6 @@
         "titre": "Programme de sensibilisation aux discriminations · Magma'Nantes #11",
         "date_debut": "2026-10-27",
         "lieu": "Open Lande",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-26",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Emmanuel Macron à Marseille : le président s'attend à \"une journée à risques\" samedi et annonce que les prochains tracés des manifestations autorisées se eront hors des centres-villes",
-        "resume": "Le chef de l'Etat a aussi reconnu que les effectifs de forces de l'ordre déployés le 17 octobre étaient insuffisants.",
-        "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-emmanuel-macron-a-marseille-le-president-est-arrive-a-la-mairie-degradee-le-17-octobre-accueilli-par-benoit-payan_8254135.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 26 Oct 2026 13:04:15 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Mobilisation des lycéens : Sébastien Lecornu reçoit des influenceurs engagés dans le mouvement pour évoquer les \"attentes des jeunes\"",
-        "resume": "Sébastien Lecornu doit ensuite recevoir les organisations lycéennes puis étudiantes, espérant clore ainsi cinq semaines de crise entamées par des blocages d'établissements.",
-        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-le-gouvernement-recoit-les-organisations-dans-l-apres-midi-et-promet-des-reponses-tres-concretes_8253718.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 26 Oct 2026 11:57:06 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Deux nouveaux traitements contre le cancer du poumon améliorent les chances de survie des patients",
-        "resume": "Les chercheurs ont fait part de leur avancée au congrès de cancérologie qui se réunit à Madrid jusqu'à mardi. Le cancer des poumons est l'un des plus courants et des plus ravageurs.",
-        "lien": "https://www.franceinfo.fr/sante/cancer/deux-nouveaux-traitements-contre-le-cancer-du-poumon-ameliorent-les-chances-de-survie-des-patients_8254069.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 26 Oct 2026 12:02:56 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "À Londres, les supporters anglais voient déjà Harry Kane remporter le Ballon d'Or malgré la concurrence",
-        "resume": "Qui succédera au tenant du titre? Le suspense reste total pour ce Ballon d'Or 26. En Angleterre, les fans espèrent que leur attaquant vedette qui est le meilleur buteur de la saison remportera le pres",
-        "lien": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/a-londres-les-supporters-anglais-voient-deja-harry-kane-remporter-le-ballon-d-or-malgre-la-concurrence_8253817.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 26 Oct 2026 11:48:19 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Attentat raciste dans les Yvelines : les quatre gardes à vue des proches du principal suspect levées",
-        "resume": "Parmi eux figuraient la mère et le père du principal suspect, Kévin T.",
-        "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-dans-les-yvelines-les-quatre-gardes-a-vue-des-proches-du-principal-suspect-levees_8254009.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 26 Oct 2026 10:46:49 +0100"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "RD Congo : la loi sur les conditions du référendum adoptée",
-        "resume": "🇨🇩 En RDC, l’Assemblée nationale adopte à nouveau la proposition de loi sur les conditions du référendum. L’opposition y voit un risque de révision constitutionnelle ouvrant la voie à un troisième man",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261026-rd-congo-la-loi-sur-les-conditions-du-r%C3%A9f%C3%A9rendum-adopt%C3%A9e",
-        "date": "Mon, 26 Oct 2026 12:03:56 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Élections en Israël : un scrutin en forme de référendum, pour ou contre Netanyahu ?",
-        "resume": "Le Premier ministre israélien Benjamin Netanyahu est à la tête de son pays, quasiment sans interruption, depuis près de 17 ans. Parviendra-t-il à se maintenir au pouvoir à l'issue des élections législ",
-        "lien": "https://www.france24.com/fr/%C3%A9missions/focus/20261026-%C3%A9lections-en-isra%C3%ABl-un-scrutin-en-forme-de-r%C3%A9f%C3%A9rendum-pour-ou-contre-netanyahu",
-        "date": "Mon, 26 Oct 2026 11:55:14 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Bruno Patino invité d'Au cœur de l'info pour son livre \"Le temps de l'obsolescence humaine\"",
-        "resume": "Il est l’un des premiers à nous avoir alertés sur l’emprise des écrans et des réseaux sociaux sur nos vies. Aujourd’hui, Bruno Patino tire une nouvelle sonnette d’alarme dans son nouvel essai, Le Temp",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261026-bruno-patino-invit%C3%A9-d-au-c%C5%93ur-de-l-info-pour-son-livre-le-temps-de-l-obsolescence-humaine",
-        "date": "Mon, 26 Oct 2026 11:02:44 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Hope",
-        "date_sortie": "2026-10-28",
-        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
-        "note": 6.794,
-        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
-      },
-      {
-        "titre": "Clayface",
-        "date_sortie": "2026-10-21",
-        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
-        "note": 7.6,
-        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
-      },
-      {
-        "titre": "Street Fighter",
-        "date_sortie": "2026-10-13",
-        "synopsis": "En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affrontement brutal où se mê",
-        "note": 6.408,
-        "affiche": "https://image.tmdb.org/t/p/w300/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"
-      },
-      {
-        "titre": "Resident Evil",
-        "date_sortie": "2026-09-16",
-        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
-        "note": 7.312,
-        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
-      },
-      {
-        "titre": "Englouti",
-        "date_sortie": "2026-10-14",
-        "synopsis": "Un plongeur sous-marin est à la recherche des restes de son père décédé, qui s'est fait avaler par un cachalot. Il ne lui reste plus qu'une heure avant que l'oxygène ne vienne à lui manquer.",
-        "note": 6.604,
-        "affiche": "https://image.tmdb.org/t/p/w300/qLt9F35AdGKDXPSJtqH5DERoigI.jpg"
-      },
-      {
-        "titre": "Malfaisante",
-        "date_sortie": "2026-10-14",
-        "synopsis": "Une famille est la cible d'une entité qu'elle appelle « l'autre maman ».",
-        "note": 5.833,
-        "affiche": "https://image.tmdb.org/t/p/w300/wAofwsldMDNAIzGSEfMJMoUn1KB.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Complete Orchestral Works, Vol. 3",
-        "artiste": "Maurice Ravel",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "RECRUTEMENT QUICK postes Equipier(e)s Polyvalent(e)s de Restauration formé(e)s avec expérience",
-        "date_debut": "2026-10-26T07:30:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "VISIO Mon projet de formation- les étapes, les financements, la rémunération - Pour les demandeurs d'emploi d'ANGERS CAPUCINS:",
-        "date_debut": "2026-10-26T08:30:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Qualité des produits carnés en circuit court : un parcours de connaissance gratuit à découvrir",
-        "date_debut": "2026-10-26T16:30:00+00:00",
-        "lieu": "Chambre d’agriculture Pays de la Loire, Angers (49)",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Retrouvez motivation et confiance grâce au sport !",
-        "date_debut": "2026-10-27T12:45:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Visio Opportunités du moment - Angers Capucins",
-        "date_debut": "2026-10-27T13:00:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Stage Théâtre enfants 7-11 ans",
-        "date_debut": "2026-10-26",
-        "lieu": "Pôle associatif Mangin Beaulieu",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Stage Théâtre Ado 12-18 ans",
-        "date_debut": "2026-10-26",
-        "lieu": "Pôle associatif Mangin Beaulieu",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Raconte moi une histoire",
-        "date_debut": "2026-10-26",
-        "lieu": "Manou Partages",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Barbu - Portnawak",
-        "date_debut": "2026-10-26",
-        "lieu": "Théâtre Rue de Belleville",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "The Art of the Brick - Exposition d’art en Lego",
-        "date_debut": "2026-10-26",
-        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
         "ville": "Nantes"
       }
     ]
