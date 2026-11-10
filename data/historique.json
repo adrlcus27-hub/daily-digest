@@ -1,5 +1,173 @@
 [
   {
+    "date": "2026-11-10",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Jet de bouteille d'essence, enquête ouverte… Ce que l'on sait de l'agression d'une conseillère régionale devant un lycée de Chelles",
+        "resume": "Une élue régionale LR a reçu une bouteille d'essence dans la poitrine, mardi matin, alors qu'elle était venue négocier le retour en classe des élèves d'un lycée de cette ville de région parisienne. El",
+        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/jet-de-bouteille-d-essence-enquete-ouverte-ce-que-l-on-sait-de-l-agression-d-une-conseillere-regionale-devant-un-lycee-de-chelles_8276324.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 10 Nov 2026 15:04:25 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Qu'est-ce que Shahid Kaveh, le groupe cyber iranien accusé d'avoir attaqué les frigos de supermarchés en France ?",
+        "resume": "La France affirme que l'Iran est responsable de la cyberattaque qui a perturbé des centaines de magasins mi-octobre. L'unité Shahid Kaveh, rattachée aux Gardiens de la Révolution iraniens et habituée ",
+        "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/qu-est-ce-que-shahid-kaveh-le-groupe-cyber-iranien-accuse-d-avoir-attaque-les-frigos-de-supermarches-en-france_8276177.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 10 Nov 2026 15:11:19 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "La pétition appelant à \"supprimer CNews de l'audiovisuel français\" classée en commission à l'Assemblée nationale",
+        "resume": "Les députés de la commission des affaires culturelles et de l'éducation se sont opposés, d'une courte majorité, à l'organisation d'un débat dans l'hémicycle sur ce texte, qui a recueilli plus d'un mil",
+        "lien": "https://www.franceinfo.fr/politique/la-petition-appelant-a-supprimer-cnews-de-l-audiovisuel-francais-classee-par-la-commission-de-l-assemblee-nationale_8276303.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 10 Nov 2026 15:02:17 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Pourparlers entre la Russie et l'Ukraine : quelles sont les exigences de chaque partie ?",
+        "resume": "Après neuf mois d'interruption, l'Ukraine et la Russie reprennent mardi, sous médiation des Etats-Unis, les négociations en vue de la paix, aux Emirats arabes unis. Les Européens seront également repr",
+        "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/alors-que-les-pourparlers-entre-la-russie-et-l-ukraine-deputent-a-abou-dhabi-on-fait-le-point-sur-les-exigences-de-chaque-partie_8275871.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 10 Nov 2026 11:28:40 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"C'est au peuple de décider ce qu'il veut\" : on vous résume la polémique suscitée par les propos de Jean-Luc Mélenchon sur l'Ukraine",
+        "resume": "Le candidat de La France insoumise à la présidentielle a proposé que la population ukrainienne du Donbass, en grande partie occupée par les Russes, soit consultée pour savoir si elle voulait rester uk",
+        "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/c-est-au-peuple-de-decider-lui-meme-ce-qu-il-veut-on-vous-resume-la-polemique-suscitee-par-les-propos-de-jean-luc-melenchon-sur-l-ukraine_8276072.html#xtor=RSS-3-[lestitres]",
+        "date": "Tue, 10 Nov 2026 14:51:41 +0100"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Procédure de destitution aux États-Unis : Pete Hegseth fustige une \"mise en scène politique\"",
+        "resume": "Lors d'une conférence de presse, le ministre américain de la Défense Pete Hegseth a qualifié mardi de \"farce\" et de \"mise en scène politique\" la procédure de destitution initiée à son encontre pour sa",
+        "lien": "https://www.france24.com/fr/am%C3%A9riques/20261110-%C3%A9tats-unis-proc%C3%A9dure-destitution-pete-hegseth-fustige-mise-en-sc%C3%A8ne-politique",
+        "date": "Tue, 10 Nov 2026 13:44:15 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Les ministres du G7 réunis à Paris : l'Iran et l'Ukraine au cœur des débats",
+        "resume": "Le chef de la diplomatie française, Jean-Noël Barrot, s'est entretenu mardi 10 novembre à Paris avec son homologue ukrainien, Andrii Sybiha, en marge de ⁠la réunion des ministres des Affaires étrangèr",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261110-les-ministres-du-g7-r%C3%A9unis-%C3%A0-paris-l-iran-et-l-ukraine-au-c%C5%93ur-des-d%C3%A9bats",
+        "date": "Tue, 10 Nov 2026 13:39:42 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Centres de données : le coup de chaud ?",
+        "resume": "La colère gronde contre les centres de données. Depuis plusieurs mois, des États-Unis à l’Europe, des associations se mobilisent contre l’implantation de data centers. Énergivores, consommateurs d’eau",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20261110-centres-de-donn%C3%A9es-le-coup-de-chaud",
+        "date": "Tue, 10 Nov 2026 13:31:12 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Hope",
+        "date_sortie": "2026-10-28",
+        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
+        "note": 6.695,
+        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
+      },
+      {
+        "titre": "Godzilla Minus Zero",
+        "date_sortie": "2026-11-04",
+        "synopsis": "Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réapparaît des années plus",
+        "note": 7.952,
+        "affiche": "https://image.tmdb.org/t/p/w300/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg"
+      },
+      {
+        "titre": "Verity",
+        "date_sortie": "2026-09-30",
+        "synopsis": "Lorsqu’un accident affecte les capacités de l’autrice de bestsellers, Verity Crawford, à achever son œuvre, une écrivaine solitaire, Lowen Ashleigh, qui peine à joindre les deux bouts est engagée pour lui prêter sa plume",
+        "note": 7.008,
+        "affiche": "https://image.tmdb.org/t/p/w300/1ob7dZ1rvAgHOpVJGjJ2voibOp.jpg"
+      },
+      {
+        "titre": "Ramayana : L'avènement d'une légende",
+        "date_sortie": "2026-11-06",
+        "synopsis": "Une épopée ancienne suit un jeune prince et une jeune princesse dont le mariage et l'exil qui a suivi marquent le début d'un voyage légendaire. Leur histoire d'amour, de devoir et de destin ouvre la voie à de nouveaux dé",
+        "note": 7.732,
+        "affiche": "https://image.tmdb.org/t/p/w300/iCz9Wf8KCU8BXQ9Pws0pHctguiZ.jpg"
+      },
+      {
+        "titre": "Obsession",
+        "date_sortie": "2026-05-13",
+        "synopsis": "Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lui… jusqu’à l’obsessi",
+        "note": 8.2,
+        "affiche": "https://image.tmdb.org/t/p/w300/mDCR1frpUvGfIKksuM440VLb7X9.jpg"
+      },
+      {
+        "titre": "Clayface",
+        "date_sortie": "2026-10-21",
+        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
+        "note": 7.432,
+        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
+      }
+    ],
+    "albums": [],
+    "evenements": [
+      {
+        "titre": "Testez vos habiletés et trouvez votre voie dans l'industrie !",
+        "date_debut": "2026-11-10T07:30:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Testez vos habiletés et trouvez votre voie dans l'industrie !",
+        "date_debut": "2026-11-10T07:30:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "SPECIAL TERTIAIRE : (Gestionnaire service Client et assistant.e Administration des ventes) REUNION PUIS ENTRETIENS INDIVIDUELS DE RECRUTEMEN",
+        "date_debut": "2026-11-10T08:00:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Comptoir des offres d'emploi PROMAN - Semaine de l'emploi agroalimentaire",
+        "date_debut": "2026-11-10T08:00:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Comptoir des offres d'emploi PROMAN - Semaine de l'emploi agroalimentaire",
+        "date_debut": "2026-11-10T08:00:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "POINT INFORMATION NANTES SOLIDAIRE",
+        "date_debut": "2026-11-10",
+        "lieu": "Maison de Quartier Champ de Mars",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Jardinage au jardin partagé Paysages Nourriciers du Breil",
+        "date_debut": "2026-11-10",
+        "lieu": "Parc Georges Méliès",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "IMPRO 100 NOMS BY LA POULE - LE PETIT DETOURNEMENT",
+        "date_debut": "2026-11-10",
+        "lieu": "Théâtre 100 Noms",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Atelier peinture, intuitive et créatives",
+        "date_debut": "2026-11-10",
+        "lieu": "Manou Partages",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "« Cyclistes, Brillez ! » – Édition 2026",
+        "date_debut": "2026-11-10",
+        "lieu": "Nantes Centre et Quartiers",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-11-09",
     "news": [
       {
@@ -2520,205 +2688,6 @@
         "titre": "LA GUERRE DES EMEUS",
         "date_debut": "2026-10-28",
         "lieu": "Théâtre 100 Noms",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-27",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"C'est le moment le plus important de ces 50 dernières années pour le pays\" : les jeunes électeurs, la clé des élections législatives en Israël ?",
-        "resume": "Les Israéliens ont commencé à voter mardi pour les premières élections législatives. Parmi les sept millions d'électeurs appelés aux urnes, près de 10 % sont des primo-votants. Un record.",
-        "lien": "https://www.franceinfo.fr/monde/israel/c-est-le-moment-le-plus-important-pour-le-pays-de-ces-50-dernieres-annees-les-jeunes-electeurs-traumatises-par-le-7-octobre-vont-ils-etre-la-cle-des-elections-legislatives-en-israel_8254774.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 27 Oct 2026 12:23:25 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "LFI réclame une commission d'enquête parlementaire pour \"établir les responsabilités\" sur l'attentat raciste dans les Yvelines",
-        "resume": "Clémence Guetté, députée la France insoumise du Val-de-Marne et vice-présidente de l'Assemblée nationale, dénonce la responsabilité du gouvernement dans \"la libération de la parole raciste\".",
-        "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/la-france-insoumise-reclame-une-commission-d-enquete-parlementaire-pour-etablir-les-responsabilites-sur-l-attentat-raciste-dans-les-yvelines_8255395.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 27 Oct 2026 11:58:42 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Kylian Mbappé et le Ballon d'or, l'éternel rendez-vous manqué",
-        "resume": "Battu de peu par Harry Kane, lundi, le Français n'avait jamais autant effleuré le trophée qu'il considère lui-même comme le Graal.",
-        "lien": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/kylian-mbappe-et-le-ballon-d-or-l-eternel-rendez-vous-manque_8255485.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 27 Oct 2026 12:21:18 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Mobilisation des lycéens : \"Le travail doit reprendre lundi\", enjoint le ministre de l'Enseignement supérieur",
-        "resume": "Les \"discussions avec les organisations syndicales, avec les organisations représentatives des étudiants et des lycéens\" doivent \"continuer\", a-t-il ajouté.",
-        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-annonces-du-gouvernement-ne-desamorcent-pas-les-appels-a-la-mobilisation_8255224.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 27 Oct 2026 09:27:12 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Il ne faut pas avoir peur de nos idées, montrons-nous\" : en Israël, la gauche derrière Yaïr Golan pour les élections législatives",
-        "resume": "Crédité d'environ huit à 10 sièges selon les derniers sondages, l'ancien numéro deux de l'armée israélienne espère transformer sa popularité grandissante en votes.",
-        "lien": "https://www.franceinfo.fr/monde/israel/reportage-il-ne-faut-pas-avoir-peur-de-nos-idees-montrons-nous-en-israel-la-gauche-derriere-yair-golan-pour-les-elections-legislatives_8254153.html#xtor=RSS-3-[lestitres]",
-        "date": "Tue, 27 Oct 2026 12:06:36 +0100"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "L'Irak condamne six Français à la perpétuité pour appartenance à l'organisation terroriste EI",
-        "resume": "Six Français ont été condamnés mardi à la prison à perpétuité par un tribunal irakien pour appartenance au ​groupe ‌État islamique. Un septième a écopé de 15 ans d'emprisonnement. L'un des avocats a d",
-        "lien": "https://www.france24.com/fr/moyen-orient/20261027-irak-condamne-six-fran%C3%A7ais-%C3%A0-la-perpetuite-pour-appartenance-a-organisation-terroriste-etat-islamique-ei",
-        "date": "Tue, 27 Oct 2026 11:26:05 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Premières législatives depuis le 7 Octobre, Netanyahu à l'épreuve des urnes",
-        "resume": "Ruth Rosenthal, artiste membre du Collectif Diaspp, est notre invité.",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-premi%C3%A8res-l%C3%A9gislatives-depuis-le-7-octobre-netanyahu-%C3%A0-l-%C3%A9preuve-des-urnes",
-        "date": "Tue, 27 Oct 2026 11:25:42 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Ouverture des bureaux de vote pour des législatives qui s'annoncent serrées",
-        "resume": "Karim Yahiaoui est sur place.",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-ouverture-des-bureaux-de-vote-pour-des-l%C3%A9gislatives-qui-s-annoncent-serr%C3%A9es",
-        "date": "Tue, 27 Oct 2026 11:18:24 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Hope",
-        "date_sortie": "2026-10-28",
-        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
-        "note": 6.8,
-        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
-      },
-      {
-        "titre": "Clayface",
-        "date_sortie": "2026-10-21",
-        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
-        "note": 7.446,
-        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
-      },
-      {
-        "titre": "Resident Evil",
-        "date_sortie": "2026-09-16",
-        "synopsis": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
-        "note": 7.314,
-        "affiche": "https://image.tmdb.org/t/p/w300/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg"
-      },
-      {
-        "titre": "Street Fighter",
-        "date_sortie": "2026-10-13",
-        "synopsis": "En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affrontement brutal où se mê",
-        "note": 6.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"
-      },
-      {
-        "titre": "Digger",
-        "date_sortie": "2026-09-28",
-        "synopsis": "L’homme le plus puissant du monde se lance dans une mission frénétique pour prouver qu’il est le sauveur de l’humanité avant que le désastre qu’il a déclenché ne détruise tout.",
-        "note": 7.484,
-        "affiche": "https://image.tmdb.org/t/p/w300/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg"
-      },
-      {
-        "titre": "Malfaisante",
-        "date_sortie": "2026-10-14",
-        "synopsis": "Une famille est la cible d'une entité qu'elle appelle « l'autre maman ».",
-        "note": 5.8,
-        "affiche": "https://image.tmdb.org/t/p/w300/wAofwsldMDNAIzGSEfMJMoUn1KB.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Living Free (Live Manchester '75)",
-        "artiste": "Don McLean",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Through Lines",
-        "artiste": "Skye Peterson",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Broken Dreams",
-        "artiste": "Siska",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "ЖЗЛ",
-        "artiste": "Lacerate",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Retrouvez motivation et confiance grâce au sport !",
-        "date_debut": "2026-10-27T12:45:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Visio Opportunités du moment - Angers Capucins",
-        "date_debut": "2026-10-27T13:00:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "7 jours pour oser : découvrez Flashcoop, le dispositif qui redonne confiance aux chercheurs d'emploi des Hauts de Saint Aubin",
-        "date_debut": "2026-10-28T08:30:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Débuter une recherche aux Archives départementales (niveau débutant)",
-        "date_debut": "2026-10-30T13:00:00+00:00",
-        "lieu": "Archives départementales de Maine-et-Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "SHAFRO @ANGERS #11 HALLOWEEN : NO COSTUME = NO PARTY",
-        "date_debut": "2026-10-31T20:00:00+00:00",
-        "lieu": "Buddy's Bar",
-        "ville": "Angers"
-      },
-      {
-        "titre": "VASTE MONDE",
-        "date_debut": "2026-10-27",
-        "lieu": "Théâtre 100 Noms",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Animation enfants – Spécial Halloween",
-        "date_debut": "2026-10-27",
-        "lieu": "Château des ducs de bretagne - musée d'histoire de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Stage hip-hop ados (11-18 ans)",
-        "date_debut": "2026-10-27",
-        "lieu": "Caserne Mellinet/La Générale",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Epicerie solidaire \"Le Comptoir d'Halvêque\"",
-        "date_debut": "2026-10-27",
-        "lieu": "salle des 4 carrés",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Programme de sensibilisation aux discriminations · Magma'Nantes #11",
-        "date_debut": "2026-10-27",
-        "lieu": "Open Lande",
         "ville": "Nantes"
       }
     ]
