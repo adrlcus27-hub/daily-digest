@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-11-11",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Alertes à la bombe visant des écoles en Europe : des centaines d'établissements évacués en Italie, en Irlande et au Royaume-Uni",
+        "resume": "Environ 300 écoles dans toute l'Italie ont reçu des courriels contenant des alertes à la bombe, mercredi, selon le ministre de l'Education, Giuseppe Valditara.",
+        "lien": "https://www.franceinfo.fr/monde/europe/direct-des-centaines-d-ecoles-visees-par-des-alertes-a-la-bombe-en-italie-en-irlande-et-au-royaume-uni-de-nombreux-etablissements-evacues_8277773.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 11 Nov 2026 13:36:45 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Cérémonie du 11-Novembre : Emmanuel Macron a rendu hommage à Georges Clemenceau et au soldat inconnu",
+        "resume": "Le président participe pour la dernière fois à ces célébrations en tant que chef de l'Etat. Cette année, l'accent est mis sur la figure du maréchal Foch.",
+        "lien": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/direct-ceremonie-du-11-novembre-suivez-les-commemorations-et-l-emission-speciale-de-france-2_8276093.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 11 Nov 2026 12:08:48 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"J'en appelle à la responsabilité d'Emmanuel Macron avant que notre gouvernement change\", demande le meilleur ami du journaliste Christophe Gleizes, détenu en Algérie",
+        "resume": "Pierre de La Saussay espère que le président français pourra agir et \"qu'une solution soit trouvée avant que notre gouvernement change\", alors que Christophe Gleizes est détenu en Algérie depuis juin ",
+        "lien": "https://www.franceinfo.fr/culture/livres/emprisonnement-du-journaliste-christophe-gleizes-en-algerie/j-en-appelle-a-la-responsabilite-d-emmanuel-macron-demande-le-meilleur-ami-de-christophe-gleizes-detenu-en-algerie_8277422.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 11 Nov 2026 09:09:29 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Le ministre de l'Education nationale appelle à \"la responsabilité collective\" et à une \"condamnation unanime\" des violences survenues lors des mobilisations lycéennes",
+        "resume": "Edouard Geffray a affirmé avoir \"échangé par messagerie\" avec l'élue Les Républicains visée par un jet de bouteille d'essence, hier devant un lycée de Chelles, en Seine-et-Marne.",
+        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/edouard-geffray-appelle-a-la-responsabilite-collective-et-a-une-condamnation-unanime-des-violences-survenues-lors-des-mobilisations-lyceennes_8277461.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 11 Nov 2026 09:38:40 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Négociations Ukraine-Russie : Kiev et Moscou s'entendent pour un échange \"à grande échelle\" de prisonniers",
+        "resume": "Le chef de la délégation russe a précisé que les détails \"concrets\" de ce processus seraient annoncés ultérieurement.",
+        "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-negociations-ukraine-russie-suite-et-fin-des-pourparlers-mercredi-apres-des-changements-salues-par-volodymyr-zelensky_8277323.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 11 Nov 2026 14:13:22 +0100"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Haïti : L’armée salvadorienne frappe le QG d’un des principaux gangs du pays",
+        "resume": "Des militaires salvadoriens déployés en Haïti ont détruit le \"quartier général\" de l'un des principaux gangs du pays, a annoncé le président du Salvador Nayib Bukele sur X. Une opération saluée par le",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261111-ha%C3%AFti-l-arm%C3%A9e-salvadorienne-frappe-le-qg-d-un-des-principaux-gangs-du-pays",
+        "date": "Wed, 11 Nov 2026 12:25:07 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Commémorations du 11-Novembre : mémoire, quelle mémoire ?",
+        "resume": "C'est le 108e anniversaire de l’Armistice de 1918 qui a mis fin à la Première Guerre mondiale. Jour férié ici en France en ce 11 novembre qui commémore aussi depuis dix ans la mémoire de tous ceux tom",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20261111-comm%C3%A9morations-du-11-novembre-m%C3%A9moire-quelle-m%C3%A9moire",
+        "date": "Wed, 11 Nov 2026 12:12:03 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Un match solidaire pour la libération de Christophe Gleizes, détenu depuis 500 jours",
+        "resume": "Un match solidaire, organisé par Reporters sans frontières (RSF) avec la Ville de Paris et réunissant des personnalités du football, des médias et de la culture, est prévu mercredi soir pour appeler à",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261111-un-match-solidaire-pour-la-lib%C3%A9ration-de-christophe-gleizes-d%C3%A9tenu-depuis-500-jours",
+        "date": "Wed, 11 Nov 2026 12:07:09 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Hope",
+        "date_sortie": "2026-10-28",
+        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
+        "note": 6.74,
+        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
+      },
+      {
+        "titre": "Godzilla Minus Zero",
+        "date_sortie": "2026-11-04",
+        "synopsis": "Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réapparaît des années plus",
+        "note": 7.78,
+        "affiche": "https://image.tmdb.org/t/p/w300/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg"
+      },
+      {
+        "titre": "Ramayana : L'avènement d'une légende",
+        "date_sortie": "2026-11-06",
+        "synopsis": "Une épopée ancienne suit un jeune prince et une jeune princesse dont le mariage et l'exil qui a suivi marquent le début d'un voyage légendaire. Leur histoire d'amour, de devoir et de destin ouvre la voie à de nouveaux dé",
+        "note": 7.7,
+        "affiche": "https://image.tmdb.org/t/p/w300/iCz9Wf8KCU8BXQ9Pws0pHctguiZ.jpg"
+      },
+      {
+        "titre": "Malfaisante",
+        "date_sortie": "2026-10-14",
+        "synopsis": "Une jeune fille, Bela, développe dans son foyer une relation avec une entité troublante qui ressemble étrangement à sa mère. Son « autre maman » n'est pas que le fruit de son imagination. Cette entité sinistre et manipul",
+        "note": 5.8,
+        "affiche": "https://image.tmdb.org/t/p/w300/uLNxn6niIICbkRcRKVOX9aXqRHb.jpg"
+      },
+      {
+        "titre": "Clayface",
+        "date_sortie": "2026-10-21",
+        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
+        "note": 7.426,
+        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
+      },
+      {
+        "titre": "Obsession",
+        "date_sortie": "2026-05-13",
+        "synopsis": "Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lui… jusqu’à l’obsessi",
+        "note": 8.2,
+        "affiche": "https://image.tmdb.org/t/p/w300/mDCR1frpUvGfIKksuM440VLb7X9.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 1",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "WEBINAIRE - Vendre plus ou vendre mieux ? Construire une politique tarifaire rentable",
+        "date_debut": "2026-11-13T09:00:00+00:00",
+        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Apéro célibataires — Angers",
+        "date_debut": "2026-11-13T18:00:00+00:00",
+        "lieu": "Centre-ville de Angers",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Semaine de l'industrie : SCANIA PRODUCTION ANGERS ouvre ses portes !",
+        "date_debut": "2026-11-16T09:30:00+00:00",
+        "lieu": "Scania production Angers",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Webinaire - Présentation du BPREA à distance",
+        "date_debut": "2026-11-16T11:00:00+00:00",
+        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Semaine de l'industrie : CICOR ANGERS ouvre ses portes !",
+        "date_debut": "2026-11-16T12:30:00+00:00",
+        "lieu": "CICOR ANGERS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Animation enfants – Château des ducs de Bretagne",
+        "date_debut": "2026-11-11",
+        "lieu": "Château des ducs de bretagne - musée d'histoire de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition Le Muséum au fil du temps",
+        "date_debut": "2026-11-11",
+        "lieu": "Place de la Monnaie",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le livre d’artiste concours et exposition – Musée de l'imprimerie",
+        "date_debut": "2026-11-11",
+        "lieu": "Musée-atelier de l'imprimerie de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Don du sang — Maison du don, Nantes",
+        "date_debut": "2026-11-11",
+        "lieu": "Maison du don",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Contes & comptines",
+        "date_debut": "2026-11-11",
+        "lieu": "Centre socioculturel des Bourderies",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-11-10",
     "news": [
       {
@@ -2520,174 +2719,6 @@
         "titre": "Qu’est-ce qu’on mangeait à Nantes ? - Visite guidée au musée Dobrée",
         "date_debut": "2026-10-29",
         "lieu": "Musée Dobrée",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-28",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Ce que l'on sait de la collision de trains meurtrière près de Tolède, en Espagne",
-        "resume": "L'accident s'est produit mercredi matin entre Madrid et l'Andalousie. Les causes n'ont pas encore été établies.",
-        "lien": "https://www.franceinfo.fr/monde/espagne/ce-que-l-on-sait-de-la-collision-de-trains-meurtriere-survenue-pres-de-la-ville-espagnole-de-tolede_8257072.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 28 Oct 2026 12:35:54 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Les images aériennes montrent la violence de la collision meurtrière entre deux trains près de Tolède, en Espagne",
-        "resume": "Des images publiées par la garde civile espagnole montrent l'ampleur de l'accident mortel qui s'est produit mercredi matin entre Madrid et l'Andalousie. Les causes n'ont pas encore été établies.",
-        "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/video-les-images-aeriennes-de-la-collision-meurtriere-entre-deux-trains-pres-de-tolede-en-espagne_8257246.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 28 Oct 2026 12:57:01 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Les images de l'accident de trains qui a fait au moins 31 morts et 80 blessés en Espagne",
-        "resume": "Des images aériennes de la Guardia Civil, ainsi que des vidéos amateurs, témoignent de la violence de la collision entre deux trains en Espagne. Le bilan provisoire fait état de plusieurs dizaines de ",
-        "lien": "https://www.franceinfo.fr/monde/espagne/collision-entre-deux-trains-en-espagne-les-images-de-l-accident_8257282.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 28 Oct 2026 12:55:56 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Où s'est produite la collision meurtrière entre deux trains en Espagne ?",
-        "resume": "La collision a eu lieu dans la région de Castille-La Manche, au sud de la ville de Tolède.",
-        "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/carte-ou-s-est-produite-la-collision-meurtriere-entre-deux-trains-en-espagne_8257180.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 28 Oct 2026 12:45:23 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Collision entre deux trains près de Tolède : le gouvernement régional fait état d'un \"minimum de 30 morts\"",
-        "resume": "D'après un porte-parole des services d'urgence espagnols sollicité par l'AFP, la collision a eu lieu \"à 8h54\" entre deux trains, \"l'un de [l'opérateur privé] Yrio et l'autre de [la compagnie nationale",
-        "lien": "https://www.franceinfo.fr/monde/espagne/direct-collision-de-deux-trains-en-espagne-les-autorites-locales-deplorent-au-moins-10-morts_8257045.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 28 Oct 2026 12:03:05 +0100"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Inde : le cyclone Arnab fait trois morts dans le sud-est du pays, avec des rafales à 150 km/h",
-        "resume": "En Inde, le cyclone Arnab, accompagné mercredi 28 octobre de vents violents et de pluies torrentielles, a commencé à faiblir après avoir balayé le littoral du sud-est de l'Inde, où il a fait trois mor",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-inde-le-cyclone-arnab-fait-trois-morts-dans-le-sud-est-du-pays-avec-des-rafales-%C3%A0-150-km-h",
-        "date": "Wed, 28 Oct 2026 11:38:57 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Espagne : plus de 46 morts dans une collision entre deux trains à grande vitesse",
-        "resume": "Au moins 46 personnes sont mortes mercredi 28 octobre dans la collision de deux trains à grande vitesse à environ 150 km au sud de Madrid. Le Premier ministre espagnol Pedro Sánchez s'est dit \"conster",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-espagne-plus-de-46-morts-dans-une-collision-entre-deux-trains-%C3%A0-grande-vitesse",
-        "date": "Wed, 28 Oct 2026 11:34:30 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Chine : la star française Kylian Mbappé s'excuse, Pékin dit prendre ses mots au \"sérieux\"",
-        "resume": "Les excuses de Kylian Mbappé ne suffisent pas mercredi 28 octobre à dissiper les critiques à son encontre sur les réseaux sociaux chinois. Le capitaine de l'équipe de France s'est excusé mardi 27 octo",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-chine-la-star-fran%C3%A7aise-kylian-mbapp%C3%A9-s-excuse-p%C3%A9kin-dit-prendre-ses-mots-au-s%C3%A9rieux",
-        "date": "Wed, 28 Oct 2026 11:31:00 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Hope",
-        "date_sortie": "2026-10-28",
-        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
-        "note": 6.746,
-        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
-      },
-      {
-        "titre": "Clayface",
-        "date_sortie": "2026-10-21",
-        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
-        "note": 7.467,
-        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
-      },
-      {
-        "titre": "Verity",
-        "date_sortie": "2026-09-30",
-        "synopsis": "Lorsqu’un accident affecte les capacités de l’autrice de bestsellers, Verity Crawford, à achever son œuvre, une écrivaine solitaire, Lowen Ashleigh, qui peine à joindre les deux bouts est engagée pour lui prêter sa plume",
-        "note": 6.378,
-        "affiche": "https://image.tmdb.org/t/p/w300/zLCjFOyjvKqYdkQYYAyTtfJ5mpk.jpg"
-      },
-      {
-        "titre": "Street Fighter",
-        "date_sortie": "2026-10-13",
-        "synopsis": "En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affrontement brutal où se mê",
-        "note": 6.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"
-      },
-      {
-        "titre": "L'île des souvenirs",
-        "date_sortie": "2026-10-21",
-        "synopsis": "Pendant qu'elles passent une dernière soirée ensemble avant de s'engager sur des voies différentes, Jo et Raissa, amies depuis toujours, trouvent un portail mystérieux qui les transporte sur Nakali, une île mythique peup",
-        "note": 7.554,
-        "affiche": "https://image.tmdb.org/t/p/w300/1E7aTchsDC8Uos1uBpZG6LDdWRn.jpg"
-      },
-      {
-        "titre": "Obsession",
-        "date_sortie": "2026-05-13",
-        "synopsis": "Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lui… jusqu’à l’obsessi",
-        "note": 8.2,
-        "affiche": "https://image.tmdb.org/t/p/w300/mDCR1frpUvGfIKksuM440VLb7X9.jpg"
-      }
-    ],
-    "albums": [],
-    "evenements": [
-      {
-        "titre": "7 jours pour oser : découvrez Flashcoop, le dispositif qui redonne confiance aux chercheurs d'emploi des Hauts de Saint Aubin",
-        "date_debut": "2026-10-28T08:30:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Débuter une recherche aux Archives départementales (niveau débutant)",
-        "date_debut": "2026-10-30T13:00:00+00:00",
-        "lieu": "Archives départementales de Maine-et-Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Apéro célibataires — Angers",
-        "date_debut": "2026-10-30T18:00:00+00:00",
-        "lieu": "Centre-ville de Angers",
-        "ville": "Angers"
-      },
-      {
-        "titre": "SHAFRO @ANGERS #11 HALLOWEEN : NO COSTUME = NO PARTY",
-        "date_debut": "2026-10-31T20:00:00+00:00",
-        "lieu": "Buddy's Bar",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Information Collective : Conducteur Transport de marchandises",
-        "date_debut": "2026-11-02T08:20:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Programme de sensibilisation aux discriminations · Magma'Nantes #10",
-        "date_debut": "2026-10-28",
-        "lieu": "Open Lande",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Visite guidée - Expression(s) décoloniale(s) #4",
-        "date_debut": "2026-10-28",
-        "lieu": "Château des Ducs de Bretagne -   Musée d'Histoire de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Là où subsiste encore ton écho",
-        "date_debut": "2026-10-28",
-        "lieu": "Ecole des Beaux-Arts Nantes St-Nazaire",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "The Art of the Brick - Exposition d’art en Lego",
-        "date_debut": "2026-10-28",
-        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "LA GUERRE DES EMEUS",
-        "date_debut": "2026-10-28",
-        "lieu": "Théâtre 100 Noms",
         "ville": "Nantes"
       }
     ]
