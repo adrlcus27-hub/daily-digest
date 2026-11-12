@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-11-12",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Présidentielle 2027 : suivez l'interview de Marine Tondelier, sixième des huit candidats interrogés dans le cadre de l'opération \"Nos services publics\"",
+        "resume": "Huit des principaux candidats à l'élection présidentielle 2027 répondent jeudi, au fil de la journée, aux questions des journalistes de France Télévisions et Radio France à propos de l'accès et de la ",
+        "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 12 Nov 2026 15:22:56 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Le patron du géant de la tech Nvidia, Jensen Huang, démissionne après la révélation d'une liaison avec une femme soupçonnée d'espionnage pour la Chine",
+        "resume": "Géant des puces électroniques, Nvidia est devenu une entreprise centrale dans le développement de l'intelligence artificielle. Certains de ses composants sont jugés si stratégiques par les Etats-Unis ",
+        "lien": "https://www.franceinfo.fr/internet/intelligence-artificielle/le-patron-du-geant-de-la-tech-nvidia-jensen-huang-demissionne-apres-la-revelation-d-une-liaison-avec-une-femme-soupconnee-d-espionnage-pour-la-chine_8279405.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 12 Nov 2026 15:37:47 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Plan de relance agricole : le gouvernement promet 725 millions d'euros, notamment pour \"l'adaptation au changement climatique\"",
+        "resume": "Cent millions d'euros seront consacrés à un \"guichet d'équipement\" pour aider les agriculteurs à \"protéger les animaux et les cultures contre les fortes chaleurs\".",
+        "lien": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/plan-de-relance-agricole-la-ministre-de-l-agriculture-promet-725-millions-d-euros-notamment-pour-l-adaptation-au-changement-climatique_8279273.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 12 Nov 2026 13:45:41 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Gérard Depardieu renonce à son procès en appel pour deux agressions sexuelles lors du tournage du film \"Les Volets verts\", qui devait s'ouvrir lundi",
+        "resume": "En mai 2025, le comédien avait été condamné en première instance par le tribunal correctionnel de Paris à 18 mois de prison avec sursis pour agressions sexuelles.",
+        "lien": "https://www.franceinfo.fr/culture/cinema/depardieu/gerard-depardieu-renonce-a-son-proces-en-appel-pour-deux-agressions-sexuelles-commises-lors-du-tournage-du-film-les-volets-verts_8279438.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 12 Nov 2026 15:32:33 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Le président du Rassemblement national, Jordan Bardella, porte plainte \"pour faux et usage de faux\" après les accusations d'antisémitisme portées par Mediapart",
+        "resume": "Le chef du parti d'extrême droite, qui nie être l'auteur de ces écrits, avait déjà déposé une plainte pour diffamation contre le site d'investigation fin septembre.",
+        "lien": "https://www.franceinfo.fr/politique/jordan-bardella/le-president-du-rassemblement-national-jordan-bardella-porte-plainte-pour-faux-et-usage-de-faux-apres-les-accusations-d-antisemitisme-portees-par-mediapart_8279252.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 12 Nov 2026 14:04:31 +0100"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "RD CONGO : ouverture du procès de l'opposant politique Prince Epenge",
+        "resume": "🇨🇩 Republique democratique Congo, le procès de Prince Epenge, porte-parole de la coalition d’opposition Lamuka, s’est ouvert mercredi 11 novembre. Il est poursuivi pour « propagation de faux bruits »,",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-rd-congo-ouverture-du-proc%C3%A8s-de-l-opposant-politique-prince-epenge-1",
+        "date": "Thu, 12 Nov 2026 14:12:53 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "🔴 Jensen Huang quitte la direction générale de Nvidia",
+        "resume": "",
+        "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261112-le-pdg-de-nvidia-jensen-huang-quitte-ses-fonctions-%C3%A0-la-t%C3%AAte-de-l-entreprise",
+        "date": "Thu, 12 Nov 2026 14:03:39 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Affaire Nvidia : le conseil d'administration démet le PDG Jensen Huang de ses fonctions",
+        "resume": "Le PDG du géant américain des puces électroniques Nvidia, Jensen Huang, dans la tourmente depuis la révélation d’une liaison avec une femme soupçonnée d’espionnage au profit de la Chine, a été démis d",
+        "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261112-le-pdg-de-nvidia-jensen-huang-quitte-ses-fonctions-%C3%A0-la-t%C3%AAte-de-l-entreprise",
+        "date": "Thu, 12 Nov 2026 14:01:57 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Hope",
+        "date_sortie": "2026-10-28",
+        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
+        "note": 6.758,
+        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
+      },
+      {
+        "titre": "Godzilla Minus Zero",
+        "date_sortie": "2026-11-04",
+        "synopsis": "Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réapparaît des années plus",
+        "note": 7.843,
+        "affiche": "https://image.tmdb.org/t/p/w300/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg"
+      },
+      {
+        "titre": "Ramayana : L'avènement d'une légende",
+        "date_sortie": "2026-11-06",
+        "synopsis": "Une épopée ancienne suit un jeune prince et une jeune princesse dont le mariage et l'exil qui a suivi marquent le début d'un voyage légendaire. Leur histoire d'amour, de devoir et de destin ouvre la voie à de nouveaux dé",
+        "note": 7.625,
+        "affiche": "https://image.tmdb.org/t/p/w300/iCz9Wf8KCU8BXQ9Pws0pHctguiZ.jpg"
+      },
+      {
+        "titre": "Malfaisante",
+        "date_sortie": "2026-10-14",
+        "synopsis": "Une jeune fille, Bela, développe dans son foyer une relation avec une entité troublante qui ressemble étrangement à sa mère. Son « autre maman » n'est pas que le fruit de son imagination. Cette entité sinistre et manipul",
+        "note": 5.925,
+        "affiche": "https://image.tmdb.org/t/p/w300/a6AztQlJvKy2tEOc10M7WXIF5gX.jpg"
+      },
+      {
+        "titre": "Clayface",
+        "date_sortie": "2026-10-21",
+        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
+        "note": 7.415,
+        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
+      },
+      {
+        "titre": "Obsession",
+        "date_sortie": "2026-05-13",
+        "synopsis": "Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lui… jusqu’à l’obsessi",
+        "note": 8.165,
+        "affiche": "https://image.tmdb.org/t/p/w300/mDCR1frpUvGfIKksuM440VLb7X9.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Living Free (Live Manchester '75)",
+        "artiste": "Don McLean",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Through Lines",
+        "artiste": "Skye Peterson",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Broken Dreams",
+        "artiste": "Siska",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "ЖЗЛ",
+        "artiste": "Lacerate",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "WEBINAIRE - Vendre plus ou vendre mieux ? Construire une politique tarifaire rentable",
+        "date_debut": "2026-11-13T09:00:00+00:00",
+        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Apéro célibataires — Angers",
+        "date_debut": "2026-11-13T18:00:00+00:00",
+        "lieu": "Centre-ville de Angers",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Semaine de l'industrie : SCANIA PRODUCTION ANGERS ouvre ses portes !",
+        "date_debut": "2026-11-16T09:30:00+00:00",
+        "lieu": "Scania production Angers",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Webinaire - Présentation du BPREA à distance",
+        "date_debut": "2026-11-16T11:00:00+00:00",
+        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Semaine de l'industrie : CICOR ANGERS ouvre ses portes !",
+        "date_debut": "2026-11-16T12:30:00+00:00",
+        "lieu": "CICOR ANGERS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Exposition Le Muséum au fil du temps",
+        "date_debut": "2026-11-12",
+        "lieu": "Place de la Monnaie",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Songe",
+        "date_debut": "2026-11-12",
+        "lieu": "Mixt, salle Super",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition collective : L'emboitement rêvé",
+        "date_debut": "2026-11-12",
+        "lieu": "Atelier Alain Le Bras",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "La Méthode Sherlock – Une enquête interactive",
+        "date_debut": "2026-11-12",
+        "lieu": "Compagnie du Café-Théâtre",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "L'Étreinte",
+        "date_debut": "2026-11-12",
+        "lieu": "Place Jean V devant l'entrée du Musée Dobrée",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-11-11",
     "news": [
       {
@@ -2520,205 +2719,6 @@
         "titre": "Exposition « Architecture (s) et grands ensembles »",
         "date_debut": "2026-10-30",
         "lieu": "École nationale supérieure d’architecture - ensa",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-29",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Collision meurtrière entre deux trains en Espagne : plusieurs ressortissants français sont recherchés, annonce le ministère des Affaires étrangères",
-        "resume": "Le Premier ministre Pedro Sanchez a décrété trois jours de deuil national, de jeudi à samedi, alors que le bilan atteint désormais 69 morts.",
-        "lien": "https://www.franceinfo.fr/monde/espagne/direct-collision-meurtriere-entre-deux-trains-en-espagne-l-enchainement-de-circonstances-qui-ont-conduit-a-l-accident-s-eclaircit-peu-a-peu_8258189.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 29 Oct 2026 11:55:19 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "En Espagne, la crise politique s'accroît, après la nouvelle collision de train meurtrière",
-        "resume": "Le ministre des Transports et le Premier ministre espagnols sont au cœur des critiques, à un mois d'élections législatives anticipées. Le premier pour ses propos mal venus, le second pour des promesse",
-        "lien": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/en-espagne-la-crise-politique-s-accroit-apres-la-nouvelle-collision-de-train-meurtriere_8258342.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 29 Oct 2026 11:50:12 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Qu'est-ce que le système de gestion du trafic ferroviaire LZB, en panne au moment de la collision meurtrière entre deux trains en Espagne ?",
-        "resume": "Le système automatisé a fait défaut à six trains du secteur, entraînant une reprise en main humaine, mercredi matin. Le contrôleur a ensuite pris des décisions \"inexplicables\", a expliqué le ministre ",
-        "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/qu-est-ce-que-le-systeme-de-gestion-du-trafic-ferroviaire-lzb-en-panne-au-moment-de-la-collision-meurtriere-entre-deux-trains-en-espagne_8257474.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 29 Oct 2026 09:25:43 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"Il y avait tout qui bougeait, des gens qui criaient, des gens qui pleuraient, des valises qui volaient\", raconte un rescapé franco-espagnol après la collision de trains en Espagne",
-        "resume": "Le jeune franco-espagnol était présent mercredi lors de la plus grande tragédie ferroviaire en Espagne depuis 2013 causant la mort d'au moins 68 personnes.",
-        "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/temoignage-il-y-avait-tout-qui-bougeait-des-gens-qui-criaient-des-gens-qui-pleuraient-des-valises-qui-volaient-raconte-un-rescape-franco-espagnol-apres-la-collision-de-trains-en-espagne_8257943.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 28 Oct 2026 22:13:47 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Collision meurtrière entre deux trains en Espagne : la compagnie Renfe suspend la vente de billets entre Madrid et l'Andalousie jusqu'en décembre",
-        "resume": "L'accident a fait au moins 68 morts et 64 blessés, selon un bilan toujours provisoire communiqué par le gouverneur de la région où s'est produit le drame.",
-        "lien": "https://www.franceinfo.fr/monde/espagne/direct-collision-de-deux-trains-en-espagne-les-autorites-locales-deplorent-au-moins-10-morts_8257045.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 29 Oct 2026 00:13:22 +0100"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Somalie : une nouvelle loi contre les violences sexuelles votée",
-        "resume": "Le Parlement somalien a voté une nouvelle loi contre les violences sexuelles. Dans le pays, le code pénal datait de 1962 et n’avait pas été actualisé depuis. Pour les associations de défense des droit",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261029-somalie-une-nouvelle-loi-contre-les-violences-sexuelles-vot%C3%A9e",
-        "date": "Thu, 29 Oct 2026 12:08:57 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "République Démocratique du Congo : l'opposition relance l'appel au dialogue national",
-        "resume": "Une coalition représentant les principaux partis d'opposition en République démocratique du Congo (RDC) s'est exprimée mardi 27 octobre pour la première fois depuis que l'ancien président Joseph Kabil",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261029-r%C3%A9publique-d%C3%A9mocratique-du-congo-l-opposition-relance-l-appel-au-dialogue-national",
-        "date": "Thu, 29 Oct 2026 12:04:15 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Tunisie : des familles sans nouvelles de leurs jeunes envoyés au front avec la Russie",
-        "resume": "Plusieurs pays africains sont concernés par l'enrôlement militaire dans l'armée russe pour combattre sur le front ukrainien. Ils sont entre 1400 et 3 000 hommes sur le terrain et viennent du Kenya, d'",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261029-tunisie-des-familles-sans-nouvelles-de-leurs-jeunes-envoy%C3%A9s-au-front-avec-la-russie",
-        "date": "Thu, 29 Oct 2026 11:54:08 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Hope",
-        "date_sortie": "2026-10-28",
-        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
-        "note": 6.8,
-        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
-      },
-      {
-        "titre": "Clayface",
-        "date_sortie": "2026-10-21",
-        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
-        "note": 7.466,
-        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
-      },
-      {
-        "titre": "Verity",
-        "date_sortie": "2026-09-30",
-        "synopsis": "Lorsqu’un accident affecte les capacités de l’autrice de bestsellers, Verity Crawford, à achever son œuvre, une écrivaine solitaire, Lowen Ashleigh, qui peine à joindre les deux bouts est engagée pour lui prêter sa plume",
-        "note": 6.344,
-        "affiche": "https://image.tmdb.org/t/p/w300/zLCjFOyjvKqYdkQYYAyTtfJ5mpk.jpg"
-      },
-      {
-        "titre": "Street Fighter",
-        "date_sortie": "2026-10-13",
-        "synopsis": "En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affrontement brutal où se mê",
-        "note": 6.344,
-        "affiche": "https://image.tmdb.org/t/p/w300/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"
-      },
-      {
-        "titre": "L'île des souvenirs",
-        "date_sortie": "2026-10-21",
-        "synopsis": "Pendant qu'elles passent une dernière soirée ensemble avant de s'engager sur des voies différentes, Jo et Raissa, amies depuis toujours, trouvent un portail mystérieux qui les transporte sur Nakali, une île mythique peup",
-        "note": 7.5,
-        "affiche": "https://image.tmdb.org/t/p/w300/cmFiQHKjEmnbQIuMcKaW8Eu6swh.jpg"
-      },
-      {
-        "titre": "Obsession",
-        "date_sortie": "2026-05-13",
-        "synopsis": "Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lui… jusqu’à l’obsessi",
-        "note": 8.2,
-        "affiche": "https://image.tmdb.org/t/p/w300/mDCR1frpUvGfIKksuM440VLb7X9.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Complete Orchestral Works, Vol. 3",
-        "artiste": "Maurice Ravel",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Débuter une recherche aux Archives départementales (niveau débutant)",
-        "date_debut": "2026-10-30T13:00:00+00:00",
-        "lieu": "Archives départementales de Maine-et-Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Apéro célibataires — Angers",
-        "date_debut": "2026-10-30T18:00:00+00:00",
-        "lieu": "Centre-ville de Angers",
-        "ville": "Angers"
-      },
-      {
-        "titre": "SHAFRO @ANGERS #11 HALLOWEEN : NO COSTUME = NO PARTY",
-        "date_debut": "2026-10-31T20:00:00+00:00",
-        "lieu": "Buddy's Bar",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Information Collective : Conducteur Transport de marchandises",
-        "date_debut": "2026-11-02T08:20:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Vendeur en produits du territoire Angevin pour le Marché de Noël d'Angers",
-        "date_debut": "2026-11-02T13:30:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Je buterais bien ma mère un dimanche",
-        "date_debut": "2026-10-29",
-        "lieu": "Théâtre de Poche Graslin",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "LE PORTEUR D'HISTOIRE",
-        "date_debut": "2026-10-29",
-        "lieu": "Théâtre 100 Noms",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Aux arbres, les sentinelles de Pierre Kurczewski",
-        "date_debut": "2026-10-29",
-        "lieu": "Galerie RDV",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Exposition « Architecture (s) et grands ensembles »",
-        "date_debut": "2026-10-29",
-        "lieu": "École nationale supérieure d’architecture - ensa",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Qu’est-ce qu’on mangeait à Nantes ? - Visite guidée au musée Dobrée",
-        "date_debut": "2026-10-29",
-        "lieu": "Musée Dobrée",
         "ville": "Nantes"
       }
     ]
