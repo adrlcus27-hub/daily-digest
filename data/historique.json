@@ -1,5 +1,173 @@
 [
   {
+    "date": "2026-11-13",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Des améliorations constatées, pas de cyberattaque d'après Microsoft… Ce que l'on sait de la panne mondiale qui touche le géant américain depuis jeudi",
+        "resume": "Plusieurs millions d'utilisateurs ne peuvent pas accéder à leurs e-mails depuis jeudi soir. La panne affecte aussi certaines fonctions des assistants d'intelligence artificielle.",
+        "lien": "https://www.franceinfo.fr/internet/panne-informatique-mondiale/outlook-et-teams-perturbes-pas-de-cyberattaque-d-apres-microsoft-ce-que-l-on-sait-de-la-panne-mondiale-qui-touche-le-geant-americain-depuis-jeudi_8280671.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 13 Nov 2026 14:01:40 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Trente ans après la disparition de Marion Wagon, le pôle \"cold cases\" de Nanterre lance un appel à témoins.",
+        "resume": "Après un nouveau témoignage d'une femme de 43 ans, les enquêteurs sont sur la piste d'un nouveau suspect. Ils veulent notamment savoir si d'autres jeunes filles, qui étaient adolescentes à l'époque, o",
+        "lien": "https://www.franceinfo.fr/faits-divers/affaire/30-ans-apres-la-disparition-de-marion-wagon-le-pole-cold-cases-de-nanterre-lance-un-appel-a-temoins_8281049.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 13 Nov 2026 14:20:33 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"On n'a vraiment plus le choix\" : après un mois et demi de mobilisation, lycéens et enseignants s'inquiètent des conséquences sur les notes",
+        "resume": "À l'approche de la fin du trimestre, les enseignants tentent de calculer une moyenne, avec très peu de notes. Chaque établissement bricole de son côté. Les élèves et les enseignants craignent des inég",
+        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-n-a-vraiment-plus-le-choix-apres-un-mois-et-demi-de-mobilisation-lyceens-et-enseignants-s-inquietent-des-consequences-sur-les-notes_8280770.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 13 Nov 2026 13:59:32 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Guerre en Ukraine : la Russie veut connaître les \"intentions\" des Européens avant de les laisser participer aux pourparlers",
+        "resume": "La cheffe de la diplomatie de l'Union européenne a de son côté exclu vendredi que la Russie ait son mot à dire pour choisir les représentants européens pour de futures négociations.",
+        "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-la-russie-veut-connaitre-les-intentions-des-europeens-avant-de-les-laisser-participer-aux-pourparlers_8280860.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 13 Nov 2026 14:21:23 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Sébastien Lecornu ouvre une discussion d'un mois avec les syndicats de fonctionnaires portant notamment sur une \"revalorisation des bas salaires\"",
+        "resume": "Le Premier ministre recevra à nouveau les organisations représentatives de la fonction publique le 11 décembre, après les élections professionnelles, pour \"sceller des avancées dès la mi-décembre\".",
+        "lien": "https://www.franceinfo.fr/economie/syndicats/sebastien-lecornu-ouvre-une-discussion-d-un-mois-avec-les-syndicats-de-fonctionnaires-portant-notamment-sur-une-revalorisation-des-bas-salaires_8281073.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 13 Nov 2026 14:31:37 +0100"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "L'actu en dessin : la COP31 a peu de chances d'aboutir à des résolutions majeures",
+        "resume": "Du 9 au 20 novembre, la communauté internationale se réunit à Antalya, en Turquie, à l'occasion de la COP31. Mais alors que la crise énergétique liée à la guerre au Moyen-Orient a contraint les pays à",
+        "lien": "https://www.france24.com/fr/plan%C3%A8te/20261113-actu-en-dessin-cop31-climat-peu-de-chances-aboutir-r%C3%A9solutions-majeures-environnement-r%C3%A9chauffement",
+        "date": "Fri, 13 Nov 2026 13:27:16 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "En Haïti, des soldats salvadoriens interviennent dans un stade contrôlé par les gangs",
+        "resume": "Des soldats salvadoriens sont intervenus dans le stade Sylvio-Cator, à Port-au-Prince, tombé aux mains des gangs en 2024, selon des images publiées par le président Nayib Bukele. Ces interventions s'i",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261113-en-ha%C3%AFti-des-soldats-salvadoriens-interviennent-dans-un-stade-contr%C3%B4l%C3%A9-par-les-gangs",
+        "date": "Fri, 13 Nov 2026 13:21:40 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Traversée de l'Afghanistan le long de la \"route de la mort\"",
+        "resume": "En Afghanistan, l’autoroute 1, qui relie les principales villes du pays, était devenue depuis le 11 septembre 2001 un haut lieu du banditisme et des combats, en particulier entre Kaboul et Kandahar, l",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/billet-retour/20261113-afghanistan-reportage-autoroute-une-taliban",
+        "date": "Fri, 13 Nov 2026 13:01:13 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Hope",
+        "date_sortie": "2026-10-28",
+        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
+        "note": 6.768,
+        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
+      },
+      {
+        "titre": "Malfaisante",
+        "date_sortie": "2026-10-14",
+        "synopsis": "Une jeune fille, Bela, développe dans son foyer une relation avec une entité troublante qui ressemble étrangement à sa mère. Son « autre maman » n'est pas que le fruit de son imagination. Cette entité sinistre et manipul",
+        "note": 6.163,
+        "affiche": "https://image.tmdb.org/t/p/w300/a6AztQlJvKy2tEOc10M7WXIF5gX.jpg"
+      },
+      {
+        "titre": "Godzilla Minus Zero",
+        "date_sortie": "2026-11-04",
+        "synopsis": "Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réapparaît des années plus",
+        "note": 7.774,
+        "affiche": "https://image.tmdb.org/t/p/w300/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg"
+      },
+      {
+        "titre": "Ramayana : L'avènement d'une légende",
+        "date_sortie": "2026-11-06",
+        "synopsis": "Une épopée ancienne suit un jeune prince et une jeune princesse dont le mariage et l'exil qui a suivi marquent le début d'un voyage légendaire. Leur histoire d'amour, de devoir et de destin ouvre la voie à de nouveaux dé",
+        "note": 7.488,
+        "affiche": "https://image.tmdb.org/t/p/w300/iCz9Wf8KCU8BXQ9Pws0pHctguiZ.jpg"
+      },
+      {
+        "titre": "Scrooge",
+        "date_sortie": "2026-11-11",
+        "synopsis": "Ebenezer Scrooge est un vieil homme avare, pingre et solitaire. Bien évidemment, il déteste et méprise Noël et tout ce qui engendre le bonheur. C'est alors qu'il reçoit la visite du fantôme d'un ancien associé ainsi que ",
+        "note": 7.767,
+        "affiche": "https://image.tmdb.org/t/p/w300/uxYPnpkSmG1iluoSB0fOtYK7BfM.jpg"
+      },
+      {
+        "titre": "Clayface",
+        "date_sortie": "2026-10-21",
+        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
+        "note": 7.4,
+        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
+      }
+    ],
+    "albums": [],
+    "evenements": [
+      {
+        "titre": "WEBINAIRE - Vendre plus ou vendre mieux ? Construire une politique tarifaire rentable",
+        "date_debut": "2026-11-13T09:00:00+00:00",
+        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Apéro célibataires — Angers",
+        "date_debut": "2026-11-13T18:00:00+00:00",
+        "lieu": "Centre-ville de Angers",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Semaine de l'industrie : SCANIA PRODUCTION ANGERS ouvre ses portes !",
+        "date_debut": "2026-11-16T09:30:00+00:00",
+        "lieu": "Scania production Angers",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Webinaire - Présentation du BPREA à distance",
+        "date_debut": "2026-11-16T11:00:00+00:00",
+        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Semaine de l'industrie : CICOR ANGERS ouvre ses portes !",
+        "date_debut": "2026-11-16T12:30:00+00:00",
+        "lieu": "CICOR ANGERS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Le livre d’artiste concours et exposition – Musée de l'imprimerie",
+        "date_debut": "2026-11-13",
+        "lieu": "Musée-atelier de l'imprimerie de Nantes",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Festival des Solidarités 2026",
+        "date_debut": "2026-11-13",
+        "lieu": "Nantes et communes de la métropole",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Pop-up Flowrette - fleurs durables et idées cadeaux de Noël",
+        "date_debut": "2026-11-13",
+        "lieu": "Le Palace",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Les vendredis sashiko [Hors les murs]",
+        "date_debut": "2026-11-13",
+        "lieu": "Maison de quartier Bottière",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Don du sang — Maison du don, Nantes",
+        "date_debut": "2026-11-13",
+        "lieu": "Maison du don",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-11-12",
     "news": [
       {
@@ -2520,205 +2688,6 @@
         "titre": "House of Banksy - Une expo non autorisée",
         "date_debut": "2026-10-31",
         "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-30",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "La police a-t-elle coopéré avec des militants d'ultradroite à Montpellier lors de la manifestation du samedi 24 octobre ?",
-        "resume": "De nombreuses publications sur les réseaux sociaux accusent les policiers d'avoir protégé et laissé agir ces groupes. Si l'exécutif nie toute accointance entre forces de l'ordre et militants, francein",
-        "lien": "https://www.franceinfo.fr/societe/manifestations/enquete-franceinfo-la-police-a-t-elle-coopere-avec-des-militants-d-ultradroite-a-montpellier-lors-de-la-manifestation-du-samedi-24-octobre_8257252.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 30 Oct 2026 12:45:55 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"On fait croire qu'ici, c'est dangereux\" : après l'attentat de Trappes, des habitants dénoncent un \"acharnement\" contre leur ville",
-        "resume": "Le 23 octobre, un homme de 39 ans a tué un habitant de cette commune des Yvelines qu'il considérait comme \"un repaire d'islamistes\". Des Trappistes pointent du doigt la responsabilité de politiques et",
-        "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/reportage-on-fait-croire-qu-ici-c-est-dangereux-apres-l-attentat-de-trappes-des-habitants-denoncent-un-acharnement-contre-leur-ville_8257315.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 30 Oct 2026 05:50:55 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"La seule chose que je veux, c'est voir mon frère\" : à Tolède, l'attente angoissante pour les familles des victimes de l'accident de trains",
-        "resume": "Après la collision meurtrière entre deux trains mercredi en Espagne, il reste encore des personnes non identifiées. Les familles des victimes oscillent entre peur et espoir.",
-        "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/reportage-la-seule-chose-que-je-veux-c-est-voir-mon-frere-a-tolede-les-familles-des-victimes-de-l-accident-de-trains-dans-l-attente-des-nouvelles-de-leurs-proches_8259989.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 30 Oct 2026 08:19:02 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Marine Le Pen est-elle vraiment inéligible à l'élection présidentielle, comme l'affirme un magistrat honoraire de la Cour de cassation ?",
-        "resume": "Didier Guérin a assuré mardi dans \"Le Monde\" que la candidate du Rassemblement national n’était éligible ni à ce jour ni dans l’hypothèse d’une cassation de l'arrêt de la cour d'appel. Cette interprét",
-        "lien": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/marine-le-pen-est-elle-vraiment-ineligible-a-l-election-presidentielle-comme-l-affirme-un-magistrat-honoraire-de-la-cour-de-cassation_8257378.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 30 Oct 2026 13:03:48 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Vente de préservatifs non conformes : 15 références retirées et rappelées sur le marché européen après une enquête de la DGCCRF",
-        "resume": "Environ sept millions de préservatifs produits par un fabricant malaisien sont concernés par ce rappel en raison de défauts \"susceptibles de causer éclatement et perforation\".",
-        "lien": "https://www.franceinfo.fr/sante/vente-de-preservatifs-non-conformes-15-references-retirees-et-rappelees-sur-le-marche-europeen-apres-une-enquete-de-la-dgccrf_8260220.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 30 Oct 2026 12:59:50 +0100"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Cameroun : Nouvelles révélations dans le procès de l'assassinat de Martinez Zogo",
-        "resume": "🇨🇲 Cameroun, l’affaire Martinez Zogo connaît un tournant majeur après plus de deux ans de procédure judiciaire, avec la déposition du 36ᵉ témoin, un officier supérieur écarté de l’enquête préliminaire",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261030-cameroun-nouvelles-r%C3%A9v%C3%A9lations-dans-le-proc%C3%A8s-de-l-assassinat-de-martinez-zogo",
-        "date": "Fri, 30 Oct 2026 11:41:19 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "En Géorgie, le rêve européen en sursis",
-        "resume": "Fin 2024, des dizaines de milliers de Géorgiens pro-européens manifestaient contre la loi sur les agents étrangers et les résultats contestés des élections législatives, remportées par le parti au pou",
-        "lien": "https://www.france24.com/fr/%C3%A9missions/billet-retour/20261030-georgie-reve-europe-union-europeenne-sursis-reportage",
-        "date": "Fri, 30 Oct 2026 11:34:32 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Collision tragique en Espagne : tristesse et indignation dans tout le pays",
-        "resume": "La colère gagne l'Espagne, sous le choc vendredi au deuxième jour d'un deuil national de 72 heures après la collision dévastatrice entre deux trains qui a fait 69 morts la veille. À un mois des électi",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261030-collision-tragique-en-espagne-tristesse-et-indignation-dans-tout-le-pays",
-        "date": "Fri, 30 Oct 2026 10:55:15 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Hope",
-        "date_sortie": "2026-10-28",
-        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
-        "note": 6.8,
-        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
-      },
-      {
-        "titre": "Clayface",
-        "date_sortie": "2026-10-21",
-        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
-        "note": 7.469,
-        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
-      },
-      {
-        "titre": "Verity",
-        "date_sortie": "2026-09-30",
-        "synopsis": "Lorsqu’un accident affecte les capacités de l’autrice de bestsellers, Verity Crawford, à achever son œuvre, une écrivaine solitaire, Lowen Ashleigh, qui peine à joindre les deux bouts est engagée pour lui prêter sa plume",
-        "note": 6.462,
-        "affiche": "https://image.tmdb.org/t/p/w300/1ob7dZ1rvAgHOpVJGjJ2voibOp.jpg"
-      },
-      {
-        "titre": "L'île des souvenirs",
-        "date_sortie": "2026-10-21",
-        "synopsis": "Pendant qu'elles passent une dernière soirée ensemble avant de s'engager sur des voies différentes, Jo et Raissa, amies depuis toujours, trouvent un portail mystérieux qui les transporte sur Nakali, une île mythique peup",
-        "note": 7.6,
-        "affiche": "https://image.tmdb.org/t/p/w300/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg"
-      },
-      {
-        "titre": "Street Fighter",
-        "date_sortie": "2026-10-13",
-        "synopsis": "En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affrontement brutal où se mê",
-        "note": 6.349,
-        "affiche": "https://image.tmdb.org/t/p/w300/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"
-      },
-      {
-        "titre": "Obsession",
-        "date_sortie": "2026-05-13",
-        "synopsis": "Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lui… jusqu’à l’obsessi",
-        "note": 8.2,
-        "affiche": "https://image.tmdb.org/t/p/w300/mDCR1frpUvGfIKksuM440VLb7X9.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Through Lines",
-        "artiste": "Skye Peterson",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Débuter une recherche aux Archives départementales (niveau débutant)",
-        "date_debut": "2026-10-30T13:00:00+00:00",
-        "lieu": "Archives départementales de Maine-et-Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Apéro célibataires — Angers",
-        "date_debut": "2026-10-30T18:00:00+00:00",
-        "lieu": "Centre-ville de Angers",
-        "ville": "Angers"
-      },
-      {
-        "titre": "SHAFRO @ANGERS #11 HALLOWEEN : NO COSTUME = NO PARTY",
-        "date_debut": "2026-10-31T20:00:00+00:00",
-        "lieu": "Buddy's Bar",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Information Collective : Conducteur Transport de marchandises",
-        "date_debut": "2026-11-02T08:20:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Vendeur en produits du territoire Angevin pour le Marché de Noël d'Angers",
-        "date_debut": "2026-11-02T13:30:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "House of Banksy - Une expo non autorisée",
-        "date_debut": "2026-10-30",
-        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Exposition Le Muséum au fil du temps",
-        "date_debut": "2026-10-30",
-        "lieu": "Place de la Monnaie",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Dracula, la parodie hilarante et terrifiante !",
-        "date_debut": "2026-10-30",
-        "lieu": "Théâtre Rue de Belleville",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Exposition « 200 photographies pour 200 ans d'histoire »",
-        "date_debut": "2026-10-30",
-        "lieu": "Archives Départementales de Loire-Atlantique",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Exposition « Architecture (s) et grands ensembles »",
-        "date_debut": "2026-10-30",
-        "lieu": "École nationale supérieure d’architecture - ensa",
         "ville": "Nantes"
       }
     ]
