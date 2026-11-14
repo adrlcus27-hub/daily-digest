@@ -1,5 +1,183 @@
 [
   {
+    "date": "2026-11-14",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Microsoft annonce le rétablissement total de ses services après la panne mondiale survenue jeudi",
+        "resume": "Un incident survenu sur les logiciels du géant de l'informatique ont paralysé pendant plus de 24 heures les communications en ligne de nombreuses entreprises, administrations et particuliers à travers",
+        "lien": "https://www.franceinfo.fr/internet/panne-informatique-mondiale/microsoft-annonce-le-retablissement-total-de-ses-services-apres-la-panne-mondiale-survenue-jeudi_8282405.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 14 Nov 2026 12:40:27 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Panne du système de communication, centaines de milliers de passagers touchés… Ce que l'on sait de la suspension massive et rarissime des vols aux Etats-Unis",
+        "resume": "Les avions ont été cloués au sol pendant plusieurs heures vendredi. La faute, selon les autorités, à un système de communication vétuste, qui utilise encore des disquettes pour des informations crucia",
+        "lien": "https://www.franceinfo.fr/monde/usa/panne-du-systeme-de-communication-centaines-de-milliers-de-passagers-touches-ce-que-l-on-sait-de-la-suspension-massive-et-rarissime-des-vols-aux-etats-unis_8282207.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 14 Nov 2026 12:58:12 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Interdictions de manifestations, couvre-feux, parcours hors des centres-villes… Comment les préfets multiplient les mesures administratives en amont des mobilisations",
+        "resume": "Depuis le 1er octobre, 219 arrêtés concernant le mouvement lycéen ou les manifestations contre la vie chère ont été pris par la préfecture de police de Paris, d'après le décompte de franceinfo.",
+        "lien": "https://www.franceinfo.fr/societe/manifestations/interdictions-de-manifestations-couvre-feux-parcours-hors-des-centres-villes-comment-les-prefets-multiplient-les-mesures-administratives-en-amont-des-mobilisations_8274263.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 14 Nov 2026 13:03:26 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Présidentielle 2027 : Raphaël Glucksmann dit vouloir \"augmenter les salaires\" et \"rendre du pouvoir d'achat aux Français\"",
+        "resume": "Le candidat de gauche s'est rendu au salon du Made in France à Paris samedi.",
+        "lien": "https://www.franceinfo.fr/elections/presidentielle-2027-raphael-glucksmann-et-teddy-riner-attendus-au-salon-du-made-in-france_8282213.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 14 Nov 2026 11:37:35 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Violences du 17 octobre : jusqu'à 500 millions d'euros de dégâts estimés par des assureurs",
+        "resume": "Le président du conseil d'administration de Covéa (maison mère de la MAAF, MMA et la GMF) juge, sur France Inter, \"très élevé\" le chiffre avancé par CCI France, qui évalue pour sa part les dégâts à 1,",
+        "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/violences-du-17-octobre-jusqu-a-500-millions-d-euros-de-degats-estimes-par-les-assureurs_8282438.html#xtor=RSS-3-[lestitres]",
+        "date": "Sat, 14 Nov 2026 13:02:41 +0100"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Hope",
+        "date_sortie": "2026-10-28",
+        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
+        "note": 6.766,
+        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
+      },
+      {
+        "titre": "Malfaisante",
+        "date_sortie": "2026-10-14",
+        "synopsis": "Une jeune fille, Bela, développe dans son foyer une relation avec une entité troublante qui ressemble étrangement à sa mère. Son « autre maman » n'est pas que le fruit de son imagination. Cette entité sinistre et manipul",
+        "note": 6.249,
+        "affiche": "https://image.tmdb.org/t/p/w300/a6AztQlJvKy2tEOc10M7WXIF5gX.jpg"
+      },
+      {
+        "titre": "Godzilla Minus Zero",
+        "date_sortie": "2026-11-04",
+        "synopsis": "Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réapparaît des années plus",
+        "note": 7.754,
+        "affiche": "https://image.tmdb.org/t/p/w300/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg"
+      },
+      {
+        "titre": "Ramayana : L'avènement d'une légende",
+        "date_sortie": "2026-11-06",
+        "synopsis": "Une épopée ancienne suit un jeune prince et une jeune princesse dont le mariage et l'exil qui a suivi marquent le début d'un voyage légendaire. Leur histoire d'amour, de devoir et de destin ouvre la voie à de nouveaux dé",
+        "note": 7.5,
+        "affiche": "https://image.tmdb.org/t/p/w300/sCqbbDIfLfO52FWjmuVOVZKkVyV.jpg"
+      },
+      {
+        "titre": "Scrooge",
+        "date_sortie": "2026-11-11",
+        "synopsis": "Ebenezer Scrooge est un vieil homme avare, pingre et solitaire. Bien évidemment, il déteste et méprise Noël et tout ce qui engendre le bonheur. C'est alors qu'il reçoit la visite du fantôme d'un ancien associé ainsi que ",
+        "note": 7.898,
+        "affiche": "https://image.tmdb.org/t/p/w300/uxYPnpkSmG1iluoSB0fOtYK7BfM.jpg"
+      },
+      {
+        "titre": "Clayface",
+        "date_sortie": "2026-10-21",
+        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
+        "note": 7.403,
+        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Through Lines",
+        "artiste": "Skye Peterson",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Semaine de l'industrie : SCANIA PRODUCTION ANGERS ouvre ses portes !",
+        "date_debut": "2026-11-16T09:30:00+00:00",
+        "lieu": "Scania production Angers",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Webinaire - Présentation du BPREA à distance",
+        "date_debut": "2026-11-16T11:00:00+00:00",
+        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Semaine de l'industrie : CICOR ANGERS ouvre ses portes !",
+        "date_debut": "2026-11-16T12:30:00+00:00",
+        "lieu": "CICOR ANGERS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Semaine de l'industrie : CICOR ANGERS ouvre ses portes !",
+        "date_debut": "2026-11-17T12:30:00+00:00",
+        "lieu": "CICOR ANGERS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Atelier Sénior 360 pour les candidats de l'agence France Travail Capucins",
+        "date_debut": "2026-11-17T12:45:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Chou Chou Ténèbres",
+        "date_debut": "2026-11-14",
+        "lieu": "Théâtre ONYX",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Dans l'objectif de Phot'image",
+        "date_debut": "2026-11-14",
+        "lieu": "Espace culturel Adine-Riom",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "CHERS PARENTS",
+        "date_debut": "2026-11-14",
+        "lieu": "Théâtre 100 Noms",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "LE PORTEUR D'HISTOIRE",
+        "date_debut": "2026-11-14",
+        "lieu": "Théâtre 100 Noms",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Don du sang — Maison du don, Nantes",
+        "date_debut": "2026-11-14",
+        "lieu": "Maison du don",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-11-13",
     "news": [
       {
@@ -2489,205 +2667,6 @@
         "titre": "Le Conservatoire et Stradivaria",
         "date_debut": "2026-11-02",
         "lieu": "Chapelle de l'Immaculée",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-31",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Mobilisation du 31 octobre : la CGT appelle les manifestants à rejoindre le seul cortège parisien autorisé",
-        "resume": "Le Conseil d'Etat a annulé la décision du tribunal administratif de Paris qui avait autorisé hier soir un parcours entre Bastille et Nation. Dans la capitale, les manifestants devront donc défiler ent",
-        "lien": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-31-octobre-suivez-cette-troisieme-journee-de-manifestations-pour-laquelle-le-gouvernement-prevoit-un-dispositif-de-securite-exceptionnel_8260562.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 31 Oct 2026 11:00:30 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"La France, c'est nous\" : une semaine après l'attentat à Trappes, des milliers de personnes se rassemblent \"pour faire face au racisme\"",
-        "resume": "Un rassemblement a eu lieu vendredi soir à Trappes (Yvelines) pour rendre hommage à Pengo Bossio Wangi, un homme noir de 26 ans, et aux sept personnes blessées, dont une fillette, par Kevin T., qui s'",
-        "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/la-france-c-est-nous-une-semaine-apres-l-attentat-raciste-a-trappes-un-rassemblement-pour-faire-face-aux-discours-xenophobes_8260991.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 31 Oct 2026 10:33:48 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Chances d'une vague démocrate, enjeu pour Donald Trump et pour 2028... L'article à lire pour tout comprendre aux midterms, les élections de mi-mandat aux Etats-Unis",
-        "resume": "Si le président américain en exercice sort rarement gagnant de ce scrutin, le revers pourrait être lourd pour Donald Trump, mardi 3 novembre. Les sondages prédisent à l'opposition démocrate une majori",
-        "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/chances-d-une-vague-democrate-enjeu-pour-donald-trump-et-pour-2028-l-article-a-lire-pour-tout-comprendre-aux-midterms-les-elections-de-mi-mandat-aux-etats-unis_8237488.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 31 Oct 2026 07:29:06 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Une lettre au contenu raciste contenant une poudre blanche a été adressée au maire de Trappes Ali Rabeh.",
-        "resume": "Le poudre pourrait être du talc selon les premiers éléments de l'enquête, la lettre a été postée en Bretagne.",
-        "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/une-lettre-au-contenu-raciste-contenant-une-poudre-blanche-a-ete-adressee-au-maire-de-trappes-ali-rabeh_8261744.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 31 Oct 2026 12:20:54 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Le guide suprême iranien met en garde les États-Unis contre une reprise d'éventuelles attaques",
-        "resume": "Le régime iranien menace d'élargir le conflit en cas de nouvelles attaques provenant de Washington",
-        "lien": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/le-guide-supreme-iranien-met-en-garde-les-etats-unis-contre-une-reprise-d-eventuelles-attaques_8261696.html#xtor=RSS-3-[lestitres]",
-        "date": "Sat, 31 Oct 2026 12:35:34 +0100"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Midterms : en Floride, les latinos se détournent-ils de Trump ?",
-        "resume": "Un reportage signé Antoni Belchi, récit de Thibault Franceschet.",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261031-midterms-en-floride-les-latinos-se-d%C3%A9tournent-ils-de-trump",
-        "date": "Sat, 31 Oct 2026 10:45:20 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Troisième samedi de mobilisation sociale en France : à quoi s'attendre ?",
-        "resume": "Marc Paupe est en direct de Paris.",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261031-troisi%C3%A8me-samedi-de-mobilisation-sociale-en-france-%C3%A0-quoi-s-attendre",
-        "date": "Sat, 31 Oct 2026 10:43:31 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Mobilisations sociales en France : lourdes pertes pour l'hôtellerie",
-        "resume": "Une baisse de 40 % du taux d’occupation dans certains hôtels de la capitale : les mobilisations sociales provoquent une fuite des touristes.",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261031-mobilisations-sociales-en-france-lourdes-pertes-pour-l-h%C3%B4tellerie",
-        "date": "Sat, 31 Oct 2026 10:41:57 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Hope",
-        "date_sortie": "2026-10-28",
-        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
-        "note": 6.758,
-        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
-      },
-      {
-        "titre": "Verity",
-        "date_sortie": "2026-09-30",
-        "synopsis": "Lorsqu’un accident affecte les capacités de l’autrice de bestsellers, Verity Crawford, à achever son œuvre, une écrivaine solitaire, Lowen Ashleigh, qui peine à joindre les deux bouts est engagée pour lui prêter sa plume",
-        "note": 6.627,
-        "affiche": "https://image.tmdb.org/t/p/w300/1ob7dZ1rvAgHOpVJGjJ2voibOp.jpg"
-      },
-      {
-        "titre": "Clayface",
-        "date_sortie": "2026-10-21",
-        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
-        "note": 7.439,
-        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
-      },
-      {
-        "titre": "L'île des souvenirs",
-        "date_sortie": "2026-10-21",
-        "synopsis": "Pendant qu'elles passent une dernière soirée ensemble avant de s'engager sur des voies différentes, Jo et Raissa, amies depuis toujours, trouvent un portail mystérieux qui les transporte sur Nakali, une île mythique peup",
-        "note": 7.571,
-        "affiche": "https://image.tmdb.org/t/p/w300/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg"
-      },
-      {
-        "titre": "Street Fighter",
-        "date_sortie": "2026-10-13",
-        "synopsis": "En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affrontement brutal où se mê",
-        "note": 6.348,
-        "affiche": "https://image.tmdb.org/t/p/w300/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"
-      },
-      {
-        "titre": "Obsession",
-        "date_sortie": "2026-05-13",
-        "synopsis": "Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lui… jusqu’à l’obsessi",
-        "note": 8.169,
-        "affiche": "https://image.tmdb.org/t/p/w300/mDCR1frpUvGfIKksuM440VLb7X9.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 1",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "SHAFRO @ANGERS #11 HALLOWEEN : NO COSTUME = NO PARTY",
-        "date_debut": "2026-10-31T20:00:00+00:00",
-        "lieu": "Buddy's Bar",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Information Collective : Conducteur Transport de marchandises",
-        "date_debut": "2026-11-02T08:20:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Vendeur en produits du territoire Angevin pour le Marché de Noël d'Angers",
-        "date_debut": "2026-11-02T13:30:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Mon projet de formation- les étapes, les financements, la rémunération - Pour les demandeurs d'emploi d'ANGERS CAPUCINS:",
-        "date_debut": "2026-11-03T08:00:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Webinaire de présentation de l'Observatoire Régional AB",
-        "date_debut": "2026-11-03T10:00:00+00:00",
-        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "IMPRO CONTENDERS - Saison 4",
-        "date_debut": "2026-10-31",
-        "lieu": "Mystère Comedy Club",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "The Art of the Brick - Exposition d’art en Lego",
-        "date_debut": "2026-10-31",
-        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Don du sang — Maison du don, Nantes",
-        "date_debut": "2026-10-31",
-        "lieu": "Maison du don",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Expression(s) Décoloniale(s) #4 - Exposition",
-        "date_debut": "2026-10-31",
-        "lieu": "Château des Ducs de Bretagne -   Musée d'Histoire de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "House of Banksy - Une expo non autorisée",
-        "date_debut": "2026-10-31",
-        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
         "ville": "Nantes"
       }
     ]
