@@ -1,5 +1,173 @@
 [
   {
+    "date": "2026-11-16",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Crise sociale : un recours de l'Unef examiné après l'interdiction de rassemblements et cortèges près de lycées et d'universités en région parisienne",
+        "resume": "Des rassemblements et cortèges non déclarés sont interdits \"dans un rayon de 100 mètres autour de certains lycées et établissements d'enseignement supérieur\" de la région, a annoncé la préfecture de p",
+        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mouvement-lyceen-le-lycee-nelson-mandela-rouvre-ses-portes-a-nantes-six-semaines-apres-l-incendie-dont-il-a-ete-victime_8284130.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 16 Nov 2026 15:32:21 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Le rassemblement commence par la primaire\" de la droite et du centre pour la présidentielle, plaident un millier d'élus locaux dans une tribune",
+        "resume": "Les signataires du texte paru lundi dans \"Le Figaro\" souhaitent \"éviter une prolifération de candidatures sur laquelle prospéreraient les extrêmes\".",
+        "lien": "https://www.franceinfo.fr/elections/le-rassemblement-commence-par-la-primaire-de-la-droite-et-du-centre-plaident-un-millier-d-elus-locaux-dans-une-tribune_8284796.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 16 Nov 2026 13:41:02 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Un quart des Français adhère encore à des préjugés antisémites, alerte une étude",
+        "resume": "Selon un sondage de l'Ifop et de la Fondapol pour l'American Jewish Committee, paru lundi, 24% des Français pensent que les juifs ont \"trop de pouvoir dans le domaine des médias\" ou \"dans le domaine d",
+        "lien": "https://www.franceinfo.fr/societe/antisemitisme/un-quart-des-francais-adhere-encore-a-des-prejuges-antisemites-alerte-une-etude_8284583.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 16 Nov 2026 15:33:47 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "L'UE \"salue l'initiative\" de cinq pays souhaitant créer les premiers \"hubs de retour\" pour des personnes migrantes expulsées d'Europe",
+        "resume": "Ces pays doivent détailler les débuts de ce projet en conférence de presse, lundi après-midi.",
+        "lien": "https://www.franceinfo.fr/monde/europe/union-europeenne/l-ue-salue-l-initiative-de-cinq-pays-souhaitant-creer-les-premiers-hubs-de-retour-pour-des-personnes-migrantes-expulsees-d-europe_8284862.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 16 Nov 2026 14:29:01 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Le SP95 sous la barre des 2 euros le litre pour la première fois depuis août, suivez en direct l'évolution des prix à la pompe",
+        "resume": "Cette page, actualisée en temps réel, vous permet de suivre l'impact de la guerre au Moyen-Orient sur l'évolution du cours du pétrole et les conséquences sur les prix des carburants à la pompe.",
+        "lien": "https://www.franceinfo.fr/economie/transports/penurie-de-carburants/tableau-de-bord-prix-de-l-essence-et-du-gazole-ruptures-de-stock-cours-du-brent-suivez-en-temps-reel-la-situation-dans-les-stations-service-en-france_7997111.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 23 Sep 2026 17:44:58 +0200"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "L'Arabie saoudite remplace le commandant de la coalition militaire au Yémen",
+        "resume": "L'Arabie saoudite a démis de ses fonctions, lundi, le commandant de la coalition militaire contre les Houthis, au Yémen, remplacé par le chef d'état-major des forces armées saoudiennes, alors que le m",
+        "lien": "https://www.france24.com/fr/moyen-orient/20261116-l-arabie-saoudite-remplace-le-commandant-de-la-coalition-militaire-au-y%C3%A9men",
+        "date": "Mon, 16 Nov 2026 14:45:13 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "L'Iran refuse tout accès à ses installations nucléaires avant la fin du conflit",
+        "resume": "Les inspecteurs de l'AIEA ne pourront pas accéder aux installations nucléaires iraniennes tant que la guerre ne sera pas terminée, a affirmé un haut diplomate après que l'agence onusienne a exhorté Té",
+        "lien": "https://www.france24.com/fr/asie-pacifique/20261116-iran-refuse-tout-acc%C3%A8s-installations-nucl%C3%A9aires-avant-fin-guerre",
+        "date": "Mon, 16 Nov 2026 13:54:34 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Guerre en Ukraine : la France présente dans le pays depuis au moins l'été 2026",
+        "resume": "Des soldats français opèrent depuis plusieurs mois en Ukraine, selon les informations publiées par RFI ce lundi 16 novembre. Il ne s’agit pas de combattre, mais d’apporter un soutien aux forces de Kie",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-guerre-en-ukraine-la-france-pr%C3%A9sente-dans-le-pays-depuis-au-moins-l-%C3%A9t%C3%A9-2026",
+        "date": "Mon, 16 Nov 2026 13:44:14 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Malfaisante",
+        "date_sortie": "2026-10-14",
+        "synopsis": "Une jeune fille, Bela, développe dans son foyer une relation avec une entité troublante qui ressemble étrangement à sa mère. Son « autre maman » n'est pas que le fruit de son imagination. Cette entité sinistre et manipul",
+        "note": 6.323,
+        "affiche": "https://image.tmdb.org/t/p/w300/a6AztQlJvKy2tEOc10M7WXIF5gX.jpg"
+      },
+      {
+        "titre": "Hope",
+        "date_sortie": "2026-10-28",
+        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
+        "note": 6.82,
+        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
+      },
+      {
+        "titre": "Godzilla Minus Zero",
+        "date_sortie": "2026-11-04",
+        "synopsis": "Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réapparaît des années plus",
+        "note": 7.702,
+        "affiche": "https://image.tmdb.org/t/p/w300/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg"
+      },
+      {
+        "titre": "Ramayana : L'avènement d'une légende",
+        "date_sortie": "2026-11-06",
+        "synopsis": "Une épopée ancienne suit un jeune prince et une jeune princesse dont le mariage et l'exil qui a suivi marquent le début d'un voyage légendaire. Leur histoire d'amour, de devoir et de destin ouvre la voie à de nouveaux dé",
+        "note": 7.472,
+        "affiche": "https://image.tmdb.org/t/p/w300/sCqbbDIfLfO52FWjmuVOVZKkVyV.jpg"
+      },
+      {
+        "titre": "Scrooge",
+        "date_sortie": "2026-11-11",
+        "synopsis": "Ebenezer Scrooge est un vieil homme avare, pingre et solitaire. Bien évidemment, il déteste et méprise Noël et tout ce qui engendre le bonheur. C'est alors qu'il reçoit la visite du fantôme d'un ancien associé ainsi que ",
+        "note": 7.684,
+        "affiche": "https://image.tmdb.org/t/p/w300/uxYPnpkSmG1iluoSB0fOtYK7BfM.jpg"
+      },
+      {
+        "titre": "Street Fighter",
+        "date_sortie": "2026-10-13",
+        "synopsis": "En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affrontement brutal où se mê",
+        "note": 6.264,
+        "affiche": "https://image.tmdb.org/t/p/w300/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"
+      }
+    ],
+    "albums": [],
+    "evenements": [
+      {
+        "titre": "Semaine de l'industrie : SCANIA PRODUCTION ANGERS ouvre ses portes !",
+        "date_debut": "2026-11-16T09:30:00+00:00",
+        "lieu": "Scania production Angers",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Webinaire - Présentation du BPREA à distance",
+        "date_debut": "2026-11-16T11:00:00+00:00",
+        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Semaine de l'industrie : CICOR ANGERS ouvre ses portes !",
+        "date_debut": "2026-11-16T12:30:00+00:00",
+        "lieu": "CICOR ANGERS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Semaine de l'industrie : CICOR ANGERS ouvre ses portes !",
+        "date_debut": "2026-11-17T12:30:00+00:00",
+        "lieu": "CICOR ANGERS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Atelier Sénior 360 pour les candidats de l'agence France Travail Capucins",
+        "date_debut": "2026-11-17T12:45:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Exposition « 200 photographies pour 200 ans d'histoire »",
+        "date_debut": "2026-11-16",
+        "lieu": "Archives Départementales de Loire-Atlantique",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Don du sang — Maison du don, Nantes",
+        "date_debut": "2026-11-16",
+        "lieu": "Maison du don",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Raconte moi une histoire",
+        "date_debut": "2026-11-16",
+        "lieu": "Manou Partages",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le Voyage en Hiver 2026 – Noël place du Bouffay",
+        "date_debut": "2026-11-16",
+        "lieu": "Place du Bouffay",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition photo « La violence des regards faits aux femmes »",
+        "date_debut": "2026-11-16",
+        "lieu": "Carré des Services (Le)",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-11-15",
     "news": [
       {
@@ -2437,205 +2605,6 @@
         "titre": "Don du sang — Maison du don, Nantes",
         "date_debut": "2026-11-03",
         "lieu": "Maison du don",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-02",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"L'opinion publique a changé\" : à New York, des électeurs démocrates misent sur un revirement populaire contre Donald Trump à l'élection de mi-mandat",
-        "resume": "Aux Etats-Unis, l’élection de mi-mandat prend, comme à chaque fois, des airs de référendum sur l’occupant du bureau ovale. A New York, alors que les derniers sondages donnent les démocrates en tête, l",
-        "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-2026-l-essentiel-des-elections-de-mi-mandat/l-opinion-publique-a-change-a-new-york-des-electeurs-democrates-misent-sur-un-revirement-populaire-contre-donald-trump-a-l-election-de-mi-mandat_8264045.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 02 Nov 2026 14:34:44 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Le Premier ministre, Sébastien Lecornu, répète qu'il est prêt à rencontrer les représentants des lycéens \"la semaine prochaine\"",
-        "resume": "Plusieurs organisations lycéennes et étudiantes appellent à poursuivre le mouvement pour la rentrée des vacances de la Toussaint. Selon le ministère de l'Education nationale, 41 lycées étaient bloqués",
-        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-pour-la-reprise-des-cours-les-organisations-etudiantes-et-lyceennes-appellent-a-de-nouveaux-blocus_8263475.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 02 Nov 2026 14:49:10 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Le père de Pengo Bossio Wangi, tué dans l'attentat dans les Yvelines, souhaite que l'hommage national permette une \"prise de conscience\" contre le racisme",
-        "resume": "Trop ému pour s'exprimer, il a laissé le soin à sa fille de lire une déclaration lors d'une conférence de presse à Paris. \"Malgré notre colère et notre douleur, la mère de Pengo et moi faisons le choi",
-        "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-des-yvelines-le-pere-de-l-homme-tue-souhaite-que-l-hommage-national-permette-une-prise-de-conscience-contre-le-racisme_8263964.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 02 Nov 2026 13:27:22 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Mairie de Limoges incendiée : un million d'euros de dons déjà récoltés pour sa reconstruction",
-        "resume": "Cette cagnotte, ouverte par la Fondation du patrimoine, atteignait plus d'un million d'euros de dons lundi à la mi-journée, de la part de plus de 9 000 donateurs.",
-        "lien": "https://www.franceinfo.fr/culture/patrimoine/mairie-de-limoges-incendiee-un-million-d-euros-de-dons-deja-recoltes-pour-sa-reconstruction_8264090.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 02 Nov 2026 14:59:46 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Le prix Médicis 2026 est décerné à Philippe Vasset pour son roman \"Dans les grandes lignes\"",
-        "resume": "C'est le premier prix majeur remporté par cet écrivain et journaliste de 52 ans, dont le roman relate un périple à travers la France sous le tracé des lignes à haute tension. Il succède à Emmanuel Car",
-        "lien": "https://www.franceinfo.fr/culture/le-prix-medicis-2026-est-decerne-a-philippe-vasset-pour-son-roman-dans-les-grandes-lignes_8263922.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 02 Nov 2026 14:27:20 +0100"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Mobilisations lycéennes en France : un mal-être social partagé par les jeunesses du monde",
-        "resume": "En France, environ 41 lycées étaient bloqués lundi 2 novembre à l'appel des organisations étudiantes et lycéennes qui veulent poursuivre le mouvement engagé depuis six semaines. Sur France Inter, le m",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261102-mobilisations-lyc%C3%A9ennes-en-france-un-mal-%C3%AAtre-social-partag%C3%A9-par-les-jeunesses-du-monde",
-        "date": "Mon, 02 Nov 2026 14:11:56 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Mobilisations lycéennes en France : des blocages évacués sans ménagement par la police",
-        "resume": "En France, l'Union syndicale lycéenne (USL) et l'Union étudiante ont appelé cedernier week-end d'octobre à de nouveaux blocages mardi 3 novembre et le jeudi qui suit, journée de mobilisation pour le p",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261102-mobilisations-lyc%C3%A9ennes-en-france-des-blocages-%C3%A9vacu%C3%A9s-sans-m%C3%A9nagement-par-la-police",
-        "date": "Mon, 02 Nov 2026 14:09:19 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Élections de mi-mandat : quel vote pour les agriculteurs de Caroline du Nord ?",
-        "resume": "Les élections de mi-mandat ont lieu mardi aux États-Unis, où le président Donald Trump n'a jamais été aussi impopulaire. De nombreux États aux sièges autrefois acquis aux républicains sont vacillants.",
-        "lien": "https://www.france24.com/fr/%C3%A9missions/focus/20261102-%C3%A9lections-de-mi-mandat-quel-vote-pour-les-agriculteurs-de-caroline-du-nord",
-        "date": "Mon, 02 Nov 2026 13:59:44 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Hope",
-        "date_sortie": "2026-10-28",
-        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
-        "note": 6.793,
-        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
-      },
-      {
-        "titre": "Verity",
-        "date_sortie": "2026-09-30",
-        "synopsis": "Lorsqu’un accident affecte les capacités de l’autrice de bestsellers, Verity Crawford, à achever son œuvre, une écrivaine solitaire, Lowen Ashleigh, qui peine à joindre les deux bouts est engagée pour lui prêter sa plume",
-        "note": 6.858,
-        "affiche": "https://image.tmdb.org/t/p/w300/1ob7dZ1rvAgHOpVJGjJ2voibOp.jpg"
-      },
-      {
-        "titre": "Clayface",
-        "date_sortie": "2026-10-21",
-        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
-        "note": 7.454,
-        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
-      },
-      {
-        "titre": "L'île des souvenirs",
-        "date_sortie": "2026-10-21",
-        "synopsis": "Pendant qu'elles passent une dernière soirée ensemble avant de s'engager sur des voies différentes, Jo et Raissa, amies depuis toujours, trouvent un portail mystérieux qui les transporte sur Nakali, une île mythique peup",
-        "note": 7.952,
-        "affiche": "https://image.tmdb.org/t/p/w300/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg"
-      },
-      {
-        "titre": "Obsession",
-        "date_sortie": "2026-05-13",
-        "synopsis": "Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lui… jusqu’à l’obsessi",
-        "note": 8.2,
-        "affiche": "https://image.tmdb.org/t/p/w300/mDCR1frpUvGfIKksuM440VLb7X9.jpg"
-      },
-      {
-        "titre": "Street Fighter",
-        "date_sortie": "2026-10-13",
-        "synopsis": "En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affrontement brutal où se mê",
-        "note": 6.314,
-        "affiche": "https://image.tmdb.org/t/p/w300/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Through Lines",
-        "artiste": "Skye Peterson",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Information Collective : Conducteur Transport de marchandises",
-        "date_debut": "2026-11-02T08:20:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Vendeur en produits du territoire Angevin pour le Marché de Noël d'Angers",
-        "date_debut": "2026-11-02T13:30:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Mon projet de formation- les étapes, les financements, la rémunération - Pour les demandeurs d'emploi d'ANGERS CAPUCINS:",
-        "date_debut": "2026-11-03T08:00:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Webinaire de présentation de l'Observatoire Régional AB",
-        "date_debut": "2026-11-03T10:00:00+00:00",
-        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Table ronde illustrée : Femmes, Corps, Intimité, Trois expositions en conversation",
-        "date_debut": "2026-11-03T17:00:00+00:00",
-        "lieu": "Hôtel des Pénitentes",
-        "ville": "Angers"
-      },
-      {
-        "titre": "La Semaine Mortelle #2",
-        "date_debut": "2026-11-02",
-        "lieu": "Nouveau Studio Théâtre",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le livre d’artiste concours et exposition – Musée de l'imprimerie",
-        "date_debut": "2026-11-02",
-        "lieu": "Musée-atelier de l'imprimerie de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Permanences d'inscriptions aux Repas festifs seniors",
-        "date_debut": "2026-11-02",
-        "lieu": "CCAS de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Parlons du Bois Énergie",
-        "date_debut": "2026-11-02",
-        "lieu": "Bâtiment B - Fibois Pays de la Loire",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Exposition « 200 photographies pour 200 ans d'histoire »",
-        "date_debut": "2026-11-02",
-        "lieu": "Archives Départementales de Loire-Atlantique",
         "ville": "Nantes"
       }
     ]
