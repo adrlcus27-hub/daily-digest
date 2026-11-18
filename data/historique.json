@@ -1,5 +1,152 @@
 [
   {
+    "date": "2026-11-18",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "La course au nucléaire au cœur de la rencontre entre Trump, Poutine et Xi en Chine",
+        "resume": "Donald Trump, Vladimir Poutine et Xi Jinping sont réunis à Shenzen, en Chine. Lors du sommet de l'Apec, les dirigeants américain, russe et chinois doivent notamment parler du nucléaire. Les trois pays",
+        "lien": "https://www.franceinfo.fr/environnement/energie/nucleaire/la-course-au-nucleaire-au-c-ur-de-la-rencontre-entre-trump-poutine-et-xi-en-chine_8288201.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 18 Nov 2026 15:41:33 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Priorité donnée à l'école, rétablissement des comptes publics… Edouard Philippe développe plusieurs mesures de son programme présidentiel",
+        "resume": "Le candidat Horizons à la présidentielle a présenté mercredi, lors d'une conférence de presse, son projet \"à date\".",
+        "lien": "https://www.franceinfo.fr/politique/edouard-philippe/priorite-donnee-a-l-ecole-retablissement-des-comptes-publics-edouard-philippe-met-en-lumiere-plusieurs-mesures-de-son-programme-presidentiel_8287970.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 18 Nov 2026 12:51:52 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Une Amérique fragmentée\" : comment la saga de jeux vidéo \"GTA\" a réinventé son regard sur le rêve américain",
+        "resume": "Des voitures, des armes, des courses-poursuites… Sous ses allures de jeu de gangster urbain, \"Grand Theft Auto\" a, en plus de trente ans, pu affiner un regard critique de la société américaine et de s",
+        "lien": "https://www.franceinfo.fr/culture/jeux-video/une-amerique-fragmentee-comment-la-saga-de-jeux-video-gta-a-reinvente-son-regard-sur-le-reve-americain_8287151.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 18 Nov 2026 07:09:03 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Quelque 3 000 élèves sont passés en conseil de discipline entre septembre et début novembre du fait de violences lors de la mobilisation lycéenne",
+        "resume": "A Paris, une \"quinzaine d'élèves\" ont été exclus définitivement de leur établissement, a annoncé le ministre Edouard Geffray.",
+        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/quelque-3-000-eleves-sont-passes-en-conseil-de-discipline-entre-septembre-et-debut-novembre-du-fait-de-violences-lors-de-la-mobilisation-lyceenne_8288273.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 18 Nov 2026 14:22:47 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Attaque américaine sur l'île de Qeshm, réplique iranienne sur les pays du Golfe… On fait le point sur le regain de tensions entre l'Iran et les Etats-Unis",
+        "resume": "Ces nouvelles tensions au Moyen-Orient interviennent alors que Donald Trump est attendu en Chine pour un sommet inédit avec ses homologues chinois et russe.",
+        "lien": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/attaque-americaine-sur-l-ile-de-qeshm-replique-iranienne-sur-les-pays-du-golfe-on-fait-le-point-sur-le-regain-de-tensions-entre-l-iran-et-les-etats-unis_8287895.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 18 Nov 2026 11:10:17 +0100"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Malfaisante",
+        "date_sortie": "2026-10-14",
+        "synopsis": "Une jeune fille, Bela, développe dans son foyer une relation avec une entité troublante qui ressemble étrangement à sa mère. Son « autre maman » n'est pas que le fruit de son imagination. Cette entité sinistre et manipul",
+        "note": 6.414,
+        "affiche": "https://image.tmdb.org/t/p/w300/a6AztQlJvKy2tEOc10M7WXIF5gX.jpg"
+      },
+      {
+        "titre": "Hope",
+        "date_sortie": "2026-10-28",
+        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
+        "note": 6.839,
+        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
+      },
+      {
+        "titre": "Scrooge",
+        "date_sortie": "2026-11-11",
+        "synopsis": "Ebenezer Scrooge est un vieil homme avare, pingre et solitaire. Bien évidemment, il déteste et méprise Noël et tout ce qui engendre le bonheur. C'est alors qu'il reçoit la visite du fantôme d'un ancien associé ainsi que ",
+        "note": 7.6,
+        "affiche": "https://image.tmdb.org/t/p/w300/uxYPnpkSmG1iluoSB0fOtYK7BfM.jpg"
+      },
+      {
+        "titre": "Ramayana : L'avènement d'une légende",
+        "date_sortie": "2026-11-06",
+        "synopsis": "Une épopée ancienne suit un jeune prince et une jeune princesse dont le mariage et l'exil qui a suivi marquent le début d'un voyage légendaire. Leur histoire d'amour, de devoir et de destin ouvre la voie à de nouveaux dé",
+        "note": 7.5,
+        "affiche": "https://image.tmdb.org/t/p/w300/sCqbbDIfLfO52FWjmuVOVZKkVyV.jpg"
+      },
+      {
+        "titre": "Godzilla Minus Zero",
+        "date_sortie": "2026-11-04",
+        "synopsis": "Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réapparaît des années plus",
+        "note": 7.664,
+        "affiche": "https://image.tmdb.org/t/p/w300/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg"
+      },
+      {
+        "titre": "Hunger Games : Lever de soleil sur la moisson",
+        "date_sortie": "2026-11-18",
+        "synopsis": "Alors que le jour se lève sur les 50e Hunger Games annuels, la peur s'empare des districts de Panem. Cette année, en l'honneur du Quarter Quell, deux fois plus de tributs seront tirés au sort. Dans le District 12, Haymit",
+        "note": 8.3,
+        "affiche": "https://image.tmdb.org/t/p/w300/6lwqxIhsKsiz6PM4tzzScn3ok1d.jpg"
+      }
+    ],
+    "albums": [],
+    "evenements": [
+      {
+        "titre": "Devenir agent de sécurité H/F",
+        "date_debut": "2026-11-18T08:00:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Réunion d'information collective sur les métiers du transport et de la logistique",
+        "date_debut": "2026-11-18T08:45:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Réunion d'Information visite de la FAB'ACADEMY - Venez découvrir les métiers en INDUSTRIE !",
+        "date_debut": "2026-11-18T13:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Réunion d'Information visite de la FAB'ACADEMY - Venez découvrir les métiers en INDUSTRIE !",
+        "date_debut": "2026-11-18T13:00:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Au coeur des archives photographiques",
+        "date_debut": "2026-11-18T14:00:00+00:00",
+        "lieu": "Archives départementales de Maine-et-Loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Contes & comptines",
+        "date_debut": "2026-11-18",
+        "lieu": "Centre socioculturel des Bourderies",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le Premier Artifice",
+        "date_debut": "2026-11-18",
+        "lieu": "Parc des Chantiers",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Éléphantart – Mémoires d’éléphants",
+        "date_debut": "2026-11-18",
+        "lieu": "École des Beaux-Arts de Nantes Saint-Nazaire",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Stage radio à Jet FM – Saint-Herblain",
+        "date_debut": "2026-11-18",
+        "lieu": "Radio JetFM",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Don du sang — Maison du don, Nantes",
+        "date_debut": "2026-11-18",
+        "lieu": "Maison du don",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-11-17",
     "news": [
       {
@@ -2406,205 +2553,6 @@
         "titre": "Permanences d'inscriptions aux Repas festifs seniors",
         "date_debut": "2026-11-05",
         "lieu": "CCAS de Nantes",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-04",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Pouvoir d'achat, prix du carburant... Ces Américains expliquent le \"Blunami\", cette \"vague bleue\" aux midterms 2026 qui déstabilise Donald Trump",
-        "resume": "Au lendemain des élections de mi-mandat, mercredi, la défaite est totale pour Donald Trump. Les démocrates ont remporté tous les scrutins serrés et indécis, avec des percées dans des territoires large",
-        "lien": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/pouvoir-d-achat-prix-du-carburant-ces-americains-expliquent-le-blunami-cette-vague-bleue-aux-midterms-2026-qui-destabilise-donald-trump_8246506.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 04 Nov 2026 11:26:57 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Donald Trump peut-il être visé par une procédure de destitution après la victoire des démocrates aux midterms ?",
-        "resume": "Le Parti démocrate a obtenu mardi la majorité à la Chambre des représentants, mais également au Sénat, à l'occasion des élections de mi-mandat américaines. Mais la perspective même d'un \"impeachment\" ",
-        "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/donald-trump-peut-il-etre-vise-par-une-procedure-de-destitution-apres-la-victoire-des-democrates-aux-midterms_8267429.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 04 Nov 2026 12:51:53 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "James Talarico au Texas, Abdul el-Sayed au Michigan, Jon Ossoff en Géorgie… Ces figures démocrates qui vont compter après leurs victoires aux midterms 2026",
-        "resume": "Visages du triomphe de l'opposition à Donald Trump lors des élections de mi-mandat, ces personnalités entendent peser sur les débats nationaux d'ici l'élection présidentielle de 2028.",
-        "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/james-talarico-au-texas-abdul-el-sayed-au-michigan-jon-ossoff-en-georgie-ces-figures-democrates-qui-vont-compter-apres-leurs-victoires-aux-midterms-2026_8267432.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 04 Nov 2026 12:19:56 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Midterms 2026 : raz-de-marée démocrate au Congrès, les derniers résultats attendus pour la Chambre des représentants et le Sénat",
-        "resume": "Les démocrates ont remporté la majorité absolue dans les deux chambres du Congrès américain mardi, lors des élections de mi-mandat.",
-        "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-nette-avance-democrate-au-congres-des-premieres-victoires-historiques-suivez-les-resultats-des-elections-de-mi-mandat_8265776.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 04 Nov 2026 14:21:13 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Propositions de loi, enquêtes visant l'administration et le clan Trump... Que peuvent faire les démocrates après leurs victoires lors des midterms 2026 ?",
-        "resume": "L'opposition démocrate a décroché la majorité au Sénat, puis à la Chambre des représentants, lors des élections de mi-mandat aux Etats-Unis, mardi.",
-        "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/propositions-de-lois-enquetes-visant-l-administration-et-le-clan-trump-que-peuvent-faire-les-democrates-apres-leurs-victoires-lors-des-midterms-2026_8265920.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 04 Nov 2026 09:04:06 +0100"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "JOJ Dakar 2026 : le surf à l'honneur sur la mythique vague de Ngor",
-        "resume": "🇸🇳🏄‍♂️ Sur les vagues de Ngor, à Dakar, des surfeurs ont pris la mer pour faire découvrir leur discipline. À travers cette initiative, ils souhaitent rappeler la place de ce sport dans le paysage spor",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-joj-dakar-2026-le-surf-%C3%A0-l-honneur-sur-la-mythique-vague-de-ngor",
-        "date": "Wed, 04 Nov 2026 12:42:44 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Droit à l'avortement, victoires historiques : la revanche des femmes lors des midterms",
-        "resume": "Les femmes sont les grandes gagnantes de la vague bleue historique qui a submergé le Congrès en infligeant à Donald ​Trump un camouflet sévère. Des propositions sur la défense du droit à l'avortement ",
-        "lien": "https://www.france24.com/fr/am%C3%A9riques/20261104-droit-avortement-femmes-victoires-historiques-midterms-democrates-etats-unis",
-        "date": "Wed, 04 Nov 2026 12:22:55 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Défaite de Donald Trump aux midterms, de mauvaises augures pour les droites ?",
-        "resume": "Aux États-Unis, Donald Trump essuie une sérieuse défaite aux élections de mi-mandat : les républicains perdent la majorité aux deux chambres du Congrès après la victoire écrasante des démocrates. Ce r",
-        "lien": "https://www.france24.com/fr/%C3%A9missions/face-%C3%A0-face/20261104-d%C3%A9faite-donald-trump-midterms-mauvaises-augures-pour-les-droites",
-        "date": "Wed, 04 Nov 2026 12:19:04 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Hope",
-        "date_sortie": "2026-10-28",
-        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
-        "note": 6.762,
-        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
-      },
-      {
-        "titre": "Verity",
-        "date_sortie": "2026-09-30",
-        "synopsis": "Lorsqu’un accident affecte les capacités de l’autrice de bestsellers, Verity Crawford, à achever son œuvre, une écrivaine solitaire, Lowen Ashleigh, qui peine à joindre les deux bouts est engagée pour lui prêter sa plume",
-        "note": 6.981,
-        "affiche": "https://image.tmdb.org/t/p/w300/1ob7dZ1rvAgHOpVJGjJ2voibOp.jpg"
-      },
-      {
-        "titre": "Clayface",
-        "date_sortie": "2026-10-21",
-        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
-        "note": 7.398,
-        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
-      },
-      {
-        "titre": "L'île des souvenirs",
-        "date_sortie": "2026-10-21",
-        "synopsis": "Pendant qu'elles passent une dernière soirée ensemble avant de s'engager sur des voies différentes, Jo et Raissa, amies depuis toujours, trouvent un portail mystérieux qui les transporte sur Nakali, une île mythique peup",
-        "note": 8.036,
-        "affiche": "https://image.tmdb.org/t/p/w300/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg"
-      },
-      {
-        "titre": "Obsession",
-        "date_sortie": "2026-05-13",
-        "synopsis": "Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lui… jusqu’à l’obsessi",
-        "note": 8.169,
-        "affiche": "https://image.tmdb.org/t/p/w300/mDCR1frpUvGfIKksuM440VLb7X9.jpg"
-      },
-      {
-        "titre": "Malfaisante",
-        "date_sortie": "2026-10-14",
-        "synopsis": "Une jeune fille, Bela, développe dans son foyer une relation avec une entité troublante qui ressemble étrangement à sa mère. Son « autre maman » n'est pas que le fruit de son imagination. Cette entité sinistre et manipul",
-        "note": 5.814,
-        "affiche": "https://image.tmdb.org/t/p/w300/uLNxn6niIICbkRcRKVOX9aXqRHb.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Broken Dreams",
-        "artiste": "Siska",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "ЖЗЛ",
-        "artiste": "Lacerate",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Не ври мне, что всё будет хорошо",
-        "artiste": "Мёртвая Вера",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 1",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Le Marché de Noël recrute !",
-        "date_debut": "2026-11-04T08:00:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Le Marché de Noël recrute !",
-        "date_debut": "2026-11-04T10:00:00+00:00",
-        "lieu": "Agence ANGERS CAPUCINS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "RDV Job49 Osez l'industrie",
-        "date_debut": "2026-11-06T08:30:00+00:00",
-        "lieu": "Angers - CONSEIL DEPARTEMENTAL  49",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Création d'entreprise - Venez rencontrer CITELAB",
-        "date_debut": "2026-11-06T08:30:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "RDV Job49 Osez l'industrie",
-        "date_debut": "2026-11-06T08:30:00+00:00",
-        "lieu": "Angers - CONSEIL DEPARTEMENTAL  49",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Le livre d’artiste concours et exposition – Musée de l'imprimerie",
-        "date_debut": "2026-11-04",
-        "lieu": "Musée-atelier de l'imprimerie de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Jeune public - \"Gabilolo et la hotte du Père Noël\"",
-        "date_debut": "2026-11-04",
-        "lieu": "Théâtre de Jeanne",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le ciné club de Creative Maker animé par les 15 - 18 ans",
-        "date_debut": "2026-11-04",
-        "lieu": "Studio Nantais - Creative Maker",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Pause-café",
-        "date_debut": "2026-11-04",
-        "lieu": "RIG Malville",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Une mutuelle pour tous les Nantais et Nantaises – Permanence MCRN mutuelle solidaire",
-        "date_debut": "2026-11-04",
-        "lieu": "CCAS - Centre Communal d'Action Sociale de Nantes",
         "ville": "Nantes"
       }
     ]
