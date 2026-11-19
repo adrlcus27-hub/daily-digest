@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-11-19",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Présidentielle 2027 : \"Je ne vais pas changer de programme\", déclare Marie Tondelier après sa main tendue à la France insoumise",
+        "resume": "La secrétaire nationale des Ecologistes réfléchit à une coalition avec Jean-Luc Mélenchon, ce qui l'amènerait à renoncer à sa candidature à l'élection présidentielle.",
+        "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-je-le-regrette-reagit-le-socialiste-olivier-faure-au-rapprochement-initie-par-l-ecologiste-marine-tondelier-vers-jean-luc-melenchon_8289440.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 19 Nov 2026 15:14:34 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Xi Jinping, Vladimir Poutine et Donald Trump adoptent une \"déclaration de paix\" après un sommet inédit",
+        "resume": "Les trois dirigeants, réunis à Shenzhen (Chine) jeudi, \"se sont engagés à préserver la stabilité stratégique et la sécurité internationale\", est-il écrit dans leur déclaration.",
+        "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/xi-jinping-vladimir-poutine-et-donald-trump-adoptent-une-declaration-de-paix-apres-un-sommet-inedit_8290064.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 19 Nov 2026 15:41:41 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Pic du pétrole vers 2030, boom des renouvelables, impact de la guerre au Moyen-Orient... Ce qu'il faut retenir du rapport de l'Agence internationale de l'énergie",
+        "resume": "Alors que la COP31 se déroule en Turquie, ces experts prévoient une électrification massive des usages, soutenue par les énergies renouvelables... mais toujours à un niveau insuffisant pour limiter le",
+        "lien": "https://www.franceinfo.fr/environnement/energie/pic-du-petrole-vers-2030-boom-des-renouvelables-impact-de-la-guerre-au-moyen-orient-ce-qu-il-faut-retenir-du-rapport-de-l-agence-internationale-de-l-energie_8289644.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 19 Nov 2026 15:29:14 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Je n'ai jamais joué à un jeu aussi marquant\" : le jeu vidéo \"GTA VI\" reçoit les éloges de la presse spécialisée du monde entier",
+        "resume": "Sur le site spécialisé Metacritic, qui agrège les évaluations, le dernier opus de la franchise \"Grand Theft Auto\", attendu par les fans pendant treize ans, décroche la note mirobolante de 99/100, du j",
+        "lien": "https://www.franceinfo.fr/culture/jeux-video/gta-vi/je-n-ai-jamais-joue-a-un-jeu-aussi-marquant-le-jeu-video-gta-vi-recoit-les-eloges-de-la-presse-specialisee-du-monde-entier_8289947.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 19 Nov 2026 14:04:22 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "La Birmanie a commis un génocide à l'encontre des Rohingyas, statue la Cour internationale de justice dans un arrêt historique",
+        "resume": "La plus haute juridiction de l'ONU, a établi que les soldats birmans ont tué des \"milliers de civils rohingyas\", avec \"l'intention de détruire une partie substantielle\" de cette population.",
+        "lien": "https://www.franceinfo.fr/monde/asie/rohingyas/la-birmanie-a-commis-un-genocide-a-l-encontre-des-rohingyas-statue-la-cour-internationale-de-justice-dans-un-arret-historique_8289806.html#xtor=RSS-3-[lestitres]",
+        "date": "Thu, 19 Nov 2026 13:15:35 +0100"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Sommet de Shenzhen : Vladimir Poutine, le grand humilié ?",
+        "resume": "La réunion inédite en Chine entre Xi Jinping, Donald Trump et Vladimir Poutine a été accompagnée d'un protocole qui semble avoir tourné au désavantage du président russe. Une manière pour le dirigeant",
+        "lien": "https://www.france24.com/fr/asie-pacifique/20261119-sommet-shenzhen-vladimir-poutine-grand-humili%C3%A9-xi-jinping-trump-apec",
+        "date": "Thu, 19 Nov 2026 15:09:16 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "La Birmanie a commis un génocide à l'encontre des Rohingyas, déclare la CIJ",
+        "resume": "La Birmanie a commis un génocide à l'encontre de sa minorité rohingya, a déclaré jeudi la Cour internationale de justice dans une décision historique, ordonnant que les réfugiés puissent regagner leur",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261119-la-birmanie-a-commis-un-g%C3%A9nocide-%C3%A0-l-encontre-des-rohingyas-d%C3%A9clare-la-cij",
+        "date": "Thu, 19 Nov 2026 14:57:04 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Haïti : la stratégie de Bukele reçoit un soutien populaire",
+        "resume": "Des milliers de personnes ont défilé dans les rues de Port-au-Prince, mardi, pour soutenir les soldats salvadoriens engagés dans la lutte contre les gangs en Haïti. Les explications de Frantz Duval, r",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261119-ha%C3%AFti-la-strat%C3%A9gie-de-bukele-re%C3%A7oit-un-soutien-populaire",
+        "date": "Thu, 19 Nov 2026 14:53:39 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Malfaisante",
+        "date_sortie": "2026-10-14",
+        "synopsis": "Une jeune fille, Bela, développe dans son foyer une relation avec une entité troublante qui ressemble étrangement à sa mère. Son « autre maman » n'est pas que le fruit de son imagination. Cette entité sinistre et manipul",
+        "note": 6.441,
+        "affiche": "https://image.tmdb.org/t/p/w300/a6AztQlJvKy2tEOc10M7WXIF5gX.jpg"
+      },
+      {
+        "titre": "Hope",
+        "date_sortie": "2026-10-28",
+        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
+        "note": 6.833,
+        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
+      },
+      {
+        "titre": "Hunger Games : Lever de soleil sur la moisson",
+        "date_sortie": "2026-11-18",
+        "synopsis": "Alors que le jour se lève sur les 50e Hunger Games annuels, la peur s'empare des districts de Panem. Cette année, en l'honneur du Quarter Quell, deux fois plus de tributs seront tirés au sort. Dans le District 12, Haymit",
+        "note": 7.526,
+        "affiche": "https://image.tmdb.org/t/p/w300/6lwqxIhsKsiz6PM4tzzScn3ok1d.jpg"
+      },
+      {
+        "titre": "Godzilla Minus Zero",
+        "date_sortie": "2026-11-04",
+        "synopsis": "Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réapparaît des années plus",
+        "note": 7.669,
+        "affiche": "https://image.tmdb.org/t/p/w300/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg"
+      },
+      {
+        "titre": "Scrooge",
+        "date_sortie": "2026-11-11",
+        "synopsis": "Ebenezer Scrooge est un vieil homme avare, pingre et solitaire. Bien évidemment, il déteste et méprise Noël et tout ce qui engendre le bonheur. C'est alors qu'il reçoit la visite du fantôme d'un ancien associé ainsi que ",
+        "note": 7.5,
+        "affiche": "https://image.tmdb.org/t/p/w300/uxYPnpkSmG1iluoSB0fOtYK7BfM.jpg"
+      },
+      {
+        "titre": "Ramayana : L'avènement d'une légende",
+        "date_sortie": "2026-11-06",
+        "synopsis": "Une épopée ancienne suit un jeune prince et une jeune princesse dont le mariage et l'exil qui a suivi marquent le début d'un voyage légendaire. Leur histoire d'amour, de devoir et de destin ouvre la voie à de nouveaux dé",
+        "note": 7.5,
+        "affiche": "https://image.tmdb.org/t/p/w300/sCqbbDIfLfO52FWjmuVOVZKkVyV.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Broken Dreams",
+        "artiste": "Siska",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "ЖЗЛ",
+        "artiste": "Lacerate",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Не ври мне, что всё будет хорошо",
+        "artiste": "Мёртвая Вера",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 1",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Opportunités de recrutement : Rencontre avec CENTER PARCS en agence !",
+        "date_debut": "2026-11-19T08:15:00+00:00",
+        "lieu": "Agence ANGERS LA ROSERAIE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Rencontre d'échecs à La Crypte Angers",
+        "date_debut": "2026-11-19T18:00:00+00:00",
+        "lieu": "La Crypte Angers",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Apéro des randonneurs — Angers",
+        "date_debut": "2026-11-20T18:00:00+00:00",
+        "lieu": "Centre-ville de Angers",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Journée de la transition numérique",
+        "date_debut": "2026-11-24T08:00:00+00:00",
+        "lieu": "CCI - Métamorphose - 11 avenue de la constitution",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Journée de la transition numérique",
+        "date_debut": "2026-11-24T08:00:00+00:00",
+        "lieu": "CCI maine et loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Nadim : Fraîcheur de vivre",
+        "date_debut": "2026-11-19",
+        "lieu": "Compagnie du Café-Théâtre",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "La dégustation",
+        "date_debut": "2026-11-19",
+        "lieu": "Théâtre Beaulieu",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Parcours de 8 séances numériques seniors",
+        "date_debut": "2026-11-19",
+        "lieu": "Espace seniors Barberie",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Forum des Seniors Atlantique",
+        "date_debut": "2026-11-19",
+        "lieu": "Parc des Expos de la Beaujoire / Exponantes Le Parc",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "L'Étreinte",
+        "date_debut": "2026-11-19",
+        "lieu": "Place Jean V devant l'entrée du Musée Dobrée",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-11-18",
     "news": [
       {
@@ -2354,205 +2553,6 @@
         "titre": "L'Étreinte",
         "date_debut": "2026-11-06",
         "lieu": "Place Jean V devant l'entrée du Musée Dobrée",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-05",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Mobilisation du 5 novembre : l'Intérieur dénombre 270 000 manifestants dans 180 cortèges, la CGT en compte 250 000 dans plus de 73 villes",
-        "resume": "\"Le message est 'rien ne nous arrêtera, la seule chose qui fera cesser la mobilisation est la réponse aux revendications'\", a déclaré la secrétaire générale de la CGT, Sophie Binet, à la presse avant ",
-        "lien": "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 05 Nov 2026 14:05:29 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Un lycée de Tournefeuille, près de Toulouse, touché par un incendie après l'irruption d'individus munis de mortiers d'artifice",
-        "resume": "\"Cet acte était une volonté de brûler l'ensemble de l'établissement\", a dénoncé le vice-président PS de la région Occitanie, Kamel Chibli.",
-        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/un-lycee-de-tournefeuille-pres-de-toulouse-touche-par-un-incendie-apres-l-irruption-d-individus-munis-de-mortiers-d-artifice_8269217.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 05 Nov 2026 13:16:24 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"On ne pourra pas tout rattraper\" : les blocages des lycées menacent-ils l'année scolaire et la préparation du bac ?",
-        "resume": "Malgré les annonces du gouvernement pendant les vacances de la Toussaint, des blocages se sont poursuivis lundi matin, jour de la rentrée. Alors que le ministre de l'Education, Edouard Geffray, juge l",
-        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-ne-pourra-pas-tout-rattraper-les-blocages-des-lycees-menacent-ils-l-annee-scolaire-et-la-preparation-du-bac_8266037.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 05 Nov 2026 06:03:19 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"On dénonce ces outils de lutte contre le terrorisme\" : pourquoi les assignations à résidence prononcées contre des manifestants font polémique",
-        "resume": "Des juristes et défenseurs des libertés accusent le ministère de l'Intérieur d'avoir détourné des mesures antiterroristes pour empêcher plusieurs dizaines de militants de participer aux mobilisations ",
-        "lien": "https://www.franceinfo.fr/economie/greve/on-denonce-ces-outils-de-lutte-contre-le-terrorisme-pourquoi-les-assignations-a-residence-prononcees-contre-des-manifestants-font-polemique_8266007.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 05 Nov 2026 06:06:29 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"On n'a ni argent ni majorité\" : le gouvernement Lecornu a-t-il encore des marges de manœuvre pour répondre à la crise sociale ?",
-        "resume": "L'intersyndicale appelle jeudi à une grande mobilisation sur la thématique du pouvoir d'achat, tandis que les organisations de jeunesse poursuivent leurs opérations de blocage. Face à la persistance d",
-        "lien": "https://www.franceinfo.fr/economie/greve/greve/on-n-a-ni-argent-ni-majorite-le-gouvernement-lecornu-a-t-il-encore-des-marges-de-man-uvre-pour-repondre-a-la-crise-sociale_8265512.html#xtor=RSS-3-[lestitres]",
-        "date": "Thu, 05 Nov 2026 08:41:57 +0100"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Le point sur la mobilisation du 5 novembre",
-        "resume": "En France, salariés, fonctionnaires, syndicats et lycéens sont mobilisés ce jeudi 5 novembre pour une journée de grève nationale. France 24 s'est rendu au lycée Le Corbusier, à #Aubervilliers, où le b",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261105-le-point-sur-la-mobilisation-du-5-novembre",
-        "date": "Thu, 05 Nov 2026 13:42:06 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Afrique du sud : l’ANC au pouvoir en danger lors des municipales",
-        "resume": "Les Sud-Africains ont voté mercredi pour élire leurs représentants locaux, lors d’un scrutin qui pourrait fragiliser davantage le Congrès national africain (ANC), au pouvoir depuis la fin de l’aparthe",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261105-afrique-du-sud-l-anc-au-pouvoir-en-danger-lors-des-municipales",
-        "date": "Thu, 05 Nov 2026 12:20:54 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Guerre en Ukraine : \"il y a maintenant de l'espoir, puisqu'il existe cet équilibre des forces\"",
-        "resume": "Le dirigeant ukrainien a estimé dans un entretien diffusé mercredi 4 novembre soir, qu'il \"y a donc maintenant de l'espoir, puisqu'il existe cet équilibre des forces, et que nous serons davantage sout",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261105-guerre-en-ukraine-il-y-a-maintenant-de-l-espoir-puisqu-il-existe-cet-%C3%A9quilibre-des-forces",
-        "date": "Thu, 05 Nov 2026 12:11:16 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Hope",
-        "date_sortie": "2026-10-28",
-        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
-        "note": 6.772,
-        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
-      },
-      {
-        "titre": "Verity",
-        "date_sortie": "2026-09-30",
-        "synopsis": "Lorsqu’un accident affecte les capacités de l’autrice de bestsellers, Verity Crawford, à achever son œuvre, une écrivaine solitaire, Lowen Ashleigh, qui peine à joindre les deux bouts est engagée pour lui prêter sa plume",
-        "note": 6.979,
-        "affiche": "https://image.tmdb.org/t/p/w300/1ob7dZ1rvAgHOpVJGjJ2voibOp.jpg"
-      },
-      {
-        "titre": "Clayface",
-        "date_sortie": "2026-10-21",
-        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
-        "note": 7.435,
-        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
-      },
-      {
-        "titre": "Obsession",
-        "date_sortie": "2026-05-13",
-        "synopsis": "Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lui… jusqu’à l’obsessi",
-        "note": 8.17,
-        "affiche": "https://image.tmdb.org/t/p/w300/mDCR1frpUvGfIKksuM440VLb7X9.jpg"
-      },
-      {
-        "titre": "L'île des souvenirs",
-        "date_sortie": "2026-10-21",
-        "synopsis": "Pendant qu'elles passent une dernière soirée ensemble avant de s'engager sur des voies différentes, Jo et Raissa, amies depuis toujours, trouvent un portail mystérieux qui les transporte sur Nakali, une île mythique peup",
-        "note": 8.012,
-        "affiche": "https://image.tmdb.org/t/p/w300/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg"
-      },
-      {
-        "titre": "Malfaisante",
-        "date_sortie": "2026-10-14",
-        "synopsis": "Une jeune fille, Bela, développe dans son foyer une relation avec une entité troublante qui ressemble étrangement à sa mère. Son « autre maman » n'est pas que le fruit de son imagination. Cette entité sinistre et manipul",
-        "note": 5.8,
-        "affiche": "https://image.tmdb.org/t/p/w300/uLNxn6niIICbkRcRKVOX9aXqRHb.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Through Lines",
-        "artiste": "Skye Peterson",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "RDV Job49 Osez l'industrie",
-        "date_debut": "2026-11-06T08:30:00+00:00",
-        "lieu": "Angers - CONSEIL DEPARTEMENTAL  49",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Création d'entreprise - Venez rencontrer CITELAB",
-        "date_debut": "2026-11-06T08:30:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "RDV Job49 Osez l'industrie",
-        "date_debut": "2026-11-06T08:30:00+00:00",
-        "lieu": "Angers - CONSEIL DEPARTEMENTAL  49",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Et si Monteur Sprinkler était votre prochain métier ?",
-        "date_debut": "2026-11-06T09:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Apéro célibataires — Angers",
-        "date_debut": "2026-11-06T18:00:00+00:00",
-        "lieu": "Centre-ville de Angers",
-        "ville": "Angers"
-      },
-      {
-        "titre": "L'Étreinte",
-        "date_debut": "2026-11-05",
-        "lieu": "Place Jean V devant l'entrée du Musée Dobrée",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le radeau de la méduse",
-        "date_debut": "2026-11-05",
-        "lieu": "Théâtre de Poche Graslin",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Parcours de 8 séances numériques seniors",
-        "date_debut": "2026-11-05",
-        "lieu": "Espace seniors Barberie",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Don du sang — Maison du don, Nantes",
-        "date_debut": "2026-11-05",
-        "lieu": "Maison du don",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Permanences d'inscriptions aux Repas festifs seniors",
-        "date_debut": "2026-11-05",
-        "lieu": "CCAS de Nantes",
         "ville": "Nantes"
       }
     ]
