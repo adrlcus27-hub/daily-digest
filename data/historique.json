@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-11-20",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "L'élu RN qui a reçu un procureur au siège du parti évoque \"une discussion entre professionnels\" qui se connaissent \"depuis près de trente ans\"",
+        "resume": "Lors d'une perquisition au siège du parti Rassemblement national début novembre, les policiers en charge de l'enquête ont constaté la présence sur place du procureur adjoint du parquet de Paris. Il re",
+        "lien": "https://www.franceinfo.fr/politique/l-elu-rn-qui-a-recu-un-procureur-au-siege-du-parti-evoque-une-discussion-entre-professionnels-qui-se-connaissent-depuis-pres-de-trente-ans_8292344.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 20 Nov 2026 15:32:01 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Vu à quel niveau sont les autres, on n'est pas si loin\" : Dominique de Villepin se lance dans la course présidentielle malgré les embûches",
+        "resume": "L'ancien Premier ministre de Jacques Chirac prépare son retour en politique depuis de longs mois, se posant en recours face aux extrêmes, malgré un espace déjà saturé de candidats et des intentions de",
+        "lien": "https://www.franceinfo.fr/elections/vu-a-quel-niveau-sont-les-autres-on-n-est-pas-si-loin-dominique-de-villepin-se-lance-dans-la-course-presidentielle-malgre-les-embuches_8288267.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 20 Nov 2026 15:26:13 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "\"Je n'ai pas dormi de la nuit\" : une trentaine de communes du Pas-de-Calais touchées par des inondations",
+        "resume": "Des inondations très importantes sont toujours en cours dans le Pas-de-Calais, vendredi 20 novembre. Une trentaine de communes sont concernées et les habitants sont désemparés.",
+        "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/je-n-ai-pas-dormi-de-la-nuit-une-trentaine-de-communes-du-pas-de-calais-touchees-par-des-inondations_8292314.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 20 Nov 2026 14:36:34 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Guerre en Ukraine : la France demande une réunion au Conseil de sécurité de l'ONU après de nouvelles frappes russes",
+        "resume": "Plus de 110 missiles russes ont été lancés contre l'Ukraine dans la nuit de jeudi à vendredi, d'après le président ukrainien, Volodymyr Zelensky.",
+        "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-un-missile-russe-tombe-dans-le-sud-est-de-la-pologne-sans-faire-de-blesse_8292080.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 20 Nov 2026 13:17:15 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Le Royaume-Uni annonce un accord \"historique\" avec l'Union européenne, Bruxelles salue un \"tournant\", dix ans après le référendum sur le Brexit",
+        "resume": "\"C'est un bon jour pour la Grande-Bretagne\" et \"pour l'Europe\", a salué vendredi le Premier ministre britannique, Andy Burnham.",
+        "lien": "https://www.franceinfo.fr/monde/royaume-uni/le-royaume-uni-annonce-un-accord-historique-avec-l-union-europeenne-bruxelles-salue-un-tournant-dix-ans-apres-le-referendum-sur-le-brexit_8292233.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 20 Nov 2026 13:49:56 +0100"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "\"Blade Runner 2099\", \"Black Doves\", \"Alice\"... le meilleur des séries du mois de novembre",
+        "resume": "Pour \"À l'Affiche\", Nina Masson et Sonia Patricelli décryptent les meilleures sorties du mois. \"Blade Runner 2099\" frappe fort pour cette série nouvelle génération sur Prime Video. Keira Knightley a c",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261120-blade-runner-2099-black-doves-alice-le-meilleur-des-s%C3%A9ries-du-mois-de-novembre",
+        "date": "Fri, 20 Nov 2026 14:51:43 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Intelligence artificielle : les secrets de l'entrée en bourse record d'Anthropic",
+        "resume": "Une intelligence artificielle qui tente de faire chanter un dirigeant, des stars d'Hollywood qui décrochent le jackpot, un laboratoire secret qui explore les mystères de l'ADN, des philosophes chargés",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/tech-24/20261120-intelligence-artificielle-les-secrets-de-l-entr%C3%A9e-en-bourse-record-d-anthropic",
+        "date": "Fri, 20 Nov 2026 14:49:12 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Les féminicides, la partie émergée du contrôle coercitif",
+        "resume": "Les féminicides font aussi des victimes invisibles : les proches des femmes assassinées, confrontées à un deuil impossible et à des embûches judiciaires. Dans 75 % des cas, le féminicide survient sans",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/actuelles/20261120-les-f%C3%A9minicides-la-partie-%C3%A9merg%C3%A9e-du-contr%C3%B4le-coercitif",
+        "date": "Fri, 20 Nov 2026 14:46:33 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Malfaisante",
+        "date_sortie": "2026-10-14",
+        "synopsis": "Une jeune fille, Bela, développe dans son foyer une relation avec une entité troublante qui ressemble étrangement à sa mère. Son « autre maman » n'est pas que le fruit de son imagination. Cette entité sinistre et manipul",
+        "note": 6.4,
+        "affiche": "https://image.tmdb.org/t/p/w300/a6AztQlJvKy2tEOc10M7WXIF5gX.jpg"
+      },
+      {
+        "titre": "Hope",
+        "date_sortie": "2026-10-28",
+        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
+        "note": 6.8,
+        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
+      },
+      {
+        "titre": "Hunger Games : Lever de soleil sur la moisson",
+        "date_sortie": "2026-11-18",
+        "synopsis": "Alors que le jour se lève sur les 50e Hunger Games annuels, la peur s'empare des districts de Panem. Cette année, en l'honneur du Quarter Quell, deux fois plus de tributs seront tirés au sort. Dans le District 12, Haymit",
+        "note": 7.354,
+        "affiche": "https://image.tmdb.org/t/p/w300/6lwqxIhsKsiz6PM4tzzScn3ok1d.jpg"
+      },
+      {
+        "titre": "Ramayana : L'avènement d'une légende",
+        "date_sortie": "2026-11-06",
+        "synopsis": "Une épopée ancienne suit un jeune prince et une jeune princesse dont le mariage et l'exil qui a suivi marquent le début d'un voyage légendaire. Leur histoire d'amour, de devoir et de destin ouvre la voie à de nouveaux dé",
+        "note": 7.5,
+        "affiche": "https://image.tmdb.org/t/p/w300/sCqbbDIfLfO52FWjmuVOVZKkVyV.jpg"
+      },
+      {
+        "titre": "Godzilla Minus Zero",
+        "date_sortie": "2026-11-04",
+        "synopsis": "Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réapparaît des années plus",
+        "note": 7.662,
+        "affiche": "https://image.tmdb.org/t/p/w300/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg"
+      },
+      {
+        "titre": "Scrooge",
+        "date_sortie": "2026-11-11",
+        "synopsis": "Ebenezer Scrooge est un vieil homme avare, pingre et solitaire. Bien évidemment, il déteste et méprise Noël et tout ce qui engendre le bonheur. C'est alors qu'il reçoit la visite du fantôme d'un ancien associé ainsi que ",
+        "note": 7.485,
+        "affiche": "https://image.tmdb.org/t/p/w300/uxYPnpkSmG1iluoSB0fOtYK7BfM.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Living Free (Live Manchester '75)",
+        "artiste": "Don McLean",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Through Lines",
+        "artiste": "Skye Peterson",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Broken Dreams",
+        "artiste": "Siska",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "ЖЗЛ",
+        "artiste": "Lacerate",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Apéro des randonneurs — Angers",
+        "date_debut": "2026-11-20T18:00:00+00:00",
+        "lieu": "Centre-ville de Angers",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Journée de la transition numérique",
+        "date_debut": "2026-11-24T08:00:00+00:00",
+        "lieu": "CCI - Métamorphose - 11 avenue de la constitution",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Journée de la transition numérique",
+        "date_debut": "2026-11-24T08:00:00+00:00",
+        "lieu": "CCI maine et loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Matinale création d'entreprise (pour les porteurs de projet ou début de création) Angers Balzac",
+        "date_debut": "2026-11-24T08:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Visio Opportunités du moment - Angers Capucins",
+        "date_debut": "2026-11-24T13:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "CHERS PARENTS",
+        "date_debut": "2026-11-20",
+        "lieu": "Théâtre 100 Noms",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Othello",
+        "date_debut": "2026-11-20",
+        "lieu": "Théâtre La Ruche",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Festival des 3 Continents 2026 - 48e édition",
+        "date_debut": "2026-11-20",
+        "lieu": "Nantes Centre et Quartiers",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Monsieur Malaussène au théâtre",
+        "date_debut": "2026-11-20",
+        "lieu": "Théâtre de la rue de belleville",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition « Surréelles » au Musée d'arts de Nantes",
+        "date_debut": "2026-11-20",
+        "lieu": "Musée d'arts de Nantes",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-11-19",
     "news": [
       {
@@ -2354,205 +2553,6 @@
         "titre": "Exposition \"Océanissime Nantes 2026\"",
         "date_debut": "2026-11-07",
         "lieu": "Maison de la Mer",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-06",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Deux morts, une enquête ouverte… Ce que l'on sait de l'accident de car près de Bourg-en-Bresse, dans l'Ain",
-        "resume": "Deux personnes, dont une fillette de sept ans, sont mortes. Seize autres ont été blessées dans ce grave accident de car, survenu vendredi matin, dans le secteur de Lent.",
-        "lien": "https://www.franceinfo.fr/faits-divers/accident/deux-morts-une-enquete-ouverte-ce-que-l-on-sait-de-l-accident-de-car-pres-de-bourg-en-bresse-dans-l-ain_8270546.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 06 Nov 2026 14:35:52 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Accident de car dans l'Ain : les deux morts sont une fille de 7 ans et un jeune homme de 18 ans, annonce le ministre des Transports",
-        "resume": "Le véhicule a \"quitté la route et heurté un arbre dans le fossé\", selon le maire de la commune de Lent, où l'accident s'est produit dans la matinée.",
-        "lien": "https://www.franceinfo.fr/faits-divers/accident/direct-accident-d-un-car-scolaire-dans-l-ain-deux-enfants-sont-morts-le-ministre-des-transports-attendu-sur-place_8270534.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 06 Nov 2026 14:05:04 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Un accident de car fait deux morts dans l'Ain, dont un mineur, annonce le parquet de Bourg-en-Bresse",
-        "resume": "La sortie de route a également fait seize blessés, dont trois dans un état grave. Le chauffeur n'a pas encore été entendu.",
-        "lien": "https://www.franceinfo.fr/faits-divers/accident/un-accident-de-car-fait-plusieurs-victimes-dans-l-ain-annonce-la-prefecture_8270492.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 06 Nov 2026 11:55:38 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Plusieurs avocats vont saisir la Cour de justice de la République contre le ministre de l'Intérieur Laurent Nuñez, après les blessures infligées à des manifestants",
-        "resume": "Ils lui reprochent le recours à des \"armes mutilantes\" lors des récentes opérations de maintien de l'ordre.",
-        "lien": "https://www.franceinfo.fr/societe/manifestations/plusieurs-avocats-annoncent-saisir-la-cour-de-justice-de-la-republique-contre-le-ministre-de-l-interieur-laurent-nunez-apres-les-blessures-infligees-a-des-manifestants_8270813.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 06 Nov 2026 14:33:15 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Quatre associations de lutte contre le racisme reçues par Emmanuel Macron après l'attentat raciste de Trappes",
-        "resume": "Lors de cette réunion, le président de la République a notamment rappelé son engagement dans \"la lutte contre le racisme et l'antisémitisme\". Les deux ministres Aurore Bergé et Catherine Pégard étaien",
-        "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-de-trappes-quatre-associations-de-lutte-contre-le-racisme-recues-par-emmanuel-macron_8270861.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 06 Nov 2026 13:55:17 +0100"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "La France insoumise présente un programme pour la présidentielle 2027 fidèle à sa volonté de rupture",
-        "resume": "La France insoumise publie vendredi le programme présidentiel de son candidat, Jean-Luc Mélenchon, sous la forme d'un livre vendu 4,90 euros en librairie. Celui-ci est une mise à jour de leur programm",
-        "lien": "https://www.france24.com/fr/france/20261106-france-insoumise-jean-luc-melenchon-presente-programme-presidentielle-2027-fidele-volonte-rupture-lfi",
-        "date": "Fri, 06 Nov 2026 13:32:46 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Accident de car dans l'Ain : deux morts dont une enfant de 7 ans",
-        "resume": "Un car régional est sorti de route vendredi matin au sud de Bourg-en-Bresse (Ain), tuant une fillette de 7 ans et un jeune homme de 18 ans, un accident pour l'heure inexpliqué qui suscite \"un grand tr",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-accident-de-car-dans-l-ain-deux-morts-dont-une-enfant-de-7-ans",
-        "date": "Fri, 06 Nov 2026 13:31:58 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Israël : le président annoncera dimanche qui sera chargé de former le prochain gouvernement",
-        "resume": "Le président israélien Isaac Herzog annoncera dimanche le nom de celui qui sera chargé de former un gouvernement, à l'issue de législatives très serrées et de consultations avec les différents partis ",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-isra%C3%ABl-le-pr%C3%A9sident-annoncera-dimanche-qui-sera-charg%C3%A9-de-former-le-prochain-gouvernement",
-        "date": "Fri, 06 Nov 2026 13:30:33 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Hope",
-        "date_sortie": "2026-10-28",
-        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
-        "note": 6.765,
-        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
-      },
-      {
-        "titre": "Verity",
-        "date_sortie": "2026-09-30",
-        "synopsis": "Lorsqu’un accident affecte les capacités de l’autrice de bestsellers, Verity Crawford, à achever son œuvre, une écrivaine solitaire, Lowen Ashleigh, qui peine à joindre les deux bouts est engagée pour lui prêter sa plume",
-        "note": 6.971,
-        "affiche": "https://image.tmdb.org/t/p/w300/1ob7dZ1rvAgHOpVJGjJ2voibOp.jpg"
-      },
-      {
-        "titre": "Ramayana : L'avènement d'une légende",
-        "date_sortie": "2026-11-06",
-        "synopsis": "Une épopée ancienne suit un jeune prince et une jeune princesse dont le mariage et l'exil qui a suivi marquent le début d'un voyage légendaire. Leur histoire d'amour, de devoir et de destin ouvre la voie à de nouveaux dé",
-        "note": 6.6,
-        "affiche": "https://image.tmdb.org/t/p/w300/iCz9Wf8KCU8BXQ9Pws0pHctguiZ.jpg"
-      },
-      {
-        "titre": "Clayface",
-        "date_sortie": "2026-10-21",
-        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
-        "note": 7.433,
-        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
-      },
-      {
-        "titre": "Godzilla Minus Zero",
-        "date_sortie": "2026-11-04",
-        "synopsis": "Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réapparaît des années plus",
-        "note": 8.0,
-        "affiche": "https://image.tmdb.org/t/p/w300/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg"
-      },
-      {
-        "titre": "Obsession",
-        "date_sortie": "2026-05-13",
-        "synopsis": "Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lui… jusqu’à l’obsessi",
-        "note": 8.171,
-        "affiche": "https://image.tmdb.org/t/p/w300/mDCR1frpUvGfIKksuM440VLb7X9.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Through Lines",
-        "artiste": "Skye Peterson",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "RDV Job49 Osez l'industrie",
-        "date_debut": "2026-11-06T08:30:00+00:00",
-        "lieu": "Angers - CONSEIL DEPARTEMENTAL  49",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Création d'entreprise - Venez rencontrer CITELAB",
-        "date_debut": "2026-11-06T08:30:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "RDV Job49 Osez l'industrie",
-        "date_debut": "2026-11-06T08:30:00+00:00",
-        "lieu": "Angers - CONSEIL DEPARTEMENTAL  49",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Et si Monteur Sprinkler était votre prochain métier ?",
-        "date_debut": "2026-11-06T09:00:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Apéro célibataires — Angers",
-        "date_debut": "2026-11-06T18:00:00+00:00",
-        "lieu": "Centre-ville de Angers",
-        "ville": "Angers"
-      },
-      {
-        "titre": "CHERS PARENTS",
-        "date_debut": "2026-11-06",
-        "lieu": "Théâtre 100 Noms",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Expression(s) Décoloniale(s) #4 - Exposition",
-        "date_debut": "2026-11-06",
-        "lieu": "Château des Ducs de Bretagne -   Musée d'Histoire de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Comédie – Le Triangle Des Bernés",
-        "date_debut": "2026-11-06",
-        "lieu": "Théâtre du Sphinx",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Festival Univerciné allemand 2026",
-        "date_debut": "2026-11-06",
-        "lieu": "Cinéma Katorza",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "L'Étreinte",
-        "date_debut": "2026-11-06",
-        "lieu": "Place Jean V devant l'entrée du Musée Dobrée",
         "ville": "Nantes"
       }
     ]
