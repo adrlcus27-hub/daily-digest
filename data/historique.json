@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-11-23",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Faut-il changer les dates de l'élection présidentielle ? On fait le point sur ce débat qui agite la classe politique",
+        "resume": "Les dates entérinées par l'exécutif prévoient un premier tour le 18 avril, et un second tour le 2 mai. Or, cela pose différents casse-tête à la classe politique, aux syndicats... et aux médias.",
+        "lien": "https://www.franceinfo.fr/elections/presidentielle/faut-il-changer-les-dates-de-l-election-presidentielle-on-fait-le-point-sur-le-debat-politique-sur-cette-question_8296431.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 23 Nov 2026 18:15:13 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Guerre en Ukraine : l'UE présente un 22e paquet de sanctions contre Moscou, ciblant notamment les banques, la flotte fantôme et les athlètes russes",
+        "resume": "\"L'objectif est de maintenir la pression sur la Russie afin qu'elle mette fin à sa guerre d'agression en Ukraine\", met en avant Ursula von der Leyen, présidente de la Commission européenne.",
+        "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-volodymyr-zelensky-revendique-les-attaques-contre-deux-navires-russes-menees-au-large-de-la-libye_8295668.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 23 Nov 2026 17:57:50 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "L'Iran réclame 290 milliards de dollars de dédommagements aux Etats-Unis après la guerre lancée le 28 février",
+        "resume": "Ces procédures couvrent aussi les actions américaines sur plusieurs décennies, selon la télévision d'Etat.",
+        "lien": "https://www.franceinfo.fr/monde/iran/frappes-americaines-en-iran/l-iran-reclame-290-milliards-de-dollars-de-dedommagements-aux-etats-unis-apres-la-guerre-lancee-le-28-fevrier_8296214.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 23 Nov 2026 18:01:19 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "De la chute du PDG de Nvidia à son retour aux commandes, comment une affaire d'adultère et d'espionnage a fait vaciller le secteur de l'IA",
+        "resume": "Jensen Huang, l'emblématique patron du géant des puces électroniques, a quitté son poste le 12 novembre. Mais le conseil d'administration de l'entreprise a finalement décidé de le réintégrer, dix jour",
+        "lien": "https://www.franceinfo.fr/internet/nvidia/recit-des-premieres-revelations-a-la-chute-du-pdg-de-nvidia-comment-une-affaire-d-adultere-provoque-un-seisme-dans-le-secteur-de-l-ia_8280752.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 23 Nov 2026 17:14:45 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Origines, objectifs, calendrier… Cinq questions sur la \"règle d'or\" qu'Emmanuel Macron veut mettre en place",
+        "resume": "Le président réfléchit à instaurer une \"règle d'or\" budgétaire afin de contraindre les futurs gouvernements à adopter des budgets à l'équilibre.",
+        "lien": "https://www.franceinfo.fr/economie/budget/origines-objectifs-calendrier-quatre-questions-sur-la-regle-d-or-qu-emmanuel-macron-veut-mettre-en-place_8296010.html#xtor=RSS-3-[lestitres]",
+        "date": "Mon, 23 Nov 2026 16:38:13 +0100"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Navires russes ciblés en Libye : face à Moscou, l'Ukraine étend le domaine de la lutte",
+        "resume": "Le président Volodymyr Zelensky a revendiqué lundi l'attaque de deux navires russes au large de Benghazi dans l'est de la Libye. Une opération spectaculaire destinée à frapper la logistique russe et r",
+        "lien": "https://www.france24.com/fr/europe/20261123-navires-russes-cibl%C3%A9s-libye-face-moscou-ukraine-%C3%A9tend-domaine-lutte",
+        "date": "Mon, 23 Nov 2026 17:23:47 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Football : l'Afrique soutient la réélection de Gianni Infantino à la tête de la FIFA",
+        "resume": "⚽ La CAF affiche son soutien à Gianni Infantino pour un nouveau mandat à la tête de la FIFA. L’annonce a été faite par Patrice Motsepe, président de l'instance du football africain, lors de sa 48e ass",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261123-footbal-l-afrique-soutient-la-r%C3%A9%C3%A9lection-de-gianni-infantino-%C3%A0-la-t%C3%AAte-de-la-fifa",
+        "date": "Mon, 23 Nov 2026 17:19:59 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Après l'échec de la COP31, quel avenir pour la diplomatie climatique?",
+        "resume": "La COP31 s'est achevée sans accord final. Les pays producteurs de pétrole ont fait pression pour que la sortie des énergies fossiles ne soit pas mentionnée dans la déclaration. Plus d'une centaine de ",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261123-apr%C3%A8s-l-%C3%A9chec-de-la-cop31-quel-avenir-pour-la-diplomatie-climatique",
+        "date": "Mon, 23 Nov 2026 17:06:57 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Hunger Games : Lever de soleil sur la moisson",
+        "date_sortie": "2026-11-18",
+        "synopsis": "Alors que le jour se lève sur les 50e Hunger Games annuels, la peur s'empare des districts de Panem. Cette année, en l'honneur du Quarter Quell, deux fois plus de tributs seront tirés au sort. Dans le District 12, Haymit",
+        "note": 7.795,
+        "affiche": "https://image.tmdb.org/t/p/w300/2crlvf4VsSQORysk1A8o2jBUduI.jpg"
+      },
+      {
+        "titre": "Malfaisante",
+        "date_sortie": "2026-10-14",
+        "synopsis": "Une jeune fille, Bela, développe dans son foyer une relation avec une entité troublante qui ressemble étrangement à sa mère. Son « autre maman » n'est pas que le fruit de son imagination. Cette entité sinistre et manipul",
+        "note": 6.503,
+        "affiche": "https://image.tmdb.org/t/p/w300/a6AztQlJvKy2tEOc10M7WXIF5gX.jpg"
+      },
+      {
+        "titre": "Hope",
+        "date_sortie": "2026-10-28",
+        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
+        "note": 6.864,
+        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
+      },
+      {
+        "titre": "Ramayana : L'avènement d'une légende",
+        "date_sortie": "2026-11-06",
+        "synopsis": "Une épopée ancienne suit un jeune prince et une jeune princesse dont le mariage et l'exil qui a suivi marquent le début d'un voyage légendaire. Leur histoire d'amour, de devoir et de destin ouvre la voie à de nouveaux dé",
+        "note": 7.4,
+        "affiche": "https://image.tmdb.org/t/p/w300/sCqbbDIfLfO52FWjmuVOVZKkVyV.jpg"
+      },
+      {
+        "titre": "Godzilla Minus Zero",
+        "date_sortie": "2026-11-04",
+        "synopsis": "Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réapparaît des années plus",
+        "note": 7.7,
+        "affiche": "https://image.tmdb.org/t/p/w300/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg"
+      },
+      {
+        "titre": "Scrooge",
+        "date_sortie": "2026-11-11",
+        "synopsis": "Ebenezer Scrooge est un vieil homme avare, pingre et solitaire. Bien évidemment, il déteste et méprise Noël et tout ce qui engendre le bonheur. C'est alors qu'il reçoit la visite du fantôme d'un ancien associé ainsi que ",
+        "note": 7.512,
+        "affiche": "https://image.tmdb.org/t/p/w300/9RCnWkVOevfAVuSkYkQOg1k8QvO.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 1",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "Journée de la transition numérique",
+        "date_debut": "2026-11-24T08:00:00+00:00",
+        "lieu": "CCI - Métamorphose - 11 avenue de la constitution",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Journée de la transition numérique",
+        "date_debut": "2026-11-24T08:00:00+00:00",
+        "lieu": "CCI maine et loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Matinale création d'entreprise (pour les porteurs de projet ou début de création) Angers Balzac",
+        "date_debut": "2026-11-24T08:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Visio Opportunités du moment - Angers Capucins",
+        "date_debut": "2026-11-24T13:00:00+00:00",
+        "lieu": "Agence ANGERS CAPUCINS",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Découverte des Métiers de la Métallurgie : Plongez dans l'Univers Industriel avec l'UIMM",
+        "date_debut": "2026-11-24T13:00:00+00:00",
+        "lieu": "Agence ANGERS EUROPE",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Exposition « 200 photographies pour 200 ans d'histoire »",
+        "date_debut": "2026-11-23",
+        "lieu": "Archives Départementales de Loire-Atlantique",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le Premier Artifice",
+        "date_debut": "2026-11-23",
+        "lieu": "Parc des Chantiers",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Ateliers parents-enfants",
+        "date_debut": "2026-11-23",
+        "lieu": "Les Cabanes des Loulous",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Raconte moi une histoire",
+        "date_debut": "2026-11-23",
+        "lieu": "Manou Partages",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "La Grande Plantation Populaire",
+        "date_debut": "2026-11-23",
+        "lieu": "Nantes Centre et Quartiers",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-11-22",
     "news": [
       {
@@ -2354,205 +2553,6 @@
         "titre": "« Cyclistes, Brillez ! » – Édition 2026",
         "date_debut": "2026-11-10",
         "lieu": "Nantes Centre et Quartiers",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-09",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Augmentation du smic, allègements de charges pour les entreprises... Ce qu'il faut retenir des annonces du gouvernement à l'issue de la conférence sociale",
-        "resume": "Le Premier ministre Sébastien Lecornu a notamment promis une revalorisation du smic au-delà de l'inflation dès le 1er décembre. Non satisfaits, les syndicats ont appelé à poursuivre la mobilisation so",
-        "lien": "https://www.franceinfo.fr/economie/greve/augmentation-du-smic-allegements-de-charges-pour-les-entreprises-ce-qu-il-faut-retenir-des-annonces-du-gouvernement-a-l-issue-de-la-conference-sociale_8274527.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 09 Nov 2026 15:03:03 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Le procès de trois policiers accusés d'avoir roué de coups Michel Zecler s'ouvre à Paris",
-        "resume": "L'audience s'est ouverte lundi matin, dans une ambiance un peu confuse en raison du manque de places dans la salle d'audience, trop exiguë pour accueillir tous les soutiens du producteur de musique pa",
-        "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/le-proces-de-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler-s-ouvre-a-paris_8274458.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 09 Nov 2026 15:50:28 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"La résignation n'est pas une option\" : Teddy Riner annonce sa candidature à l'élection présidentielle 2027",
-        "resume": "La superstar du sport et du judo français a fait acte de candidature lundi matin, estimant que le pays \"a besoin de bon sens, de fermeté, de justice et d'un Etat qui remet les choses à l'endroit\".",
-        "lien": "https://www.franceinfo.fr/elections/presidentielle/la-resignation-n-est-pas-une-option-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-2027_8274359.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 09 Nov 2026 16:01:52 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Une intersyndicale de la fonction publique annonce une grève le 17 novembre, la CGT appelle \"l'ensemble des salariés, des retraités, des jeunes\" à se mobiliser",
-        "resume": "La deuxième force syndicale dans la fonction publique, Force ouvrière, ainsi que la troisième, la CFDT, ne figurent pas, pour l'heure, parmi les organisations signataires de cet appel.",
-        "lien": "https://www.franceinfo.fr/economie/greve/une-intersyndicale-de-la-fonction-publique-appelle-a-la-greve-le-17-novembre_8274494.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 09 Nov 2026 15:21:59 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Procès des parents de la \"petite martyre de l'A10\" : leurs expertises psychologique et psychiatriques au cœur du sixième jour d'audience à Blois",
-        "resume": "Les parents de la petite Inass Touloub, retrouvée morte à 4 ans le 11 août 1987, le long de l'autoroute A10, sont jugés pour \"actes de torture et de barbarie ayant entraîné la mort sans intention de l",
-        "lien": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/direct-proces-des-parents-de-la-petite-martyre-de-l-a10-la-personnalite-des-deux-accuses-au-c-ur-du-sixieme-jour-d-audience_8274377.html#xtor=RSS-3-[lestitres]",
-        "date": "Mon, 09 Nov 2026 15:57:16 +0100"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Présidentielle : Glucksmann promet 200 milliards d'euros pour la sortie des énergies fossiles",
-        "resume": "Pour atteindre la neutralité carbone en 2050, le candidat de la gauche sociale-démocrate à l'élection présidentielle, Raphaël Glucksmann, a promis lundi de proclamer un \"état d'urgence écologique\" et ",
-        "lien": "https://www.france24.com/fr/france/20261109-pr%C3%A9sidentielle-glucksmann-promet-200-milliards-euros-sortie-%C3%A9nergies-fossiles",
-        "date": "Mon, 09 Nov 2026 14:52:58 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "France : Lecornu donne un coup de pouce au Smic, la colère ne retombe pas",
-        "resume": "Un Smic augmenté et des exonérations de charges conditionnées : sous pression des manifestants et sans marge financière, Sébastien Lecornu a tenté lundi de répondre à la colère sociale exprimée depuis",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261109-france-lecornu-donne-un-coup-de-pouce-au-smic-la-col%C3%A8re-ne-retombe-pas",
-        "date": "Mon, 09 Nov 2026 14:44:11 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Inde : nouveau pic de pollution atmosphérique à New Delhi",
-        "resume": "La capitale indienne New Delhi est enveloppée lundi dans un épais brouillard de pollution, quotidien à l'automne et aggravé par les retombées des pétards et des feux d'artifice au lendemain des festiv",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261109-inde-nouveau-pic-de-pollution-atmosph%C3%A9rique-%C3%A0-new-delhi",
-        "date": "Mon, 09 Nov 2026 14:43:44 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Hope",
-        "date_sortie": "2026-10-28",
-        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
-        "note": 6.7,
-        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
-      },
-      {
-        "titre": "Godzilla Minus Zero",
-        "date_sortie": "2026-11-04",
-        "synopsis": "Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réapparaît des années plus",
-        "note": 8.0,
-        "affiche": "https://image.tmdb.org/t/p/w300/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg"
-      },
-      {
-        "titre": "Verity",
-        "date_sortie": "2026-09-30",
-        "synopsis": "Lorsqu’un accident affecte les capacités de l’autrice de bestsellers, Verity Crawford, à achever son œuvre, une écrivaine solitaire, Lowen Ashleigh, qui peine à joindre les deux bouts est engagée pour lui prêter sa plume",
-        "note": 7.003,
-        "affiche": "https://image.tmdb.org/t/p/w300/1ob7dZ1rvAgHOpVJGjJ2voibOp.jpg"
-      },
-      {
-        "titre": "Ramayana : L'avènement d'une légende",
-        "date_sortie": "2026-11-06",
-        "synopsis": "Une épopée ancienne suit un jeune prince et une jeune princesse dont le mariage et l'exil qui a suivi marquent le début d'un voyage légendaire. Leur histoire d'amour, de devoir et de destin ouvre la voie à de nouveaux dé",
-        "note": 7.652,
-        "affiche": "https://image.tmdb.org/t/p/w300/iCz9Wf8KCU8BXQ9Pws0pHctguiZ.jpg"
-      },
-      {
-        "titre": "Clayface",
-        "date_sortie": "2026-10-21",
-        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
-        "note": 7.439,
-        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
-      },
-      {
-        "titre": "Obsession",
-        "date_sortie": "2026-05-13",
-        "synopsis": "Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lui… jusqu’à l’obsessi",
-        "note": 8.2,
-        "affiche": "https://image.tmdb.org/t/p/w300/mDCR1frpUvGfIKksuM440VLb7X9.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Through Lines",
-        "artiste": "Skye Peterson",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "Opportunités d'emploi en manutention, tri, logistique, nettoyage, restauration pour les publics en insertion",
-        "date_debut": "2026-11-09T08:30:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Testez vos habiletés et trouvez votre voie dans l'industrie !",
-        "date_debut": "2026-11-10T07:30:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Testez vos habiletés et trouvez votre voie dans l'industrie !",
-        "date_debut": "2026-11-10T07:30:00+00:00",
-        "lieu": "Agence ANGERS LA ROSERAIE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "SPECIAL TERTIAIRE : (Gestionnaire service Client et assistant.e Administration des ventes) REUNION PUIS ENTRETIENS INDIVIDUELS DE RECRUTEMEN",
-        "date_debut": "2026-11-10T08:00:00+00:00",
-        "lieu": "Agence ANGERS EUROPE",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Comptoir des offres d'emploi PROMAN - Semaine de l'emploi agroalimentaire",
-        "date_debut": "2026-11-10T08:00:00+00:00",
-        "lieu": "Agence ANGERS BALZAC",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Don du sang — Maison du don, Nantes",
-        "date_debut": "2026-11-09",
-        "lieu": "Maison du don",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Exposition du Violentomètre",
-        "date_debut": "2026-11-09",
-        "lieu": "Carré des Services (Le)",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le livre d’artiste concours et exposition – Musée de l'imprimerie",
-        "date_debut": "2026-11-09",
-        "lieu": "Musée-atelier de l'imprimerie de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "L'Étreinte",
-        "date_debut": "2026-11-09",
-        "lieu": "Place Jean V devant l'entrée du Musée Dobrée",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Exposition \"Laennec à Nantes, mémoire des collections et postérité\"",
-        "date_debut": "2026-11-09",
-        "lieu": "Bibliothèque universitaire de Santé",
         "ville": "Nantes"
       }
     ]
