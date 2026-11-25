@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026-11-25",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "Présidentielle 2027 : \"Défendre l'Ukraine, c'est nous défendre nous-mêmes\", répond Gabriel Attal à Teddy Riner, pour qui \"ce n'est pas notre guerre\"",
+        "resume": "\"Je ne comprends pas qu'on envoie des troupes en Ukraine\", a déclaré le judoka depuis le congrès de l'Association des maires de France, à Paris.",
+        "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-lance-dans-la-course-a-l-elysee-david-lisnard-fixe-dans-la-journee-sur-sa-reelection-a-la-tete-de-l-association-des-maires-de-france_8298708.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 25 Nov 2026 17:07:35 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Au moins 470 000 soldats russes sont morts depuis le début de la guerre en Ukraine, selon un nouveau décompte issu de données piratées",
+        "resume": "Une douzaine de médias ont épluché plus en détail les données issues d'un piratage de l'agence nationale des statistiques russe. Leurs évaluations oscillent entre 470 000 et 500 000 morts, voire 700 0",
+        "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-470-000-soldats-russes-sont-morts-depuis-le-debut-de-la-guerre-en-ukraine-selon-un-nouveau-decompte-issu-de-donnees-piratees_8299866.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 25 Nov 2026 17:05:18 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Les Etats-Unis annoncent de nouveaux droits de douane contre leurs principaux partenaires commerciaux",
+        "resume": "L'Union européenne a déclaré qu'elle contestait \"fermement\" cette surtaxe décidée par l'administration américaine.",
+        "lien": "https://www.franceinfo.fr/monde/usa/droits-de-douane/les-etats-unis-annoncent-de-nouveaux-droits-de-douane-contre-leurs-principaux-partenaires-commerciaux_8299734.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 25 Nov 2026 16:04:00 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Etudiants, enseignants du supérieur, policiers... A quoi faut-il s'attendre pour la mobilisation de jeudi ?",
+        "resume": "Seules les organisations étudiantes et de l'enseignement supérieur ont appelé à la grève et aux manifestations jeudi. Les fonctionnaires se mobiliseront quant à eux le 1er décembre.",
+        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/etudiants-enseignants-du-superieur-policiers-a-quoi-faut-il-s-attendre-pour-la-mobilisation-de-jeudi_8299044.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 25 Nov 2026 16:47:28 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Les policiers manquent de formation et de moyens pour accueillir les femmes victimes de violences sexuelles",
+        "resume": "La Mission interministérielle pour la protection des femmes publie ce mercredi un rapport qui dresse un bilan accablant des violences dont elles sont victimes.",
+        "lien": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/les-policiers-manquent-de-formation-et-de-moyens-pour-accueillir-les-femmes-victimes-de-violences-sexuelles_8299716.html#xtor=RSS-3-[lestitres]",
+        "date": "Wed, 25 Nov 2026 16:42:08 +0100"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Artex, un général d'agents IA soupçonné d’avoir aidé à pirater la CIA",
+        "resume": "Pour les enquêteurs américains, les pirates informatiques ayant réussi récemment à s'infiltrer sur les serveurs de la CIA se sont servis d’Artex. Un nom qui revient de plus en plus souvent dans des af",
+        "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261125-artex-g%C3%A9n%C3%A9ral-agents-ia-soup%C3%A7onn%C3%A9-avoir-aid%C3%A9-pirater-cia",
+        "date": "Wed, 25 Nov 2026 16:46:05 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Ebola : soigner en zone de guerre",
+        "resume": "C'est la difficile mission des humanitaires déployés dans l'est de la République Démocratique du Congo. Des médecins ont du se réfugier pendant 3 jours dans un hôpital de l'Ituri pour échapper à de vi",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/le-rendez-vous-afrique/20261125-ebola-soigner-en-zone-de-guerre",
+        "date": "Wed, 25 Nov 2026 16:37:32 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "David Lisnard réélu Président de l'Association des maires de France",
+        "resume": "Le maire de Cannes et candidat à l'élection présidentielle, David Lisnard, a annoncé mercredi sa réélection pour un troisième mandat à la tête de l'Association des maires de France (AMF), malgré le \"m",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261125-david-lisnard-r%C3%A9%C3%A9lu-pr%C3%A9sident-de-l-association-des-maires-de-france",
+        "date": "Wed, 25 Nov 2026 16:25:26 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Hunger Games : Lever de soleil sur la moisson",
+        "date_sortie": "2026-11-18",
+        "synopsis": "Alors que le jour se lève sur les 50e Hunger Games annuels, la peur s'empare des districts de Panem. Cette année, en l'honneur du Quarter Quell, deux fois plus de tributs seront tirés au sort. Dans le District 12, Haymit",
+        "note": 7.8,
+        "affiche": "https://image.tmdb.org/t/p/w300/2crlvf4VsSQORysk1A8o2jBUduI.jpg"
+      },
+      {
+        "titre": "Hope",
+        "date_sortie": "2026-10-28",
+        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
+        "note": 6.884,
+        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
+      },
+      {
+        "titre": "Ramayana : L'avènement d'une légende",
+        "date_sortie": "2026-11-06",
+        "synopsis": "Une épopée ancienne suit un jeune prince et une jeune princesse dont le mariage et l'exil qui a suivi marquent le début d'un voyage légendaire. Leur histoire d'amour, de devoir et de destin ouvre la voie à de nouveaux dé",
+        "note": 7.5,
+        "affiche": "https://image.tmdb.org/t/p/w300/sCqbbDIfLfO52FWjmuVOVZKkVyV.jpg"
+      },
+      {
+        "titre": "Godzilla Minus Zero",
+        "date_sortie": "2026-11-04",
+        "synopsis": "Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réapparaît des années plus",
+        "note": 7.66,
+        "affiche": "https://image.tmdb.org/t/p/w300/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg"
+      },
+      {
+        "titre": "You Can See Everything",
+        "date_sortie": "2026-12-01",
+        "synopsis": "Trente-quatre jours avant son incarcération, Elizabeth Holmes, ancienne figure de la Silicon Valley et fondatrice déchue de Theranos, condamnée à plus de onze ans de prison pour avoir escroqué ses investisseurs, invite u",
+        "note": 8.732,
+        "affiche": "https://image.tmdb.org/t/p/w300/hzRa2W9PIZkAwuijlsSMbte0bfq.jpg"
+      },
+      {
+        "titre": "Scrooge",
+        "date_sortie": "2026-11-11",
+        "synopsis": "Ebenezer Scrooge est un vieil homme avare, pingre et solitaire. Bien évidemment, il déteste et méprise Noël et tout ce qui engendre le bonheur. C'est alors qu'il reçoit la visite du fantôme d'un ancien associé ainsi que ",
+        "note": 7.5,
+        "affiche": "https://image.tmdb.org/t/p/w300/9RCnWkVOevfAVuSkYkQOg1k8QvO.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "titre": "The Ballad of General Jupiter",
+        "artiste": "Anton Roolaart",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
+        "artiste": "Fritz Reiner",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Electric Fantasy",
+        "artiste": "Pierre Schott",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Thunk",
+        "artiste": "Jim Moginie",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Аудионаркотики. Часть 2",
+        "artiste": "Еперный театор",
+        "date_sortie": "2026"
+      },
+      {
+        "titre": "Through Lines",
+        "artiste": "Skye Peterson",
+        "date_sortie": "2026"
+      }
+    ],
+    "evenements": [
+      {
+        "titre": "ATELIER EMPLOI RETRAITE",
+        "date_debut": "2026-11-25T08:30:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "ATELIER EMPLOI RETRAITE",
+        "date_debut": "2026-11-25T13:00:00+00:00",
+        "lieu": "Agence ANGERS BALZAC",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Adopter la bonne posture : on n'achète pas tous les jours une ferme !",
+        "date_debut": "2026-11-25T17:30:00+00:00",
+        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
+        "ville": "Angers"
+      },
+      {
+        "titre": "COSSE + SHAKI TAVI",
+        "date_debut": "2026-11-25T19:30:00+00:00",
+        "lieu": "JOKER'S PUB",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Leçon d'architecture -  Transition Ecologique et Bouleversements  Climatiques : Se Préparer au Monde de Demain",
+        "date_debut": "2026-11-26T17:30:00+00:00",
+        "lieu": "Institut Municipal",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Pause-café",
+        "date_debut": "2026-11-25",
+        "lieu": "RIG Malville",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition « 200 photographies pour 200 ans d'histoire »",
+        "date_debut": "2026-11-25",
+        "lieu": "Archives Départementales de Loire-Atlantique",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le Noël des commerçants",
+        "date_debut": "2026-11-25",
+        "lieu": "Nantes (Centre ville)",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "CAMÉLEONGUE",
+        "date_debut": "2026-11-25",
+        "lieu": "LE CHAT NOIR",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Cadavre exquis (8/11 ans)",
+        "date_debut": "2026-11-25",
+        "lieu": "Musée d'arts de Nantes",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-11-24",
     "news": [
       {
@@ -2354,205 +2553,6 @@
         "titre": "L'Étreinte",
         "date_debut": "2026-11-12",
         "lieu": "Place Jean V devant l'entrée du Musée Dobrée",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-11",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Alertes à la bombe visant des écoles en Europe : des centaines d'établissements évacués en Italie, en Irlande et au Royaume-Uni",
-        "resume": "Environ 300 écoles dans toute l'Italie ont reçu des courriels contenant des alertes à la bombe, mercredi, selon le ministre de l'Education, Giuseppe Valditara.",
-        "lien": "https://www.franceinfo.fr/monde/europe/direct-des-centaines-d-ecoles-visees-par-des-alertes-a-la-bombe-en-italie-en-irlande-et-au-royaume-uni-de-nombreux-etablissements-evacues_8277773.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 11 Nov 2026 13:36:45 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Cérémonie du 11-Novembre : Emmanuel Macron a rendu hommage à Georges Clemenceau et au soldat inconnu",
-        "resume": "Le président participe pour la dernière fois à ces célébrations en tant que chef de l'Etat. Cette année, l'accent est mis sur la figure du maréchal Foch.",
-        "lien": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/direct-ceremonie-du-11-novembre-suivez-les-commemorations-et-l-emission-speciale-de-france-2_8276093.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 11 Nov 2026 12:08:48 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"J'en appelle à la responsabilité d'Emmanuel Macron avant que notre gouvernement change\", demande le meilleur ami du journaliste Christophe Gleizes, détenu en Algérie",
-        "resume": "Pierre de La Saussay espère que le président français pourra agir et \"qu'une solution soit trouvée avant que notre gouvernement change\", alors que Christophe Gleizes est détenu en Algérie depuis juin ",
-        "lien": "https://www.franceinfo.fr/culture/livres/emprisonnement-du-journaliste-christophe-gleizes-en-algerie/j-en-appelle-a-la-responsabilite-d-emmanuel-macron-demande-le-meilleur-ami-de-christophe-gleizes-detenu-en-algerie_8277422.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 11 Nov 2026 09:09:29 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Le ministre de l'Education nationale appelle à \"la responsabilité collective\" et à une \"condamnation unanime\" des violences survenues lors des mobilisations lycéennes",
-        "resume": "Edouard Geffray a affirmé avoir \"échangé par messagerie\" avec l'élue Les Républicains visée par un jet de bouteille d'essence, hier devant un lycée de Chelles, en Seine-et-Marne.",
-        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/edouard-geffray-appelle-a-la-responsabilite-collective-et-a-une-condamnation-unanime-des-violences-survenues-lors-des-mobilisations-lyceennes_8277461.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 11 Nov 2026 09:38:40 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Négociations Ukraine-Russie : Kiev et Moscou s'entendent pour un échange \"à grande échelle\" de prisonniers",
-        "resume": "Le chef de la délégation russe a précisé que les détails \"concrets\" de ce processus seraient annoncés ultérieurement.",
-        "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-negociations-ukraine-russie-suite-et-fin-des-pourparlers-mercredi-apres-des-changements-salues-par-volodymyr-zelensky_8277323.html#xtor=RSS-3-[lestitres]",
-        "date": "Wed, 11 Nov 2026 14:13:22 +0100"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Haïti : L’armée salvadorienne frappe le QG d’un des principaux gangs du pays",
-        "resume": "Des militaires salvadoriens déployés en Haïti ont détruit le \"quartier général\" de l'un des principaux gangs du pays, a annoncé le président du Salvador Nayib Bukele sur X. Une opération saluée par le",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261111-ha%C3%AFti-l-arm%C3%A9e-salvadorienne-frappe-le-qg-d-un-des-principaux-gangs-du-pays",
-        "date": "Wed, 11 Nov 2026 12:25:07 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Commémorations du 11-Novembre : mémoire, quelle mémoire ?",
-        "resume": "C'est le 108e anniversaire de l’Armistice de 1918 qui a mis fin à la Première Guerre mondiale. Jour férié ici en France en ce 11 novembre qui commémore aussi depuis dix ans la mémoire de tous ceux tom",
-        "lien": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20261111-comm%C3%A9morations-du-11-novembre-m%C3%A9moire-quelle-m%C3%A9moire",
-        "date": "Wed, 11 Nov 2026 12:12:03 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Un match solidaire pour la libération de Christophe Gleizes, détenu depuis 500 jours",
-        "resume": "Un match solidaire, organisé par Reporters sans frontières (RSF) avec la Ville de Paris et réunissant des personnalités du football, des médias et de la culture, est prévu mercredi soir pour appeler à",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261111-un-match-solidaire-pour-la-lib%C3%A9ration-de-christophe-gleizes-d%C3%A9tenu-depuis-500-jours",
-        "date": "Wed, 11 Nov 2026 12:07:09 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Hope",
-        "date_sortie": "2026-10-28",
-        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
-        "note": 6.74,
-        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
-      },
-      {
-        "titre": "Godzilla Minus Zero",
-        "date_sortie": "2026-11-04",
-        "synopsis": "Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réapparaît des années plus",
-        "note": 7.78,
-        "affiche": "https://image.tmdb.org/t/p/w300/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg"
-      },
-      {
-        "titre": "Ramayana : L'avènement d'une légende",
-        "date_sortie": "2026-11-06",
-        "synopsis": "Une épopée ancienne suit un jeune prince et une jeune princesse dont le mariage et l'exil qui a suivi marquent le début d'un voyage légendaire. Leur histoire d'amour, de devoir et de destin ouvre la voie à de nouveaux dé",
-        "note": 7.7,
-        "affiche": "https://image.tmdb.org/t/p/w300/iCz9Wf8KCU8BXQ9Pws0pHctguiZ.jpg"
-      },
-      {
-        "titre": "Malfaisante",
-        "date_sortie": "2026-10-14",
-        "synopsis": "Une jeune fille, Bela, développe dans son foyer une relation avec une entité troublante qui ressemble étrangement à sa mère. Son « autre maman » n'est pas que le fruit de son imagination. Cette entité sinistre et manipul",
-        "note": 5.8,
-        "affiche": "https://image.tmdb.org/t/p/w300/uLNxn6niIICbkRcRKVOX9aXqRHb.jpg"
-      },
-      {
-        "titre": "Clayface",
-        "date_sortie": "2026-10-21",
-        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
-        "note": 7.426,
-        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
-      },
-      {
-        "titre": "Obsession",
-        "date_sortie": "2026-05-13",
-        "synopsis": "Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lui… jusqu’à l’obsessi",
-        "note": 8.2,
-        "affiche": "https://image.tmdb.org/t/p/w300/mDCR1frpUvGfIKksuM440VLb7X9.jpg"
-      }
-    ],
-    "albums": [
-      {
-        "titre": "The Ballad of General Jupiter",
-        "artiste": "Anton Roolaart",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Electric Fantasy",
-        "artiste": "Pierre Schott",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Dvorak Slavonic Dances - Brahms Hungarian Dances - Reiner Vienna Philharmonic (Redux)",
-        "artiste": "Fritz Reiner",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 2",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Thunk",
-        "artiste": "Jim Moginie",
-        "date_sortie": "2026"
-      },
-      {
-        "titre": "Аудионаркотики. Часть 1",
-        "artiste": "Еперный театор",
-        "date_sortie": "2026"
-      }
-    ],
-    "evenements": [
-      {
-        "titre": "WEBINAIRE - Vendre plus ou vendre mieux ? Construire une politique tarifaire rentable",
-        "date_debut": "2026-11-13T09:00:00+00:00",
-        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Apéro célibataires — Angers",
-        "date_debut": "2026-11-13T18:00:00+00:00",
-        "lieu": "Centre-ville de Angers",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Semaine de l'industrie : SCANIA PRODUCTION ANGERS ouvre ses portes !",
-        "date_debut": "2026-11-16T09:30:00+00:00",
-        "lieu": "Scania production Angers",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Webinaire - Présentation du BPREA à distance",
-        "date_debut": "2026-11-16T11:00:00+00:00",
-        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Semaine de l'industrie : CICOR ANGERS ouvre ses portes !",
-        "date_debut": "2026-11-16T12:30:00+00:00",
-        "lieu": "CICOR ANGERS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Animation enfants – Château des ducs de Bretagne",
-        "date_debut": "2026-11-11",
-        "lieu": "Château des ducs de bretagne - musée d'histoire de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Exposition Le Muséum au fil du temps",
-        "date_debut": "2026-11-11",
-        "lieu": "Place de la Monnaie",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Le livre d’artiste concours et exposition – Musée de l'imprimerie",
-        "date_debut": "2026-11-11",
-        "lieu": "Musée-atelier de l'imprimerie de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Don du sang — Maison du don, Nantes",
-        "date_debut": "2026-11-11",
-        "lieu": "Maison du don",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Contes & comptines",
-        "date_debut": "2026-11-11",
-        "lieu": "Centre socioculturel des Bourderies",
         "ville": "Nantes"
       }
     ]
