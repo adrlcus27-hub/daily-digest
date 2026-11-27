@@ -1,5 +1,173 @@
 [
   {
+    "date": "2026-11-27",
+    "news": [
+      {
+        "source": "France Info - À la Une",
+        "titre": "L'hommage national aux victimes de l'attentat raciste de Trappes et de La Verrière aura lieu le 4 décembre aux Invalides",
+        "resume": "Cet hommage, qui se tiendra à Paris plus d'un mois après la mort de Pengo Bossio Wangi, sera présidé par le Premier ministre, Sébastien Lecornu.",
+        "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/l-hommage-national-aux-victimes-de-l-attentat-raciste-de-trappes-et-de-la-verriere-aura-lieu-le-4-decembre-aux-invalides_8303391.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 27 Nov 2026 17:04:49 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Présidentielle 2027 : \"Les débauchages, ça ne m'émeut pas\", réagit Bruno Retailleau après le ralliement de huit députés LR à David Lisnard",
+        "resume": "Distancé dans les intentions de vote, le candidat LR à la présidentielle balaie cette annonce d'un revers de main, la qualifiant d'\"anecdotique\".",
+        "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-marine-le-pen-va-presenter-son-programme-pour-les-outre-mer-en-pleine-tourmente-sur-les-ecrits-antisemites-attribues-a-jordan-bardella_8302521.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 27 Nov 2026 15:57:50 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Volodymyr Zelensky compare la relation de Donald Trump avec Vladimir Poutine à une amitié avec Hitler pendant la Seconde Guerre mondiale",
+        "resume": "Le président ukrainien a déploré que les Etats-Unis ne fassent pas assez pression sur la Russie dans les négociations pour mettre fin à la guerre en Ukraine.",
+        "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-compare-la-relation-de-donald-trump-avec-vladimir-poutine-a-une-amitie-avec-hitler-pendant-la-seconde-guerre-mondiale_8303130.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 27 Nov 2026 16:22:58 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "Agriculture, guerre en Ukraine, présidentielle en France... On vous explique pourquoi les négociations sur le budget de l'Union européenne sont dans l'impasse",
+        "resume": "Réunis lors d'un sommet européen jeudi, les dirigeants des Vingt-Sept ont bataillé sur le projet de budget de l'UE. Le temps presse à l'approche de 2027, marquée par de nombreuses élections en Europe,",
+        "lien": "https://www.franceinfo.fr/monde/europe/union-europeenne/agriculture-guerre-en-ukraine-presidentielle-en-france-on-vous-explique-pourquoi-les-negociations-sur-le-budget-de-l-union-europeenne-sont-dans-l-impasse_8302635.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 27 Nov 2026 10:30:55 +0100"
+      },
+      {
+        "source": "France Info - À la Une",
+        "titre": "La couverture vaccinale des adolescents contre le papillomavirus reste loin de l'objectif, après une campagne 2025-2026 au bilan stable selon Santé publique France",
+        "resume": "Dans la génération née en 2013, 53% des filles et 45% des garçons ont reçu au moins une dose de vaccin contre ce virus, principale cause du cancer du col de l'utérus, alors qu'une couverture de 80% es",
+        "lien": "https://www.franceinfo.fr/sante/vaccins/la-couverture-vaccinale-des-adolescents-contre-le-papillomavirus-reste-loin-de-l-objectif-apres-une-campagne-2025-2026-au-bilan-stable-selon-sante-publique-france_8303136.html#xtor=RSS-3-[lestitres]",
+        "date": "Fri, 27 Nov 2026 16:34:16 +0100"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Guinée-Bissau : la transition militaire prolongée de deux ans",
+        "resume": "🇬🇼 En Guinée-Bissau, les élections présidentielle et législatives sont reportées au 26 novembre 2028. Le président de la transition, le général Horta N’Tam, justifie ce report de deux ans par l’insuff",
+        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261127-guin%C3%A9e-bissau-la-transition-militaire-prolong%C3%A9e-de-deux-ans",
+        "date": "Fri, 27 Nov 2026 15:23:31 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "En Irak, le recul des droits des femmes chiites sous l'effet du code jaafarite",
+        "resume": "En janvier 2025, le Parlement irakien adoptait un amendement permettant aux Irakiens de soumettre leur foyer à un régime religieux pour régler les mariages, les divorces, les héritages, etc. Le nouvea",
+        "lien": "https://www.france24.com/fr/%C3%A9missions/focus/20261127-irak-recul-droits-des-femmes-chiites-sous-effet-code-jaafarite-islamisme",
+        "date": "Fri, 27 Nov 2026 15:11:23 GMT"
+      },
+      {
+        "source": "France 24 - International",
+        "titre": "Rugby : les Bleus veulent battre les Springboks pour gagner un titre et de la confiance",
+        "resume": "Les Bleus tenteront dimanche de remporter, face aux doubles champions du monde sud-africains, la première finale du Championnat des nations, une compétition qui réunit les douze meilleures équipes des",
+        "lien": "https://www.france24.com/fr/sports/20261127-rugby-championnat-nations-bleus-veulent-battre-springboks-gagner-titre-confiance",
+        "date": "Fri, 27 Nov 2026 15:04:33 GMT"
+      }
+    ],
+    "films": [
+      {
+        "titre": "Hunger Games : Lever de soleil sur la moisson",
+        "date_sortie": "2026-11-18",
+        "synopsis": "Alors que le jour se lève sur les 50e Hunger Games annuels, la peur s'empare des districts de Panem. Cette année, en l'honneur du Quarter Quell, deux fois plus de tributs seront tirés au sort. Dans le District 12, Haymit",
+        "note": 7.8,
+        "affiche": "https://image.tmdb.org/t/p/w300/2crlvf4VsSQORysk1A8o2jBUduI.jpg"
+      },
+      {
+        "titre": "Hope",
+        "date_sortie": "2026-10-28",
+        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
+        "note": 6.898,
+        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
+      },
+      {
+        "titre": "You Can See Everything",
+        "date_sortie": "2026-12-01",
+        "synopsis": "Trente-quatre jours avant son incarcération, Elizabeth Holmes, ancienne figure de la Silicon Valley et fondatrice déchue de Theranos, condamnée à plus de onze ans de prison pour avoir escroqué ses investisseurs, invite u",
+        "note": 8.6,
+        "affiche": "https://image.tmdb.org/t/p/w300/hzRa2W9PIZkAwuijlsSMbte0bfq.jpg"
+      },
+      {
+        "titre": "Ramayana : L'avènement d'une légende",
+        "date_sortie": "2026-11-06",
+        "synopsis": "Une épopée ancienne suit un jeune prince et une jeune princesse dont le mariage et l'exil qui a suivi marquent le début d'un voyage légendaire. Leur histoire d'amour, de devoir et de destin ouvre la voie à de nouveaux dé",
+        "note": 7.404,
+        "affiche": "https://image.tmdb.org/t/p/w300/sCqbbDIfLfO52FWjmuVOVZKkVyV.jpg"
+      },
+      {
+        "titre": "Wicker",
+        "date_sortie": "2026-10-21",
+        "synopsis": "Mise au ban de son village, une pêcheuse solitaire commande au vannier local un mari en osier. Cet époux improbable se révèle doté d’une sensibilité et de talents qui dépassent toutes ses attentes. À son contact, elle dé",
+        "note": 7.6,
+        "affiche": "https://image.tmdb.org/t/p/w300/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg"
+      },
+      {
+        "titre": "Billie, à la croisée des mondes",
+        "date_sortie": "2026-11-25",
+        "synopsis": "Une adolescente maladroite et sa mère supra-organisée découvrent que ce qui la rend unique pourrait bien provenir de pouvoirs magiques capables non seulement de chambouler leur vie mais aussi le monde secret des sortilèg",
+        "note": 5.685,
+        "affiche": "https://image.tmdb.org/t/p/w300/r2JzhxYaRlPgIndM6wGLJJftTmG.jpg"
+      }
+    ],
+    "albums": [],
+    "evenements": [
+      {
+        "titre": "Apéro des randonneurs — Angers",
+        "date_debut": "2026-11-27T18:00:00+00:00",
+        "lieu": "Centre-ville de Angers",
+        "ville": "Angers"
+      },
+      {
+        "titre": "CHARLES DE GOAL",
+        "date_debut": "2026-11-27T20:00:00+00:00",
+        "lieu": "JOKER'S PUB",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Elmer Food Beat + In Coach",
+        "date_debut": "2026-11-28T19:30:00+00:00",
+        "lieu": "Le Chabada",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Apéro des randonneurs — Angers",
+        "date_debut": "2026-12-01T18:00:00+00:00",
+        "lieu": "Centre-ville de Angers",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Journée technique valorisation de la laine de mouton (49)",
+        "date_debut": "2026-12-02T09:00:00+00:00",
+        "lieu": "Chambre d'agriculture Pays de la Loire (siège social), Angers (49)",
+        "ville": "Angers"
+      },
+      {
+        "titre": "Pygmalions (ou presque...)",
+        "date_debut": "2026-11-27",
+        "lieu": "Théâtre Krapo Roy",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le Marché de la seconde main 2026",
+        "date_debut": "2026-11-27",
+        "lieu": "Passage Châtelaine",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le Voyage en Hiver 2026 – Marché de Noël de Nantes",
+        "date_debut": "2026-11-27",
+        "lieu": "Place du Commerce et Place Royale",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Le Petit Marché de l'Art #34",
+        "date_debut": "2026-11-27",
+        "lieu": "Galerie le Rayon Vert",
+        "ville": "Nantes"
+      },
+      {
+        "titre": "Exposition « Architecture (s) et grands ensembles »",
+        "date_debut": "2026-11-27",
+        "lieu": "École nationale supérieure d’architecture - ensa",
+        "ville": "Nantes"
+      }
+    ]
+  },
+  {
     "date": "2026-11-26",
     "news": [
       {
@@ -2353,174 +2521,6 @@
       {
         "titre": "Don du sang — Maison du don, Nantes",
         "date_debut": "2026-11-14",
-        "lieu": "Maison du don",
-        "ville": "Nantes"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-13",
-    "news": [
-      {
-        "source": "France Info - À la Une",
-        "titre": "Des améliorations constatées, pas de cyberattaque d'après Microsoft… Ce que l'on sait de la panne mondiale qui touche le géant américain depuis jeudi",
-        "resume": "Plusieurs millions d'utilisateurs ne peuvent pas accéder à leurs e-mails depuis jeudi soir. La panne affecte aussi certaines fonctions des assistants d'intelligence artificielle.",
-        "lien": "https://www.franceinfo.fr/internet/panne-informatique-mondiale/outlook-et-teams-perturbes-pas-de-cyberattaque-d-apres-microsoft-ce-que-l-on-sait-de-la-panne-mondiale-qui-touche-le-geant-americain-depuis-jeudi_8280671.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 13 Nov 2026 14:01:40 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Trente ans après la disparition de Marion Wagon, le pôle \"cold cases\" de Nanterre lance un appel à témoins.",
-        "resume": "Après un nouveau témoignage d'une femme de 43 ans, les enquêteurs sont sur la piste d'un nouveau suspect. Ils veulent notamment savoir si d'autres jeunes filles, qui étaient adolescentes à l'époque, o",
-        "lien": "https://www.franceinfo.fr/faits-divers/affaire/30-ans-apres-la-disparition-de-marion-wagon-le-pole-cold-cases-de-nanterre-lance-un-appel-a-temoins_8281049.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 13 Nov 2026 14:20:33 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "\"On n'a vraiment plus le choix\" : après un mois et demi de mobilisation, lycéens et enseignants s'inquiètent des conséquences sur les notes",
-        "resume": "À l'approche de la fin du trimestre, les enseignants tentent de calculer une moyenne, avec très peu de notes. Chaque établissement bricole de son côté. Les élèves et les enseignants craignent des inég",
-        "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-n-a-vraiment-plus-le-choix-apres-un-mois-et-demi-de-mobilisation-lyceens-et-enseignants-s-inquietent-des-consequences-sur-les-notes_8280770.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 13 Nov 2026 13:59:32 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Guerre en Ukraine : la Russie veut connaître les \"intentions\" des Européens avant de les laisser participer aux pourparlers",
-        "resume": "La cheffe de la diplomatie de l'Union européenne a de son côté exclu vendredi que la Russie ait son mot à dire pour choisir les représentants européens pour de futures négociations.",
-        "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-la-russie-veut-connaitre-les-intentions-des-europeens-avant-de-les-laisser-participer-aux-pourparlers_8280860.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 13 Nov 2026 14:21:23 +0100"
-      },
-      {
-        "source": "France Info - À la Une",
-        "titre": "Sébastien Lecornu ouvre une discussion d'un mois avec les syndicats de fonctionnaires portant notamment sur une \"revalorisation des bas salaires\"",
-        "resume": "Le Premier ministre recevra à nouveau les organisations représentatives de la fonction publique le 11 décembre, après les élections professionnelles, pour \"sceller des avancées dès la mi-décembre\".",
-        "lien": "https://www.franceinfo.fr/economie/syndicats/sebastien-lecornu-ouvre-une-discussion-d-un-mois-avec-les-syndicats-de-fonctionnaires-portant-notamment-sur-une-revalorisation-des-bas-salaires_8281073.html#xtor=RSS-3-[lestitres]",
-        "date": "Fri, 13 Nov 2026 14:31:37 +0100"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "L'actu en dessin : la COP31 a peu de chances d'aboutir à des résolutions majeures",
-        "resume": "Du 9 au 20 novembre, la communauté internationale se réunit à Antalya, en Turquie, à l'occasion de la COP31. Mais alors que la crise énergétique liée à la guerre au Moyen-Orient a contraint les pays à",
-        "lien": "https://www.france24.com/fr/plan%C3%A8te/20261113-actu-en-dessin-cop31-climat-peu-de-chances-aboutir-r%C3%A9solutions-majeures-environnement-r%C3%A9chauffement",
-        "date": "Fri, 13 Nov 2026 13:27:16 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "En Haïti, des soldats salvadoriens interviennent dans un stade contrôlé par les gangs",
-        "resume": "Des soldats salvadoriens sont intervenus dans le stade Sylvio-Cator, à Port-au-Prince, tombé aux mains des gangs en 2024, selon des images publiées par le président Nayib Bukele. Ces interventions s'i",
-        "lien": "https://www.france24.com/fr/vid%C3%A9o/20261113-en-ha%C3%AFti-des-soldats-salvadoriens-interviennent-dans-un-stade-contr%C3%B4l%C3%A9-par-les-gangs",
-        "date": "Fri, 13 Nov 2026 13:21:40 GMT"
-      },
-      {
-        "source": "France 24 - International",
-        "titre": "Traversée de l'Afghanistan le long de la \"route de la mort\"",
-        "resume": "En Afghanistan, l’autoroute 1, qui relie les principales villes du pays, était devenue depuis le 11 septembre 2001 un haut lieu du banditisme et des combats, en particulier entre Kaboul et Kandahar, l",
-        "lien": "https://www.france24.com/fr/%C3%A9missions/billet-retour/20261113-afghanistan-reportage-autoroute-une-taliban",
-        "date": "Fri, 13 Nov 2026 13:01:13 GMT"
-      }
-    ],
-    "films": [
-      {
-        "titre": "Hope",
-        "date_sortie": "2026-10-28",
-        "synopsis": "Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un tigre errant serait r",
-        "note": 6.768,
-        "affiche": "https://image.tmdb.org/t/p/w300/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"
-      },
-      {
-        "titre": "Malfaisante",
-        "date_sortie": "2026-10-14",
-        "synopsis": "Une jeune fille, Bela, développe dans son foyer une relation avec une entité troublante qui ressemble étrangement à sa mère. Son « autre maman » n'est pas que le fruit de son imagination. Cette entité sinistre et manipul",
-        "note": 6.163,
-        "affiche": "https://image.tmdb.org/t/p/w300/a6AztQlJvKy2tEOc10M7WXIF5gX.jpg"
-      },
-      {
-        "titre": "Godzilla Minus Zero",
-        "date_sortie": "2026-11-04",
-        "synopsis": "Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réapparaît des années plus",
-        "note": 7.774,
-        "affiche": "https://image.tmdb.org/t/p/w300/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg"
-      },
-      {
-        "titre": "Ramayana : L'avènement d'une légende",
-        "date_sortie": "2026-11-06",
-        "synopsis": "Une épopée ancienne suit un jeune prince et une jeune princesse dont le mariage et l'exil qui a suivi marquent le début d'un voyage légendaire. Leur histoire d'amour, de devoir et de destin ouvre la voie à de nouveaux dé",
-        "note": 7.488,
-        "affiche": "https://image.tmdb.org/t/p/w300/iCz9Wf8KCU8BXQ9Pws0pHctguiZ.jpg"
-      },
-      {
-        "titre": "Scrooge",
-        "date_sortie": "2026-11-11",
-        "synopsis": "Ebenezer Scrooge est un vieil homme avare, pingre et solitaire. Bien évidemment, il déteste et méprise Noël et tout ce qui engendre le bonheur. C'est alors qu'il reçoit la visite du fantôme d'un ancien associé ainsi que ",
-        "note": 7.767,
-        "affiche": "https://image.tmdb.org/t/p/w300/uxYPnpkSmG1iluoSB0fOtYK7BfM.jpg"
-      },
-      {
-        "titre": "Clayface",
-        "date_sortie": "2026-10-21",
-        "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre",
-        "note": 7.4,
-        "affiche": "https://image.tmdb.org/t/p/w300/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"
-      }
-    ],
-    "albums": [],
-    "evenements": [
-      {
-        "titre": "WEBINAIRE - Vendre plus ou vendre mieux ? Construire une politique tarifaire rentable",
-        "date_debut": "2026-11-13T09:00:00+00:00",
-        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Apéro célibataires — Angers",
-        "date_debut": "2026-11-13T18:00:00+00:00",
-        "lieu": "Centre-ville de Angers",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Semaine de l'industrie : SCANIA PRODUCTION ANGERS ouvre ses portes !",
-        "date_debut": "2026-11-16T09:30:00+00:00",
-        "lieu": "Scania production Angers",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Webinaire - Présentation du BPREA à distance",
-        "date_debut": "2026-11-16T11:00:00+00:00",
-        "lieu": "Évènement digital - Chambre d'agriculture Pays de la Loire",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Semaine de l'industrie : CICOR ANGERS ouvre ses portes !",
-        "date_debut": "2026-11-16T12:30:00+00:00",
-        "lieu": "CICOR ANGERS",
-        "ville": "Angers"
-      },
-      {
-        "titre": "Le livre d’artiste concours et exposition – Musée de l'imprimerie",
-        "date_debut": "2026-11-13",
-        "lieu": "Musée-atelier de l'imprimerie de Nantes",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Festival des Solidarités 2026",
-        "date_debut": "2026-11-13",
-        "lieu": "Nantes et communes de la métropole",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Pop-up Flowrette - fleurs durables et idées cadeaux de Noël",
-        "date_debut": "2026-11-13",
-        "lieu": "Le Palace",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Les vendredis sashiko [Hors les murs]",
-        "date_debut": "2026-11-13",
-        "lieu": "Maison de quartier Bottière",
-        "ville": "Nantes"
-      },
-      {
-        "titre": "Don du sang — Maison du don, Nantes",
-        "date_debut": "2026-11-13",
         "lieu": "Maison du don",
         "ville": "Nantes"
       }
